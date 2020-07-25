@@ -4,9 +4,9 @@
 
 ## Class I. Basics
 
-1. [Safety](../wetlab_safety/)  
-2. [Regulation](../wetlab_regulation/README.md)   
-3. [Protocols](https://github.com/lulab/intranet/blob/master/wetlab_protocol/README.md) (Private)
+1. [Safety]()  
+2. [Regulation]()   
+3. [Protocols](https://github.com/lulab/intranet/blob/master/wetlab_protocol/README.md) \(Private\)
 4. [How to design sample cohort](class-1_basics/4.how-to-design-sample-cohort.md)
 5. [How to collect and manage samples](class-1_basics/5.-how-to-collect-and-manage-samples.md)
 6. [How to purify RNA from blood](class-1_basics/6.-how-to-purify-rna-from-blood.md)
@@ -56,5 +56,5 @@
 1. Common laboratory instruments
 2. Frequently-used reagents and consumables
 
-![Framework](../.gitbook/assets/framework.png)
+![Framework](../../.gitbook/assets/framework.png)
 

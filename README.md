@@ -1,4 +1,4 @@
-# Tutorials
+# Bioinformatics Tutorials
 
 ## Bioinformatics Teaching @ Tsinghua University
 

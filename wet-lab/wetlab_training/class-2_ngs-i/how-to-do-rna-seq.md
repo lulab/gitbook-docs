@@ -1,4 +1,4 @@
-# How to do RNA-seq
+# 1. How to do RNA-seq
 
 > 目前二代测序仪的厂商有很多家，但核心的原理大同小异，基本都是利用高通量测序获取样品中RNA的序列信息；本节将以市场占有率最高的Illumina测序平台为例，简单介绍我们提取的RNA是如何变成测序文库
 
@@ -7,13 +7,13 @@
 * Illumina Sequencing by Synthesis [Video](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 * NGS流程
 
-![](../../.gitbook/assets/NGS-overview.png)
+![](../../../.gitbook/assets/NGS-overview.png)
 
-![](../../.gitbook/assets/NGS-overview2.png)
+![](../../../.gitbook/assets/NGS-overview2.png)
 
 ## I. 转录组测序种类
 
-![Overview of Transcriptom](../../.gitbook/assets/Transcriptome.png)
+![Overview of Transcriptom](../../../.gitbook/assets/Transcriptome.png)
 
 ## II. RNA-seq
 
@@ -26,39 +26,39 @@
 
 * 建库流程
 
-![](../../.gitbook/assets/RNA-seq_library.png)
+![](../../../.gitbook/assets/RNA-seq_library.png)
 
 * 建库产物
 
-![](../../.gitbook/assets/Sequencing-fragment.png)
+![](../../../.gitbook/assets/Sequencing-fragment.png)
 
 ### 3. RNA文库类别
 
 * **polyA-seq（mRNA and polyA-lncRNA）: polyA & oligo\(dT\) priming**
 
-![](../../.gitbook/assets/polyA_RNA-seq.png)
+![](../../../.gitbook/assets/polyA_RNA-seq.png)
 
 * **Total RNA-seq: rRNA depletion and random primers enrichment**
 
-![](../../.gitbook/assets/total_RNA-seq.png)
+![](../../../.gitbook/assets/total_RNA-seq.png)
 
 * **small RNA-seq: adaptors ligation**
 
-![](../../.gitbook/assets/small_RNA-seq.png)
+![](../../../.gitbook/assets/small_RNA-seq.png)
 
-![](../../.gitbook/assets/small_RNA-seq2.png)
+![](../../../.gitbook/assets/small_RNA-seq2.png)
 
-![](../../.gitbook/assets/small_RNA-seq3.png)
+![](../../../.gitbook/assets/small_RNA-seq3.png)
 
 * **circRNA-seq: RNase R降解掉线性RNA分子，再用random primer富集环状RNA分子**
 
-![](../../.gitbook/assets/circRNA-seq.png)
+![](../../../.gitbook/assets/circRNA-seq.png)
 
 ## III. Appendix: RNA content
 
-![](../../.gitbook/assets/RNA-content.png)
+![](../../../.gitbook/assets/RNA-content.png)
 
-![](../../.gitbook/assets/RNA-content-category.png)
+![](../../../.gitbook/assets/RNA-content-category.png)
 
 ## IV. References
 

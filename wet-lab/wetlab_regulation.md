@@ -1,6 +1,6 @@
 # Wet Lab Regulation
 
-> 原文： [wetlab-regulation.docx](./wetlab-regulation.docx)
+> 原文： [wetlab-regulation.docx](https://github.com/lulab/docs/tree/5efe9f1f002be6a77a130ee2535127f64dea9ea5/wetlab_regulation/wetlab-regulation.docx)
 
 ## Wet-lab 管理制度
 
@@ -99,7 +99,7 @@
 
 **\(2\)实验平台仪器预约**
 
-* qPCR仪、超高速离心机、大型显微镜等仪器需提前在校内仪器共享服务平台预约 
+* qPCR仪、超高速离心机、大型显微镜等仪器需提前在校内仪器共享服务平台预约
 
   预约链接：[http://yqgx.tsinghua.edu.cn/webSite/websiteAction.do?ms=goToIndex](http://yqgx.tsinghua.edu.cn/webSite/websiteAction.do?ms=goToIndex)
 

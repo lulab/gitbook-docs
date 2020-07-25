@@ -12,7 +12,7 @@
 
 Plasma = Serum + fibrinogen + clotting factors
 
-![Plasma vs Serum](../.gitbook/assets/Blood%20plasma%20vs%20blood%20serum.png)
+![Plasma vs Serum](../../.gitbook/assets/Blood%20plasma%20vs%20blood%20serum.png)
 
 Read more: [Difference Between Plasma And Serum](http://www.differencebetween.net/science/health/difference-between-plasma-and-serum/#ixzz6Has5TTKh)[Plasma or Serum?](https://www.austincc.edu/mlt/phb/Pulse_serum%20or%20plasma-2.pdf)
 
@@ -20,13 +20,13 @@ Read more: [Difference Between Plasma And Serum](http://www.differencebetween.ne
 
 **Answer:** **Platelets** are a component of blood whose function is to react to bleeding from blood vessel injury by clumping, thereby initiating a blood clot. Platelets have no cell nucleus: they are fragments of cytoplasm that are derived from the megakaryocytes of the bone marrow, which then enter the circulation.
 
-![platelet](../.gitbook/assets/Platelet.jpg)
+![platelet](../../.gitbook/assets/Platelet.jpg)
 
 ### What is PBMC?
 
 **Answer:** **Human Peripheral Blood Mononuclear Cells \(PBMCs\)** are blood cells with a single round nucleus. These cells include lymphocytes \(T, B and NK cells\), monocytes and dendritic cells. PBMCs are parts of the immune system which are critical to cell-mediated and humoral immunity. Our Human PBMCs are isolated from normal healthy donor leukopaks collected in acid-citrate-dextrose formula A \(ACDA\) as an anticoagulant. All donors must be tested negative for HBV, HCV and HIV and are IRB consented.
 
-![PBMC](../.gitbook/assets/PBMC.jpeg)
+![PBMC](../../.gitbook/assets/PBMC.jpeg)
 
 ## exRNA: extra-cellular RNA
 
@@ -53,7 +53,7 @@ Individual "barcode" sequences are added to each DNA fragment during next-genera
 * _High-Quality Data:_ Accurate maintenance of read length of unknown sequences
 * _Simplified Analysis:_ Automatic sample identification with "barcodes" using Illumina data analysis software
 
-![barcoding](../.gitbook/assets/barcoding%20%281%29.jpg)
+![barcoding](../../.gitbook/assets/barcoding%20%281%29.jpg)
 
 ### What is SMARTer?
 
@@ -63,7 +63,7 @@ Procedure: Cells are lysed, and the RNA is hybridized to an oligo\(dT\)-containi
 
 There are 2 versions of Smart-Seq: Smart-Seq and Smart-seq2. Smart-seq2 includes several improvements over the original Smart-Seq protocol. The new protocol includes a locked nucleic acid \(LNA\), an increased MgCl2 concentration, betaine, and elimination of the purification step to improve the yield significantly.
 
-![SMARTer](../.gitbook/assets/SMARTer.png)
+![SMARTer](../../.gitbook/assets/SMARTer.png)
 
 > Reference:
 
@@ -77,11 +77,11 @@ The TSO is used differently in the Single Cell 3' assay compared to the Single C
 
 Single Cell 3' assay after reverse transcription:
 
-![TSO-3](../.gitbook/assets/TSO-3.png)
+![TSO-3](../../.gitbook/assets/TSO-3.png)
 
 Single Cell 5' assay after reverse transcription:
 
-![TSP-5](../.gitbook/assets/TSO-5.png)
+![TSP-5](../../.gitbook/assets/TSO-5.png)
 
 Products: Single Cell 3', VDJ
 
@@ -106,7 +106,7 @@ Products: Single Cell 3', VDJ
 
 * [Kivioja T., Vaharautio A., Karlsson K., Bonke M., Enge M., et al. \(2012\) Counting absolute numbers of molecules using unique molecular identifiers. Nat Methods 9: 72-74](http://www.ncbi.nlm.nih.gov/pubmed/22101854)
 
-![UMI](../.gitbook/assets/umi%20%281%29.png)
+![UMI](../../.gitbook/assets/umi%20%281%29.png)
 
 ### What is DASH/CRISPR?
 
