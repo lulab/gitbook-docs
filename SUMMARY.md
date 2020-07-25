@@ -18,7 +18,7 @@
   * [Class I\. Basics](wetlab_training/class-1_basics/README.md)
     * [1. Wet Lab Safety](wetlab_safety/README.md)
     * [2. Wet Lab Regulation](wetlab_regulation/README.md)
-    * [3. Wet Lab Protocols](https://github.com/lulab/intranet/blob/master/wetlab_protocol/README.md) (Private)
+    * [3. Wet Lab Protocols (Private)](https://github.com/lulab/intranet/blob/master/wetlab_protocol/README.md) 
     * [4. How to design sample cohort](wetlab_training/class-1_basics/4.how-to-design-sample-cohort.md)
     * [5. How to collect and manage samples](wetlab_training/class-1_basics/5.-how-to-collect-and-manage-samples.md)
     * [6. How to purify RNA from blood](wetlab_training/class-1_basics/6.-how-to-purify-rna-from-blood.md)
