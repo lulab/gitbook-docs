@@ -12,7 +12,7 @@
 
 * [Wet Lab Safety Guide](wetlab_safety/README.md)
   * [清华大学生物废弃物处理平台](wetlab_safety/waste.md)
-* [Wet Lab Regulation](wetlab_regulation.md)
+* [Wet Lab Regulation](wetlab_regulation/README.md)
 * [Wet Lab Training](wetlab_training/README.md)
   * [Class-1\_Basics](wetlab_training/class-1_basics/README.md)
     * [How to collect and manage samples](wetlab_training/class-1_basics/5.-how-to-collect-and-manage-samples.md)
@@ -26,6 +26,5 @@
     * [How to check the quantity and quality of RNA-seq library](wetlab_training/class-2_ngs-i/how-to-check-the-quantity-and-quality-of-rna-seq-library.md)
     * [How to do RNA-seq](wetlab_training/class-2_ngs-i/how-to-do-rna-seq.md)
     * [What is SMART-seq2 and Multiplex](wetlab_training/class-2_ngs-i/what-is-smart-seq2-and-multiplex.md)
-  * [img and files](wetlab_training/assets.md)
   * [FAQ](wetlab_training/faq.md)
 
