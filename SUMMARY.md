@@ -2,9 +2,9 @@
 
 * [Bioinformatics Tutorials](README.md)
 * [Literature Collections](literature-collections/README.md)
+  * [RNA Regulation](literature-collections/rna.md)
   * [Machine learning & AI](literature-collections/ai.md)
   * [Precision Medicine](literature-collections/med.md)
-  * [RNA Regulation](literature-collections/rna.md)
 
 ## Wet Lab
 

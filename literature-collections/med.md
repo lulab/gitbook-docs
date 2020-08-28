@@ -46,6 +46,7 @@ description: Literature Recommendations
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+** 
+  * **2020** - _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
@@ -172,9 +173,12 @@ description: Literature Recommendations
 
 ## V. Cancer Immunology
 
-* 2019 - Nat Genetics - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
-* 2018 - Nat Biotech - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
-* 2017 - Nat Genetics - Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data.
-* 2016 - Nature Genetics - Landscape of tumor-infiltrating T cell repertoire of human cancers
-* 2018 - JCO - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
+* **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
+* _**2019 - Nat Genetics**_ - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
+* _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
+* _**2017 - Nat Genetics**_ - Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data.
+* _**2016 - Nature Genetics**_ - Landscape of tumor-infiltrating T cell repertoire of human cancers
+* _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
+
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology&mode=list)
 
