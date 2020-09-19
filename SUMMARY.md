@@ -4,7 +4,8 @@
 * [Literature Collections](literature-collections/README.md)
   * [RNA Regulation](literature-collections/rna.md)
   * [Machine learning & AI](literature-collections/ai.md)
-  * [Precision Medicine](literature-collections/med.md)
+  * [Precision Medicine - I](literature-collections/med.md)
+  * [Precision Medicine - II](literature-collections/precision-medicine-ii.md)
 
 ## Wet Lab
 

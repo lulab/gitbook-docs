@@ -1,8 +1,8 @@
 ---
-description: Literature Recommendations
+description: Liquid Biopsy
 ---
 
-# Precision Medicine
+# Precision Medicine - I
 
 > * [PDFs for Precision Medicine](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
 
@@ -37,12 +37,6 @@ description: Literature Recommendations
 
 > **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
-* **Microbiome of Cancer**  
-  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
-  * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
-  * _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
-
-    A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+** 
@@ -62,7 +56,6 @@ description: Literature Recommendations
 
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of cfDNA/ctDNA
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of cfRNA/exRNA
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list) of Cancer Microbiome
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics&mode=list)of Proteomics
 
 ### 2. exRNA/cfRNA <a id="exRNA"></a>
@@ -174,14 +167,5 @@ description: Literature Recommendations
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
 
-## V. Cancer Immunology
-
-* **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
-* _**2019 - Nat Genetics**_ - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
-* _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
-* _**2017 - Nat Genetics**_ - Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data.
-* _**2016 - Nature Genetics**_ - Landscape of tumor-infiltrating T cell repertoire of human cancers
-* _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
-
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology&mode=list)
+## 
 
