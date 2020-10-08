@@ -133,7 +133,7 @@ Data about RBP-RNA interaction
 
 * **2018** _**Cell**_  **\(e. coli, proposed a model\)** _****_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
 * _**2014 NAR**_ **\(proposed a model\)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
-* **2018** _**Mol. Cell**_ **\(ecoli\)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
+* **2018** _**Mol. Cell**_ **\(e. coli\)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
 * **2020** _**Genome Biology**_ **\(zebrafish\)** _****_- RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
 * _**2017 Nature**_ \(**plant**\)- Global translational reprogramming is a fundamental layer of immune regulation in plants
 
