@@ -35,5 +35,13 @@ description: Cancer System and Environment
 * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
 * _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
 
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list)
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list)s
+
+## III. Data Integration
+
+* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list)
+
+
 
