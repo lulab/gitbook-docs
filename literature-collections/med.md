@@ -167,5 +167,7 @@ description: Liquid Biopsy
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
 
-## 
+### 4. Noncoding RNA Biomarkers
+
+* **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
 
