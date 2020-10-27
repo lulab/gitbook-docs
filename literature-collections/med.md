@@ -48,6 +48,7 @@ description: Liquid Biopsy
   * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * \[meDIP\] **2020** _**Nat Med**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
   * \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+  * \[WGBS\] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 * **cfRNA/exRNA**  
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
