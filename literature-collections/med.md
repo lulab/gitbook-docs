@@ -46,9 +46,7 @@ description: Liquid Biopsy
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA - Methylation**
   * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-  * \[meDIP\] **2020** _**Nat Med**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
   * \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-  * \[WGBS\] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 * **cfRNA/exRNA**  
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
@@ -104,19 +102,24 @@ description: Liquid Biopsy
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
 * **cfDNA - Fragment-Size**
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
-* **ctDNA - Mutations+**  \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list) \)
+* **ctDNA - Mutations+** 
   * **Papadopoulos N Lab**
     * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
     * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
-* **ctDNA - Methylation \(** [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list) **\)**
-  * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-  * **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
-  * **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-  * **WGBS**: _**2017 Nature Genetics**_ - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
+
+### **4. cfDNA Methylation**
+
+* \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+* \[meDIP\] **2020** _**Nat Med**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
+* \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* \[chips\] _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
+* \[WGBS\] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
+
+> * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation&mode=list)of cfDNA Methylation papers
 
 ## III. exRNA-seq Technologies
 
