@@ -45,8 +45,9 @@ description: Liquid Biopsy
   * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA - Methylation**
-  * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-  * _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+  * \[Targeted BS\] _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * \[meDIP\] **2020** _**Nat Med**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
+  * \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA**  
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
