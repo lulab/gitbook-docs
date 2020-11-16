@@ -176,3 +176,14 @@ description: Liquid Biopsy
 
 * **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
 
+### 5. Large-cohort Test
+
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Test&mode=list)
+
+#### 5.1 RNA Panel
+
+* _**2020 Gut**_ - Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population
+* _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
+
+
+
