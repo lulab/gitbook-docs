@@ -159,13 +159,13 @@ description: Liquid Biopsy
 
 * **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
 
-#### **Meta-anlysis**
+#### **Meta-analysis**
 
 * **protein markers**: 2016 Lancet Neurol - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
 * **DNA markers**: 2014 Nat Genetics - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
 * **lncRNA markers**: 2005 Cancer Res. - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
 
-### 2. Application
+### 2. Application/Testing
 
 #### Detection/Diagnosis
 
@@ -180,9 +180,9 @@ description: Liquid Biopsy
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
 
-### 3. Large-cohort Test
+### 3. Large-cohort Validation
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Test&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Validation&mode=list)
 
 #### 3.1 RNA Panel
 
