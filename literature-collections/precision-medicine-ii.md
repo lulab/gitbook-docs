@@ -4,7 +4,17 @@ description: Cancer System and Environment
 
 # Precision Medicine - II
 
-## I. Cancer Immunology
+## I. Data Integration
+
+### Multi-omics
+
+### Multi-component
+
+* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list)
+
+## II. Cancer Immunology
 
 ### **exRNA** 
 
@@ -29,7 +39,7 @@ description: Cancer System and Environment
 
 
 
-## **II. Cancer Microbiome** 
+## **III. Cancer Microbiome** 
 
 * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
 * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
@@ -37,11 +47,7 @@ description: Cancer System and Environment
 
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list)s
 
-## III. Data Integration
-
-* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list)
+![2020 Science - Bacteria in Tumors](../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 
 
 
