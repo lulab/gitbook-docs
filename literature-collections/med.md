@@ -114,10 +114,19 @@ description: Liquid Biopsy
 ### **4. cfDNA Methylation**
 
 * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-* \[meDIP\] **2020** _**Nat Med**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
+* \[meDIP\] **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
+* _**2020 Nature Medicine**_ - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
+* _**2020 Sci Adv**_ - Reliable tumor detection by whole-genome methylation sequencing of cell-free DNA in cerebrospinal fluid of pediatric medulloblastoma. 
+* _**2019 Clin Chem**_ - Detection of Colorectal Cancer in Circulating Cell-Free DNA by Methylated CpG Tandem Amplification and Sequencing
+* _**2019 Blood Adv**_ - Prognostic implications of 5-hydroxymethylcytosines from circulating cell-free DNA in diffuse large B-cell lymphoma
+* _**2019 Gut**_ - Genome-wide mapping of 5-hydroxymethylcytosines in circulating cell-free DNA as a non-invasive approach for early detection of hepatocellular carcinoma
 * \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * \[chips\] _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
 * \[WGBS\] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
+* _**2017 Genomic Medicine**_ - Empirical comparison of reduced representation bisulfite sequencing and Infinium BeadChip reproducibility and coverage of DNA methylation in humans.
+* _**2017 Cell Res**_ - 5-Hydroxymethylcytosine signatures in circulating cell-free DNA as diagnostic biomarkers for human cancers
+* _**2015 Cell Res**_ - Genome-scale detection of hypermethylated CpG islands in circulating cell-free DNA of hepatocellular carcinoma patients 
+* _**2014 Clin Epigenetics**_ - Genome-wide methylation profiling of the different stages of hepatitis B virus-related hepatocellular carcinoma development in plasma cell-free DNA reveals potential biomarkers for early detection and high-risk monitoring of hepatocellular carcinoma.
 
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation&mode=list)of cfDNA Methylation papers
 
