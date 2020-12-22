@@ -61,7 +61,9 @@ description: Liquid Biopsy
 ### 2. exRNA/cfRNA <a id="exRNA"></a>
 
 * **MISC**
+  * **long cfRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
+  * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
 * **Lu Z.J. Lab**
   * **structured ncRNA domain \(small cfRNA-seq\)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
@@ -129,6 +131,13 @@ description: Liquid Biopsy
 * _**2014 Clin Epigenetics**_ - Genome-wide methylation profiling of the different stages of hepatitis B virus-related hepatocellular carcinoma development in plasma cell-free DNA reveals potential biomarkers for early detection and high-risk monitoring of hepatocellular carcinoma.
 
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation&mode=list)of cfDNA Methylation papers
+
+### 5. Proteomics
+
+* \[MS\] _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+* \[APPA\] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
+
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics&mode=list) of proteomics
 
 ## III. exRNA-seq Technologies
 
