@@ -61,7 +61,7 @@ description: Liquid Biopsy
 ### 2. exRNA/cfRNA <a id="exRNA"></a>
 
 * **MISC**
-  * **long cfRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
+  * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
