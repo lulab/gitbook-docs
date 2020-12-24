@@ -26,9 +26,9 @@ description: 'Literature, Course and Book Recommendations'
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20RNA&mode=list)
 
-## 4. Comp. Methods for Liquid Biopsy
+## 3. Comp. Methods for Liquid Biopsy
 
-### 4.1 Imputation, Normalization and Batch Correction
+### 3.1 Imputation, Normalization and Batch Correction
 
 * **Methods for Single Cell RNA-seq** 
   * \(1\) Dropout/Sparseness and Imputation
@@ -49,23 +49,23 @@ description: 'Literature, Course and Book Recommendations'
 >
 > [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
-### 4.2  Feature Selection Method
+### 3.2  Feature Selection Method
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20Feature%20Selection&mode=list)
 
-### 4.3 Network Approach and Clustering
+### 3.3 Network Approach and Clustering
 
 * 2020 _Bioinformatics_ - Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 * 2018 _Nature COMMN._ - Pathway based subnetworks enable cross-disease biomarker discovery
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20network%20and%20clustering&mode=list)
 
-### 4.4 Tumor Location Method
+### 3.4 Tumor Location Method
 
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20metagenomics&mode=list): tumor locator \(tissue match\), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20locator&mode=list): tumor locator \(tissue match\), etc
 
-### 4.5 Transfer Learning
+### 3.5 Transfer Learning
 
 * 2020 _Bioinformatics_ - Exploiting transfer learning for the reconstruction of the human gene regulatory network
 * \(see another example of transfer learning in SPOT-RNA [above](ai.md#3-1-rna-secondary-structure-prediction)\)
