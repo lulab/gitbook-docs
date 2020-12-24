@@ -8,11 +8,15 @@ description: Literature Recommendations
 
 ## 1. Noncoding RNA & Cancer
 
+========================================================
+
 * 2020 Nature - PCAWG - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FNoncoding%20RNA%20and%20cancer&mode=list)
 
 ## 2. Quantum Biology
+
+========================================================
 
 * 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
 
@@ -24,7 +28,7 @@ description: Literature Recommendations
 
 ========================================================
 
-### RBP Binding: CLIP-seq etc
+### 3.1 RBP Binding: CLIP-seq etc
 
 Data about RBP-RNA interaction
 
@@ -41,7 +45,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRBP-RNA%20interaction&mode=list)
 
-### AS: Alternative splicing
+### 3.2 AS: Alternative splicing
 
 **Reviews**
 
@@ -59,7 +63,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
 
-### APA: Alternative polyadenylation
+### 3.3 APA: Alternative polyadenylation
 
 **Reviews**
 
@@ -73,13 +77,13 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FAlternative%20polyadenylation&mode=list)
 
-### RNA Velocity
+### 3.4 RNA Velocity
 
 * _**2020 - Nature Biotech.**_ - Generalizing RNA velocity to transient cell states through dynamical modeling
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Velocity&mode=list)
 
-### RNA editing
+### 3.5 RNA editing
 
 **Review**
 
@@ -93,11 +97,11 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing&mode=list)
 
-### DNA mutation using RNA-seq
+### 3.6 DNA mutation using RNA-seq
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
 
-### Translation: Ribo-seq
+### 3.7 Translation: Ribo-seq
 
 关于RNA翻译（Ribo-seq）
 
@@ -150,6 +154,8 @@ Data about RBP-RNA interaction
 
 
 ## 5. RNA Structure - Computational Methods
+
+========================================================
 
 > * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
