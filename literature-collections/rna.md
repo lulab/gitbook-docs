@@ -139,8 +139,6 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/RNA%20Probing%20Experiments&mode=list)
 
-> See computational models and algorithms for RNA secondary structure in [RNA Structure](ai.md#3-rna-structure).
-
 ### 2. RiboShape: Ribo-seq+SHAPE
 
 * **2018** _**Cell**_  **\(e. coli, proposed a model\)** _****_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
