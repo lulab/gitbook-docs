@@ -6,7 +6,7 @@ description: Literature Recommendations
 
 > * [PDFs for RNA Regulation](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/)
 
-## 1. Noncoding RNA & Cancer
+## I. Noncoding RNA & Cancer
 
 ========================================================
 
@@ -14,7 +14,7 @@ description: Literature Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FNoncoding%20RNA%20and%20cancer&mode=list)
 
-## 2. Quantum Biology
+## II. Quantum Biology
 
 ========================================================
 
@@ -22,13 +22,13 @@ description: Literature Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FQuantum%20Biology&mode=list)
 
-## 3. RNA Regulation - POSTAR
+## III. RNA Regulation - POSTAR
 
 **POSTAR: Post-transcriptional Regulation**
 
 ========================================================
 
-### 3.1 RBP Binding: CLIP-seq etc
+### 1. RBP Binding: CLIP-seq etc
 
 Data about RBP-RNA interaction
 
@@ -45,7 +45,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRBP-RNA%20interaction&mode=list)
 
-### 3.2 AS: Alternative splicing
+### 2. AS: Alternative splicing
 
 **Reviews**
 
@@ -63,7 +63,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
 
-### 3.3 APA: Alternative polyadenylation
+### 3. APA: Alternative polyadenylation
 
 **Reviews**
 
@@ -77,13 +77,13 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FAlternative%20polyadenylation&mode=list)
 
-### 3.4 RNA Velocity
+### 4. RNA Velocity
 
 * _**2020 - Nature Biotech.**_ - Generalizing RNA velocity to transient cell states through dynamical modeling
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Velocity&mode=list)
 
-### 3.5 RNA editing
+### 5. RNA editing
 
 **Review**
 
@@ -97,11 +97,11 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing&mode=list)
 
-### 3.6 DNA mutation using RNA-seq
+### 6. DNA mutation using RNA-seq
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
 
-### 3.7 Translation: Ribo-seq
+### 7. Translation: Ribo-seq
 
 关于RNA翻译（Ribo-seq）
 
@@ -129,11 +129,11 @@ Data about RBP-RNA interaction
 
 [PDFs and PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
 
-## 4. RNA Structure - Experimental Methods 
+## IV. RNA Structure - Experimental Methods 
 
 ========================================================
 
-### 4.1 Structurome
+### 1. Structurome
 
 关于RNA 二级结构高通量测序方法
 
@@ -141,7 +141,7 @@ Data about RBP-RNA interaction
 
 > See computational models and algorithms for RNA secondary structure in [RNA Structure](ai.md#3-rna-structure).
 
-### 4.2 RiboShape: Ribo-seq+SHAPE
+### 2. RiboShape: Ribo-seq+SHAPE
 
 * **2018** _**Cell**_  **\(e. coli, proposed a model\)** _****_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
 * _**2014 NAR**_ **\(proposed a model\)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
@@ -153,14 +153,14 @@ Data about RBP-RNA interaction
 
 
 
-## 5. RNA Structure - Computational Methods
+## V. RNA Structure - Computational Methods
 
 ========================================================
 
 > * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
 
-### 5.1 RNA Secondary Structure Prediction
+### 1. RNA Secondary Structure Prediction
 
 * **Energy Model** 
   * **RNAstructure/Mfold**  and **RNAfold** 
@@ -181,7 +181,7 @@ Data about RBP-RNA interaction
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
-### 5.2 Structural Motif Finder
+### 2. Structural Motif Finder
 
 * **SCFG \( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) \)
   * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030) 
