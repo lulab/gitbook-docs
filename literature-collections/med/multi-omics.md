@@ -2,17 +2,32 @@
 
 ## I.  Representative Studies 
 
-## II. Data Integration
+* _**2020, Cell**_, Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
+* _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
+* _**2020, Nature Medicine**_, Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
+* _**2020, Nature Communications**_, Molecular correlates of cisplatin-based chemotherapy response in muscle invasive bladder cancer by integrated multi-omics analysis.
 
-### 1. Multi-omics
+> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F2.%20Precision%20Medicine%2FMulti-Omics&mode=list)
 
-### 2. Multi-component
+## II. Data Integration Methods
 
-* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+* _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
+* _**2018 - Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
+* _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
+* _**2019, Bioinformatics**_, Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
+* _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list) of Data Integration
+  > [PDFs](https://cloud.tsinghua.edu.cn/d/c793c55f3316427a9c15/)
 
-### 3. ctDNA/cfDNA <a id="other"></a>
+* _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
+* _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
+* _**2019 BMC bioinformatics**_ - OmicsARules: a R package for integration of multi-omics datasets via association rules mining
+* _**2020 Frontiers in Oncology**_ - Computational Oncology in the Multi-Omics Era: State of the Art
+* _**2019 Frontiers in Genetics**_ - SALMON: Survival analysis learning with multi-omics neural networks on breast cancer
+
+## III. Multi-Omics
+
+### 1. ctDNA/cfDNA <a id="other"></a>
 
 * **cfDNA - mbDNA \(**Microbiome of cfDNA\)
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
@@ -27,7 +42,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
 
-### **4. cfDNA Methylation**
+### **2. cfDNA Methylation**
 
 * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
 * \[meDIP\] **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
@@ -46,10 +61,20 @@
 
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation&mode=list)of cfDNA Methylation papers
 
-### 5. Proteomics
+### 3. Proteomics
 
 * \[MS\] _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA\] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics&mode=list) of proteomics
+
+
+
+### 4. Combination
+
+### 5. Multi-components
+
+* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list) of Data Integration
 
