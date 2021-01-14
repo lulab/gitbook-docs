@@ -2,7 +2,10 @@
 
 * [Bioinformatics Tutorials](README.md)
 * [Literature Collections](literature-collections/README.md)
-  * [RNA Regulation](literature-collections/rna.md)
+  * [RNA Regulation](literature-collections/rna/README.md)
+    * [RNA Structure](literature-collections/rna/rna-structure.md)
+    * [POSTAR](literature-collections/rna/postar.md)
+    * [Quantum Biology](literature-collections/rna/quantum-biology.md)
   * [Precision Medicine](literature-collections/med/README.md)
     * [Liquid Biopsy](literature-collections/med/liquid-biopsy.md)
     * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
