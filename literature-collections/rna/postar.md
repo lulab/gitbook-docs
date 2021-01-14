@@ -4,7 +4,7 @@ description: POST-trAnscriptional Regulation
 
 # POSTAR
 
-## I. POSTAR
+## I. POSTAR: POST-trAnscriptional Regulation
 
 ### 1. RBP Binding: CLIP-seq etc
 

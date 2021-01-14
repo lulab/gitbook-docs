@@ -2,8 +2,6 @@
 
 ## I. RNA Structure - Experimental Methods 
 
-========================================================
-
 ### 1. Structurome
 
 关于RNA 二级结构高通量测序方法
@@ -24,9 +22,8 @@
 
 ## II. RNA Structure - Computational Methods
 
-========================================================
+**Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
 
-> * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
 
 ### 1. RNA Secondary Structure Prediction

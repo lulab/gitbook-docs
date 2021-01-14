@@ -8,10 +8,10 @@
     * [Quantum Biology](literature-collections/rna/quantum-biology.md)
   * [Precision Medicine](literature-collections/med/README.md)
     * [Liquid Biopsy](literature-collections/med/liquid-biopsy.md)
+    * [Panel and Screen](literature-collections/med/panel-and-screen.md)
     * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
     * [exRNA - Sci.](literature-collections/med/exrna-sci..md)
     * [Multi-Omics](literature-collections/med/multi-omics.md)
-    * [Panel and Screen](literature-collections/med/panel-and-screen.md)
     * [Cancer Environment](literature-collections/med/cancer-environment.md)
   * [Machine learning & AI](literature-collections/ai.md)
 
