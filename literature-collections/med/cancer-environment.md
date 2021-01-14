@@ -2,17 +2,17 @@
 description: Cancer System and Environment
 ---
 
-# Precision Medicine - II
+# Cancer Environment
 
-## I. Data Integration
+## **I. Cancer Microbiome** 
 
-### 1. Multi-omics
+* _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
+* _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
+* _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
 
-### 2. Multi-component
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list)s
 
-* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list) of Data Integration
+![2020 Science - Bacteria in Tumors](../../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 
 ## II. Cancer Immunology
 
@@ -36,18 +36,6 @@ description: Cancer System and Environment
 * _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
 
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology&mode=list)
-
-
-
-## **III. Cancer Microbiome** 
-
-* _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
-* _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
-* _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
-
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list)s
-
-![2020 Science - Bacteria in Tumors](../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 
 
 

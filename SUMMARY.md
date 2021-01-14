@@ -3,8 +3,13 @@
 * [Bioinformatics Tutorials](README.md)
 * [Literature Collections](literature-collections/README.md)
   * [RNA Regulation](literature-collections/rna.md)
-  * [Precision Medicine - I](literature-collections/med.md)
-  * [Precision Medicine - II](literature-collections/precision-medicine-ii.md)
+  * [Precision Medicine](literature-collections/med/README.md)
+    * [Liquid Biopsy](literature-collections/med/liquid-biopsy.md)
+    * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
+    * [exRNA - Sci.](literature-collections/med/exrna-sci..md)
+    * [Multi-Omics](literature-collections/med/multi-omics.md)
+    * [Panel and Screen](literature-collections/med/panel-and-screen.md)
+    * [Cancer Environment](literature-collections/med/cancer-environment.md)
   * [Machine learning & AI](literature-collections/ai.md)
 
 ## Wet Lab
