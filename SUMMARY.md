@@ -13,7 +13,10 @@
     * [exRNA - Sci.](literature-collections/med/exrna-sci..md)
     * [Multi-Omics](literature-collections/med/multi-omics.md)
     * [Cancer Environment](literature-collections/med/cancer-environment.md)
-  * [Machine learning & AI](literature-collections/ai.md)
+  * [Machine learning & AI](literature-collections/ai/README.md)
+    * [Startup](literature-collections/ai/startup.md)
+    * [Deep Learning](literature-collections/ai/deep-learning.md)
+    * [Methods for Liquid Biopsy](literature-collections/ai/methods-for-liquid-biopsy.md)
 
 ## Wet Lab
 

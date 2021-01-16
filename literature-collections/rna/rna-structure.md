@@ -40,7 +40,7 @@
 
 * **SCFG Model** \(Rfam/Infernal\)
   * What is a hidden Markov model? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315) 
-  * _You can read the SCFG section in the book_ [_above_](../ai.md#3-1-rna-secondary-structure-prediction)_. \(Need a short tutorial for SCFG.\)_
+  * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. \(Need a short tutorial for SCFG.\)_
 * **Deep Learning Method**
   * \*\*\*\*[2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
   * \(**Transfer learning**\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
