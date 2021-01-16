@@ -1,15 +1,15 @@
 # Multi-Omics
 
-## I.  Representative Studies 
+## 0.  Representative Studies 
 
-* _**2020, Cell**_, Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
+* _**2020 Cell**_, Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
 * _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
-* _**2020, Nature Medicine**_, Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
-* _**2020, Nature Communications**_, Molecular correlates of cisplatin-based chemotherapy response in muscle invasive bladder cancer by integrated multi-omics analysis.
+* _**2020 Nature Medicine**_, Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
+* _**2020 Nature Communications**_, Molecular correlates of cisplatin-based chemotherapy response in muscle invasive bladder cancer by integrated multi-omics analysis.
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F2.%20Precision%20Medicine%2FMulti-Omics&mode=list)
 
-## II. Data Integration Methods
+## I. Data Integration Methods
 
 * _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
 * _**2018 - Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
@@ -25,7 +25,7 @@
 * _**2020 Frontiers in Oncology**_ - Computational Oncology in the Multi-Omics Era: State of the Art
 * _**2019 Frontiers in Genetics**_ - SALMON: Survival analysis learning with multi-omics neural networks on breast cancer
 
-## III. Multi-Omics
+## II. Multi-Omics
 
 ### 1. ctDNA/cfDNA <a id="other"></a>
 
@@ -72,7 +72,7 @@
 
 ### 4. Combination
 
-### 5. Multi-components
+## III. Multi-Components
 
 * **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 

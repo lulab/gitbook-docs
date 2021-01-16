@@ -26,7 +26,7 @@
 
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
 
-### 1. RNA Secondary Structure Prediction
+### 1.  2nd Structure Prediction
 
 * **Energy Model** 
   * **RNAstructure/Mfold**  and **RNAfold** 

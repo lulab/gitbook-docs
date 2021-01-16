@@ -1,8 +1,6 @@
 # exRNA - Tech.
 
-## I.  Representative Studies 
-
-## II. exRNA/cfRNA
+## I. exRNA/cfRNA
 
 * **MISC**
   * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
@@ -40,7 +38,7 @@
 
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list) of exRNA/cfRNA papers
 
-## III. exRNA-seq Technologies
+## II. exRNA-seq Technologies
 
 ### 1. Protocols & Technologies
 

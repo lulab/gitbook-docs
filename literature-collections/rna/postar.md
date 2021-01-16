@@ -4,9 +4,11 @@ description: POST-trAnscriptional Regulation
 
 # POSTAR
 
-## I. POSTAR: POST-trAnscriptional Regulation
+{% hint style="info" %}
+**POSTAR: POST-trAnscriptional Regulation**
+{% endhint %}
 
-### 1. RBP Binding: CLIP-seq etc
+## 1. RBP Binding: CLIP-seq etc
 
 Data about RBP-RNA interaction
 
@@ -23,7 +25,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRBP-RNA%20interaction&mode=list)
 
-### 2. AS: Alternative splicing
+## 2. AS: Alternative splicing
 
 **Reviews**
 
@@ -41,7 +43,7 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
 
-### 3. APA: Alternative polyadenylation
+## 3. APA: Alternative polyadenylation
 
 **Reviews**
 
@@ -55,13 +57,13 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FAlternative%20polyadenylation&mode=list)
 
-### 4. RNA Velocity
+## 4. RNA Velocity
 
 * _**2020 - Nature Biotech.**_ - Generalizing RNA velocity to transient cell states through dynamical modeling
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Velocity&mode=list)
 
-### 5. RNA editing
+## 5. RNA editing
 
 **Review**
 
@@ -75,11 +77,11 @@ Data about RBP-RNA interaction
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing&mode=list)
 
-### 6. DNA mutation using RNA-seq
+## 6. DNA mutation using RNA-seq
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
 
-### 7. Translation: Ribo-seq
+## 7. Translation: Ribo-seq
 
 关于RNA翻译（Ribo-seq）
 
