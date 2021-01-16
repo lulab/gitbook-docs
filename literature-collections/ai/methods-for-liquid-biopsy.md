@@ -1,4 +1,4 @@
-# Methods for Liquid Biopsy
+# Methods for exRNA-seq
 
 ## I. Imputation, Normalization and Batch Correction
 
