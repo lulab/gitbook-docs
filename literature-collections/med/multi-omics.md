@@ -1,4 +1,4 @@
-# Multi-Omics
+# Multi-Analyte
 
 ## 0.  Representative Studies 
 
@@ -9,23 +9,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F2.%20Precision%20Medicine%2FMulti-Omics&mode=list)
 
-## I. Data Integration Methods
-
-* _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
-* _**2018 - Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
-* _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
-* _**2019, Bioinformatics**_, Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
-* _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
-
-  > [PDFs](https://cloud.tsinghua.edu.cn/d/c793c55f3316427a9c15/)
-
-* _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
-* _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
-* _**2019 BMC bioinformatics**_ - OmicsARules: a R package for integration of multi-omics datasets via association rules mining
-* _**2020 Frontiers in Oncology**_ - Computational Oncology in the Multi-Omics Era: State of the Art
-* _**2019 Frontiers in Genetics**_ - SALMON: Survival analysis learning with multi-omics neural networks on breast cancer
-
-## II. Multi-Omics
+## I. Multi-Omics
 
 ### 1. ctDNA/cfDNA <a id="other"></a>
 
@@ -72,7 +56,7 @@
 
 ### 4. Combination
 
-## III. Multi-Components
+## II. Multi-Components
 
 * **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 

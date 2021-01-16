@@ -10,13 +10,14 @@
     * [Liquid Biopsy - Overview](literature-collections/med/liquid-biopsy.md)
     * [Panel and Screen](literature-collections/med/panel-and-screen.md)
     * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
-    * [exRNA - Sci.](literature-collections/med/exrna-sci..md)
-    * [Multi-Omics](literature-collections/med/multi-omics.md)
+    * [Multi-Analyte](literature-collections/med/multi-omics.md)
+    * [exRNA in Cancer](literature-collections/med/exrna-sci..md)
     * [Cancer Environment](literature-collections/med/cancer-environment.md)
   * [Machine learning & AI](literature-collections/ai/README.md)
     * [Startup](literature-collections/ai/startup.md)
     * [Deep Learning](literature-collections/ai/deep-learning.md)
     * [Methods for Liquid Biopsy](literature-collections/ai/methods-for-liquid-biopsy.md)
+    * [Data Integration](literature-collections/ai/data-integration.md)
 
 ## Wet Lab
 
