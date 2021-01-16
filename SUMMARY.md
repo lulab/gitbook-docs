@@ -17,7 +17,7 @@
     * [Startup](literature-collections/ai/startup.md)
     * [Deep Learning](literature-collections/ai/deep-learning.md)
     * [Methods for Liquid Biopsy](literature-collections/ai/methods-for-liquid-biopsy.md)
-    * [Data Integration](literature-collections/ai/data-integration.md)
+    * [Data Integration Method](literature-collections/ai/data-integration.md)
 
 ## Wet Lab
 

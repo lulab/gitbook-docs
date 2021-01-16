@@ -1,6 +1,6 @@
-# Data Integration
+# Data Integration Method
 
-## I. Data Integration Methods
+## I. Data Integration Method
 
 * _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
 * _**2018 - Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
