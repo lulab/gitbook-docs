@@ -7,7 +7,7 @@
     * [POSTAR](literature-collections/rna/postar.md)
     * [Quantum Biology](literature-collections/rna/quantum-biology.md)
   * [Precision Medicine](literature-collections/med/README.md)
-    * [Liquid Biopsy](literature-collections/med/liquid-biopsy.md)
+    * [Liquid Biopsy - Overview](literature-collections/med/liquid-biopsy.md)
     * [Panel and Screen](literature-collections/med/panel-and-screen.md)
     * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
     * [exRNA - Sci.](literature-collections/med/exrna-sci..md)
