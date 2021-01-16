@@ -1,5 +1,19 @@
 # exRNA - Tech.
 
+## 0. Recommended Reading
+
+* \[Smart-seq3\]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3 
+* \[UMI\]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers 
+* \[Barcode\]_**2015 Nature Methods**_ -Simultaneous generation of many rna-seq libraries in a single reaction 
+* \[DASH\]_**2016 Genome Biology**_ -Depletion of Abundant Sequences by Hybridization \(DASH\): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications 
+* \[Phospho‐seq\]_**2019 EMBO J.**_ -Phospho‐RNA‐seq - a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma 
+* \[SILVER‐seq\]_**2019 PNAS**_ -Extracellular RNA in a single droplet of human serum reﬂects physiologic and disease states 
+* \[CATS‐seq\]_**2014 RNA Biology**_ -Capture and Amplification by Tailing and Switching \(CATS\) 
+* \[Pico-similar\]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
+* \[Review\]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
+
+> * [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)
+
 ## I. exRNA/cfRNA
 
 * **MISC**

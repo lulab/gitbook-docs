@@ -58,3 +58,14 @@
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list) 
 
+**More Recommended Reading for Motif finding:**
+
+* _**1994 Proc Int Conf Intell Syst Mol Biol**_ Fitting a mixture model by expectation maximization to discover motifs in biopolymers
+* _**2005 NBT**_ Assessing computational tools for the discovery of transcription factor binding sites
+* _**2006 Bioinformatics**_ CMfinder: a covariance model based RNA motif finding algorithm
+* _**2008 Plos Computational Biology**_ Discovering Sequence Motifs with Arbitrary Insertions and Deletions
+* _**2008 PNAS**_ Computational prediction of RNA structural motifs involved in post transcriptional regulatory processes
+* _**2012 Nature**_ Systematic discovery of structural elements governing stability of mammalian messenger RNAs
+* _**2014 Nature Method**_ RNA motif discovery by SHAPE and mutational profiling \(SHAPE-MaP\)
+* _**2015 Plos Computational Biology**_ Structure-Based Alignment and Consensus Secondary Structures for Three HIV-Related RNA Genomes
+

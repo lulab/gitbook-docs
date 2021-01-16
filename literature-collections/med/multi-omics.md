@@ -1,6 +1,6 @@
 # Multi-Analyte
 
-## 0.  Representative Studies 
+## 0.  Recommended Reading 
 
 * _**2020 Cell**_, Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
 * _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
