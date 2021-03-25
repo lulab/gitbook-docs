@@ -3,9 +3,9 @@
 ## 1. Review ✨
 
 * _**2019 Nature Reviews**_ - Current and future perspectives of liquid biopsies in genomics-driven oncology
-* _**2014 Nature Reviews**_ - Principles and methods of integrative genomic analyses in cancer
 * _**2017 Genome Biology**_ - Multi-omics approaches to disease
 * _**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
+* _**2014 Nature Reviews**_ - Principles and methods of integrative genomic analyses in cancer
 
 ## 2. Research Article 
 
