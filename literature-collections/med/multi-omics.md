@@ -1,17 +1,6 @@
-# Multi-Analyte
+# cfDNA, EVP, etc
 
-## 0.  Recommended Reading 
-
-* _**2020 Cell**_, Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
-* _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
-* _**2020 Nature Medicine**_, Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
-* _**2020 Nature Communications**_, Molecular correlates of cisplatin-based chemotherapy response in muscle invasive bladder cancer by integrated multi-omics analysis.
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F2.%20Precision%20Medicine%2FMulti-Omics&mode=list)
-
-## I. Multi-Omics
-
-### 1. ctDNA/cfDNA <a id="other"></a>
+## 1. ctDNA/cfDNA
 
 * **cfDNA - mbDNA \(**Microbiome of cfDNA\)
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
@@ -26,7 +15,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
 
-### **2. cfDNA Methylation**
+## **2. cfDNA Methylation**
 
 * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
 * \[meDIP\] **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
@@ -45,20 +34,12 @@
 
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation&mode=list)of cfDNA Methylation papers
 
-### 3. Proteomics
+## 3. Proteomics
 
-* \[MS\] _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+* \[MS-EVP\] _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA\] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics&mode=list) of proteomics
 
 
-
-### 4. Combination
-
-## II. Multi-Components
-
-* **Blood+Tissue; Human+Mouse**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FData%20Integration&mode=list) of Data Integration
 

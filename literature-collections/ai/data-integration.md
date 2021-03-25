@@ -12,7 +12,6 @@
 
 * _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
 * _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
-* _**2019 BMC bioinformatics**_ - OmicsARules: a R package for integration of multi-omics datasets via association rules mining
-* _**2020 Frontiers in Oncology**_ - Computational Oncology in the Multi-Omics Era: State of the Art
-* _**2019 Frontiers in Genetics**_ - SALMON: Survival analysis learning with multi-omics neural networks on breast cancer
+
+_\*\*\*\*_
 
