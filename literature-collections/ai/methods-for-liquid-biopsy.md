@@ -1,4 +1,4 @@
-# Methods for exRNA-seq
+# Methods for exRNA
 
 ## I. Imputation, Normalization and Batch Correction
 

@@ -13,12 +13,11 @@
     * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
     * [exRNA in Cancer](literature-collections/med/exrna-sci..md)
     * [cfDNA, EVP, etc](literature-collections/med/multi-omics.md)
-    * [Multi-Omics](literature-collections/med/multi-omics-1.md)
   * [Machine learning & AI](literature-collections/ai/README.md)
     * [Startup](literature-collections/ai/startup.md)
     * [Deep Learning](literature-collections/ai/deep-learning.md)
-    * [Methods for exRNA-seq](literature-collections/ai/methods-for-liquid-biopsy.md)
-    * [Data Integration Method](literature-collections/ai/data-integration.md)
+    * [Methods for exRNA](literature-collections/ai/methods-for-liquid-biopsy.md)
+    * [Multi-Omics](literature-collections/ai/multi-omics-1.md)
 
 ## Wet Lab
 
