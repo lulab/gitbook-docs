@@ -17,7 +17,7 @@
     * [Startup](literature-collections/ai/startup.md)
     * [Deep Learning](literature-collections/ai/deep-learning.md)
     * [Methods for exRNA](literature-collections/ai/methods-for-liquid-biopsy.md)
-    * [Multi-Omics](literature-collections/ai/multi-omics-1.md)
+    * [Multi-Omics](literature-collections/ai/multi-omics.md)
 
 ## Wet Lab
 
