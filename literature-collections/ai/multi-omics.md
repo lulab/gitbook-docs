@@ -1,9 +1,10 @@
 # Multi-Omics
 
-## 1. Review ✨
+## 1. Review
 
-* _**2019 Nature Reviews**_ - Current and future perspectives of liquid biopsies in genomics-driven oncology
-* _**2017 Genome Biology**_ - Multi-omics approaches to disease
+* _**2021 Systems Med**_ - Multiple Omics Data Integration
+* ✨_**2019 Nature Reviews**_ - Current and future perspectives of liquid biopsies in genomics-driven oncology
+* ✨_**2017 Genome Biology**_ - Multi-omics approaches to disease
 * _**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
 * _**2014 Nature Reviews**_ - Principles and methods of integrative genomic analyses in cancer
 
@@ -21,9 +22,11 @@
 * _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
 * ✨ _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
 * _**2018 Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
+
+## 4. Tool
+
+* ✨ _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * ✨ _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
-
-
 
 
 
