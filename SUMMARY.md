@@ -30,7 +30,7 @@
 
 ## Literature Reading
 
-* [Reading List of Lab Members](literature-reading/literature-collections.md)
+* [Reading List of Lab Members](literature-reading/README.md)
 * [RNA Regulation](literature-reading/rna/README.md)
   * [RNA Structure](literature-reading/rna/rna-structure.md)
   * [POSTAR](literature-reading/rna/postar.md)
