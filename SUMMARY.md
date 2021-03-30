@@ -1,7 +1,5 @@
 # Table of contents
 
-
-* [Bioinformatics Tutorials](books.md)
 * [Lab Guide](lab-guide/README.md)
   * [Lab Calendar](lab-guide/cal.md)
   * [FAQ](lab-guide/FAQ.md)

@@ -1,16 +1,9 @@
-
-<p style="font-size: 22pt; font-weight: bold; color:green;">
-Laboratory Guide
-<font style="font-size: 18pt;">实验室指南</font>
-</p>
-
+# Lab Guide
+**实验室指南**
 
 ---
 
-<p id="L1" style="font-size: 30pt; font-weight: bold; color:green;">
-01
-<font style="font-size: 18pt;">Start in Lu Lab</font>
-</p>
+## Start in Lu Lab
 
 
 
@@ -42,10 +35,7 @@ Laboratory Guide
 
 ---
 
-<p id="L2" style="font-size: 30pt; font-weight: bold; color:green;">
-02
-<font style="font-size: 18pt;">Research in Lu Lab</font>
-</p>
+## Research in Lu Lab
 
 
 > * **Lab Docs/Files**
@@ -78,10 +68,8 @@ Laboratory Guide
 
 ---
 
-<p id="L3" style="font-size: 30pt; font-weight: bold; color:green;">
-03
-<font style="font-size: 18pt;">Publish in Lu Lab</font>
-</p>
+## Publish in Lu Lab
+
 
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
@@ -96,14 +84,5 @@ Laboratory Guide
 
 <img src="img/success.png" height="150" style="margin-left:5em">
 
----
 
-> * Lu Lab
-> * Address:   School of Life Sciences, Tsinghua University, Beijing, China
-> * E-mail:    lulab1 AT tsinghua.edu.cn
-> * Docs/Books:[lulab.gitbook.io](http://lulab.gitbook.io)
-> * Github:    [lulab.github.io](http://lulab.github.io)
-> * Hompage:   [www.ncrnalab.org](http://www.ncrnalab.org) \| [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
-> * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
-> * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
 
