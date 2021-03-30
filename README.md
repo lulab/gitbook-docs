@@ -8,24 +8,20 @@ description: 实验室指南
 
 ### 🎉 Welcome <a id="Welcome"></a>
 
-* [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC)downloadable \([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&qs=n&form=QBLH&sp=-1&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&sc=5-7&sk=&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE&go=Search&qs=ds&form=QBRE)\)
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)online-only \(Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach)\)
+* [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC)  \([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&qs=n&form=QBLH&sp=-1&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&sc=5-7&sk=&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE&go=Search&qs=ds&form=QBRE)\)
+* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/) \(Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach)\)
 * [FAQ](faq.md)
 
 ### 📖 Learning <a id="Learning"></a>
 
 * **Basics**
-  * [Tutorials](https://lulab.gitbook.io)gitbook
-  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)evernote
-  * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)TsinghuaCloud
-  * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
-* [**Literatures**](https://lulab.gitbook.io/books/literature-collections) \(Tips: [add weekly literature update notifications](https://github.com/lulab/docs/tree/6dcc3c1cbe10615b8469c30ccba4a7ede44dbd78/lab-guide/reading/README.md)\)
-  * 🚩[Literature Collections](https://lulab.gitbook.io/books/literature-collections)gitbook
-  * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
-  * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
-  * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)
-    * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
-    * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)
+  * [Basic Tutorial](https://lulab2.gitbook.io)
+  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255) @evernote
+  * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/) @TsinghuaCloud
+  * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
+
+  
+* **Literatures**
 
 ![](.gitbook/assets/learning.jpg)
 
@@ -69,17 +65,16 @@ description: 实验室指南
 
 ![](.gitbook/assets/success.png)
 
-## Books of Lu Lab
+## Footnote
 
-* [Bioinformatics Tutorial - Basic](https://lulab2.gitbook.io)
-* [Bioinformatics Tutorial - Advanced](https://lulab1.gitbook.io)
-
-> * Lu Lab
+> * **Lu Lab @ Tsinghua University**
 > * Address:   School of Life Sciences, Tsinghua University, Beijing, China
 > * E-mail:    lulab1 AT tsinghua.edu.cn
-> * Docs/Books:[lulab.gitbook.io](http://lulab.gitbook.io)
-> * Github:    [lulab.github.io](http://lulab.github.io)
-> * Hompage:   [www.ncrnalab.org](http://www.ncrnalab.org) \| [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
+> * Docs: [lulab.gitbook.io](http://lulab.gitbook.io)  \|  [lulab.github.io](http://lulab.github.io)
+> * Homepage:   [www.ncrnalab.org](http://www.ncrnalab.org)  \|  [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
 > * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
 > * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
+> * Books: [Bioinformatics Tutorial - Basic](https://lulab2.gitbook.io)  \|  [- Advanced](https://lulab1.gitbook.io)
+
+
 

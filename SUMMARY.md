@@ -6,7 +6,7 @@
 
 ## Literature Reading
 
-* [Reading List of Lab Members](literature-reading/literature-reading.md)
+* [Literature Reading](literature-reading/literature-reading.md)
 * [RNA Regulation](literature-reading/rna/README.md)
   * [RNA Structure](literature-reading/rna/rna-structure.md)
   * [POSTAR](literature-reading/rna/postar.md)
