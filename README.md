@@ -2,11 +2,11 @@
 
 ## Docs of Lu Lab
 
-* **Lab Guide**
+* \*\*\*\*[**Lab Guide**](lab-guide/)\*\*\*\*
   * Wet-lab Guide
 * **Literature Reading**
 
-### Books of Lu Lab
+## Books of Lu Lab
 
 * [Bioinformatics Tutorial - Basic](https://lulab2.gitbook.io)
 * [Bioinformatics Tutorial - Advanced](https://lulab1.gitbook.io)
