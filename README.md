@@ -27,7 +27,7 @@ description: 实验室指南
     * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
     * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)
 
-![](../.gitbook/assets/learning.jpg)
+![](.gitbook/assets/learning.jpg)
 
 ## II. Research in Lu Lab
 
@@ -54,7 +54,7 @@ description: 实验室指南
 
 * [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)Private \(multiple persons\)
 
-![](../.gitbook/assets/science.gif)
+![](.gitbook/assets/science.gif)
 
 ## III. Publish in Lu Lab
 
@@ -67,9 +67,7 @@ description: 实验室指南
     * [Manuscipt writing checking list](https://github.com/lulab/docs/tree/6dcc3c1cbe10615b8469c30ccba4a7ede44dbd78/lab-guide/writing.md)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
-![](../.gitbook/assets/success.png)
-
-
+![](.gitbook/assets/success.png)
 
 ## Books of Lu Lab
 
@@ -84,3 +82,4 @@ description: 实验室指南
 > * Hompage:   [www.ncrnalab.org](http://www.ncrnalab.org) \| [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
 > * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
 > * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
+

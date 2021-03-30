@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Lab Guide](README.md)
-  * [Lab Calendar](cal.md)
-  * [FAQ](faq.md)
-
+* [Lab Calendar](cal.md)
+* [FAQ](faq.md)
 
 ## Literature Reading
 
@@ -24,8 +23,6 @@
   * [Deep Learning](literature-reading/ai/deep-learning.md)
   * [Methods for exRNA](literature-reading/ai/methods-for-liquid-biopsy.md)
   * [Multi-Omics](literature-reading/ai/multi-omics.md)
-
-
 
 ## Wet-lab Guide
 
