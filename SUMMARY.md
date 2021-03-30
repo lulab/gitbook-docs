@@ -1,34 +1,10 @@
 # Table of contents
 
-## Tutorials
-
-* [Bioinformatics Tutorials](README.md)
-
 ## Lab Guide
 * [Lab Calendar](lab-guide/cal.md)
 
-## Literature Reading
 
-* [RNA Regulation](literature-collections/rna/README.md)
-  * [RNA Structure](literature-collections/rna/rna-structure.md)
-  * [POSTAR](literature-collections/rna/postar.md)
-  * [Quantum Biology](literature-collections/rna/quantum-biology.md)
-* [Precision Medicine](literature-collections/med/README.md)
-  * [Liquid Biopsy - Overview](literature-collections/med/liquid-biopsy.md)
-  * [Cancer Environment](literature-collections/med/cancer-environment.md)
-  * [Panel and Screen](literature-collections/med/panel-and-screen.md)
-  * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
-  * [exRNA in Cancer](literature-collections/med/exrna-sci..md)
-  * [cfDNA, EVP, etc](literature-collections/med/multi-omics.md)
-* [Machine learning & AI](literature-collections/ai/README.md)
-  * [Startup](literature-collections/ai/startup.md)
-  * [Deep Learning](literature-collections/ai/deep-learning.md)
-  * [Methods for exRNA](literature-collections/ai/methods-for-liquid-biopsy.md)
-  * [Multi-Omics](literature-collections/ai/multi-omics.md)
-* [More Reading List](literature-collections/README.md)
-
-## Wet Lab Guide
-
+## Wet-lab Guide
 * [Wet Lab Safety Guide](wet-lab/wetlab_safety/README.md)
   * [清华大学生物废弃物处理平台](wet-lab/wetlab_safety/waste.md)
 * [Wet Lab Regulation](wet-lab/wetlab_regulation.md)
@@ -50,3 +26,28 @@
     * [2. How to check the quantity and quality of RNA-seq library](wet-lab/wetlab_training/class-2_ngs-i/how-to-check-the-quantity-and-quality-of-rna-seq-library.md)
     * [3. What is SMART-seq2 and Multiplex](wet-lab/wetlab_training/class-2_ngs-i/what-is-smart-seq2-and-multiplex.md)
 
+
+## Literature Reading
+
+* [RNA Regulation](literature-collections/rna/README.md)
+  * [RNA Structure](literature-collections/rna/rna-structure.md)
+  * [POSTAR](literature-collections/rna/postar.md)
+  * [Quantum Biology](literature-collections/rna/quantum-biology.md)
+* [Precision Medicine](literature-collections/med/README.md)
+  * [Liquid Biopsy - Overview](literature-collections/med/liquid-biopsy.md)
+  * [Cancer Environment](literature-collections/med/cancer-environment.md)
+  * [Panel and Screen](literature-collections/med/panel-and-screen.md)
+  * [exRNA - Tech.](literature-collections/med/exrna-tech..md)
+  * [exRNA in Cancer](literature-collections/med/exrna-sci..md)
+  * [cfDNA, EVP, etc](literature-collections/med/multi-omics.md)
+* [Machine learning & AI](literature-collections/ai/README.md)
+  * [Startup](literature-collections/ai/startup.md)
+  * [Deep Learning](literature-collections/ai/deep-learning.md)
+  * [Methods for exRNA](literature-collections/ai/methods-for-liquid-biopsy.md)
+  * [Multi-Omics](literature-collections/ai/multi-omics.md)
+* [More Reading List](literature-collections/README.md)
+
+
+## Tutorials
+
+* [Bioinformatics Tutorials](books.md)
