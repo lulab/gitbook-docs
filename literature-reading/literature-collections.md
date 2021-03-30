@@ -1,4 +1,4 @@
-# Literature Collections
+# Reading List of Lab Members
 
 ## **Recommended Reading List** _grouped by topic_
 

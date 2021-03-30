@@ -26,7 +26,7 @@ Read more: [Difference Between Plasma And Serum](http://www.differencebetween.ne
 
 **Answer:** **Human Peripheral Blood Mononuclear Cells \(PBMCs\)** are blood cells with a single round nucleus. These cells include lymphocytes \(T, B and NK cells\), monocytes and dendritic cells. PBMCs are parts of the immune system which are critical to cell-mediated and humoral immunity. Our Human PBMCs are isolated from normal healthy donor leukopaks collected in acid-citrate-dextrose formula A \(ACDA\) as an anticoagulant. All donors must be tested negative for HBV, HCV and HIV and are IRB consented.
 
-![PBMC](../../.gitbook/assets/PBMC.jpeg)
+![PBMC](../../.gitbook/assets/pbmc.jpeg)
 
 ## exRNA: extra-cellular RNA
 
@@ -53,7 +53,7 @@ Individual "barcode" sequences are added to each DNA fragment during next-genera
 * _High-Quality Data:_ Accurate maintenance of read length of unknown sequences
 * _Simplified Analysis:_ Automatic sample identification with "barcodes" using Illumina data analysis software
 
-![barcoding](../../.gitbook/assets/barcoding%20%281%29.jpg)
+![barcoding](../../.gitbook/assets/barcoding.jpg)
 
 ### What is SMARTer?
 
@@ -77,7 +77,7 @@ The TSO is used differently in the Single Cell 3' assay compared to the Single C
 
 Single Cell 3' assay after reverse transcription:
 
-![TSO-3](../../.gitbook/assets/TSO-3.png)
+![TSO-3](../../.gitbook/assets/TSO-3%20%281%29.png)
 
 Single Cell 5' assay after reverse transcription:
 
@@ -106,7 +106,7 @@ Products: Single Cell 3', VDJ
 
 * [Kivioja T., Vaharautio A., Karlsson K., Bonke M., Enge M., et al. \(2012\) Counting absolute numbers of molecules using unique molecular identifiers. Nat Methods 9: 72-74](http://www.ncbi.nlm.nih.gov/pubmed/22101854)
 
-![UMI](../../.gitbook/assets/umi%20%281%29.png)
+![UMI](../../.gitbook/assets/umi.png)
 
 ![Figure 1 in Kivioja T. et al., NMET 2012](../../.gitbook/assets/umi-nmeth-figure-1.webp)
 
