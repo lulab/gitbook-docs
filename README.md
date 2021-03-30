@@ -23,23 +23,23 @@ description: 实验室指南
 
 > Docs, Files & Data
 >
-> * [Intranet](https://lulab.gitbook.io/intranet)
+> * [Intranet](intranet_link.md)
 > * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
 > * [腾讯文档](https://docs.qq.com)
 
 ### 📊Drylab
 
-* Facilities @[intranet](https://lulab.gitbook.io/intranet)
-* Servers  @[intranet](https://lulab.gitbook.io/intranet)
-* [Notes and Code shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)
+* Facilities @intranet
+* Servers  @intranet
+* [Notes and Code shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true) @ intranet
 
 ### 🧪Wetlab
 
 * [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/)
 * [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
 * [Wet Lab Training](wet-lab-guide/wetlab_training/)
-* Wetlab Samples @[intranet](https://lulab.gitbook.io/intranet) and @腾讯文档
-* Wetlab Protocol @[intranet](https://lulab.gitbook.io/intranet) and  @清华云：Lu Lab Shared/9.Docs-Protocols 
+* Wetlab Samples @intranet and @腾讯文档
+* Wetlab Protocol @intranet and  @清华云：Lu Lab Shared/9.Docs-Protocols 
 
 
 

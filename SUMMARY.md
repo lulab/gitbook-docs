@@ -2,13 +2,10 @@
 
 * [Lab Guide](README.md)
 * [Lab Calendar](cal.md)
+* [Intranet](intranet_link.md)
 * [FAQ](faq/README.md)
   * [Tips for paper reading](faq/reading.md)
   * [Tips for paper writing](faq/writing.md)
-
-## Intranet
-
-* [Private Docs @ Intranet](intranet/intranet_link.md)
 
 ## Literature Reading
 
