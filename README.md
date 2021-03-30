@@ -1,4 +1,4 @@
-# Introduction
+# Lab Guide
 
 ## Docs of Lu Lab
 

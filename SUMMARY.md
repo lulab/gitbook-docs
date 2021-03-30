@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Lab Guide](README.md)
 * [Lab Guide](lab-guide/README.md)
   * [Lab Calendar](lab-guide/cal.md)
   * [FAQ](lab-guide/faq.md)
