@@ -1,8 +1,8 @@
 # Table of contents
 
-## Lab Guide
-* [Lab Calendar](lab-guide/cal.md)
-* [FAQ](lab-guide/FAQ.md)
+* [Lab Guide](lab-guide/README.md)
+  * [Lab Calendar](lab-guide/cal.md)
+  * [FAQ](lab-guide/FAQ.md)
 
 ## Wet-lab Guide
 * [Wet Lab Safety Guide](wet-lab/wetlab_safety/README.md)

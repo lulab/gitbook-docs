@@ -1,6 +1,8 @@
-# Docs/Books of Lu Lab 
+# Introduction
 
 
+
+## Docs/Books of Lu Lab 
 
 * Lab Guide
   * Wet-lab Guide
