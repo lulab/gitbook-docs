@@ -22,6 +22,8 @@
     * [Multi-Omics](literature-reading/ai/multi-omics.md)
 * [Paper Writing](writing.md)
 
+## Intranet
+
 ## Wet-lab Guide
 
 * [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/README.md)
