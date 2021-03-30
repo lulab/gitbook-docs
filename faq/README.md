@@ -105,6 +105,10 @@
 * 如需购买其他特定软件，请向实验室管理员递交申请，写明需要哪种软件，以及版本号等信息。
 * 此外，对大多的开源软件，清华也提供一个镜像网站，地址： [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
+### **How to automatically receive related literature update every week?**
+
+**see** [**Tips for paper reading - Literature Search**](reading.md#tips-for-literature-search)**.**
+
 ### How to remove cache of a redirect site?
 
 有些时候实验室的域名更换了host的服务器，但是自己电脑cache里还是存的老服务器地址，造成一些链接没法访问，可以清除自己浏览器的cache，重新刷新一下。

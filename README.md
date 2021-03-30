@@ -23,7 +23,7 @@ description: 实验室指南
 
 > Docs, Files & Data
 >
-> * [Intranet](intranet_link.md)
+> * [Intranet](intranet_link.md) hosted by Github/Gitbook
 > * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
 > * [腾讯文档](https://docs.qq.com)
 

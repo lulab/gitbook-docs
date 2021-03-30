@@ -14,7 +14,7 @@
 
 ## Tips for Literature Search
 
-**Automatically receive search notifications every week**
+**How to automatically receive related literature update every week?**
 
 ### 1. Using [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed)
 
