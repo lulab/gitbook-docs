@@ -23,11 +23,14 @@ description: 实验室指南
 
 ### 📊Drylab
 
-* [Facilities](https://github.com/lulab/intranet/wiki/Facilities) @intranet
-* [Servers](https://github.com/lulab/intranet/wiki/Servers)  @intranet
+* Facilities @intranet
+* Servers  @intranet
 
 ### 🧪Wetlab
 
+* [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/README.md)
+* [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
+* [Wet Lab Training](wet-lab-guide/wetlab_training/README.md)
 * [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md) @intranet
 * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol) @intranet
 * Lu Lab Shared/9.Docs-Protocols  @Tsinghua-Cloud
