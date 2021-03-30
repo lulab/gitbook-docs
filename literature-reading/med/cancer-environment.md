@@ -4,7 +4,7 @@ description: Cancer System and Environment
 
 # Cancer Environment
 
-## **I. Cancer Microbiome** 
+## **I. Cancer Microbiome**
 
 * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
 * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
@@ -16,7 +16,7 @@ description: Cancer System and Environment
 
 ## II. Cancer Immunology
 
-### **1. exRNA** 
+### **1. exRNA**
 
 * _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 * _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
@@ -36,6 +36,4 @@ description: Cancer System and Environment
 * _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
 
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology&mode=list)
-
-
 

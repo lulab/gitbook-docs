@@ -12,7 +12,7 @@
 * \[Pico-similar\]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
 * \[Review\]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)
+> * \[PDFs\]\([https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu Lab Shared/1.Project Progress/17' Wang Hongke/Top reading list- %5BexRNA-seq Technology%5D](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)\)
 
 ## I. exRNA/cfRNA
 
@@ -67,7 +67,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
-### 2. Commercial Kit 
+### 2. Commercial Kit
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -77,6 +77,4 @@
   * Clontech technology-pico kit
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
-
-###  <a id="drylab"></a>
 

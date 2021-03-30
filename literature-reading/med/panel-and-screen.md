@@ -31,8 +31,6 @@
 * **miRNAs:** _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
 * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
-
-
 ## III. Application/Testing
 
 ### Detection/Diagnosis
@@ -40,13 +38,11 @@
 * **ctDNA+Protein \(CancerSEEK\)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
-### Prognosis 
+### Prognosis
 
 * **Progosis ctDNA**: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
 * **Prognosis ctDNA**: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
 * **Prognosis ctDNA**: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
-
-
 

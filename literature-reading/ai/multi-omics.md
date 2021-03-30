@@ -8,7 +8,7 @@
 * _**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
 * _**2014 Nature Reviews**_ - Principles and methods of integrative genomic analyses in cancer
 
-## 2. Research Article 
+## 2. Research Article
 
 * _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
 * _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
@@ -31,11 +31,7 @@
 * ✨ _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * ✨ _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
-
-
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FMulti-Omics&mode=list)
 
 _\*\*\*\*_
-
-
 

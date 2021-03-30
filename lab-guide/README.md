@@ -31,11 +31,9 @@ description: 实验室指南
 
 ## II. Research in Lu Lab
 
-> * **Lab Docs/Files**
->   1. [Intranet](https://github.com/lulab/intranet)Private \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
->   2. [清华云盘](https://cloud.tsinghua.edu.cn)Private
+> * **Lab Docs/Files** 1. [Intranet](https://github.com/lulab/intranet)Private \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\) 2. [清华云盘](https://cloud.tsinghua.edu.cn)Private
 >
->      \([App Download](https://www.seafile.com/download)\)
+>   \([App Download](https://www.seafile.com/download)\)
 
 ### 📊Drylab
 

@@ -37,7 +37,7 @@ Data about RBP-RNA interaction
 * Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder. \(Science, 2018\)
 * An Arabidopsis PWI and RRM motif-containing protein is critical for pre-mRNA splicing and ABA responses. \(Nature communications, 2015\)
 
-#### Splicing & Cancer
+### Splicing & Cancer
 
 * 2020 - _Nature Reviews_ - Roles and mechanisms of alternative splicing in cancer — implications for care
 

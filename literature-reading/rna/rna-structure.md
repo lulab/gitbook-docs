@@ -1,6 +1,6 @@
 # RNA Structure
 
-## I. RNA Structure - Experimental Methods 
+## I. RNA Structure - Experimental Methods
 
 ### 1. Structurome
 
@@ -10,19 +10,17 @@
 
 ### 2. RiboShape: Ribo-seq+SHAPE
 
-* **2018** _**Cell**_  **\(e. coli, proposed a model\)** _****_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
+* **2018** _**Cell**_  **\(e. coli, proposed a model\)** _\*\*_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
 * _**2014 NAR**_ **\(proposed a model\)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 * **2018** _**Mol. Cell**_ **\(e. coli\)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
-* **2020** _**Genome Biology**_ **\(zebrafish\)** _****_- RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
+* **2020** _**Genome Biology**_ **\(zebrafish\)** _\*\*_- RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
 * _**2017 Nature**_ \(**plant**\)- Global translational reprogramming is a fundamental layer of immune regulation in plants
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape&mode=list)
 
-
-
 ## II. RNA Structure - Computational Methods
 
-**Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
+**Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
 
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
 
@@ -34,7 +32,7 @@
     * What is dynamic programming? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)\_\_
   * **SuperFold** for long distance base pairs \(folding\)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)\_\_
 
-> **RNAstructure**/**Mfold**  and **RNAfold** perform good for sequence less than 200nt.
+> **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
 >
 > **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
 
@@ -56,7 +54,7 @@
 * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
 * **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)
 
-[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list) 
+[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
 
 **More Recommended Reading for Motif finding:**
 

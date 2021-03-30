@@ -27,7 +27,7 @@
 
 ## II.  Representative Studies in Liquid Biopsy
 
-> **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
+> **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
