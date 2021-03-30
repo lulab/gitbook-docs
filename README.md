@@ -23,7 +23,7 @@ description: 实验室指南
 
 > Docs, Files & Data
 >
-> * [Intranet](https://lulab.gitbook.io/intranet) \([Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
+> * [Intranet](https://lulab.gitbook.io/intranet)
 > * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
 > * [腾讯文档](https://docs.qq.com)
 
@@ -31,6 +31,7 @@ description: 实验室指南
 
 * Facilities @[intranet](https://lulab.gitbook.io/intranet)
 * Servers  @[intranet](https://lulab.gitbook.io/intranet)
+* [Notes and Code shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)
 
 ### 🧪Wetlab
 
