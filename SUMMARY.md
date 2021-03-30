@@ -8,9 +8,7 @@
 
 ## Intranet
 
----
-
-* [Private Docs @ Intranet](intranet_link.md)
+* [Private Docs @ Intranet](intranet/intranet_link.md)
 
 ## Literature Reading
 
