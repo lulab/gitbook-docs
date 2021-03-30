@@ -10,7 +10,7 @@
 
 ---
 
-* [Private Docs @ Intranet](intranet-1.md)
+* [Private Docs @ Intranet](intranet_link.md)
 
 ## Literature Reading
 
