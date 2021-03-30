@@ -1,6 +1,6 @@
 # Wet Lab Regulation
 
-> 原文： [wetlab-regulation.docx](./wetlab-regulation.docx)
+> 原文： [wetlab-regulation.docx](https://github.com/lulab/docs/tree/22f2192a408a6d88618d37e891c261cce178a9ab/wet-lab-guide/wetlab-regulation.docx)
 
 ## Wet-lab 管理制度
 

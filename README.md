@@ -2,7 +2,7 @@
 
 ## Docs of Lu Lab
 
-* \*\*\*\*[**Lab Guide**](lab-guide/)\*\*\*\*
+* **Lab Guide**
   * Wet-lab Guide
 * **Literature Reading**
 
