@@ -1,4 +1,4 @@
-# Paper Writing
+# Tips for paper writing
 
 **Format**
 
