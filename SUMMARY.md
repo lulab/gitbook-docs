@@ -3,9 +3,6 @@
 * [Lab Guide](README.md)
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
-
----
-
 * [Literature Reading](literature-reading/README.md)
   * [RNA Regulation](literature-reading/rna/README.md)
     * [RNA Structure](literature-reading/rna/rna-structure.md)
@@ -23,6 +20,7 @@
     * [Deep Learning](literature-reading/ai/deep-learning.md)
     * [Methods for exRNA](literature-reading/ai/methods-for-liquid-biopsy.md)
     * [Multi-Omics](literature-reading/ai/multi-omics.md)
+* [Paper Writing](writing.md)
 
 ## Wet-lab Guide
 
