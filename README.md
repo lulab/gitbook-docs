@@ -25,6 +25,7 @@ description: 实验室指南
 >
 > * [Intranet](https://lulab.gitbook.io/intranet) \([Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
 > * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
+> * 腾讯文档
 
 ### 📊Drylab
 
