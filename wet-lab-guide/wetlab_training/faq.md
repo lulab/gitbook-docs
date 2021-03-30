@@ -53,7 +53,7 @@ Individual "barcode" sequences are added to each DNA fragment during next-genera
 * _High-Quality Data:_ Accurate maintenance of read length of unknown sequences
 * _Simplified Analysis:_ Automatic sample identification with "barcodes" using Illumina data analysis software
 
-![barcoding](../../.gitbook/assets/barcoding.jpg)
+![barcoding](../../.gitbook/assets/barcoding%20%282%29.jpg)
 
 ### What is SMARTer?
 
@@ -63,7 +63,7 @@ Procedure: Cells are lysed, and the RNA is hybridized to an oligo\(dT\)-containi
 
 There are 2 versions of Smart-Seq: Smart-Seq and Smart-seq2. Smart-seq2 includes several improvements over the original Smart-Seq protocol. The new protocol includes a locked nucleic acid \(LNA\), an increased MgCl2 concentration, betaine, and elimination of the purification step to improve the yield significantly.
 
-![SMARTer](../../.gitbook/assets/SMARTer.png)
+![SMARTer](../../.gitbook/assets/SMARTer%20%281%29.png)
 
 > Reference:
 
@@ -81,7 +81,7 @@ Single Cell 3' assay after reverse transcription:
 
 Single Cell 5' assay after reverse transcription:
 
-![TSP-5](../../.gitbook/assets/TSO-5.png)
+![TSP-5](../../.gitbook/assets/TSO-5%20%281%29.png)
 
 Products: Single Cell 3', VDJ
 
