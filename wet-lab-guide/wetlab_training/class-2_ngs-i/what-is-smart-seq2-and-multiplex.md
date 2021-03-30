@@ -79,7 +79,7 @@
 
 Multiplex sequencing：多重测序，使用 **barcode\(条形码/标签\)** 来区分样品，增加每次运行的样本数量，通过识别barcode序列，可以区分多种不同的样品，在研究基因组的特定区域或小型基因组时，样本多重分析十分有用，**更短的时间，更多的样本**
 
-![](../../../.gitbook/assets/barcoding%20%282%29%20%282%29.jpg)
+![](../../../.gitbook/assets/barcoding.jpg)
 
 ### 2. 优势
 
