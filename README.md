@@ -14,41 +14,34 @@ description: 实验室指南
 
 ### 📖 Learning <a id="Learning"></a>
 
-* **Basics**
+* [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * [Basic Tutorial](https://lulab2.gitbook.io)
-  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255) @evernote
-  * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/) @TsinghuaCloud
-  * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-
-  
-* **Literatures**
+* [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255) @evernote
+* [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/) @TsinghuaCloud
 
 ![](.gitbook/assets/learning.jpg)
 
 ## II. Research in Lu Lab
 
-> * **Lab Docs/Files** 1. [Intranet](https://github.com/lulab/intranet)Private \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\) 2. [清华云盘](https://cloud.tsinghua.edu.cn)Private
->
->   \([App Download](https://www.seafile.com/download)\)
+> * **Lab Docs/Files** 
+>   * 1. [Intranet](https://github.com/lulab/intranet) \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\) 
+>   * 2. [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
 
 ### 📊Drylab
 
 * _Wiki_ for Drylab Configuration and Instruction
-  * [Facilities](https://github.com/lulab/intranet/wiki/Facilities)Private \(Xiaofan, Zhang Shang\)
-  * [Servers](https://github.com/lulab/intranet/wiki/Servers)Private \(Zhang Shang\)
+  * [Facilities](https://github.com/lulab/intranet/wiki/Facilities) 
+  * [Servers](https://github.com/lulab/intranet/wiki/Servers) 
 
 ### 🧪Wetlab
 
-* [Wetlab Training](https://lulab.gitbook.io/books/wet-lab/wetlab_training) \(Siqi\)
-  * Wetlab [Safety](https://lulab.gitbook.io/books/wet-lab/wetlab_safety) and [Regulation](https://lulab.gitbook.io/books/wet-lab/wetlab_regulation) \(Siqi、Shaozhen\)
-* Wetlab ProtocolPrivate
-  * @[github/intranet](https://github.com/lulab/intranet/blob/master/wetlab_protocol)Private \(Yuhuan + Hongke\)
-  * @Tsinghua-Cloud/9.Docs-ProtocolsPrivate   \(Shaozhen + Hongke + Siqi et al.\)
-* [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md)Private \(multiple persons\)
+* Wetlab Protocol @ [github/intranet](https://github.com/lulab/intranet/blob/master/wetlab_protocol)
+* @Tsinghua-Cloud/9.Docs-Protocols   
+* [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md) 
 
 ### 🗂Data
 
-* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)Private \(multiple persons\)
+* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md) 
 
 ![](.gitbook/assets/science.gif)
 
@@ -60,7 +53,7 @@ description: 实验室指南
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文Private: 清华云盘 - Lu Lab Archive/毕业论文
   * ManuscriptsPrivate: 清华云盘 - Lu Lab Shared/5.Manuscript
-    * [Manuscipt writing checking list](https://github.com/lulab/docs/tree/6dcc3c1cbe10615b8469c30ccba4a7ede44dbd78/lab-guide/writing.md)
+    * Manuscript writing checking list
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
 ![](.gitbook/assets/success.png)
