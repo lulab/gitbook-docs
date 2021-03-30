@@ -22,6 +22,10 @@
     * [Multi-Omics](literature-reading/ai/multi-omics.md)
 * [Paper Writing](writing.md)
 
+## Intranet
+
+* [Private Docs @ Intranet](https://lulab.gitbook.io/intranet)
+
 ## Wet-lab Guide
 
 * [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/README.md)
@@ -45,6 +49,4 @@
     * [2. How to check the quantity and quality of RNA-seq library](wet-lab-guide/wetlab_training/class-2_ngs-i/how-to-check-the-quantity-and-quality-of-rna-seq-library.md)
     * [3. What is SMART-seq2 and Multiplex](wet-lab-guide/wetlab_training/class-2_ngs-i/what-is-smart-seq2-and-multiplex.md)
 
-## Intranet
 
-* [Private Docs @ Intranet](https://lulab.gitbook.io/intranet)
