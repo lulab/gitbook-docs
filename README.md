@@ -2,9 +2,9 @@
 
 ## Docs of Lu Lab
 
-* Lab Guide
+* **Lab Guide**
   * Wet-lab Guide
-* Literature Reading
+* **Literature Reading**
 
 ## Books of Lu Lab
 
