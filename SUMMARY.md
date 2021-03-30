@@ -3,28 +3,33 @@
 * [Lab Guide](README.md)
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
-* [Literature Reading](literature-reading/README.md)
-  * [RNA Regulation](literature-reading/rna/README.md)
-    * [RNA Structure](literature-reading/rna/rna-structure.md)
-    * [POSTAR](literature-reading/rna/postar.md)
-    * [Quantum Biology](literature-reading/rna/quantum-biology.md)
-  * [Precision Medicine](literature-reading/med/README.md)
-    * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
-    * [Cancer Environment](literature-reading/med/cancer-environment.md)
-    * [Panel and Screen](literature-reading/med/panel-and-screen.md)
-    * [exRNA - Tech.](literature-reading/med/exrna-tech..md)
-    * [exRNA in Cancer](literature-reading/med/exrna-sci..md)
-    * [cfDNA, EVP, etc](literature-reading/med/multi-omics.md)
-  * [Machine learning & AI](literature-reading/ai/README.md)
-    * [Startup](literature-reading/ai/startup.md)
-    * [Deep Learning](literature-reading/ai/deep-learning.md)
-    * [Methods for exRNA](literature-reading/ai/methods-for-liquid-biopsy.md)
-    * [Multi-Omics](literature-reading/ai/multi-omics.md)
-* [Paper Writing](writing.md)
+   * [Tips for paper reading](reading.md)
+   * [Tips for paper writing](writing.md)
 
 ## Intranet
 
 * [Private Docs @ Intranet](https://lulab.gitbook.io/intranet)
+
+
+## Literature Reading
+* [RNA Regulation](literature-reading/rna/README.md)
+  * [RNA Structure](literature-reading/rna/rna-structure.md)
+  * [POSTAR](literature-reading/rna/postar.md)
+  * [Quantum Biology](literature-reading/rna/quantum-biology.md)
+* [Precision Medicine](literature-reading/med/README.md)
+  * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
+  * [Cancer Environment](literature-reading/med/cancer-environment.md)
+  * [Panel and Screen](literature-reading/med/panel-and-screen.md)
+  * [exRNA - Tech.](literature-reading/med/exrna-tech..md)
+  * [exRNA in Cancer](literature-reading/med/exrna-sci..md)
+  * [cfDNA, EVP, etc](literature-reading/med/multi-omics.md)
+* [Machine learning & AI](literature-reading/ai/README.md)
+  * [Startup](literature-reading/ai/startup.md)
+  * [Deep Learning](literature-reading/ai/deep-learning.md)
+  * [Methods for exRNA](literature-reading/ai/methods-for-liquid-biopsy.md)
+  * [Multi-Omics](literature-reading/ai/multi-omics.md)
+
+
 
 ## Wet-lab Guide
 
