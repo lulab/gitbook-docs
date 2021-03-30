@@ -1,8 +1,17 @@
-# Bioinformatics Tutorials
+# Docs/Books of Lu Lab 
 
-## Bioinformatics Teaching @ Tsinghua University
 
-{% embed url="https://lulab2.gitbook.io/teaching" caption="Basic Tutorial" %}
 
-{% embed url="http://lulab1.gitbook.io" caption="Advanced Tutorial" %}
+* Lab Guide
+  * Wet-lab Guide
+* Literature Reading
+* Books/Tutorials
+
+
+
+
+
+---
+
+Lu Lab @ Tsinghua University 2021
 
