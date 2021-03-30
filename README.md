@@ -21,6 +21,11 @@ description: 实验室指南
 
 ## II. Research in Lu Lab
 
+> Docs, Files & Data
+>
+> * [Intranet](https://lulab.gitbook.io/intranet) \([Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
+> * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
+
 ### 📊Drylab
 
 * Facilities @[intranet](https://lulab.gitbook.io/intranet)
@@ -31,15 +36,10 @@ description: 实验室指南
 * [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/)
 * [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
 * [Wet Lab Training](wet-lab-guide/wetlab_training/)
-* Wetlab Samples @[intranet](https://lulab.gitbook.io/intranet)
-* Wetlab Protocol @[intranet](https://lulab.gitbook.io/intranet)
-* Lu Lab Shared/9.Docs-Protocols  @Tsinghua-Cloud
+* Wetlab Samples @[intranet](https://lulab.gitbook.io/intranet) and @腾讯文档
+* Wetlab Protocol @[intranet](https://lulab.gitbook.io/intranet) and  @清华云：Lu Lab Shared/9.Docs-Protocols 
 
-### 🗂Docs, Files & Data
 
-* [Intranet](https://lulab.gitbook.io/intranet) \([Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
-* [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
-* Data Summary @[intranet](https://lulab.gitbook.io/intranet)
 
 ![](.gitbook/assets/science.gif)
 
