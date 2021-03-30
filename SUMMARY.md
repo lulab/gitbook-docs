@@ -1,5 +1,7 @@
 # Table of contents
 
+
+* [Bioinformatics Tutorials](books.md)
 * [Lab Guide](lab-guide/README.md)
   * [Lab Calendar](lab-guide/cal.md)
   * [FAQ](lab-guide/FAQ.md)
@@ -29,6 +31,7 @@
 
 ## Literature Reading
 
+* [Reading List of Lab Members](literature-collections/README.md)
 * [RNA Regulation](literature-collections/rna/README.md)
   * [RNA Structure](literature-collections/rna/rna-structure.md)
   * [POSTAR](literature-collections/rna/postar.md)
@@ -45,9 +48,7 @@
   * [Deep Learning](literature-collections/ai/deep-learning.md)
   * [Methods for exRNA](literature-collections/ai/methods-for-liquid-biopsy.md)
   * [Multi-Omics](literature-collections/ai/multi-omics.md)
-* [More Reading List](literature-collections/README.md)
 
 
-## Tutorials
 
-* [Bioinformatics Tutorials](books.md)
+

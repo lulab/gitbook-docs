@@ -4,10 +4,15 @@
 
 ## Docs/Books of Lu Lab 
 
-* Lab Guide
+* **Tutorials**
+  
+* **Lab Guide**
+  
   * Wet-lab Guide
-* Literature Reading
-* Books/Tutorials
+  
+* **Literature Reading**
+
+  
 
 
 
