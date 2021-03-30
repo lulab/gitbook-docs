@@ -14,33 +14,28 @@ description: 实验室指南
 
 ### 📖 Learning <a id="Learning"></a>
 
-* [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * [Basic Tutorial](https://lulab2.gitbook.io)
+* [Courses](https://www.ncrnalab.org/courses) @Tsinghua \([Bioinformatics Tutorial](https://lulab2.gitbook.io)\)
 * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255) @evernote
-* [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/) @TsinghuaCloud
 
 ![](.gitbook/assets/learning.jpg)
 
 ## II. Research in Lu Lab
 
-> * **Lab Docs/Files** 
->   * 1. [Intranet](https://github.com/lulab/intranet) \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\) 
->   * 2. [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
-
 ### 📊Drylab
 
-* _Wiki_ for Drylab Configuration and Instruction
-  * [Facilities](https://github.com/lulab/intranet/wiki/Facilities) 
-  * [Servers](https://github.com/lulab/intranet/wiki/Servers) 
+* [Facilities](https://github.com/lulab/intranet/wiki/Facilities) @intranet
+* [Servers](https://github.com/lulab/intranet/wiki/Servers)  @intranet
 
 ### 🧪Wetlab
 
-* Wetlab Protocol @ [github/intranet](https://github.com/lulab/intranet/blob/master/wetlab_protocol)
-* @Tsinghua-Cloud/9.Docs-Protocols   
-* [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md) 
+* [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md) @intranet
+* [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol) @intranet
+* Lu Lab Shared/9.Docs-Protocols  @Tsinghua-Cloud
 
-### 🗂Data
+### 🗂Docs, Files & Data
 
+* [Intranet](https://github.com/lulab/intranet) \( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) ; [Notes shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true)\)
+* [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
 * [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md) 
 
 ![](.gitbook/assets/science.gif)
@@ -53,7 +48,7 @@ description: 实验室指南
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文Private: 清华云盘 - Lu Lab Archive/毕业论文
   * ManuscriptsPrivate: 清华云盘 - Lu Lab Shared/5.Manuscript
-    * Manuscript writing checking list
+    * [Manuscript writing checking list](writing.md)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
 ![](.gitbook/assets/success.png)
