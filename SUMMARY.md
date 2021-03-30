@@ -8,7 +8,9 @@
 
 ## Intranet
 
-* [Private Docs @ Intranet](https://lulab.gitbook.io/intranet)
+---
+
+* [Private Docs @ Intranet](intranet-1.md)
 
 ## Literature Reading
 
