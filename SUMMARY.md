@@ -47,3 +47,4 @@
 
 ## Intranet
 
+* [Private Docs @ Intranet](https://lulab.gitbook.io/intranet)
