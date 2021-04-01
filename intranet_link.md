@@ -5,7 +5,7 @@
 * **Reading Account**: lulab\_students \(e-mail: postar\_lulab@163.com\)
 * **Passwd**: ask lab admin
 
-> Advanced users can acquire the editing permission for the original files: [https://github.com/lulab/intranet](https://github.com/lulab/intranet)
+> Advanced users can acquire the editing permission from PI for the original files: [https://github.com/lulab/intranet](https://github.com/lulab/intranet)
 
 
 
