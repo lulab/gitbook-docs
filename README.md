@@ -17,10 +17,7 @@ description: 实验室指南
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua \([Bioinformatics Tutorial](https://lulab2.gitbook.io)\)
 * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255) @evernote
-* Literature Reading
-  * [RNA Regulation](literature-reading/rna/)
-  * [Precision Medicine](literature-reading/med/)
-  * [Machine Leaning & AI](literature-reading/ai/)
+* [Literature Reading](faq/reading.md)
 
 ![](.gitbook/assets/learning.jpg)
 
