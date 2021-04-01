@@ -23,26 +23,26 @@
 
 ## Class III. NGS II
 
-* [1. How to do Pico](./)
-* [2. How to improve Pico](./)
+* 1. How to do Pico
+* 2. How to improve Pico
   * 2.1 Replace pico kit by other independent reagents
   * 2.2 Introduce UMI & barcode into pico system
   * 2.3 Remove ribosomal cDNA by DASH/CRISPR method
 
 ## Class IV. Validation
 
-* [1. How to find and select candidates](./)
-  * [1.1 Differential Expression](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/2.rna-seq/2.1.differential-expression)
-  * [1.2 Alternative Splicing](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/2.rna-seq/2.2.alternative-splicing)
-* [2. How to find controls and references](./)
-* [3. How to do qRT-PCR](./)
+* 1. How to find and select candidates
+  * 1.1 Differential Expression
+  * 1.2 Alternative Splicing
+* 2. How to find controls and references
+* 3. How to do qRT-PCR
   * 3.1 How to select qPCR strategy
   * 3.2 How to reverse transcrip RNA to cDNA
   * 3.3 How to design qPCR plate
   * 3.4 How to minish qPCR error between replicats
   * 3.5 How to analysis qPCR results
-* [4. How to do ddPCR](./)
-* [5. More validation methods](./)
+* 4. How to do ddPCR
+* 5. More validation methods
   * Alternative splicing: Agilent 2100 or gel electrophoresis
 
 ## Class V. Patent and License
