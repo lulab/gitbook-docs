@@ -25,23 +25,26 @@ description: 实验室指南
 
 > Docs, Files & Data
 >
-> * [Intranet](intranet_link.md) hosted by Github/Gitbook
-> * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\)
-> * [腾讯文档](https://docs.qq.com)
+> * [Intranet](intranet_link.md) hosted by Github/Gitbook \(private\) 
+> * [清华云盘](https://cloud.tsinghua.edu.cn) \([App Download](https://www.seafile.com/download)\) \(private\) 
+> * [腾讯文档](https://docs.qq.com) \(private\) 
+> * 印象笔记 \(private\)
 
 ### 📊Drylab
 
 * Facilities @intranet
 * Servers  @intranet
-* [Notes and Code shared by lab members](https://github.com/lulab/intranet/projects/1?fullscreen=true) @ intranet
+* Notes and Code shared by lab members @ intranet
+* Datasets @intranet and @腾讯文档\(private\) 
 
 ### 🧪Wetlab
 
-* [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/)
-* [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
 * [Wet Lab Training](wet-lab-guide/wetlab_training/)
-* Wetlab Samples @intranet and @腾讯文档
-* Wetlab Protocol @intranet and  @清华云：Lu Lab Shared/9.Docs-Protocols 
+  * [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/)
+
+    [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
+* Wetlab Protocols @ 印象笔记\(private\) 
+* Wetlab Samples @intranet and @腾讯文档\(private\) 
 
 
 
