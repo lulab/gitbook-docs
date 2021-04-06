@@ -57,7 +57,7 @@ description: 实验室指南
 * [Paper](https://www.ncrnalab.org/publications/)
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文Private: 清华云盘 - Lu Lab Archive/毕业论文
-  * ManuscriptsPrivate: 清华云盘 - Lu Lab Shared/5.Manuscript
+  * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
     * [Manuscript writing checking list](faq/writing.md)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
