@@ -37,7 +37,7 @@ description: 实验室指南
 * Facilities @intranet
 * Servers  @intranet
 * Notes and Code shared by lab members @ intranet
-* Datasets @intranet and @腾讯文档\(private\) 
+* Datasets @腾讯文档\(private\) 
 
 ### 🧪Wetlab
 
@@ -46,9 +46,7 @@ description: 实验室指南
 
     [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
 * Wetlab Protocols @ 印象笔记\(private\) 
-* Wetlab Samples @intranet and @腾讯文档\(private\) 
-
-
+* Wetlab Samples @腾讯文档\(private\) 
 
 ![](.gitbook/assets/science.gif)
 
