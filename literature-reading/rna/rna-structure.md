@@ -10,11 +10,15 @@
 
 ### 2. RiboShape: Ribo-seq+SHAPE
 
-* **2018** _**Cell**_  **\(e. coli, proposed a model\)** _\*\*_- Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
+* **2018** _**Cell**_  **\(e. coli, proposed a model\)**  Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
 * _**2014 NAR**_ **\(proposed a model\)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 * **2018** _**Mol. Cell**_ **\(e. coli\)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
-* **2020** _**Genome Biology**_ **\(zebrafish\)** _\*\*_- RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
+* **2020** _**Genome Biology**_ **\(zebrafish\)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
 * _**2017 Nature**_ \(**plant**\)- Global translational reprogramming is a fundamental layer of immune regulation in plants
+
+#### 2.1 Motif in translation regulation
+
+* _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape&mode=list)
 
