@@ -27,8 +27,8 @@
   * Upload files **in advance** to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
 {% hint style="warning" %}
-* **Upload in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
-* **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
+1. **Upload in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
+2. **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
 {% endhint %}
 
 > **请所有人都要特别注意要有好的实验和科研记录的习惯**：
