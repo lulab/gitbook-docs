@@ -1,5 +1,25 @@
 # Lab Calendar
 
+## Group Meeting 
+
+* 【Time】 SAT 2pm
+* 【Location】生物技术馆二楼会议室（ 2-201）
+* [**Meeting Schedule Detail**](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)\*\*\*\*
+* **5min paper**
+  * Upload to TsinghuaCloud: Lu Lab Shared/2.PDF - Literature Reading/5min Papers \([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)\)
+* **Project** PPT
+  * Upload to TsinghuaCloud: Lu Lab Shared/3a.PPT - Project Presentation
+* **JC** PPT
+  * Upload to TsinghuaCloud: Lu Lab Shared/3b.PPT - Journal Club \([public link](%20https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)\)
+  * [JC voting link ](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?c=F6A0A0) 
+
+{% hint style="warning" %}
+1. **Upload in advance**: PDFs of 5’paper and PPTs of presentation
+2. **Prepare in advance**: seats and presentation show
+{% endhint %}
+
+
+
 ## Lab Calendars
 
 * **Group Meeting Schedule**
