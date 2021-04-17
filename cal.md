@@ -23,7 +23,7 @@
   * **Work Report -** Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
 {% hint style="warning" %}
-1. **Upload in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
+1. **Upload/email in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
 2. **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
 {% endhint %}
 
