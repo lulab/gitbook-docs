@@ -18,11 +18,11 @@
 2. **Prepare in advance**: seats and presentation show
 {% endhint %}
 
-## Project Meetings
+## Subgroup \(Project\) Meetings
 
 * 【Time】  THU 2pm,  FRI 2pm
 * 【Location】 生物技术馆 2-105 \(or 2-201 or 2-203\)
-* [Meeting **Minutes** and **Schedules**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) of PI
+* [**Project Minutes/Notes** and **Subgroup Meeting Schedules**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) of PI
 * **Work Report**
   * Upload files **in advance** to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
