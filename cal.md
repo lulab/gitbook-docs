@@ -6,17 +6,37 @@
 * 【Location】生物技术馆二楼会议室（ 2-201）
 * [**Meeting Schedule Detail**](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)\*\*\*\*
 * **5min paper**
-  * Upload to TsinghuaCloud: Lu Lab Shared/2.PDF - Literature Reading/5min Papers \([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)\)
+  * Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers \([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)\)
 * **Project** PPT
-  * Upload to TsinghuaCloud: Lu Lab Shared/3a.PPT - Project Presentation
+  * Upload to _TsinghuaCloud_: Lu Lab Shared/3a.PPT - Project Presentation
 * **JC** PPT
-  * Upload to TsinghuaCloud: Lu Lab Shared/3b.PPT - Journal Club \([public link](%20https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)\)
-  * [JC voting link ](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?c=F6A0A0) 
+  * Upload to _TsinghuaCloud_: Lu Lab Shared/3b.PPT - Journal Club \([public link](%20https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)\)
+  * [JC voting link ](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?c=F6A0A0) @ _Tencent Docs_
 
 {% hint style="warning" %}
 1. **Upload in advance**: PDFs of 5’paper and PPTs of presentation
 2. **Prepare in advance**: seats and presentation show
 {% endhint %}
+
+## Project Meetings
+
+* 【Time】  THU 2pm,  FRI 2pm
+* 【Location】 生物技术馆 2-105 \(or 2-201 or 2-203\)
+* [Meeting **Minutes** and **Schedules**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) of PI
+* **Work Report**
+  * Upload files **in advance** to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
+
+{% hint style="warning" %}
+* **Upload in advance**: Before the meeting, please upload report files to TsinghuaCloud or email the link/files in advance \(before 9am\).
+* **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
+{% endhint %}
+
+> **请所有人都要特别注意要有好的实验和科研记录的习惯**：
+>
+> * 小组会的 ppt 等书面结果要上传清华云给PI提前看一下；
+> * 如果没有清华云，要 email 给PI；
+> * 如果不习惯清华云，有自己的笔记软件或者云盘组织自己的工作结果也很好，可以每次小组会前email 链接 给PI；
+> * 如果忘了，亡羊补牢也不晚，记得会后上传和 email。
 
 
 
