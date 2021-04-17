@@ -27,16 +27,16 @@
   * Upload files **in advance** to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
 {% hint style="warning" %}
-* **Upload in advance**: Before the meeting, please upload report files to TsinghuaCloud or email the link/files in advance \(before 9am\).
+* **Upload in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
 * **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
 {% endhint %}
 
 > **请所有人都要特别注意要有好的实验和科研记录的习惯**：
 >
-> * 小组会的 ppt 等书面结果要上传清华云给PI提前看一下；
-> * 如果没有清华云，要 email 给PI；
-> * 如果不习惯清华云，有自己的笔记软件或者云盘组织自己的工作结果也很好，可以每次小组会前email 链接 给PI；
-> * 如果忘了，亡羊补牢也不晚，记得会后上传和 email。
+> * 小组会的 ppt 等书面结果尽量提前上传清华云。
+>   * 如果没有清华云，可以 email 文件给PI；
+>   * 如果不习惯清华云，有自己的笔记软件或者云盘组织自己的工作结果也很好，可以每次小组会前email 链接给PI；
+>   * 如果忘了，亡羊补牢也不晚，记得会后上传和/或email。
 
 
 
