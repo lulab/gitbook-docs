@@ -17,7 +17,7 @@
 ## I. exRNA/cfRNA
 
 * **MISC**
-  * **long cfRNA -** _**2021 Nature Commn.**_ **- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+  * **long cfRNA:** _**2021 Nature Commn.**_ **- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
   * **long evRNA-mRNA:** _**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
   * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
