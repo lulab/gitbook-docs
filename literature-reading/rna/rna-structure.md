@@ -16,9 +16,10 @@
 * **2020** _**Genome Biology**_ **\(zebrafish\)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
 * _**2017 Nature**_ \(**plant**\)- Global translational reprogramming is a fundamental layer of immune regulation in plants
 
-#### 2.1 Motif in translation regulation
+#### 2.1 Motif 
 
 * _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
+* _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly\(A\)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape&mode=list)
 
@@ -33,8 +34,8 @@
 * **Energy Model** 
   * **RNAstructure/Mfold**  and **RNAfold** 
     * How do RNA folding algorithms work? \(Sean R Eddy\) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457) 
-    * What is dynamic programming? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)\_\_
-  * **SuperFold** for long distance base pairs \(folding\)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)\_\_
+    * What is dynamic programming? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
+  * **SuperFold** for long distance base pairs \(folding\)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 
 > **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
 >
@@ -44,7 +45,7 @@
   * What is a hidden Markov model? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315) 
   * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. \(Need a short tutorial for SCFG.\)_
 * **Deep Learning Method**
-  * \*\*\*\*[2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
+  * [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
   * \(**Transfer learning**\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
