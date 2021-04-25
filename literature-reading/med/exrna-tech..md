@@ -12,7 +12,7 @@
 * \[Pico-similar\]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
 * \[Review\]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
 
-> * \[PDFs\]\([https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu Lab Shared/1.Project Progress/17' Wang Hongke/Top reading list- %5BexRNA-seq Technology%5D](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)\)
+> * [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17%27%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)
 
 ## I. exRNA/cfRNA
 
