@@ -2,18 +2,18 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
-## I. Analysis
+## I. NGS Analysis
 
 ### **RNA-seq Analysis - Differential Expression**
 
 * _**2021 Theranostics**_ - Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
 * **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
 
-### **RNA-seq Analysis - more**
+### **RNA-seq Analysis - More**
 
-* see more in RNA Regulation Analysis
+* see more RNA-seq analysis pipelines in [Tutorial: RNA Regulation Analysis](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/6.rna-regulation-analyses)
 
-### **Meta-Analysis**
+## **II. Meta-Analysis**
 
 * \[Protein markers\] _**2016 Lancet Neurol**_ - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
 * \[DNA markers\] _**2014 Nat Genetics**_ - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
@@ -24,7 +24,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FMeta-analysis&mode=list)
 
-## II. Large-cohort Validation/Screen
+## III. Large-cohort Validation/Screen
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Validation&mode=list)
 
@@ -37,14 +37,12 @@
 * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
-## III. Application/Testing
-
-### Detection/Diagnosis
+### Other Detection/Diagnosis Panels
 
 * **ctDNA+Protein \(CancerSEEK\)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
-### Prognosis
+### Other Prognosis Panels
 
 * **Progosis ctDNA**: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
 * **Prognosis ctDNA**: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
