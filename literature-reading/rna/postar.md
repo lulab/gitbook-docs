@@ -98,13 +98,13 @@ Data about RBP-RNA interaction
 | Rfoot | DeepRibo | scikit-ribo | diricore | Plastid |
 | RiboWaltz | FLOSS | **RiboDiff** | Iχnos | Rfeet |
 | **RiboWave** | ORF-RATER | riborex | PausePred | RiboGalaxy |
-|  | PRICE | \*\*\*\*[**Xtail**](https://pubmed.ncbi.nlm.nih.gov/27041671/)\*\*\*\* | ROSE | RiboProfiling |
+|  | PRICE | [**Xtail**](https://pubmed.ncbi.nlm.nih.gov/27041671/) | ROSE | RiboProfiling |
 |  | RiboCode |  | RiboMiner | riboSeqR |
 |  | RiboHMM |  |  | RiboTools |
 |  | RibORF |  |  | RIVIT |
 |  | **RiboTaper** |  |  | Shoelaces |
 |  | RP-BP |  |  | tRanslatome |
-|  | SPECtre |  |  | \*\*\*\*[**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/)\*\*\*\* |
+|  | SPECtre |  |  | [**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/) |
 |  | TITER |  |  |  |
 
 [PDFs and PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)

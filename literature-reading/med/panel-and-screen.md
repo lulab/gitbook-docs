@@ -4,10 +4,14 @@
 
 ## I. Analysis
 
-### **Differential Expression**
+### **RNA-seq Analysis - Differential Expression**
 
-* **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
 * _**2021 Theranostics**_ - Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
+* **circRNA**: _2020 PLOS Comp. Bio._ - seekCRIT: Detecting and characterizing differentially expressed circular RNAs using high-throughput sequencing data
+
+### **RNA-seq Analysis - more**
+
+* see more in RNA Regulation Analysis
 
 ### **Meta-Analysis**
 
@@ -30,6 +34,7 @@
 * **lncRNAs+miRNAs**_**: 2021 Theranostics**_ -Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
 * **miRNAs:** _**2020 Gut**_ - Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population
 * **miRNAs:** _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
+* **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
 ## III. Application/Testing
