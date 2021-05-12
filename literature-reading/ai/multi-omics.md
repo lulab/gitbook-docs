@@ -10,6 +10,7 @@
 
 ## 2. Research Article
 
+* _**2021 Nature Commn**_ - An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer
 * _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
 * _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
 * _**2020 Nature Medicine**_ - Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
@@ -32,6 +33,4 @@
 * ✨ _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FMulti-Omics&mode=list)
-
-_\*\*\*\*_
 

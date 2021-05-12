@@ -13,6 +13,7 @@
 
 ## I. Reviews of Liquid Biopsy
 
+* 2021 Science - Epigenetics, fragmentomics, and topology of **cell-free DNA** in liquid biopsies
 * 2020 Nature Reviews - **RNA** delivery by **extracellular vesicles** in mammalian cells and its applications
 * 2020 Science - The biology, function, and biomedical applications of **exosomes**
 * 2020 Genome Biology - The promise and challenge of cancer **microbiome** research
