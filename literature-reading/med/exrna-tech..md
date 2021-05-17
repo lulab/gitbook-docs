@@ -25,8 +25,9 @@
 ### Cancer
 
 * **Long**
-  * **long cfRNA:** _**2021 Nature Commn.**_ **- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
-  * **long evRNA-mRNA:** _**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
+  * **long cfRNA-mRNA:** _**2021 Nature Commn.**_ **- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+  * **long evRNA-mRNA:** _**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer 
+  * **long cfRNA-ncRNA** _-_ **2021** _**Theranostics**_ ****_-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
   * **long evRNA-seq**: _**2020 GUT**_ Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
