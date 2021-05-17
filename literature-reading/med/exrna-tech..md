@@ -22,6 +22,11 @@
 * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
 * **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
 
+### **Pregnancy**
+
+* **long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+* **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
+
 ### Cancer
 
 * **Long**
@@ -32,12 +37,9 @@
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
   * **long evRNA-seq**: _**2019 Clinical Chemistry**_ - Extracellular Vesicles Long RNA Sequencing Reveals Abundant mRNA, circRNA, and lncRNA in Human Blood as Potential Biomarkers for Cancer Diagnosis
-  * **long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **exoRBase:** _**2018 NAR**_ - exoRBase: a database of circRNA, lncRNA and mRNA in human blood exosomes
-  * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
-  * **lncRNA:**  _**2017 Nature Communications** -_ Recurrently deregulated lncRNAs in hepatocellular carcinoma. 
 * **Long - Platelet** 
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
