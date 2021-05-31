@@ -16,15 +16,16 @@
 * [Precision Medicine](literature-reading/med/README.md)
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
   * [exRNA](literature-reading/med/exrna-tech..md)
-  * [cfDNA, EVP, etc](literature-reading/med/multi-omics.md)
+  * [exRNA Analysis](literature-reading/med/exrna-analysis.md)
+  * [MultiOmics](literature-reading/med/multi-omics.md)
+  * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
   * [Panel and Screen](literature-reading/med/panel-and-screen.md)
   * [exRNA function](literature-reading/med/exrna-function.md)
   * [Cancer Environment](literature-reading/med/cancer-environment.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Startup](literature-reading/ai/startup.md)
-  * [Deep Learning](literature-reading/ai/deep-learning.md)
-  * [Methods for exRNA](literature-reading/ai/methods-for-liquid-biopsy.md)
-  * [Multi-Omics](literature-reading/ai/multi-omics.md)
+  * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
+  * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
 
 ## Wet-lab Guide
 
