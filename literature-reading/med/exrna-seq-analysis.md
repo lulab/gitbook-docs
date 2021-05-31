@@ -37,9 +37,7 @@
 
 * Methods for Tumor Location: tumor locator \(tissue match\), etc
 
-## V. Metagenomics
 
-* Methods for Metagenomics: tumor locator \(tissue match\), ranking, etc
 
 
 
