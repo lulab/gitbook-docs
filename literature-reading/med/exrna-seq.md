@@ -1,4 +1,4 @@
-# exRNA
+# exRNA-seq
 
 ## 0. Recommended Reading
 
