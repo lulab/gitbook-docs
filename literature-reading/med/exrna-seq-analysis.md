@@ -1,6 +1,6 @@
 # exRNA-seq Analysis
 
-> \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20Analysis&mode=list) **- exRNA Analysis**
+> \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-seq%20Analysis&mode=list) **- exRNA-seq Analysis**
 
 ## I. Imputation, Normalization and Batch Correction
 
