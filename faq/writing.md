@@ -1,6 +1,19 @@
 # Tips for paper writing
 
-**Format**
+## I. Format
+
+> [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/7e55bada94934a25b0df/)
+
+**Sections**
+
+1. Title and Authors
+2. Abstract and Keywords
+3. Introduction
+4. Results
+5. Conclusion and Discussion
+6. Methods
+
+**Font and Line Space**
 
 1. Check Font: Times New Roman, 11pt or 10.5pt
 2. Check Line: double space \(except for References\)
@@ -8,11 +21,15 @@
 
 **Abstract**
 
-* 1.Background - 2.Results - 3.Conclusions
+* (1) Background - (2) Results - (3) Conclusions
 
 **Keywords**
 
 * Replace with the key words we want to be **searched**. If number of key words is limited, we may not repeat with title only if this keyword is very important.
+
+
+
+## II. Writing Rules
 
 **Terms**
 
@@ -52,3 +69,27 @@
 1. Check **every** result to see if it needs statistical test: Was a test used? Which one? What is the _P_-value?
 2. Check  **every enrichment** to see if it was statistically determined to be enriched:  What test was used? Which one? What is the _P_-value?
 
+
+
+## III. 网友的写作建议
+
+**写出第一稿**
+
+- 两步走：1、写出尽可能多的内容，不要担心语法、拼写、组织；2、修改文稿变得更好。（参考海明威的写作方式）
+- 当你写作时，不要编辑！写作和编辑使用不同的半脑，交叉这两件事不容易。
+- 每个结果和相应的讨论一起写，以免之后忘记结果的解释和意义。再写方法，最后写介绍（基于结果和讨论）。
+- 用照片做类比：
+- - Introduction：Why was the picture taken?
+  - Results：What do you see?
+  - Conclusion and Discussion：What does it mean?
+  - Methods：How was it taken？
+
+**编辑最终稿**
+
+- 阅读投稿期刊的『Instructions for authors』，了解期刊期望的行文风格。
+- 介绍部分说明本研究的理由，不是文献综述。讨论部分不用『可能』，如果不确定结论，做更多的实验。
+- 结果部分不使用『could』、『can』（受中文影响），减少不确定性。
+- 不使用『etc』、『and so on』，这些词说明作者懒。
+- 『observed』很弱很被动，改用：assess, calculate, detect, estimate, evalulate, examine...
+- 不用『obviously』，读者不一定容易理解。
+-  结果部分避免『significantly』，改为报告p-value。讨论部分可用。
