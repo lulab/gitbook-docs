@@ -2,6 +2,8 @@
 
 ## 0. Recommended Reading
 
+> [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17%27%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D) suggested by Hongke Wang
+
 * \[Smart-seq3\]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3 
 * \[UMI\]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers 
 * \[Barcode\]_**2015 Nature Methods**_ -Simultaneous generation of many rna-seq libraries in a single reaction 
@@ -12,9 +14,9 @@
 * \[Pico-similar\]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
 * \[Review\]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17%27%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)
+## I. exRNA/cfRNA studies
 
-## I. exRNA/cfRNA
+> * \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list) **of exRNA/cfRNA papers**
 
 ### **Neural Diseases**
 
@@ -59,9 +61,9 @@
 * **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
 * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list) of exRNA/cfRNA papers
-
 ## II. exRNA-seq Technologies
+
+> \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-seq%20tech&mode=list) **of exRNA-seq tech.**
 
 ### 1. Protocols & Technologies
 
@@ -76,8 +78,6 @@
   * **Pico Patent**: Pico Patent Application Publication
 * **SILVER-seq**: 2019 PNAS - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
-
 ### 2. Commercial Kit
 
 * **V1-NEB**: E7300-NEB small RNA kit
@@ -87,5 +87,5 @@
   * Clontech technology-low input RNA library kit
   * Clontech technology-pico kit
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
+
 

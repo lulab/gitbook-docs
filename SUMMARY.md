@@ -20,7 +20,7 @@
   * [MultiOmics](literature-reading/med/multi-omics.md)
   * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
   * [Panel and Screen](literature-reading/med/panel-and-screen.md)
-  * [exRNA function](literature-reading/med/exrna-function.md)
+  * [exRNA function and exosome](literature-reading/med/exrna-function.md)
   * [Cancer Environment](literature-reading/med/cancer-environment.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Startup](literature-reading/ai/startup.md)

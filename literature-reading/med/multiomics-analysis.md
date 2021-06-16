@@ -23,5 +23,9 @@
 * _**2015 Nature**_ - Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease
 * _**2014 NMETH**_ - Annotation of loci from genome-wide association studies using tissue-specific quantitative interaction proteomics 
 
+## 3. Database
+
+* _**2021 Briefings in Bioinfo.**_ - DevOmics: an integrated multi-omics database of human and mouse early embryo
+
 
 
