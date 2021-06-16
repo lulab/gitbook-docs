@@ -24,6 +24,7 @@
 ## II.  Signature Genes and Feature Selection
 
 * _**2021 Nature Biotech.**_ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
+* _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
 > [PDFs of Feature Selection](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20Analysis%2FFeature%20Selection&mode=list)  \|   [PDFs of Signature Genes](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20Analysis%2FSignature%20Genes&mode=list)

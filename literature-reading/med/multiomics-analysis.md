@@ -12,6 +12,7 @@
 
 ## 2. Research Article
 
+* _**2021 Nature Commn. -**_ MOGONET integrates multi-omics data usinggraph convolutional networks allowing patientclassification and biomarker identification
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * _**2021 Nature Commn**_ - An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer
 * _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
