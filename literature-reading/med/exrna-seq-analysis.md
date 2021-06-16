@@ -30,12 +30,13 @@
 
 ## III. Network Approach and Clustering
 
-* 2020 _Bioinformatics_ - Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
-* 2018 _Nature COMMN._ - Pathway based subnetworks enable cross-disease biomarker discovery
+* **2020** _**Bioinformatics**_ **-** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
+* **2018** _**Nature COMMN.**_ **-** Pathway based subnetworks enable cross-disease biomarker discovery
 
-## IV. Tumor Location Method
+## IV. Origin of Tissue and Tumor Location Method
 
-* Methods for Tumor Location: tumor locator \(tissue match\), etc
+* _**2021 bioRxiv**_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
+* See more in PDFs link above
 
 
 

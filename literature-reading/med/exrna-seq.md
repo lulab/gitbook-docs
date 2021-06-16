@@ -65,6 +65,8 @@
 
 ### 1. Protocols & Technologies
 
+* **Purification:** _2021 bioRxiv_  - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control \(exRNAQC\) study
+* **Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
 * **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
