@@ -34,9 +34,9 @@
 * **SCFG \( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) \)
   * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030) 
   * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
-  * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  
+  * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
-* **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)
+* **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Structural%20Motif&mode=list)
 
@@ -47,7 +47,6 @@
 * _**2006 Bioinformatics**_ CMfinder: a covariance model based RNA motif finding algorithm
 * _**2008 Plos Computational Biology**_ Discovering Sequence Motifs with Arbitrary Insertions and Deletions
 * _**2008 PNAS**_ Computational prediction of RNA structural motifs involved in post transcriptional regulatory processes
-* _**2012 Nature**_ **TEISER** - Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * _**2014 Nature Method**_ RNA motif discovery by SHAPE and mutational profiling \(SHAPE-MaP\)
 * _**2015 Plos Computational Biology**_ Structure-Based Alignment and Consensus Secondary Structures for Three HIV-Related RNA Genomes
 
