@@ -34,14 +34,16 @@
 
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
-* **ctDNA - Mutations+** 
+* **cfDNA - Mutations+** 
   * **2020** - _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **ctDNA - Methylation**
+* **cfDNA - Methylation**
   * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **cfDNA - microbiome**
+  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
 * **cfRNA/exRNA**  
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
@@ -49,5 +51,5 @@
 * **sEV-Proteomics**
   * **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 
-
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list)\*\*\*\*
 
