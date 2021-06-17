@@ -26,7 +26,7 @@
 * 2018 NEJM - Application of **Cell-free DNA** Analysis to Cancer Treatment \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174)\)
 * 2018 NEJM - Sequencing of circulating cell-free dna during **pregnancy** \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)\)
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list) of reviews
 
 ## II.  Representative Studies in Liquid Biopsy
 
@@ -51,5 +51,5 @@
 * **sEV-Proteomics**
   * **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list)\*\*\*\*
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list) **for startup**
 
