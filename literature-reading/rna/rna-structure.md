@@ -47,7 +47,7 @@
 * _**2006 Bioinformatics**_ CMfinder: a covariance model based RNA motif finding algorithm
 * _**2008 Plos Computational Biology**_ Discovering Sequence Motifs with Arbitrary Insertions and Deletions
 * _**2008 PNAS**_ Computational prediction of RNA structural motifs involved in post transcriptional regulatory processes
-* _**2012 Nature**_ Systematic discovery of structural elements governing stability of mammalian messenger RNAs
+* _**2012 Nature**_ **TEISER** - Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * _**2014 Nature Method**_ RNA motif discovery by SHAPE and mutational profiling \(SHAPE-MaP\)
 * _**2015 Plos Computational Biology**_ Structure-Based Alignment and Consensus Secondary Structures for Three HIV-Related RNA Genomes
 
