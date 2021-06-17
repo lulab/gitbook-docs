@@ -13,7 +13,7 @@
   * **Cancer Locator/Origin of Tissue** 
     * 2017 _Genome Biology_ - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
     * **Deconvolution**: 2021 _bioRxiv_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
-  * **Batch Correction**: 2018 _Nature Biotech._ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
+  * **Imputation, Normalization & Batch Correction**: 2018 _Nature Biotech._ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FAI%20%26%20Machine%20Learning&mode=list)
 

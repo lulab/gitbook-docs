@@ -21,18 +21,18 @@
 >
 > [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
-## II.  Signature Genes and Feature Selection
+## IIA.  Signature Genes and Feature Selection
 
 * _**2021 Nature Biotech.**_ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
 * _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
-## III. Network Approach and Clustering
+## IIB. Network Approach and Clustering
 
 * **2020** _**Bioinformatics**_ **-** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 * **2018** _**Nature COMMN.**_ **-** Pathway based subnetworks enable cross-disease biomarker discovery
 
-## IV. Origin of Tissue and Tumor Location Method
+## III. Origin of Tissue and Tumor Location Method
 
 * _**2021 bioRxiv**_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
 * See more in PDFs link above
