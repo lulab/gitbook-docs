@@ -29,7 +29,7 @@
 
 ## II.  Representative Studies in Liquid Biopsy
 
-> **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
+> **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
@@ -45,10 +45,8 @@
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
-* **Proteomics**
+* **sEV-Proteomics**
   * **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of cfDNA/ctDNA
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of cfRNA/exRNA
-> * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics&mode=list)of Proteomics
+
 
