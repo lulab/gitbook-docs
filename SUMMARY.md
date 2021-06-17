@@ -23,7 +23,7 @@
   * [exRNA function and exosome](literature-reading/med/exrna-function.md)
   * [Cancer Environment](literature-reading/med/cancer-environment.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
-  * [Startup in Machine Learning](literature-reading/ai/startup.md)
+  * [Startup in Machine Learning & AI](literature-reading/ai/startup.md)
   * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
   * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
 

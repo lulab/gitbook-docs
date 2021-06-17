@@ -1,4 +1,4 @@
-# Startup in Machine Learning
+# Startup in Machine Learning & AI
 
 ![4 steps in Machine Learning](../../.gitbook/assets/machine-learning-steps.png)
 
