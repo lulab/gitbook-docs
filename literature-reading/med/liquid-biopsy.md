@@ -48,5 +48,5 @@
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list) **for startup**
 >
-> **See more in** [**MultiOmics-cfDNA&evProteins**](multi-omics.md) **and** [**exRNA-seq**](exrna-seq.md)\*\*\*\*
+> **See more in** [**MultiOmics-cfDNA&evProtein**](multi-omics.md) **and** [**exRNA-seq**](exrna-seq.md)\*\*\*\*
 
