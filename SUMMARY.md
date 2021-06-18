@@ -19,7 +19,7 @@
   * [exRNA-seq Analysis](literature-reading/med/exrna-seq-analysis.md)
   * [MultiOmics - cfDNA & evProtein](literature-reading/med/multi-omics.md)
   * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
-  * [Panel and Screen](literature-reading/med/panel-and-screen.md)
+  * [Clinical Panel and Screen](literature-reading/med/panel-and-screen.md)
   * [exRNA Function and Exosome](literature-reading/med/exrna-function.md)
   * [Cancer Environment](literature-reading/med/cancer-environment.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
