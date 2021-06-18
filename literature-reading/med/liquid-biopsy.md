@@ -34,11 +34,11 @@
 
 * **cfDNA - Genome**
   * **Mutations+: ✨** _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-  * **Fragment Size:** _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
   * **Microbiome:** _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
-* **cfDNA Methylation - Epigenome**
+* **cfDNA Methylation etc  - Epigenome**
   * \[Targeted BS\] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP\] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+  * **Fragment Size:** _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfRNA/exRNA** **- Transcriptome**
   * **✨ Exosome**: _**2019 Cell**_ **\(ERCC\)** - Reassessment of Exosome Composition
   * **✨ cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
