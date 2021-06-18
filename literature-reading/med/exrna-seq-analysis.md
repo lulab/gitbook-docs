@@ -23,8 +23,8 @@
 
 ## IIA.  Signature Genes and Feature Selection
 
-* _**2021 Nature Biotech.**_ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
-* _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
+* **✨** _**2021 Nature Biotech.**_ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
+* **✨** _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
 ## IIB. Network Approach and Clustering
@@ -34,8 +34,8 @@
 
 ## III. Origin of Tissue and Tumor Location Method
 
-* _**2021 bioRxiv**_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
-* See more in PDFs link above
+* **✨ 2017** _**Genome Biology**_ ****- CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
+* **✨ Deconvolution**: **2021** _**bioRxiv**_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
 
 
 

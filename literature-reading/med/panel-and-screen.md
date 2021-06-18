@@ -35,7 +35,7 @@
 * **miRNAs:** _**2020 Gut**_ - Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population
 * **miRNAs:** _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
 * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
-* **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
+* **✨ miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
 ### Other Detection/Diagnosis Panels
 

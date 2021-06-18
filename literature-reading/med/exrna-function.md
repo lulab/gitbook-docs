@@ -1,4 +1,4 @@
-# exRNA function and exosome
+# exRNA Function and Exosome
 
 > \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function&mode=list) **of exRNA function**
 
@@ -22,5 +22,11 @@
 
 ## III. Exosome
 
-* see details in [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2Fexosome&mode=list)
+* **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
+* **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
+* **✨ Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
+* **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
+* **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
+
+> \*\*\*\*[**PDFs** ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2Fexosome&mode=list)
 
