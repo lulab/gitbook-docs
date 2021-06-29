@@ -30,3 +30,17 @@
 
 > \*\*\*\*[**PDFs** ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2Fexosome&mode=list)
 
+
+
+## IV. exRNA function in Immunology
+
+* see more in [Cancer Immunology](cancer-immunology.md#1-exrna-function-in-immunology)
+
+## V. exRNA function in microbiome
+
+* see more in [Cancer Microbiome](cancer-microbiome.md#i-exrna-function-in-host-and-microbe)
+
+
+
+
+
