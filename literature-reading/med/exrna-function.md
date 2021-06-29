@@ -5,11 +5,11 @@
 ## I. ncRNA in Cancer
 
 * \[Review\] _**2021 Nature Review \| Cancer**_ - Long noncoding RNAs in cancer metastasis
-* \[Review\] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
+* **✨** \[Review\] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
+* **✨** _**2021 Nature Biotechnology**_ - The RNA Atlas expands the catalog of human non-coding RNAs
 * _**2020 Nature**_ **- PCAWG** - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes
 * _**2020 Nature**_ **- PCAWG** - Genomic basis for RNA alterations in cancer
-* _**2020 Nature Communication**_ The long non-coding RNA LUCAT1 is a negative feedback regulator of interferon responses in humans
-* _**2014 Nature Communication**_ The oestrogen receptor alpha-regulated lncRNA NEAT1 is a critical modulator of prostate cancer
+* **✨** _**2015 Nature Genetics**_ **- MiTranscriptome** - The Landscape of Long Noncoding RNAs in the Human Transcriptome
 
 ## II. circRNA in Cancer
 
