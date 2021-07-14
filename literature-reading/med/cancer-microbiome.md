@@ -27,3 +27,9 @@ description: Cancer System and Environment
 
 ![2020 Science - Bacteria in Tumors](../../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 
+
+
+## **IV. Metagenomics in liquid biopsy**
+
+* _**2019 PNAS**_ -  A cell-free DNA metagenomic sequencing assay that integrates the host injury response to infection
+
