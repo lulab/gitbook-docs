@@ -3,7 +3,7 @@
 ## Group Meeting 
 
 * 【Time】 SAT 2pm
-* 【Location】生物技术馆二楼会议室（ 2-201）
+* 【Location】生物技术馆二楼会议室2-201 \(or 一楼2-105）
 * \*\*\*\*[**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d) ****@ _Tencent Docs_
   * **5min paper -** Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers \([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)\)
   * **Project** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3a.PPT - Project Presentation
@@ -18,7 +18,7 @@
 ## Subgroup \(Project\) Meetings
 
 * 【Time】  THU 2pm,  FRI 2pm
-* 【Location】 生物技术馆 2-105 \(or 2-201 or 2-203\)
+* 【Location】 生物技术馆 2-105 \(or 3-109 or 2-201 or 2-203\)
 * [**Subgroup Meeting Schedule** and **Project Minutes/Notes**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) **** of PI
   * **Work Report -** Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
