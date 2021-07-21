@@ -53,7 +53,7 @@ description: 实验室指南
 ## III. Publish in Lu Lab
 
 * [Software](http://www.ncrnalab.org/software)
-* [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87)
+* [Patent](https://www.ncrnalab.org/about-us/#%E4%B8%93%E5%88%A9%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87)
 * [Paper](https://www.ncrnalab.org/publications/)
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文: 清华云盘 - Lu Lab Archive/毕业论文
