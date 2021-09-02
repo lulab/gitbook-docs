@@ -9,6 +9,7 @@
 
 * **Structure prediction of RNA**: 2021 _Science_ - Geometric deep learning of RNA structure
   * _**AlphaFold**_ - 2021 _Nature_ - Highly accurate protein structure prediction with AlphaFold
+  * Baker et al. - 2021 _Science_ - Accurate prediction of protein structures and interactions using a three-track neural network
 * **AS of RNA**: 2019 _Cell_ - Predicting Splicing from Primary Sequence with Deep Learning
 * **AS of RNA \(DARTS**\): 2019 _Nature Methods_ - Deep-learning augmented RNA-seq analysis of transcript splicing
 * **APA of RNA**: 2019 _Cell_ - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
