@@ -17,7 +17,7 @@
 
 ## Subgroup \(Project\) Meetings
 
-* 【Time】  THU 2pm,  FRI 2pm
+* 【Time】  THU 2pm etc
 * 【Location】 生物技术馆 2-105 \(or 3-109 or 2-201 or 2-203\)
 * [**Subgroup Meeting Schedule** and **Project Minutes/Notes**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) **** of PI
   * **Work Report -** Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
