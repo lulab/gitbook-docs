@@ -29,13 +29,13 @@
 
 ## IIB. Network Approach and Clustering
 
-**Network**
+### **Network**
 
 * **✨ 2021** _**Cell**_ ****- ****A modular master regulator landscape controls cancer transcriptional identity
 * **✨ 2017** _**Nature Methods**_ **-** SCENIC: single-cell regulatory network inference and clustering
 * **2018** _**Nature COMMN.**_ **-** Pathway based subnetworks enable cross-disease biomarker discovery
 
-#### Deep Learning
+### Deep Learning
 
 * **2020** _**Bioinformatics**_ **-** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 
