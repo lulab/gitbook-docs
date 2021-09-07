@@ -23,14 +23,21 @@
 
 ## IIA.  Signature Genes and Feature Selection
 
-* **✨** _**2021 Nature Biotech.**_ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
+* **✨** _****_**\(fuzzy coding\):** _**2021 Nature Biotech.**_  - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
 * **✨** _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
 ## IIB. Network Approach and Clustering
 
-* **2020** _**Bioinformatics**_ **-** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
+**Network**
+
+* **✨ 2021** _**Cell**_ ****- ****A modular master regulator landscape controls cancer transcriptional identity
+* **✨ 2017** _**Nature Methods**_ **-** SCENIC: single-cell regulatory network inference and clustering
 * **2018** _**Nature COMMN.**_ **-** Pathway based subnetworks enable cross-disease biomarker discovery
+
+#### Deep Learning
+
+* **2020** _**Bioinformatics**_ **-** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 
 ## III. Origin of Tissue and Tumor Location Method
 
