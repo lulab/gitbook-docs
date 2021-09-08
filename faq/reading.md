@@ -40,5 +40,3 @@
 
 [http://www.educatorstechnology.com/2013/04/9-tips-every-teacher-should-know-about.html](http://www.educatorstechnology.com/2013/04/9-tips-every-teacher-should-know-about.html)
 
-[http://www.otago.ac.nz/library/pdf/Google\_Scholar\_Tips.pdf](http://www.otago.ac.nz/library/pdf/Google_Scholar_Tips.pdf)
-
