@@ -30,7 +30,7 @@
   * **Group/Subgroup Meeting**: project result report & discussion
   * **WECHAT** \(**if emergency**: need answer within 24 hours or less\)
   * **EMAIL** \(only need answer in a day or two\)
-* **Casual Chat**: \(MON-FRI 4-6pm\), PI would _answer questions/solve problems_ during this time period; no need to report anything.
+* **Casual Chat**: \(MON-FRI 4-6pm\), PI would _answer questions/solve problems_ during this time period; **no need to report anything**.
 * **Sunday**: SILENT except for emergency 
 
 ## 实验室规范
