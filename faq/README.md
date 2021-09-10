@@ -27,12 +27,10 @@
 **基本原则**： 导师、同学、同事之间的面谈、讨论和会议等结构化并有提前预约的好习惯 \(以下约定导师和学生彼此双向适用）
 
 * **Routine Talk & Meeting** 
-  * **Group/Subgroup Meeting**: THU/FRI/SAT 2pm: project result report & discussion
-    * Thursday Meeting Feedback from PI \(individual talk\) → Friday \(4pm-6pm or 10am-12pm\)
-    * Friday Meeting Feedback from PI \(individual talk\) → Saturday \(5pm-6pm or 10am-12pm\)
-  * **WECHAT** \(**if emergency**: need answer within 24hour or less\)
+  * **Group/Subgroup Meeting**: project result report & discussion
+  * **WECHAT** \(**if emergency**: need answer within 24 hours or less\)
   * **EMAIL** \(only need answer in a day or two\)
-* **Casual Chat**: \(MON-FRI 4-6pm\), PI would _answer questions/solve problems_ during this time period
+* **Casual Chat**: \(MON-FRI 4-6pm\), PI would _answer questions/solve problems_ during this time period; no need to report anything.
 * **Sunday**: SILENT except for emergency 
 
 ## 实验室规范
