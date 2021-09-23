@@ -28,6 +28,7 @@
 
 ## IIIA.  Signature Genes and Feature Selection
 
+* **✨** _**2021 Nature Machine Intelligence**_ - Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms
 * **✨** _****_**\(fuzzy coding\):** _**2021 Nature Biotech.**_  - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
 * **✨** _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
@@ -36,6 +37,7 @@
 
 ### **Network**
 
+* _**2021 Nature Computational Science**_ - Modeling gene regulatory networks using neural network architectures
 * **✨ 2021** _**Cell**_ ****- ****A modular master regulator landscape controls cancer transcriptional identity
 * **✨ 2017** _**Nature Methods**_ **-** SCENIC: single-cell regulatory network inference and clustering
 * **2018** _**Nature COMMN.**_ **-** Pathway based subnetworks enable cross-disease biomarker discovery
