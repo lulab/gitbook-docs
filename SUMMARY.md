@@ -20,7 +20,7 @@
   * [MultiOmics - cfDNA & evProtein](literature-reading/med/multi-omics.md)
   * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
   * [Clinical Panel and Screen](literature-reading/med/panel-and-screen.md)
-  * [exRNA Function and Exosome](literature-reading/med/exrna-function/README.md)
+  * [EV and exRNA Function](literature-reading/med/exrna-function/README.md)
     * [Cancer Immunology](literature-reading/med/exrna-function/cancer-immunology.md)
     * [Cancer Microbiome](literature-reading/med/exrna-function/cancer-microbiome.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
