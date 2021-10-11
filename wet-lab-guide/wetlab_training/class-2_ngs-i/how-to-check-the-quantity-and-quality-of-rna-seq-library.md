@@ -15,4 +15,3 @@ Using qPCR primer pairs to target the P5/P7 and spike-in sequences, only the lib
 ![](../../../.gitbook/assets/small-RNA-libraryQC.png)
 
 ![](../../../.gitbook/assets/total-RNA-libraryQC.png)
-

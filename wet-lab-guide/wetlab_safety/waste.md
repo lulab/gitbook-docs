@@ -28,4 +28,3 @@
 * [附件2-清华大学生物废弃物处理平台废弃物处理记录单](https://cloud.tsinghua.edu.cn/f/8bc5e8acb2c644e3813e/)
 * [附件3-清华大学生物废弃物处理平台废弃物高温高压灭菌记录单](https://cloud.tsinghua.edu.cn/f/87fcc7c7c0c2484a8d18/)
 * [附件4-清华大学生物废弃物处理平台市政垃圾运送记录单](https://cloud.tsinghua.edu.cn/f/250e06b7bdb6446393aa/)
-

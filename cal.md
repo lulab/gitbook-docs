@@ -3,11 +3,11 @@
 ## Group Meeting 
 
 * 【Time】 SAT 2pm
-* 【Location】生物技术馆二楼会议室2-201 \(or 一楼2-105）
-* \*\*\*\*[**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d) ****@ _Tencent Docs_
-  * **5min paper -** Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers \([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers&mode=list)\)
+* 【Location】生物技术馆二楼会议室2-201 (or 一楼2-105）
+* ****[**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d)** **@ _Tencent Docs_
+  * **5min paper - **Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers ([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers\&mode=list))
   * **Project** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3a.PPT - Project Presentation
-  * **JC** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3b.PPT - Journal Club \([public link](%20https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)\)
+  * **JC** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3b.PPT - Journal Club ([public link](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/))
     * [JC voting link ](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?c=F6A0A0) @ _Tencent Docs_
 
 {% hint style="warning" %}
@@ -15,15 +15,15 @@
 2. **Prepare in advance**: seats and presentation show
 {% endhint %}
 
-## Subgroup \(Project\) Meetings
+## Subgroup (Project) Meetings
 
 * 【Time】  THU 2pm etc
-* 【Location】 生物技术馆 2-105 \(or 3-109 or 2-201 or 2-203\)
-* [**Subgroup Meeting Schedule** and **Project Minutes/Notes**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) **** of PI
-  * **Work Report -** Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
+* 【Location】 生物技术馆 2-105 (or 3-109 or 2-201 or 2-203)
+* [**Subgroup Meeting Schedule **and** Project Minutes/Notes**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8)** ** of PI
+  * **Work Report - **Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
 {% hint style="warning" %}
-1. **Upload/email in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ \(Lu Lab Shared/1.Project Progress\) or email the link/files in advance \(before 9am\).
+1. **Upload/email in advance**: Before the meeting, please upload report files to _TsinghuaCloud_ (Lu Lab Shared/1.Project Progress) or email the link/files in advance (before 9am).
 2. **Summarize afterwards**: After the meeting, please write down detailed minutes and future plan.
 {% endhint %}
 
@@ -39,13 +39,13 @@
 ## Lab Calendars
 
 * **Lu Lab Calendar**
-  * html: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html)
-  * ics: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics](https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics)
+  * html: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html)
+  * ics: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics)
 * **Seminar Calendar**
-  * html: [https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html)
-  * ics: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics](https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics)
+  * html: [https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html)
+  * ics: [https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics)
 
-> You can copy the above links \(**\*.ics: ical format**\) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer. Apps:
+> You can copy the above links (**\*.ics: ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer. Apps:
 >
 > * Windows APP: Outlook
 > * MAC APP: Outlook, Calendar
@@ -65,6 +65,5 @@
 > [谷歌访问助手](http://www.ggfwzs.com)
 
 * 中国节气: webcal://www.google.com/calendar/ical/orp22j75kcj10gqhol530ftucs@group.calendar.google.com/public/basic.ics
-* 中国农历: [http://www.google.com/calendar/ical/lunar\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/lunar__zh_cn@holiday.calendar.google.com/public/basic.ics)
-* 中国节假日: [http://www.google.com/calendar/ical/china\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/china__zh_cn@holiday.calendar.google.com/public/basic.ics)
-
+* 中国农历: [http://www.google.com/calendar/ical/lunar\_\_zh_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/lunar\_\_zh_cn@holiday.calendar.google.com/public/basic.ics)
+* 中国节假日: [http://www.google.com/calendar/ical/china\_\_zh_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/china\_\_zh_cn@holiday.calendar.google.com/public/basic.ics)

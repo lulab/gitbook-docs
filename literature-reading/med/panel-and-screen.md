@@ -1,6 +1,6 @@
 # Clinical Panel and Screen
 
-> \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list) **- Panel and Screen**
+> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel\&mode=list)** - Panel and Screen**
 
 ## I. NGS Analysis
 
@@ -15,22 +15,22 @@
 
 ## **II. Meta-Analysis**
 
-* \[Protein markers\] _**2016 Lancet Neurol**_ - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
-* \[DNA markers\] _**2014 Nat Genetics**_ - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
-* \[lncRNA markers\] _**2005 Cancer Res.**_ - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
-* \[Practical Review\] _**2015 Korean J Radiol**_ Systematic Review and Meta-Analysis of Studies Evaluating Diagnostic Test Accuracy: A Practical Review for Clinical Researchers
+* \[Protein markers] _**2016 Lancet Neurol**_ - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
+* \[DNA markers] _**2014 Nat Genetics**_ - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
+* \[lncRNA markers] _**2005 Cancer Res.**_ - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
+* \[Practical Review] _**2015 Korean J Radiol**_ Systematic Review and Meta-Analysis of Studies Evaluating Diagnostic Test Accuracy: A Practical Review for Clinical Researchers
   * Part I. General Guidance and Tips
   * Part II. Statistical Methods of Meta-Analysis
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FMeta-analysis&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FMeta-analysis\&mode=list)
 
 ## III. Large-cohort Validation/Screen
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Validation&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FLarge-cohort%20Validation\&mode=list)
 
 ### cfRNA Panels
 
-* **long mRNAs:** _**2021 Mol Cancer -**_ Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
+* **long mRNAs:**_** 2021 Mol Cancer - **_Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
 * **lncRNAs+miRNAs**_**: 2021 Theranostics**_ -Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
 * **miRNAs:** _**2020 Gut**_ - Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population
 * **miRNAs:** _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
@@ -39,7 +39,7 @@
 
 ### Other Detection/Diagnosis Panels
 
-* **ctDNA+Protein \(CancerSEEK\)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
 ### Other Prognosis Panels
@@ -49,4 +49,3 @@
 * **Prognosis ctDNA**: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
-

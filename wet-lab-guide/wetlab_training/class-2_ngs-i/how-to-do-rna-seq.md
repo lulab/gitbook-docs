@@ -19,7 +19,7 @@
 
 ### 1. RNA-seq原理
 
-* RNA-seq \(RNA Sequencing\)，也被称为全转录物组散弹枪法测序 Whole Transcriptome Shotgun Sequencing \(WTSS\), 是基于第二代测序技术的转录组学研究方法
+* RNA-seq (RNA Sequencing)，也被称为全转录物组散弹枪法测序 Whole Transcriptome Shotgun Sequencing (WTSS), 是基于第二代测序技术的转录组学研究方法
 * RNA-Seq可使研究人员在单次分析中检测已知的和**新的特征，使检测转录本亚型、基因融合、单核苷酸位点变异和其他特征不受先验知识的限制**
 
 ### 2. RNA-seq建库
@@ -34,7 +34,7 @@
 
 ### 3. RNA文库类别
 
-* **polyA-seq（mRNA and polyA-lncRNA）: polyA & oligo\(dT\) priming**
+* **polyA-seq（mRNA and polyA-lncRNA）: polyA & oligo(dT) priming**
 
 ![](../../../.gitbook/assets/polyA_RNA-seq.png)
 
@@ -73,4 +73,3 @@
 [Illumina文库制备和芯片试剂盒选择器](https://www.illumina.com.cn/library-prep-array-kit-selector.html)
 
 [聊聊转录组测序（知乎）](https://zhuanlan.zhihu.com/p/26319993)
-

@@ -2,11 +2,11 @@
 
 ## I. exRNA/cfRNA studies
 
-> * \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-cfRNA&mode=list) **of exRNA/cfRNA papers**
+> * ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-cfRNA\&mode=list)** of exRNA/cfRNA papers**
 
 ### **Neural Diseases**
 
-* **small cfRNA -** _**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
+* **small cfRNA - **_**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
 * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
 * **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
 
@@ -18,9 +18,9 @@
 ### Cancer
 
 * **Long**
-  * **long cfRNA-mRNA:** _**2021 Nature Commn.**_ **- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
-  * **long evRNA-mRNA:** _**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer 
-  * **long cfRNA-ncRNA** _-_ **2021** _**Theranostics**_ ****_-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
+  * **long cfRNA-mRNA: **_**2021 Nature Commn. **_**- Grail **- A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+  * **long evRNA-mRNA: **_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer 
+  * **long cfRNA-ncRNA**_ - _**2021 **_**Theranostics**_** **_- _Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
   * **✨ long evRNA-seq**: _**2020 GUT**_ Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
@@ -28,16 +28,16 @@
   * **exoRBase:** _**2018 NAR**_ - exoRBase: a database of circRNA, lncRNA and mRNA in human blood exosomes
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
-* **Long - Platelet** 
+* **Long - Platelet **
   * **✨ Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Small**
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
-  * **structured ncRNA domain \(small cfRNA-seq\)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
+  * **structured ncRNA domain (small cfRNA-seq)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
   * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
-### **ERCC**  \(_**2019 Cell papers**_\)
+### **ERCC**  (_**2019 Cell papers**_)
 
 * **exceRpt**: Cell system 2019 - exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
@@ -50,18 +50,18 @@
 
 ## II. exRNA-seq Technologies
 
-> \*\*\*\*[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-seq%20tech&mode=list) **of exRNA-seq tech.**
+> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-seq%20tech\&mode=list)** of exRNA-seq tech.**
 
 ### 1. Protocols & Technologies
 
-* **✨ Purification:** _2021 bioRxiv_  - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control \(exRNAQC\) study
-* **✨ Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+* **✨ Purification:** _2021 bioRxiv _ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
+* **✨ Storage & Transportation**: _2021 Nature Commn. _- Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
 * **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
-* **SMART-seq2\(TSO\)**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
+* **SMART-seq2(TSO)**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
 * **Pico-seq**:
-  * **✨ DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization \(DASH\): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
+  * **✨ DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
   * **Pico Patent**: Pico Patent Application Publication
 * **✨ SILVER-seq**: 2019 PNAS - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
 
@@ -78,17 +78,15 @@
 
 ### 3. Papers recommended by HK Wang
 
-> [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17%27%20Wang%20Hongke/Top%20reading%20list-%20%5BexRNA-seq%20Technology%5D)
+> [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20\[exRNA-seq%20Technology]) 
 
-* **✨**\[Smart-seq3\]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3 
-* \[UMI\]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers 
-* \[Barcode\]_**2015 Nature Methods**_ -Simultaneous generation of many rna-seq libraries in a single reaction 
-* **✨**\[DASH\]_**2016 Genome Biology**_ -Depletion of Abundant Sequences by Hybridization \(DASH\): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications 
-* **✨** \[Phospho‐seq\]_**2019 EMBO J.**_ -Phospho‐RNA‐seq - a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma 
-* ✨ \[SILVER‐seq\]_**2019 PNAS**_ -Extracellular RNA in a single droplet of human serum reﬂects physiologic and disease states 
-* \[CATS‐seq\]_**2014 RNA Biology**_ -Capture and Amplification by Tailing and Switching \(CATS\) 
-* \[Pico-similar\]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
-* \[Review\]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
-
-
+* **✨**\[Smart-seq3]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3 
+* \[UMI]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers 
+* \[Barcode]_**2015 Nature Methods**_ -Simultaneous generation of many rna-seq libraries in a single reaction 
+* **✨**\[DASH]_**2016 Genome Biology**_ -Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications 
+* **✨ **\[Phospho‐seq]_**2019 EMBO J.**_ -Phospho‐RNA‐seq - a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma 
+* ✨ \[SILVER‐seq]_**2019 PNAS**_ -Extracellular RNA in a single droplet of human serum reﬂects physiologic and disease states 
+* \[CATS‐seq]_**2014 RNA Biology**_ -Capture and Amplification by Tailing and Switching (CATS) 
+* \[Pico-similar]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
+* \[Review]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
 

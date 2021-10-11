@@ -9,13 +9,13 @@
 
 ## 2. Biomarker
 
-* **2021** - _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
+* **2021** - _**Nature - **_ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
 
 ## 3. Neoantigen
 
-* \[review\] _**2021 Nature**_ - Advances in the development of personalized neoantigen-based therapeutic cancer vaccines
-* \[review\] _**2017 Cell**_ - Applications of Immunogenomics to Cancer
+* \[review] _**2021 Nature **_- Advances in the development of personalized neoantigen-based therapeutic cancer vaccines
+* \[review] _**2017 Cell **_- Applications of Immunogenomics to Cancer
 * _**2020 NCOMM**_ - Integrated genomic analysis reveals mutated ELF3 as a potential gallbladder cancer vaccine candidate
 
 ## **4. Methods**
@@ -24,5 +24,4 @@
 * _**2016 - Nature Genetics**_ - Landscape of tumor-infiltrating T cell repertoire of human cancers
 * _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
 
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology&mode=list)
-
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Immunology\&mode=list)
