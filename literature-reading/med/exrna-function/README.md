@@ -8,7 +8,8 @@
 
 ### 1) Exosome
 
-* **2021 JEV** - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
+* 2021 _Nature Methods_** - **Exosome detection via the ultrafast-isolation system: EXODUS
+* **✨ **2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
 * **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
 * **✨ Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
