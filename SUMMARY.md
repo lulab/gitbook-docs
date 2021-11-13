@@ -2,6 +2,7 @@
 
 * [Lab Guide](README.md)
 * [Lab Calendar](cal.md)
+* [Wet-Lab Safety](wetlab\_safety.md)
 * [Intranet](intranet\_link.md)
 * [FAQ](faq/README.md)
   * [Tips for paper reading](faq/reading.md)
@@ -30,7 +31,6 @@
 
 ## Archive
 
-* [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety.md)
 * [Wet Lab Training @ 2019](wet-lab-guide/wetlab\_training/README.md)
   * [FAQ](wet-lab-guide/wetlab\_training/faq.md)
   * [Class I. Basics](wet-lab-guide/wetlab\_training/class-1\_basics/README.md)

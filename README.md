@@ -40,7 +40,7 @@ description: 实验室指南
 
 ### 🧪Wetlab
 
-* [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety.md)
+* [Wet Lab Safety Guide](wetlab\_safety.md)
 * Wetlab Instructions, Protocols & Samples @腾讯文档(private)&#x20;
 
 ![](.gitbook/assets/science.gif)

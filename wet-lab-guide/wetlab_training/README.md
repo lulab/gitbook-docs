@@ -4,7 +4,7 @@
 
 ## Class I. Basics
 
-1. [Safety](../wetlab\_safety.md) &#x20;
+1. [Safety](../../wetlab\_safety.md) &#x20;
 2. [Regulation](broken-reference)  &#x20;
 3. [Protocols](https://github.com/lulab/intranet/blob/master/wetlab\_protocol/README.md) (Private)
 4. [How to design sample cohort](class-1\_basics/4.how-to-design-sample-cohort.md)
