@@ -8,7 +8,7 @@ description: 实验室指南
 
 ### 🎉 Welcome <a href="welcome" id="welcome"></a>
 
-* [Lab Manual ](https://cloud.tsinghua.edu.cn/f/a1a8c0ab37e643ec97ae/) ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
+* [Lab Manual](https://cloud.tsinghua.edu.cn/f/0573c68756c64707948e/)  ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)
 * [Lab Calendar](cal.md)
 * [FAQ](faq/)
@@ -17,8 +17,8 @@ description: 实验室指南
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * [Bioinformatics Tutorial](https://lulab2.gitbook.io)
-* [Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @everhub  
-  * [Get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach)
+* [Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @everhub &#x20;
+  * [Get a coach](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)
 * [Tips for Literature Reading](faq/reading.md)
 
 ![](.gitbook/assets/learning.jpg)
@@ -27,26 +27,21 @@ description: 实验室指南
 
 > Docs, Files & Data
 >
-> * [Intranet](intranet_link.md) hosted by Github/Gitbook (private) 
-> * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) 
-> * [腾讯文档](https://docs.qq.com) (private) 
-> * 印象笔记 (private) 
+> * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
+> * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Syncing; Lu Lab Public Files; Lu Lab Public Photos
+> * [Intranet](intranet\_link.md) hosted by Github/Gitbook (private) : Drylab Network, Hardware and Software Instructions
 
 ### 📊Drylab
 
 * Facilities @intranet
 * Servers  @intranet
 * Notes and Code shared by lab members @ intranet
-* Datasets @腾讯文档(private) 
+* Datasets @腾讯文档(private) Lu Lab - Metadata
 
 ### 🧪Wetlab
 
-* [Wet Lab Training](wet-lab-guide/wetlab_training/)
-  *   [Wet Lab Safety Guide](wet-lab-guide/wetlab_safety/)
-
-      [Wet Lab Regulation](wet-lab-guide/wetlab_regulation.md)
-* Wetlab Protocols @ 印象笔记(private) 
-* Wetlab Samples @腾讯文档(private) 
+* [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety.md)
+* Wetlab Instructions, Protocols & Samples @腾讯文档(private)&#x20;
 
 ![](.gitbook/assets/science.gif)
 
@@ -76,4 +71,4 @@ description: 实验室指南
 
 
 
-> [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables) | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+> [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown\_tables) | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)

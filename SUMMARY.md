@@ -30,10 +30,8 @@
 
 ## Wet-lab Guide
 
-* [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety/README.md)
-  * [清华大学生物废弃物处理平台](wet-lab-guide/wetlab\_safety/waste.md)
-* [Wet Lab Regulation](wet-lab-guide/wetlab\_regulation.md)
-* [Wet Lab Training](wet-lab-guide/wetlab\_training/README.md)
+* [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety.md)
+* [Wet Lab Training @ 2019](wet-lab-guide/wetlab\_training/README.md)
   * [FAQ](wet-lab-guide/wetlab\_training/faq.md)
   * [Class I. Basics](wet-lab-guide/wetlab\_training/class-1\_basics/README.md)
     * [1. Wet Lab Safety](wet-lab-guide/wetlab\_training/class-1\_basics/wetlab\_safety.md)

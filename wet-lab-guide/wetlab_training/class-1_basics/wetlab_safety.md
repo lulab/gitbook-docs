@@ -87,4 +87,4 @@ description: 实验室安全指南
 
 ## 6. 附件
 
-* [清华大学实验室生物废弃物处理指南](../../wetlab_safety/waste.md)
+* [清华大学实验室生物废弃物处理指南](broken-reference)
