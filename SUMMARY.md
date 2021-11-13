@@ -28,7 +28,7 @@
     * [exRNA-seq Analysis](literature-reading/ai/deep-learning-for-omics/exrna-seq-analysis.md)
     * [MultiOmics Analysis](literature-reading/ai/deep-learning-for-omics/multiomics-analysis.md)
 
-## Wet-lab Guide
+## Archive
 
 * [Wet Lab Safety Guide](wet-lab-guide/wetlab\_safety.md)
 * [Wet Lab Training @ 2019](wet-lab-guide/wetlab\_training/README.md)
