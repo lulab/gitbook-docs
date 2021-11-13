@@ -17,7 +17,8 @@ description: 实验室指南
 ### 📖 Learning <a href="learning" id="learning"></a>
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * [Bioinformatics Tutorial](https://lulab2.gitbook.io)
+  * [Bioinformatics Tutorial](https://lulab2.gitbook.io) (Basic)
+  * [Advanced Tutorial ](https://lulab1.gitbook.io/training/)<- Experience Sharing in Lu Lab
 * [Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @everhub &#x20;
   * [Get a coach](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)
 * [Tips for Literature Reading](faq/reading.md)
