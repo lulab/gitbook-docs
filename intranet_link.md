@@ -1,11 +1,8 @@
 # Intranet
 
-&#x20;**Private link (read-only)**: [https://lulab.gitbook.io/intranet](https://lulab.gitbook.io/intranet)
+* **Read-Only link (gitbook version)**: [https://lulab.gitbook.io/intranet](https://lulab.gitbook.io/intranet) (_Account/e-mail_: postar\_[lulab@163.com](mailto:lulab@163.com) _Password_: ask admin or senior students )
+* **Read-Write link (**[**github repo**](https://github.com/lulab/intranet)**):** [https://github.com/lulab/intranet/blob/master/SUMMARY.md](https://github.com/lulab/intranet/blob/master/SUMMARY.md) (Table of Contents)
 
-* **Account/E-mail**: postar\_lulab@163.com
-* **Passwd**: ask lab admin
+> Advanced user can edit the original files in the [github repo](https://github.com/lulab/intranet)** **by sending your github account to PI for the access permission. If not confident about the content changes when editing, you can use the Pull Request.
 
-> Advanced users can acquire the **viewing and editing** permission from PI for the github files: [https://github.com/lulab/intranet](https://github.com/lulab/intranet)
->
-> \[Note] File for the _Table of Contents _in github is: [https://github.com/lulab/intranet/blob/master/SUMMARY.md](https://github.com/lulab/intranet/blob/master/SUMMARY.md)
-
+\
