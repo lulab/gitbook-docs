@@ -1,12 +1,13 @@
 # Table of contents
 
 * [Lab Guide](README.md)
+  * [Wet-Lab Safety](readme/wetlab\_safety.md)
 * [Lab Calendar](cal.md)
-* [Wet-Lab Safety](wetlab\_safety.md)
 * [Intranet](intranet\_link.md)
-* [FAQ](faq/README.md)
-  * [Tips for paper reading](faq/reading.md)
-  * [Tips for paper writing](faq/writing.md)
+* [Tips](tips/README.md)
+  * [Tips for paper reading](tips/reading.md)
+  * [Tips for paper writing](tips/writing.md)
+* [FAQ](faq.md)
 
 ## Literature Reading
 
