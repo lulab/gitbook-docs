@@ -3,6 +3,7 @@
 * [Lab Guide](README.md)
   * [Wet-Lab Safety](readme/wetlab\_safety.md)
 * [Lab Calendar](cal.md)
+* [Lab Training](http://lulab1.gitbook.io)
 * [Intranet](intranet\_link.md)
 * [Tips](tips/README.md)
   * [Tips for paper reading](tips/reading.md)
@@ -29,4 +30,3 @@
   * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics/README.md)
     * [exRNA-seq Analysis](literature-reading/ai/deep-learning-for-omics/exrna-seq-analysis.md)
     * [MultiOmics Analysis](literature-reading/ai/deep-learning-for-omics/multiomics-analysis.md)
-
