@@ -29,13 +29,13 @@ description: 实验室指南
 
 ### 📊Drylab
 
-* **Hardware** (Facilities and Servers) Instructions @intranet
-* **Software** (notes and code)shared by lab members @ intranet
-* **MetaData** @腾讯文档(private)/Lu Lab - Metadata
+* **Hardware** (Facilities and Servers) Instructions @_intranet_
+* **Software** (notes and code)shared by lab members @ _intranet_
+* **MetaData** @_腾讯文档(private)/Lu Lab - Metadata_
 
 ### 🧪Wetlab
 
-* **Wetlab Instructions, Protocols & Samples** @腾讯文档(private)/Lu Lab - Wetlab
+* **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - Wetlab_
 
 > * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
 > * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Syncing; Lu Lab Public Files; Lu Lab Public Photos
