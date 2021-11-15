@@ -18,7 +18,7 @@ description: 实验室指南
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * [Bioinformatics Tutorial](https://lulab2.gitbook.io) (Basic)
-  * [Advanced Tutorial ](https://lulab1.gitbook.io/training/)<- organized from _Experience Sharing_ in Lu Lab
+  * [Advanced Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from [_Experience Sharing_ in Lu Lab](https://cloud.tsinghua.edu.cn/d/79e92b8cb4fb409388f2/)
 * [Tips for Literature Reading](tips/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 
