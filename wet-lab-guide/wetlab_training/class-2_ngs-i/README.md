@@ -1,2 +1,0 @@
-# Class II. NGS - I
-

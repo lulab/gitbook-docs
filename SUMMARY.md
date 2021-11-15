@@ -30,22 +30,3 @@
     * [exRNA-seq Analysis](literature-reading/ai/deep-learning-for-omics/exrna-seq-analysis.md)
     * [MultiOmics Analysis](literature-reading/ai/deep-learning-for-omics/multiomics-analysis.md)
 
-## Archive
-
-* [Wet Lab Training @ 2019](wet-lab-guide/wetlab\_training/README.md)
-  * [FAQ](wet-lab-guide/wetlab\_training/faq.md)
-  * [Class I. Basics](wet-lab-guide/wetlab\_training/class-1\_basics/README.md)
-    * [1. Wet Lab Safety](wet-lab-guide/wetlab\_training/class-1\_basics/wetlab\_safety.md)
-    * [2. Wet Lab Regulation](wet-lab-guide/wetlab\_training/class-1\_basics/wetlab\_regulation.md)
-    * [3. Wet Lab Protocols](wet-lab-guide/wetlab\_training/class-1\_basics/wet-lab-protocols.md)
-    * [4. How to design sample cohort](wet-lab-guide/wetlab\_training/class-1\_basics/4.how-to-design-sample-cohort.md)
-    * [5. How to collect and manage samples](wet-lab-guide/wetlab\_training/class-1\_basics/5.-how-to-collect-and-manage-samples.md)
-    * [6. How to purify RNA from blood](wet-lab-guide/wetlab\_training/class-1\_basics/6.-how-to-purify-rna-from-blood.md)
-    * [7. How to check the quantity and quality of RNA](wet-lab-guide/wetlab\_training/class-1\_basics/7.-how-to-check-the-quantity-and-quality-of-rna.md)
-    * [8. RNA storage](wet-lab-guide/wetlab\_training/class-1\_basics/8.-rna-storage.md)
-    * [9. How to remove DNA contanimation](wet-lab-guide/wetlab\_training/class-1\_basics/9.-how-to-remove-dna-contanimation.md)
-    * [10. What is Spike-in](wet-lab-guide/wetlab\_training/class-1\_basics/10.-what-is-spike-in.md)
-  * [Class II. NGS - I](wet-lab-guide/wetlab\_training/class-2\_ngs-i/README.md)
-    * [1. How to do RNA-seq](wet-lab-guide/wetlab\_training/class-2\_ngs-i/how-to-do-rna-seq.md)
-    * [2. How to check the quantity and quality of RNA-seq library](wet-lab-guide/wetlab\_training/class-2\_ngs-i/how-to-check-the-quantity-and-quality-of-rna-seq-library.md)
-    * [3. What is SMART-seq2 and Multiplex](wet-lab-guide/wetlab\_training/class-2\_ngs-i/what-is-smart-seq2-and-multiplex.md)
