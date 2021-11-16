@@ -12,6 +12,7 @@ description: 实验室指南
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
+* See more frequently used info/files @ 腾讯文档: _**Lu Lab - All** _
 
 ### 📖 Learning <a href="learning" id="learning"></a>
 
