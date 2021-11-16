@@ -6,6 +6,7 @@
 
 ## Internal Training
 
+* [Bioinfo Tutorial - Basic](https://lulab2.gitbook.io)
 * [Lab Training Book](http://lulab1.gitbook.io)
 * [Lab Intranet](internal-training/intranet\_link.md)
 
