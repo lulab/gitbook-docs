@@ -2,7 +2,7 @@
 description: 实验室指南
 ---
 
-# Lab Guide
+# Home - Lab Guide
 
 ## I. Start in Lu Lab
 
@@ -11,7 +11,6 @@ description: 实验室指南
 * [Lab Manual](https://cloud.tsinghua.edu.cn/f/0573c68756c64707948e/)  ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)
 * [Lab Calendar](cal.md)
-* [Wet Lab Safety Guide](readme/wetlab\_safety.md)
 * [FAQ](faq.md)
 
 ### 📖 Learning <a href="learning" id="learning"></a>
@@ -19,7 +18,7 @@ description: 实验室指南
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
   * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' [_Experience Sharing_](https://cloud.tsinghua.edu.cn/d/79e92b8cb4fb409388f2/)
-* [Tips for Literature Reading](tips/reading.md)
+* [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 
 ![](.gitbook/assets/learning.jpg)
@@ -38,7 +37,7 @@ description: 实验室指南
 
 > * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
 > * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Syncing; Lu Lab Public Files; Lu Lab Public Photos
-> * [Intranet](intranet\_link.md) hosted by Github/Gitbook (private) : Drylab Network, Hardware and Software Instructions
+> * [Intranet](internal-training/intranet\_link.md) hosted by Github/Gitbook (private) : Drylab Network, Hardware and Software Instructions
 
 ![](.gitbook/assets/science.gif)
 
@@ -50,7 +49,7 @@ description: 实验室指南
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文: 清华云盘 - Lu Lab Shared/4.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
-    * [Tips for manuscript writing](tips/writing.md)
+    * [Tips for manuscript writing](paper-writing/writing.md)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE\&mode=list)
 
 ![](.gitbook/assets/success.png)

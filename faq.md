@@ -105,7 +105,7 @@
 
 ### **How to automatically receive related literature update every week?**
 
-**see **[**Tips for paper reading - Literature Search**](tips/reading.md#tips-for-literature-search)**.**
+**see **[**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
 
 ### How to remove cache of a redirect site?
 

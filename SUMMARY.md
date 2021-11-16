@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Lab Guide](README.md)
-  * [Wet-Lab Safety](readme/wetlab\_safety.md)
+* [Home - Lab Guide](README.md)
 * [Lab Calendar](cal.md)
-* [Lab Training](http://lulab1.gitbook.io)
-* [Intranet](intranet\_link.md)
-* [Tips](tips/README.md)
-  * [Tips for paper reading](tips/reading.md)
-  * [Tips for paper writing](tips/writing.md)
 * [FAQ](faq.md)
+
+## Internal Training
+
+* [Lab Training Book](http://lulab1.gitbook.io)
+* [Lab Intranet](internal-training/intranet\_link.md)
 
 ## Literature Reading
 
+* [Tips for paper reading](literature-reading/reading.md)
 * [RNA Regulation](literature-reading/rna/README.md)
   * [RNA Structure](literature-reading/rna/rna-structure.md)
   * [POSTAR](literature-reading/rna/postar.md)
@@ -30,3 +30,7 @@
   * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics/README.md)
     * [exRNA-seq Analysis](literature-reading/ai/deep-learning-for-omics/exrna-seq-analysis.md)
     * [MultiOmics Analysis](literature-reading/ai/deep-learning-for-omics/multiomics-analysis.md)
+
+## Paper Writing
+
+* [Tips for paper writing](paper-writing/writing.md)
