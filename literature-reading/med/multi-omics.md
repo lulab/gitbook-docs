@@ -2,11 +2,11 @@
 
 ## 1. ctDNA/cfDNA
 
-* **cfDNA - 4 features**
+* **cfDNA - 4 DNA features **(nuc. footprint + motif + frag. + 5HmC)
   * **2021 **_**Cell Res.**_** **Genome-scale profiling of circulating cell-free DNA signatures for early detection of hepatocellular carcinoma in cirrhotic patients
-* **cfDNA - mbDNA (**Microbiome of cfDNA)
+* **cfDNA - mbDNA **(Microbiome of cfDNA)
   * **✨ **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-* **cfDNA - Fragment-Size**
+* **cfDNA - 3 DNA features  **(Frag. size + CNV + mtDNA%)
   * **✨ **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+**&#x20;
   * **2020** _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
