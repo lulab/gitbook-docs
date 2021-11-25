@@ -20,7 +20,9 @@
 * [Precision Medicine](literature-reading/med/README.md)
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
   * [exRNA-seq](literature-reading/med/exrna-seq.md)
+  * [exRNA-seq Analysis](literature-reading/med/exrna-seq-analysis.md)
   * [MultiOmics - cfDNA & evProtein](literature-reading/med/multi-omics.md)
+  * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
   * [Clinical Panel and Screen](literature-reading/med/panel-and-screen.md)
   * [EV and exRNA Function](literature-reading/med/exrna-function/README.md)
     * [Cancer Immunology](literature-reading/med/exrna-function/cancer-immunology.md)
@@ -28,9 +30,7 @@
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Startup in Machine Learning & AI](literature-reading/ai/startup.md)
   * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
-  * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics/README.md)
-    * [exRNA-seq Analysis](literature-reading/ai/deep-learning-for-omics/exrna-seq-analysis.md)
-    * [MultiOmics Analysis](literature-reading/ai/deep-learning-for-omics/multiomics-analysis.md)
+  * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
 
 ## Paper Writing
 

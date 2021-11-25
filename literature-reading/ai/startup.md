@@ -11,9 +11,9 @@
   * **RNAmotif**  (see more in [RNA Regulation: RNA Structure](../rna/rna-structure.md) and [Deep Learning for RNA](deep-learning-for-rna.md))
     * **CGF: **2012_ Nature  _- TESISER**:** Systematic discovery of structural elements governing stability of mammalian messenger RNAs
     * **HMM+SHAPE**: 2018 _Genome Biology_ - PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
-  * **MultiOmics/MultiFeature** (see more in [MultiOmics Analysis](deep-learning-for-omics/multiomics-analysis.md) and [Deep Learning for Omics](deep-learning-for-omics/))
+  * **MultiOmics/MultiFeature** (see more in [MultiOmics Analysis](../med/multiomics-analysis.md) and [Deep Learning for Omics](deep-learning-for-omics.md))
     * **Deep Learning: **2021 _Bioinformatics_ - Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data
-* **Data Issues in Liquid Biopsy  **(see more in [exRNA-seq Analysis](deep-learning-for-omics/exrna-seq-analysis.md))
+* **Data Issues in Liquid Biopsy  **(see more in [exRNA-seq Analysis](../med/exrna-seq-analysis.md))
   * **(1) Data Clean & Normalization** (Imputation, Normalization & Batch Correction): 2018 _Nature Biotech._ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
   * **(2) Feature Selection/Signature Genes:**_** **_
     * **Signature Extraction** - 2021 _Nature Biotech._ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
