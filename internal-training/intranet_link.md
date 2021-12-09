@@ -1,5 +1,9 @@
 # Lab Intranet
 
+**Basic** info of Intranet can be found in Tencent Docs: Lu Lab - All.
+
+**More**:
+
 * Read-Only link (gitbook version) **for junior students**:
   * _Link_: [https://lulab.gitbook.io/intranet](https://lulab.gitbook.io/intranet)
   * _Account/e-mail_:  bio.lulab@gmail.com
