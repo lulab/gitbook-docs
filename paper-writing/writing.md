@@ -69,6 +69,10 @@
 
 ## III. 网友的写作建议
 
+{% embed url="https://www.nature.com/scitable/topicpage/effective-writing-13815989" %}
+Effective Writing by _Nature_
+{% endembed %}
+
 **写出第一稿**
 
 * 两步走：1、写出尽可能多的内容，不要担心语法、拼写、组织；2、修改文稿变得更好。（参考海明威的写作方式）
