@@ -29,13 +29,13 @@
 
 ## II. Writing Rules
 
-**Terms**
+### **Terms**
 
 1. Check the writing of specific terms in the **whole paper**:
    * noncoding, cross-validation, _P_-value, V.S. (need to be capitalized), HCC/liver cancer
 2. Check if the **Abreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
-**Grammar**
+### **Grammar**
 
 > [Grammarly](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin.
 
@@ -43,14 +43,14 @@
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
 3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
 
-**Figure and Figure Legend**
+### **Figure and Figure Legend**
 
 > **Figure and Figure legend sometimes are more IMPORTANT than main text, because many senior readers read figures first.**
 
 1. Check if Figure Legends contain **sufficiently detailed** descriptions. (We got this suggestion from a previous reviewer who rejected our paper.)
 2. Check if the colors are **easy to see**.  (We got this suggestion from a previous reviewer who rejected our paper.)
 
-**Main Text**
+### **Main Text**
 
 1. Check **first** and **last** sentence in the **whole paper**. To make it easy to read, in every paragraph, first and last sentences are important. Usually, first sentence introduces and summarizes the whole paragraph; last sentence concludes the whole paragraph (e.g. "This result suggests that ...").
 2. Check voice: 1. In **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …". 2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
@@ -62,10 +62,58 @@
    5. XX was **significantly enriched** in the noncoding sequences (**t test** _**P**_**-valeue: 0.002**).
    6. The enrichment is/was calcuated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8. (depends on if you are talking to the audience about a plot or describe a result you have done.)
 
-**Statistics**
+### **Statistics**
 
 1. Check **every** result to see if it needs statistical test: Was a test used? Which one? What is the _P_-value?
 2. Check  **every enrichment** to see if it was statistically determined to be enriched:  What test was used? Which one? What is the _P_-value?
+
+### Using the right tense
+
+In your scientific paper, use verb tenses (past, present, and future) exactly as you would in ordinary writing. Use the past tense to report what happened in the past: what you did, what someone reported, what happened in an experiment, and so on. Use the present tense to express general truths, such as conclusions (drawn by you or by others) and atemporal facts (including information about what the paper does or covers). Reserve the future tense for perspectives: what you will do in the coming months or years. Typically, most of your sentences will be in the past tense, some will be in the present tense, and very few, if any, will be in the future tense.
+
+* **Past tense**
+
+> **Work done**\
+> We collected blood samples from . . .\
+> Groves et al. determined the growth rate of . . .\
+> Consequently, astronomers decided to rename . . .\
+> \
+> **Work reported**\
+> Jankowsky reported a similar growth rate . . .\
+> In 2009, Chu published an alternative method to . . .\
+> Irarrázaval observed the opposite behavior in . . .\
+> \
+> **Observations**\
+> The mice in Group A developed, on average, twice as much . . .\
+> The number of defects increased sharply . . .\
+> The conversion rate was close to 95% . . .\
+>
+
+* **Present tense**
+
+> **General truths**\
+> Microbes in the human gut have a profound influence on . . .\
+> The Reynolds number provides a measure of . . .\
+> Smoking increases the risk of coronary heart disease . . .\
+> \
+> **Atemporal facts**\
+> This paper presents the results of . . .\
+> Section 3.1 explains the difference between . . .\
+> Behbood's 1969 paper provides a framework for . . .\
+>
+
+* **Future tense**
+
+> **Perspectives**\
+> In a follow-up experiment, we will study the role of . . .\
+> The influence of temperature will be the object of future research . . .\
+>
+
+Note the difference in scope between a statement in the past tense and the same statement in the present tense: "The temperature increased linearly over time" refers to a specific experiment, whereas "The temperature increases linearly over time" generalizes the experimental observation, suggesting that the temperature always increases linearly over time in such circumstances.
+
+In complex sentences, you may have to combine two different tenses — for example, "In 1905, Albert Einstein postulated that the speed of light is constant . . . . " In this sentence, _postulated_ refers to something that happened in the past (in 1905) and is therefore in the past tense, whereas _is_ expresses a general truth and is in the present tense.
+
+
 
 ## III. 网友的写作建议
 
