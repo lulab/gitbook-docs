@@ -19,7 +19,7 @@
 ## II. Structure Motif Finder
 
 * **SCFG ( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org) )
-  * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030) 
+  * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)&#x20;
   * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
   * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
@@ -48,9 +48,9 @@
 > * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
 > * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
 
-* **Energy Model** 
-  * **RNAstructure/Mfold**  and **RNAfold** 
-    * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457) 
+* **Energy Model**&#x20;
+  * **RNAstructure/Mfold**  and **RNAfold**&#x20;
+    * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
     * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
   * **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 
@@ -59,9 +59,9 @@
 > **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
 
 * **SCFG Model** (Rfam/Infernal)
-  * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315) 
+  * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
   * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
-* **Deep Learning Method **- [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
+* **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20secondary%20structure%20prediction\&mode=list)
 

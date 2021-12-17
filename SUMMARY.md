@@ -19,7 +19,7 @@
   * [Quantum Biology](literature-reading/rna/quantum-biology.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
-  * [exRNA-seq](literature-reading/med/exrna-seq.md)
+  * [exRNA-seq Tech.](literature-reading/med/exrna-seq-tech.md)
   * [exRNA-seq Analysis](literature-reading/med/exrna-seq-analysis.md)
   * [MultiOmics - cfDNA & evProtein](literature-reading/med/multi-omics.md)
   * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)

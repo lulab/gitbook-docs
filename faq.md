@@ -5,7 +5,7 @@
 ### 如何学习新知识和新技能？
 
 {% hint style="success" %}
-[**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)** !**
+[**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
 {% endhint %}
 
 要做好从本科生到研究生的角色转变（尤其注意不要还停留在高中生的角色），要从“被动学习”转向“主动学习”；而且，研究生和博士后不能只知道“学习”，要侧重“研究”。
@@ -105,7 +105,7 @@
 
 ### **How to automatically receive related literature update every week?**
 
-**see **[**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
+**see** [**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
 
 ### How to remove cache of a redirect site?
 

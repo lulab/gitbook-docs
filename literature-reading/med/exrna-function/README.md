@@ -1,15 +1,15 @@
 # EV and exRNA Function
 
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function\&mode=list)** of exRNA function **
+> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function\&mode=list) **of exRNA function**&#x20;
 >
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FEV%20and%20RNP\&mode=list)** of EV & RNP**
+> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FEV%20and%20RNP\&mode=list) **of EV & RNP**
 
 ## I. EV/RNP
 
 ### 1) Exosome
 
-* 2021 _Nature Methods_** - **Exosome detection via the ultrafast-isolation system: EXODUS
-* **✨ **2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
+* 2021 _Nature Methods_ **-** Exosome detection via the ultrafast-isolation system: EXODUS
+* **✨** 2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
 * **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
 * **✨ Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
@@ -24,7 +24,7 @@
 
 ### 1) RP-RNA
 
-* **2020 NAR **- Fragmentation of extracellular ribosomes and tRNAs shapes the extracellular RNAome
+* **2020 NAR** - Fragmentation of extracellular ribosomes and tRNAs shapes the extracellular RNAome
 
 ### 2) exRNA function in Immunology
 
@@ -39,8 +39,8 @@
 ## III. ncRNA in Cancer
 
 * \[Review] _**2021 Nature Review | Cancer**_ - Long noncoding RNAs in cancer metastasis
-* **✨ **\[Review] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
-* **✨ **_**2021 Nature Biotechnology **_- The RNA Atlas expands the catalog of human non-coding RNAs
+* **✨** \[Review] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
+* **✨ **_**2021 Nature Biotechnology**_ - The RNA Atlas expands the catalog of human non-coding RNAs
 * _**2020 Nature**_ **- PCAWG** - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes
 * _**2020 Nature**_ **- PCAWG** - Genomic basis for RNA alterations in cancer
 * **✨ **_**2015 Nature Genetics**_ **- MiTranscriptome** - The Landscape of Long Noncoding RNAs in the Human Transcriptome

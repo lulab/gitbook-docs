@@ -1,6 +1,6 @@
 # Deep Learning for Omics
 
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20Omics\&mode=list)** - Deep learning for Omics**
+> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20Omics\&mode=list) **- Deep learning for Omics**
 
 ## 1. Method
 

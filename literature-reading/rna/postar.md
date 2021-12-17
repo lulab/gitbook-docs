@@ -16,7 +16,7 @@ Data about RBP-RNA interaction
 
 * 2018 Nature Reviews - A brave new world of RNA-binding proteins
 * 2018 Mol Cell - Advances in CLIP Technologies for Studies of Protein-RNA Interactions.pdf
-* 2018 Annual Reviews - Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies 
+* 2018 Annual Reviews - Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies&#x20;
 
 **Research**
 
@@ -72,25 +72,25 @@ Data about RBP-RNA interaction
 
 **Research**
 
-* Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. (Genome Research, 2017) 
+* Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. (Genome Research, 2017)&#x20;
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. (Cancer cell, 2015)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing\&mode=list)
 
 ## 6. DNA mutation using RNA-seq
 
-* RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues (Science, 2019) 
+* RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues (Science, 2019)&#x20;
 
 ## 7. Translation: Ribo-seq
 
 关于RNA翻译（Ribo-seq）
 
-* ORF finding 
+* ORF finding&#x20;
   * [RiboCode](https://www.ncbi.nlm.nih.gov/pubmed/29538776): 2018 _NAR_
   * [RiboWave](https://www.ncbi.nlm.nih.gov/pubmed/29945224): 2018 _NAR_
   * [RiboTaper](https://www.ncbi.nlm.nih.gov/pubmed/26657557): 2016 _Nature Methods_
 * Difference of Translation Efficiency
-  * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_ 
+  * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_&#x20;
   * [Xtail](https://pubmed.ncbi.nlm.nih.gov/27041671/): 2016 _Nature Communications_
 
 | Preprocessing | ORF Iden.     | Quantification TE                                      | Translation elongation | Integrative & visualization                             |
@@ -117,12 +117,12 @@ Data about RBP-RNA interaction
 * _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 * **2018** _**Mol. Cell**_ **(e. coli)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
 * **2020** _**Genome Biology**_ **(zebrafish)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
-* **✨ 2017**_** Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
+* **✨ 2017 **_**Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
 
-#### 2.1 Motif 
+#### 2.1 Motif&#x20;
 
 * _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
 * _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly(A)
 
 > * ****[**Startup PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FRNA%20Regulation\&mode=list)****
-> * More [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape\&mode=list) 
+> * More [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape\&mode=list)&#x20;
