@@ -21,7 +21,7 @@
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
   * [exRNA-seq Tech.](literature-reading/med/exrna-seq-tech.md)
   * [exRNA-seq Analysis](literature-reading/med/exrna-seq-analysis.md)
-  * [MultiOmics - cfDNA & evProtein](literature-reading/med/multi-omics.md)
+  * [cfDNA & evProtein](literature-reading/med/cfDNA-EVP.md)
   * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
   * [Clinical Panel and Screen](literature-reading/med/panel-and-screen.md)
   * [EV and exRNA Function](literature-reading/med/exrna-function/README.md)
