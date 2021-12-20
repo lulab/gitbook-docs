@@ -1,13 +1,16 @@
-# MultiOmics - cfDNA & evProtein
+# cfDNA & evProtein
 
 ## 1. ctDNA/cfDNA
 
-* **cfDNA - 4 DNA features** (nuc. footprint + motif + frag. + 5HmC)
-  * **2021 **_**Cell Res.**_** ** Genome-scale profiling of circulating cell-free DNA signatures for early detection of hepatocellular carcinoma in cirrhotic patients
+* **cfDNA - nucleosome occupancy+**&#x20;
+  * **✨2021 **_**Science Trans. Med.**_ - Analysis of recurrently protected genomic regions in cell-free DNA found in urine
+  * **2021 **_**Cell Res.**_** ** Genome-scale profiling of circulating cell-free DNA signatures for early detection of hepatocellular carcinoma in cirrhotic patients (nuc. footprint + motif + frag. + 5HmC)
+  * **✨2016 **_**Cell**_** ** - Cell-free DNA Comprises an In Vivo Nucleosome Footprint that Informs Its Tissues-Of-Origin
+* **cfDNA - Frag. +**&#x20;
+  * **✨ **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer (Frag. size + CNV + mtDNA%)
+  * _**2018 Science Trans. Med.**_ - Enhanced detection of circulating tumor DNA by fragment size analysis
 * **cfDNA - mbDNA** (Microbiome of cfDNA)
   * **✨ **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-* **cfDNA - 3 DNA features**  (Frag. size + CNV + mtDNA%)
-  * **✨ **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+**&#x20;
   * **2020** _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
@@ -20,22 +23,39 @@
 
 ## **2. cfDNA Methylation**
 
-* **✨**  \[BS] **2021** _**Nature Biomedical Engineering**_ - Ultrasensitive detection of circulating tumour DNA via deep methylation sequencing aided by machine learning
-* **✨** \[Targeted BS] _**2021 Annals of Oncology**_ - **Grail and CCGA Consortium** - Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
-* **✨** \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-* **✨** \[meDIP] **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
-* _**2020 Nature Medicine**_ - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
+* \[**TAPS**]
+  * **✨**\[cfTAPS] **2021 **_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
+  * **✨**\[TAPS] **2019 **_**Nature Biotech.** _ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
+* &#x20; ****  \[**BS**]&#x20;
+  * **2021** _**Nature Biomedical Engineering**_ - Ultrasensitive detection of circulating tumour DNA via deep methylation sequencing aided by machine learning
+  * **✨** \[Targeted BS] _**2021 Annals of Oncology**_ - **Grail and CCGA Consortium** - Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
+  * **✨** \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * \[chips] _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
+* **\[MeDIP]**
+  * **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
+  * **✨**\[cfMeDIP] **2019 **_**Nature Protocol** _ - Preparation of cfMeDIP-seq libraries for methylome
+  * **✨**\[cfMeDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+
+### more reading on cfDNAmet
+
 * _**2020 Sci Adv**_ - Reliable tumor detection by whole-genome methylation sequencing of cell-free DNA in cerebrospinal fluid of pediatric medulloblastoma.&#x20;
 * _**2019 Clin Chem**_ - Detection of Colorectal Cancer in Circulating Cell-Free DNA by Methylated CpG Tandem Amplification and Sequencing
 * _**2019 Blood Adv**_ - Prognostic implications of 5-hydroxymethylcytosines from circulating cell-free DNA in diffuse large B-cell lymphoma
 * _**2019 Gut**_ - Genome-wide mapping of 5-hydroxymethylcytosines in circulating cell-free DNA as a non-invasive approach for early detection of hepatocellular carcinoma
-* \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* \[chips] _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
 * \[WGBS] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 * _**2017 Genomic Medicine**_ - Empirical comparison of reduced representation bisulfite sequencing and Infinium BeadChip reproducibility and coverage of DNA methylation in humans.
 * _**2017 Cell Res**_ - 5-Hydroxymethylcytosine signatures in circulating cell-free DNA as diagnostic biomarkers for human cancers
 * _**2015 Cell Res**_ - Genome-scale detection of hypermethylated CpG islands in circulating cell-free DNA of hepatocellular carcinoma patients&#x20;
 * _**2014 Clin Epigenetics**_ - Genome-wide methylation profiling of the different stages of hepatitis B virus-related hepatocellular carcinoma development in plasma cell-free DNA reveals potential biomarkers for early detection and high-risk monitoring of hepatocellular carcinoma.
+
+### Validation of DNAmet
+
+* \[mqMSP] **2021 PNAS** - Efficient detection and post-surgical monitoring of colon cancer with a multi-marker DNA methylation liquid biopsy
+* \[qMSP]**2019  Clin Epigenetics** - Promoter methylation of ADAMTS1 and BNC1 as potential biomarkers for early detection of pancreatic cancer in blood
+* \[MSRE] **2016 Clin Epigenetics**  - Detection and monitoring of hypermethylated RASSF1A in serum from patients with metastatic breast cancer
+* \[qMSP] **2019 Theranostics** - Genome-wide discovery and validation of diagnostic DNA methylation-based biomarkers for hepatocellular cancer detection in circulating cell free DNA
+
+
 
 > * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation\&mode=list)of cfDNA Methylation papers
 
