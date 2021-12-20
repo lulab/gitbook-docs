@@ -40,6 +40,8 @@
 ### Other Detection/Diagnosis Panels
 
 * **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+  * 2019 - iScience - Early Cancer Detection from Multianalyte Blood Test Results
+  * 2021 - Bioinformatics - CancerEMC frontline non-invasive cancer screening from circulating protein biomarkers and mutations in cell-free DNA
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
 ### Other Prognosis Panels
