@@ -16,9 +16,10 @@
 * **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
 * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
-### 2) MV and RNP
+### 2) EV Purification Method
 
-* **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
+* **SEC: 2020 **_**Molecular Therapy**_** ** - Simple and Fast SEC-Based Protocol to Isolate Human Plasma-Derived Extracellular Vesicles for Transcriptional Research
+* **MV+sEV+RNP**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
 
 ## I**I**. Functional exRNA
 

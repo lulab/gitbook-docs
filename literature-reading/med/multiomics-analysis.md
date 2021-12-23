@@ -13,6 +13,7 @@
 
 ## 2. Research Article
 
+* ✨ **2021 **_**Nature**_** ** - Multi-omic machine learning predictor of breast cancer therapy response
 * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
 * ✨ _**2021 Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
 * _**2021 Nature Commn. -**_ MOGONET integrates multi-omics data usinggraph convolutional networks allowing patientclassification and biomarker identification

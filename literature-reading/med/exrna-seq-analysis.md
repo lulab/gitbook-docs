@@ -17,7 +17,8 @@
 * **Recommendations**:
   * 2020 _Nature COMMN_ - Embracing the **dropouts** in single-cell RNA-seq analysis
   * 2019 - _Nature Methods_ - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
-  * 2017 - _Nature Methods_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * **Review**: 2017 - _Nature Methods_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * **MNN**: 2017 - Nature Biotech. - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 
 > * (1) Dropout/Sparseness and Imputation
 > * (2) Heterogeneity and Normalization
@@ -32,6 +33,14 @@
 * **✨ **_****_** (fuzzy coding): **_**2021 Nature Biotech.**_  - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
 * **✨ **_**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
+
+### IIIA1. cfRNA Domain
+
+* **sRNA cluster: 2021 Gut** - Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
+* **mRNA frag. :  2020 elife** - Identification of protein-protected mRNA fragments and structured excised intron RNAs in human plasma by TGIRT-seq peak calling
+* **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
+* **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
+* **srpRNA domain (RNA7SL1)**: 2019 Clinical Chem. - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
 
 ## IIIB. Network Approach and Clustering
 
