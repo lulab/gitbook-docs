@@ -40,7 +40,7 @@
 * **mRNA frag. :  2020 elife** - Identification of protein-protected mRNA fragments and structured excised intron RNAs in human plasma by TGIRT-seq peak calling
 * **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
-* **srpRNA domain (RNA7SL1)**: 2019 Clinical Chem. - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
+* **srpRNA domain (RNA7SL1)**: **2019 Clinical Chem.** - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
 
 ## IIIB. Network Approach and Clustering
 
