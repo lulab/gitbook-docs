@@ -34,8 +34,9 @@
 * **✨ **_**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
-### IIIA1. cfRNA Domain
+### IIIA1. cfRNA frag. & motif
 
+* **✨ miRNA motif - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * **sRNA cluster: 2021 Gut** - Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
 * **mRNA frag. :  2020 elife** - Identification of protein-protected mRNA fragments and structured excised intron RNAs in human plasma by TGIRT-seq peak calling
 * **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis

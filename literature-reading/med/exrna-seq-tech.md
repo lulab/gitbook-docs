@@ -1,4 +1,4 @@
-# exRNA-seq
+# exRNA-seq Tech.
 
 ## I. exRNA/cfRNA studies
 
@@ -18,6 +18,7 @@
 ### Cancer
 
 * **Long**
+  * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
   * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
   * **long evRNA-mRNA: **_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer&#x20;
   * **long cfRNA-ncRNA** _-_ **2021 **_**Theranostics**_** ** _-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer

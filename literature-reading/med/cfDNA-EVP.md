@@ -2,11 +2,13 @@
 
 ## 1. ctDNA/cfDNA
 
-* **cfDNA - Nucleosome footprint**&#x20;
+* **cfDNA - Nucleosome footprint & short cfDNA**
   * **✨2021 **_**Science Trans. Med.**_ - Analysis of recurrently protected genomic regions in cell-free DNA found in urine
   * \[nuc. footprint + motif + frag. + 5HmC] **2021 **_**Cell Res.**_** ** Genome-scale profiling of circulating cell-free DNA signatures for early detection of hepatocellular carcinoma in cirrhotic patients
   * **✨2016 **_**Cell**_** ** - Cell-free DNA Comprises an In Vivo Nucleosome Footprint that Informs Its Tissues-Of-Origin
+  * **2021** _**Genome Res.** _ - Characteristics, origin, and potential for cancer diagnostics of ultrashort plasma cell-free DNA
 * **cfDNA - Frag. +**&#x20;
+  * _**2021 Hepatology**_ - Ultra‐Sensitive and Affordable Assay for Early Detection of Primary Liver Cancer Using Plasma cfDNA Fragmentomics
   * **✨**\[Frag. size + CNV + mtDNA%] ** **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer&#x20;
   * _**2018 Science Trans. Med.**_ - Enhanced detection of circulating tumor DNA by fragment size analysis
 * **cfDNA - mbDNA** (Microbiome of cfDNA)
