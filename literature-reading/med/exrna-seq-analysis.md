@@ -15,10 +15,10 @@
   * (3) Batch effect and Confounder
   * (Pseudo-time and Others)
 * **Recommendations**:
-  * 2020 _Nature COMMN_ - Embracing the **dropouts** in single-cell RNA-seq analysis
-  * 2019 - _Nature Methods_ - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
-  * **Review**: 2017 - _Nature Methods_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
-  * **MNN**: 2017 - Nature Biotech. - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
+  * **2020 **_**Nature COMMN**_** ** - Embracing the dropouts in single-cell RNA-seq analysis
+  * **2019 - **_**Nature Methods**_ - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
+  * **✨ Review**: **2017 - **_**Nature Methods**_** ** - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * **MNN**: **2017 - **_**Nature Biotech.**_ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 
 > * (1) Dropout/Sparseness and Imputation
 > * (2) Heterogeneity and Normalization
