@@ -38,6 +38,7 @@
 
 * **✨ miRNA motif - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * **sRNA cluster: 2021 Gut** - Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
+* **Fragmented ribosomes: 2020 NAR** - Fragmentation of extracellular ribosomes and tRNAs shapes the extracellular RNAome ([link](https://academic.oup.com/nar/article/48/22/12874/5891565))
 * **mRNA frag. :  2020 elife** - Identification of protein-protected mRNA fragments and structured excised intron RNAs in human plasma by TGIRT-seq peak calling
 * **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
