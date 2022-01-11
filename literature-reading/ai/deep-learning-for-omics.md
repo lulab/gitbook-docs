@@ -6,7 +6,8 @@
 
 * ✨ _**2021 Nature -**_  Biologically informed deep neural network for prostate cancer discovery
 * **✨ **_**2021 Nature Machine Intelligence**_ - Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms
-* ✨ _**2021 Bioinformatics -**_  Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data
+* ✨_**2021 Nature Computational Science**_ -  Modeling gene regulatory networks using neural network architectures
+* _**2021 Bioinformatics -**_  Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data
 * _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
 * _**2019 Bioinformatics**_ - DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
 * ✨ _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
