@@ -13,7 +13,6 @@
 ### **Pregnancy**
 
 * **✨ long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-* **long cfRNA-seq**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
 * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
 
 ### Cancer

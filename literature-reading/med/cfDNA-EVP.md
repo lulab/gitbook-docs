@@ -15,7 +15,7 @@
   * **✨ **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
 * **ctDNA - Mutations+**&#x20;
   * **2020** _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
-  * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
+  * **captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
   * **Papadopoulos N Lab**
     * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
