@@ -33,19 +33,19 @@
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
 * **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
-  * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
+  * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
-  * **✨Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
   * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
+  * **✨Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
-  * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-  * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
+  * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+  * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 * **EVP - Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
   * **✨ Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
