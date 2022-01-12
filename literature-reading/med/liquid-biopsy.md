@@ -32,17 +32,18 @@
 
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-* **ctDNA/cfDNA - Genome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
-  * **Mutations+: ✨ **_**2018 Science -**_ **ctDNA+Protein(CancerSEEK)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-  * **Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-* **cfDNA Methylation etc  - Epigenome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+  * **cfDNA+proteins: ✨ **_**2018 Science -**_ **ctDNA+Protein(CancerSEEK)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **cfDNA/mbDNA** &#x20;
+  * **✨Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+  * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
+* **cfDNA Methylation**&#x20;
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-  * **Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
-  * **✨ Exosome**: _**2019 Cell**_ **(ERCC)** - Reassessment of Exosome Composition
-  * **✨ cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * **✨Exosome**: _**2019 Cell**_ **(ERCC)** - Reassessment of Exosome Composition
+  * **✨cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+  * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 * **EVP - Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
   * **✨ Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 
