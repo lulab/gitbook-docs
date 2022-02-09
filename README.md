@@ -6,15 +6,15 @@ description: 实验室指南
 
 ## I. Start in Lu Lab
 
-### 🎉 Welcome <a href="welcome" id="welcome"></a>
+### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
 * [Lab Manual](https://cloud.tsinghua.edu.cn/f/0573c68756c64707948e/)  ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
-* See more frequently used info/files @ 腾讯文档: _**Lu Lab - All** _
+* See more frequently used info/files @ 腾讯文档: _**Lu Lab - All** _&#x20;
 
-### 📖 Learning <a href="learning" id="learning"></a>
+### 📖 Learning <a href="#learning" id="learning"></a>
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
@@ -60,11 +60,11 @@ description: 实验室指南
 > * **Lu Lab @ Tsinghua University**
 > * Address:   School of Life Sciences, Tsinghua University, Beijing, China
 > * E-mail:    lulab1 AT tsinghua.edu.cn
-> * Docs: [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io)
-> * Homepage:   [www.ncrnalab.org](http://www.ncrnalab.org)  |  [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
+> * Homepage:   [www.ncrnalab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
 > * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
 > * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
-> * Books: [Bioinformatics Tutorial](https://lulab2.gitbook.io)
+> * Books: [book.ncrnalab.org](https://book.ncrnalab.org) | _Bioinformatics Tutorial_
+> * Docs: [docs.ncrnalab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
 
 
