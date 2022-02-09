@@ -61,8 +61,8 @@ description: 实验室指南
 > * Address:   School of Life Sciences, Tsinghua University, Beijing, China
 > * E-mail:    lulab1 AT tsinghua.edu.cn
 > * Homepage:   [www.ncrnalab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
-> * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
-> * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
+> * Software:  [software.ncrnalab.org](http://software.ncrnalab.org)
+> * Courses:  [courses.ncrnalab.org](http://www.ncrnalab.org/courses)
 > * Books: [book.ncrnalab.org](https://book.ncrnalab.org) | _Bioinformatics Tutorial_
 > * Docs: [docs.ncrnalab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
