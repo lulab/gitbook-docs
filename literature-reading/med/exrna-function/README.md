@@ -9,7 +9,7 @@
 ### 1) Exosome
 
 * **RNP: **_**2021 Nature Cell Biol.**_ - Supermeres are functional extracellular nanoparticles replete with disease biomarkers and therapeutic targets
-* 2021 _Nature Methods_ **-** Exosome detection via the ultrafast-isolation system: EXODUS
+* **2021 **_**Nature Methods**_** -** Exosome detection via the ultrafast-isolation system: EXODUS
 * **✨** 2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
 * **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
