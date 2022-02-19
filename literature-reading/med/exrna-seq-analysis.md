@@ -60,7 +60,7 @@
 ## IV. Origin of Tissue and Tumor Location Method
 
 * **✨ 2017 **_**Genome Biology**_** ** - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
-* **✨ Deconvolution**: **2021 **_**bioRxiv**_ - Cell Types of Origin in the Cell Free Transcriptome in Human Health and Disease
+* **✨ Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
 
 
 
