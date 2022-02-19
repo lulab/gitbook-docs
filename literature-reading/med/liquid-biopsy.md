@@ -44,6 +44,7 @@
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
   * **✨Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
+  * **✨Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
