@@ -60,11 +60,11 @@ description: 实验室指南
 > * **Lu Lab @ Tsinghua University**
 > * Address:   School of Life Sciences, Tsinghua University, Beijing, China
 > * E-mail:    lulab1 AT tsinghua.edu.cn
-> * Homepage:   [www.ncrnalab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
-> * Software:  [software.ncrnalab.org](http://software.ncrnalab.org)
-> * Courses:  [courses.ncrnalab.org](http://www.ncrnalab.org/courses)
-> * Books: [book.ncrnalab.org](https://book.ncrnalab.org) | _Bioinformatics Tutorial_
-> * Docs: [docs.ncrnalab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
+> * Homepage:   [www.ncRNAlab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
+> * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
+> * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
+> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) | _Bioinformatics Tutorial_
+> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
 
 
