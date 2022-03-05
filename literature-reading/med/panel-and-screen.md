@@ -32,7 +32,7 @@
 
 * **✨ miRNA panel: **_**2022 Mol Cancer -**_ A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study
 * **✨ circRNA  panel: **_**2022 Mol Cancer -**_ Diagnostic efcacy of circular RNAs as noninvasive liquid biopsy biomarkers for early detection of gastric cancer
-* **✨ long mRNAs: **_**2021 Mol Cancer -**_ Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
+* **✨ mRNA panel: **_**2021 Mol Cancer -**_ Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer
 * **lncRNAs+miRNAs**_**: 2021 Theranostics**_ -Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
 * **miRNAs:** _**2020 Gut**_ - Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population
 * **miRNAs:** _**2020 PNAS**_ - Development of a serum miRNA panel for detection of early stage non-small cell lung cancer
