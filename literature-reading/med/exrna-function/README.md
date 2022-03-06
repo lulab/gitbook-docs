@@ -28,6 +28,15 @@
 
 * **2020 NAR** - Fragmentation of extracellular ribosomes and tRNAs shapes the extracellular RNAome
 
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function%2FRP-RNA\&mode=list)
+
+### 2) MT-tRNA
+
+* **tsRNA - function: 2021 Mol. Cancer** - A novel class of tsRNA signatures as biomarkers for diagnosis and prognosis of pancreatic cancer
+* **tsRNA - marker: 2019 Mol. Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
+
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function%2FMT-tRNA\&mode=list)
+
 ### 2) exRNA function in Immunology
 
 * see more in [Cancer Immunology](cancer-immunology.md#1-exrna-function-in-immunology)
