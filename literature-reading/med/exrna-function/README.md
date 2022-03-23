@@ -1,8 +1,6 @@
 # EV and exRNA Function
 
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function\&mode=list) **of exRNA function**&#x20;
->
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FEV%20and%20RNP\&mode=list) **of EV & RNP**
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
 ## I. EV/RNP
 

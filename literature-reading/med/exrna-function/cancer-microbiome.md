@@ -4,6 +4,8 @@ description: Cancer System and Environment
 
 # Cancer Microbiome
 
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
+
 ## I. exRNA function **in host & microbe**
 
 * ✨ _**2018 Cell Host & Microbe**_ - Plant-Derived Exosomal MicroRNAs Shape the Gut Microbiota.&#x20;
@@ -24,7 +26,7 @@ description: Cancer System and Environment
 * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
 * _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
 
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome\&mode=list)s for **Microbiome** and **Metagenomics**
+
 
 ![2020 Science - Bacteria in Tumors](../../../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 

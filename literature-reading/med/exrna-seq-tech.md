@@ -1,8 +1,10 @@
 # exRNA-seq Tech.
 
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
+
 ## I. exRNA/cfRNA studies
 
-> * ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-cfRNA\&mode=list) **of exRNA/cfRNA papers**
+****
 
 ### **Neural Diseases**
 
@@ -54,7 +56,7 @@
 
 ## II. exRNA-seq Technologies
 
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA-seq%20tech\&mode=list) **of exRNA-seq tech.**
+****
 
 ### 1. Protocols & Technologies
 

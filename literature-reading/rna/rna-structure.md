@@ -1,18 +1,20 @@
 # RNA Structure
 
+> [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation\&mode=list)
+
 ## I. Structure Probing
 
 ### 1. Structure probing methods
 
 关于RNA 二级结构高通量测序方法
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FStructure%20probing%20method\&mode=list)
+
 
 ### 2. Structure probing data analysis
 
 * _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FStructure%20probing%20data%20analysis\&mode=list)
+
 
 ###
 
@@ -62,8 +64,6 @@
   * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
   * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
 * **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
-
-[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20secondary%20structure%20prediction\&mode=list)
 
 
 

@@ -8,6 +8,8 @@ description: POST-trAnscriptional Regulation
 **POSTAR: POST-trAnscriptional Regulation**
 {% endhint %}
 
+> [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation\&mode=list)
+
 ## 1. RBP Binding: CLIP-seq etc
 
 Data about RBP-RNA interaction
@@ -23,7 +25,7 @@ Data about RBP-RNA interaction
 * Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. (Nature structural & molecular biology, 2013)
 * Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. (Genome Biology, 2017)
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRBP-RNA%20interaction\&mode=list)
+
 
 ## 2. AS: Alternative splicing
 
@@ -41,7 +43,7 @@ Data about RBP-RNA interaction
 
 * 2020 - _Nature Reviews_ - Roles and mechanisms of alternative splicing in cancer — implications for care
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer\&mode=list)
+
 
 ## 3. APA: Alternative polyadenylation
 
@@ -55,13 +57,13 @@ Data about RBP-RNA interaction
 * Dynamic analysis of alternative polyadenylation from RNA-seq reveal a 30-UTR landscape across seven tumour types. (Nature communications, 2014)
 * Cellular stress alters 3′UTR landscape through alternative polyadenylation and isoform-specific degradation. (Nature communications, 2018)
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FAlternative%20polyadenylation\&mode=list)
+
 
 ## 4. RNA Velocity
 
 * _**2020 - Nature Biotech.**_ - Generalizing RNA velocity to transient cell states through dynamical modeling
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Velocity\&mode=list)
+
 
 ## 5. RNA editing
 
@@ -75,7 +77,7 @@ Data about RBP-RNA interaction
 * Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. (Genome Research, 2017)&#x20;
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. (Cancer cell, 2015)
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing\&mode=list)
+
 
 ## 6. DNA mutation using RNA-seq
 
@@ -107,7 +109,7 @@ Data about RBP-RNA interaction
 |               | SPECtre       |                                                        |                        | [**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/) |
 |               | TITER         |                                                        |                        |                                                         |
 
-[PDFs and PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq\&mode=list)
+
 
 
 
@@ -124,6 +126,3 @@ Data about RBP-RNA interaction
 
 * _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
 * _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly(A)
-
-> * ****[**Startup PDFs**](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup%2FRNA%20Regulation\&mode=list)****
-> * More [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape\&mode=list)&#x20;

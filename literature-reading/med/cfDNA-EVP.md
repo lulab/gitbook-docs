@@ -1,5 +1,7 @@
 # cfDNA & evProtein
 
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
+
 ## 1. ctDNA/cfDNA
 
 * **cfDNA - Nucleosome footprint & short cfDNA**
@@ -21,7 +23,7 @@
     * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
     * **✨ **_**2018 Science -**_ **ctDNA+Protein(CancerSEEK)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA\&mode=list) of ctDNA/cfDNA papers
+
 
 ## **2. cfDNA Methylation**
 
@@ -61,11 +63,8 @@
 
 
 
-> * [PDFs ](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA%2FcfDNA%20Methylation\&mode=list)of cfDNA Methylation papers
-
 ## 3. EV Proteomics
 
 * **✨** \[MS-EVP] _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FProteomics\&mode=list) of proteomics
