@@ -47,11 +47,9 @@ description: 实验室指南
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/about-us/#%E4%B8%93%E5%88%A9%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87)
 * [Paper](https://www.ncrnalab.org/publications/)
-  * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文: 清华云盘 - Lu Lab Shared/4.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
     * [Tips for manuscript writing](paper-writing/writing.md)
-    * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE\&mode=list)
 
 ![](.gitbook/assets/success.png)
 

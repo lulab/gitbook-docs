@@ -2,7 +2,7 @@
 
 ## I. Format
 
-> [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/7e55bada94934a25b0df/)
+> [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/d2c5d0670b7143deb2d4/)
 
 **Sections**
 

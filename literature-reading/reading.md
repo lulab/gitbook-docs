@@ -1,7 +1,7 @@
 # Tips for paper reading
 
-* [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
-* [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE\&mode=list)
+* [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
+* [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FENDNOTE\&mode=list)
 * [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)
   * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications\&mode=list)
   * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)
