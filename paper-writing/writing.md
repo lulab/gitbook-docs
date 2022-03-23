@@ -1,8 +1,10 @@
 # Tips for paper writing
 
-## I. Format
-
 > [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/d2c5d0670b7143deb2d4/)
+>
+> [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FENDNOTE\&mode=list)
+
+## I. Format
 
 **Sections**
 
