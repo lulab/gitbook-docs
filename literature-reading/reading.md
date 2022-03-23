@@ -2,15 +2,15 @@
 
 * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
 * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE\&mode=list)
-* [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)
-  * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
-  * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers\&mode=list)
+* [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)
+  * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications\&mode=list)
+  * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)
 
 ## **Recommended Reading by PI**
 
-* [RNA Regulation](../literature-reading/rna/)
-* [Precision Medicine](../literature-reading/med/)
-* [Machine Leaning & AI](../literature-reading/ai/)
+* [RNA Regulation](rna/)
+* [Precision Medicine](med/)
+* [Machine Leaning & AI](ai/)
 
 ## **Recommended Reading by group members**
 
