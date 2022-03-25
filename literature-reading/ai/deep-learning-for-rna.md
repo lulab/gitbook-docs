@@ -2,7 +2,11 @@
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F3.%20AI\&mode=list) ****&#x20;
 
-## I. Deep Learning on RNA
+## I. Deep Learning on DNA
+
+* **2022 Nature** - The evolution, evolvability and engineering of gene regulatory DNA
+
+## II. Deep Learning on RNA
 
 > * **Course:**  Machine Learning (CS229) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)
 > * **Book:    《**机器学习》-- 周志华 ([link](https://book.douban.com/subject/26708119/))  ([更多书籍课程推荐](https://lulab1.gitbook.io/training/appendix/appendix-i.keep-learning))
@@ -18,4 +22,6 @@
   * [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms ([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig))
   * (**Transfer learning**) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
-****
+## **III. Deep Learning on Protein**
+
+* **2022 Nature Biotech.** - Using deep learning to annotate the protein universe
