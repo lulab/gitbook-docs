@@ -43,6 +43,7 @@
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
   * **small cfRNA**: _**2015 Scientific Report**_ - Plasma extracellular RNA profiles in healthy and cancer patients
   * **structured ncRNA domain (small cfRNA-seq)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
+  * **oncRNA:** _**2018 Nature Med.**_ - Cancer cells exploit an orphan RNA to drive metastatic progression
   * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
 ### **ERCC**  (_**2019 Cell papers**_)
