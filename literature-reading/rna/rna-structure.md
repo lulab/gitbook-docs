@@ -8,7 +8,7 @@
 
 关于RNA 二级结构高通量测序方法
 
-
+> see more in [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FStructure%20probing%20method\&mode=list)
 
 ### 2. Structure probing data analysis
 
