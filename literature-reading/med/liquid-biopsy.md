@@ -6,10 +6,12 @@
 
 **关于液体活检技术的科普**
 
-* 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 ( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) | [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) )
-* 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I\_mlH\_l4ORrAZS\_rv9bytQ) )
-* 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版&#x20;
-* **Patents:** 2019 - Nature Biotech. - Recent patents in cancer detection&#x20;
+* **News**
+  * 2022 - 肿瘤早筛，群雄谁能逐鹿？([Wechat link](https://mp.weixin.qq.com/s/qbjdqVSZqWsjE0jR4bzFtQ) | [Everhub link](https://www.yinxiang.com/everhub/note/86e90ab1-550a-40bf-923e-5e1b68be4b98))&#x20;
+  * 2019 - 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 ( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) | [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) )
+  * 2019 - 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub link](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I\_mlH\_l4ORrAZS\_rv9bytQ) )
+* **Patents**&#x20;
+  * 2019 - Nature Biotech. - Recent patents in cancer detection&#x20;
 * [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium (ERCC) @ _Cell_
 * [Outlook collection](https://www.nature.com/collections/hibdgeeijf) of _Nature_ ([Could tracking RNA in body fluids reveal disease?](https://www.nature.com/articles/d41586-020-01763-1) )
 
