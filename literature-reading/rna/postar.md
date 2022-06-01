@@ -12,7 +12,18 @@ description: POST-trAnscriptional Regulation
 
 ## 1. RBP Binding: CLIP-seq etc
 
-see [**RBP-RNA**](target-rna.md#1.-rbp-rna)****
+Data about RBP-RNA interaction
+
+**Reviews**
+
+* 2018 Nature Reviews - A brave new world of RNA-binding proteins
+* 2018 Mol Cell - Advances in CLIP Technologies for Studies of Protein-RNA Interactions.pdf
+* 2018 Annual Reviews - Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies&#x20;
+
+**Research**
+
+* Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. (Nature structural & molecular biology, 2013)
+* Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. (Genome Biology, 2017)
 
 
 

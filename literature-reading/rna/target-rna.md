@@ -15,7 +15,7 @@
 * **2013 Nature structural & molecular biology** - Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.&#x20;
 * **2017 Genome Biology** - Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites.&#x20;
 
-> more [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FRBP-RNA%20interaction\&mode=list)****
+> see more in [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FRBP-RNA%20interaction\&mode=list)****
 
 ## 2. Drug RNA
 
@@ -27,3 +27,4 @@
 * **2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
 
+> see more in [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FDrug%20RNA\&mode=list)****
