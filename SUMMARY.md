@@ -16,6 +16,7 @@
 * [RNA Regulation](literature-reading/rna/README.md)
   * [RNA Structure](literature-reading/rna/rna-structure.md)
   * [POSTAR](literature-reading/rna/postar.md)
+  * [Target RNA](literature-reading/rna/target-rna.md)
   * [Quantum Biology](literature-reading/rna/quantum-biology.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
