@@ -16,7 +16,7 @@
 * **Recommened papers** each week by lab members
 * **Top Reading List** -- recommended by lab members each year.
 
-See details in **Tencent Dos** shared by the group.
+See details in **** [**JC文章推荐@【腾讯文档**](https://docs.qq.com/sheet/DWUtvbXdJdE5oWXpH)**】**shared by the group.
 
 ## Tips for Literature Search
 
@@ -31,7 +31,7 @@ See details in **Tencent Dos** shared by the group.
 
 * (3) Search in Pubmed Search box and click 'Creat alert' button to creat search notifications.
 
-### 2. Using [Scopus](https://www.scopus.com)
+### 2. Using [Scopus](https://www.scopus.com/)
 
 * (1) Register for an Scopus account
 * (2) User Center—My Scopus—Alerts to creat search notifications.
