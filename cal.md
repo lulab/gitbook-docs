@@ -52,16 +52,18 @@
 
 ## Holiday Calendars
 
-### 苹果提供的地址:
+### 苹果提供的地址ics格式:
 
 * 中国农历:  webcal://ical.mac.com/ical/China32Lunar32Simplified32Holidays.ics
 * 中国节日:  webcal://ical.mac.com/ical/China32Holidays.ics
 * US Holidays:  webcal://ical.mac.com/ical/US32Holidays.ics
 
-### 谷歌提供的地址:
+### 谷歌提供的地址 ics格式:
 
 > [谷歌访问助手](http://www.ggfwzs.com)
 
 * 中国节气: webcal://www.google.com/calendar/ical/orp22j75kcj10gqhol530ftucs@group.calendar.google.com/public/basic.ics
-* 中国农历: [http://www.google.com/calendar/ical/lunar\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/lunar\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics)
-* 中国节假日: [http://www.google.com/calendar/ical/china\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics](http://www.google.com/calendar/ical/china\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics)
+* 中国农历: http://www.google.com/calendar/ical/lunar\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics
+* 中国节假日: http://www.google.com/calendar/ical/china\_\_zh\_cn@holiday.calendar.google.com/public/basic.ics
+* U.S. Holidays: https://calendar.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics
+
