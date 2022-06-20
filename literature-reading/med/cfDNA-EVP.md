@@ -5,7 +5,6 @@
 ## 1. ctDNA/cfDNA
 
 * **cfDNA - Nucleosome footprint & short cfDNA**
-  * \[fragmentomics] **2022 **_**Mol. Cancer**_** ** - An ultra-sensitive assay using cell-free DNA fragmentomics for multi-cancer early detection
   * **✨2021 **_**Science Trans. Med.**_ - Analysis of recurrently protected genomic regions in cell-free DNA found in urine
   * \[nuc. footprint + motif + frag. + 5HmC] **2021 **_**Cell Res.**_** ** Genome-scale profiling of circulating cell-free DNA signatures for early detection of hepatocellular carcinoma in cirrhotic patients
   * **✨2016 **_**Cell**_** ** - Cell-free DNA Comprises an In Vivo Nucleosome Footprint that Informs Its Tissues-Of-Origin
