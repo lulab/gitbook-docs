@@ -1,10 +1,14 @@
-# exRNA-seq Tech.
+---
+description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
+---
+
+# cfRNA-seq Tech.
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
-## I. exRNA/cfRNA studies
+## I. cfRNA (exRNA) studies
 
-****
+> **cfRNA** (cell-free RNA) is also called **exRNA** (extracellular RNA)
 
 ### **Neural Diseases**
 
@@ -57,7 +61,7 @@
 * **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
 * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
-## II. exRNA-seq Technologies
+## II. cfRNA-seq Technologies
 
 ****
 

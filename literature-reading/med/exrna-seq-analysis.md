@@ -1,13 +1,20 @@
-# exRNA-seq Analysis
+---
+description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
+---
+
+# cfRNA-seq Analysis
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
 ## I. Pipelines
 
-* _**2019 Cell Sys. -**_** exceRpt:** A Comprehensive Analytic Platform for Extracellular RNA Profiling
-* _**2021 Bioinformatics**_ - **cfDNApipe**: A comprehensive quality control and analysis pipeline for cell-free DNA high-throughput sequencing data
+* \[small cfRNA-seq] ** **_**2019 Cell Sys. -**_** exceRpt:** A Comprehensive Analytic Platform for Extracellular RNA Profiling
+* \[long and small cfRNA-seq] [exSEEK Tutorial](https://lulab2.gitbook.io/teaching/part-v.-quiz/1.quiz\_exrna)
+* \[long cfRNA-seq] [cfRNA-SEEK Github](https://lulab.github.io/cfRNA-SEEK/)&#x20;
 
-## II. Imputation, Normalization and Batch Correction
+## II. Data Clean and Normalization
+
+> **Imputation, Normalization and Batch Correction**
 
 * **Methods for Single Cell RNA-seq**&#x20;
   * (1) Dropout/Sparseness and Imputation
@@ -27,29 +34,36 @@
 >
 > [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
-## IIIA.  Signature Genes and Feature Selection
+## III. Feature Selection & Optimization
+
+> **Signature genes/pathways and network approach**
+
+### 1.  Signature Genes and Feature Selection
 
 * **✨ **_**2021 Nature Machine Intelligence**_ - Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms
 * _**2021 Nature Biotech.** _ - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
 * _**2021 Genome Res.**_ - NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 * _**2019 Briefings in Bioinformatics**_ - A comprehensive evaluation of connectivity methods for L1000 data Briefings in Bioinformatics
 
-## IIIB. Network Approach and Clustering
-
-### **Network**
+### 2. Network Approach&#x20;
 
 * _**2021 Nature Computational Science**_ - Modeling gene regulatory networks using neural network architectures
 * **✨ 2021 **_**Cell**_** ** - **** A modular master regulator landscape controls cancer transcriptional identity
 * **✨ 2017 **_**Nature Methods**_** -** SCENIC: single-cell regulatory network inference and clustering
 * **2018 **_**Nature COMMN.**_** -** Pathway based subnetworks enable cross-disease biomarker discovery
 
-### Deep Learning
+### 3. Deep Learning Approach
 
 * **2020 **_**Bioinformatics**_** -** Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 
-## IV. Novel cfRNA features
+## IV. Feature Engineering
 
-### cfRNA frag. & motif
+### 1. New RNA features
+
+* [**POSTAR**](../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
+* **✨** \[**TmS**: **total mRNA expression**] **2022 **_**Nature Biotech.**_ - Estimation of tumor cell total mRNA expression in 15 cancer types predicts disease progression
+
+### 2. cfRNA frag. & motif
 
 * **✨ miRNA motif - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * **sRNA cluster: 2021 Gut** - Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
@@ -58,11 +72,6 @@
 * **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
 * **srpRNA domain (RNA7SL1)**: **2019 Clinical Chem.** - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
-
-### Other RNA features
-
-* [POSTAR](../rna/postar.md)****
-* :star:\[total mRNA score] **2022 **_**Nature Biotech.**_ - Estimation of tumor cell total mRNA expression in 15 cancer types predicts disease progression
 
 ## V. Origin of Tissue and Tumor Location Method
 

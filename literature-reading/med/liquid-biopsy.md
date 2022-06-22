@@ -57,6 +57,7 @@
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 * **EVP - Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
-  * **✨ Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+  * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+  * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
 ****
