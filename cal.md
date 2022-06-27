@@ -4,19 +4,20 @@
 
 * 【Time】 SAT 2pm
 * 【Location】生物技术馆 二楼会议室2-201 (或者 一楼会议室2-105）
-* [Group Meeting Schedule](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d) **** @ _Tencent Docs_
-  * **5min paper -** Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers
-  * **Research Project Presentation** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3a.PPT - Project Presentation
-  * **Jounral Club** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3b.PPT - Journal Club
+* ****[**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d) **** @ _Tencent Docs_
+  * **5min paper -** Upload to _TsinghuaCloud_: Lu Lab Shared/2.PDF - Literature Reading/5min Papers ([public link](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min%20Papers\&mode=list))
+  * **Project** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3a.PPT - Project Presentation
+  * **JC** PPT - Upload to _TsinghuaCloud_: Lu Lab Shared/3b.PPT - Journal Club ([public link](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/))
+    * [JC voting link ](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?c=F6A0A0) @ _Tencent Docs_
 
 {% hint style="warning" %}
 1. **Upload in advance**: PDFs of 5’paper and PPTs of presentation
 2. **Prepare in advance**: seats and presentation show
 {% endhint %}
 
-## Subgroup (Work Report) Meetings
+## Subgroup (Project) Meetings
 
-* [Lu Lab - All / Projects](https://docs.qq.com/doc/DWUVsUWVNSU1ERWR1)  of PI @ _Tencent Docs_
+* [**Subgroup Meeting Schedule** and **Project Minutes/Notes**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8) **** of PI
 * **Work Report -** Upload files _in advance_ to _TsinghuaCloud_: Lu Lab Shared/1.Project Progress/
 
 {% hint style="warning" %}
@@ -29,7 +30,7 @@
 > * 小组会的 ppt 等书面结果尽量提前上传清华云。
 >   * 如果没有清华云，可以 email 文件给PI；
 >   * 如果不习惯清华云，有自己的笔记软件或者云盘组织自己的工作结果也很好，可以每次小组会前email 链接给PI；
->   * 如果忘了，记得会后上传和/或email。
+>   * 如果忘了，亡羊补牢也不晚，记得会后上传和/或email。
 
 
 

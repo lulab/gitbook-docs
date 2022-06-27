@@ -5,7 +5,7 @@
 ### 如何学习新知识和新技能？
 
 {% hint style="success" %}
-[**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
+Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
 {% endhint %}
 
 要做好从本科生到研究生的角色转变（尤其注意不要还停留在高中生的角色），要从“被动学习”转向“主动学习”；而且，研究生和博士后不能只知道“学习”，要侧重“研究”。
@@ -33,7 +33,7 @@
 * **Routine Talk & Meeting**&#x20;
   * **Group/Subgroup Meeting**: project result report & discussion
   * **WECHAT** (**if emergency**: need answer within 24 hours or less)
-  * **EMAIL** (only need answer in a day or two)
+  * **EMAIL** (not urgent, need answer in a day or more)
 * **Casual Chat**: (MON-FRI 4-6pm), PI would _answer questions/solve problems_ during this time period; **no need to report anything**.
 * **Sunday**: SILENT except for emergency&#x20;
 
@@ -101,7 +101,7 @@
 
 * 清华大学购买和提供了很多常用的软件，供校内师生下载和使用，包括 Windows Pro, Office, WPS，ENDNOTE, MATLAB，NOD32，卡巴斯基等。（ [下载地址：清华大学信息化服务平台](https://its.tsinghua.edu.cn) ）
 * 如需购买其他特定软件，请向实验室管理员递交申请，写明需要哪种软件，以及版本号等信息。
-* 此外，对大多的开源软件，清华也提供一个镜像网站，地址： [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+* 此外，对大多的开源软件，清华也提供一个镜像网站，地址： [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 ### **How to automatically receive related literature update every week?**
 
