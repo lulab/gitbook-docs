@@ -18,7 +18,7 @@ description: 实验室指南
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
-  * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' [_Experience Sharing_](https://cloud.tsinghua.edu.cn/d/79e92b8cb4fb409388f2/)
+  * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/6. Experience Sharing_)_
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 
@@ -37,7 +37,7 @@ description: 实验室指南
 * **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - Wetlab_
 
 > * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
-> * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Syncing; Lu Lab Public Files; Lu Lab Public Photos
+> * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Public Files; Lu Lab Public Photos
 > * [Intranet](internal-training/intranet\_link.md) hosted by Github/Gitbook (private) : Drylab Network, Hardware and Software Instructions
 
 ![](.gitbook/assets/science.gif)
