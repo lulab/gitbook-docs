@@ -6,7 +6,7 @@
 
 * _**2022 BIB**_ - A universal approach for integrating super large-scale single-cell transcriptomes by exploring gene rankings
 
-## II. Methods for MultiOmics
+## II. MultiOmics Data Integration
 
 * ✨ _**2022 BIB**_ - A computational framework to unify orthogonal information in DNA methylation and copy number aberrations in cell-free DNA for early cancer detection
 * _**2022 Nature Biotech.**_ - Multi-omics single-cell data integration and regulatory inference with graph-linked embedding
@@ -16,7 +16,7 @@
 * _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
 * _**2018 Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
 
-## III. Tools for MultiOmics
+### Tools
 
 * ✨ _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * ✨ _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
