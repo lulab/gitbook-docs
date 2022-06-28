@@ -20,7 +20,7 @@
 
 ## II. Structure Motif Finder
 
-* **SCFG ( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org) )
+* **SCFG ( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) )
   * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)&#x20;
   * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
   * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs

@@ -16,7 +16,8 @@
 * [RNA Regulation](literature-reading/rna/README.md)
   * [RNA Structure](literature-reading/rna/rna-structure.md)
   * [POSTAR](literature-reading/rna/postar.md)
-  * [Target RNA](literature-reading/rna/target-rna.md)
+  * [Targeting RNA](literature-reading/rna/targeting-rna.md)
+  * [Microbial ncRNA](literature-reading/rna/microbial-ncrna.md)
   * [Quantum Biology](literature-reading/rna/quantum-biology.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Liquid Biopsy - Overview](literature-reading/med/liquid-biopsy.md)
@@ -30,10 +31,8 @@
     * [Cancer Immunology](literature-reading/med/exrna-function/cancer-immunology.md)
     * [Cancer Microbiome](literature-reading/med/exrna-function/cancer-microbiome.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
-  * [Startup in Machine Learning & AI](literature-reading/ai/startup.md)
-  * [Microbial ncRNA](literature-reading/ai/microbial-ncrna.md)
-  * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
   * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
+  * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
 
 ## Paper Writing
 
