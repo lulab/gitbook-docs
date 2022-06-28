@@ -28,15 +28,15 @@
     * [Cancer Microbiome](literature-reading/med/cancer-microbiome.md)
   * [Panel and Screen](literature-reading/med/panel-and-screen.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
-  * [Machine Learning for Liquid Biopsy](literature-reading/ai/machine-learning-for-liquid-biopsy.md)
   * [Machine Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
-  * [Machine Learning for RNA](literature-reading/ai/rna/README.md)
-    * [Overview](literature-reading/ai/rna/deep-learning-for-rna.md)
-    * [RNA Structure Prediction](literature-reading/ai/rna/rna-structure.md)
-    * [RNA motif in cfRNA](literature-reading/ai/rna/rna-motif-in-cfrna.md)
-    * [RNA motif in microbiome](literature-reading/ai/rna/rna-motif-in-microbiome.md)
-    * [RNA Regulation](literature-reading/ai/rna/postar.md)
-    * [RNA Target](literature-reading/ai/rna/rna-target.md)
+  * [Machine Learning for Liquid Biopsy](literature-reading/ai/machine-learning-for-liquid-biopsy.md)
+  * [Machine Learning for RNA](literature-reading/rna/README.md)
+    * [Overview](literature-reading/ai/deep-learning-for-rna.md)
+    * [RNA Structure Prediction](literature-reading/rna/rna-structure.md)
+    * [RNA motif in cfRNA](literature-reading/rna/rna-motif-in-cfrna.md)
+    * [RNA motif in microbiome](literature-reading/rna/microbial-ncrna.md)
+    * [RNA Regulation](literature-reading/rna/postar.md)
+    * [RNA Target](literature-reading/rna/target-rna.md)
 
 ## Paper Writing
 

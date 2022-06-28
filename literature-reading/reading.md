@@ -7,7 +7,7 @@
 
 ## **Recommended Reading by PI**
 
-* [RNA Regulation](ai/rna/)
+* [RNA Regulation](rna/)
 * [Precision Medicine](med/)
 * [Machine Leaning & AI](ai/)
 

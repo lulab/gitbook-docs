@@ -2,5 +2,5 @@
 description: Literature Recommendations
 ---
 
-# RNA Regulation
+# Machine Learning for RNA
 
