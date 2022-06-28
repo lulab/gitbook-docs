@@ -19,10 +19,10 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 ## III. New cfRNA features
 
-* [**POSTAR**](../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
+* [**POSTAR**](../../rna/rna-regulation/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
 * Learn from [**cfDNA features**](cfDNA-EVP.md#ii.-cfdna-features)****
 
 ## IV. Advanced Methods and Models
 
-see [Machine Learning for Liquid Biopsy](../ai/machine-learning-for-liquid-biopsy.md)
+see [Machine Learning for Liquid Biopsy](../../ai/machine-learning-for-liquid-biopsy.md)
 

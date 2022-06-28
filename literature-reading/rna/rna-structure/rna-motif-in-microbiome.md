@@ -2,7 +2,7 @@
 
 ## 0. **RNAmotif**
 
-&#x20; (see more in [RNA Regulation: RNA Structure](rna-structure.md) and [Deep Learning for RNA](../ai/deep-learning-for-rna.md))
+&#x20; (see more in [RNA Regulation: RNA Structure](rna-structure.md) and [Deep Learning for RNA](../../ai/deep-learning-for-rna.md))
 
 * **CGF:** 2012 _Nature_  - TESISER**:** Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * **HMM+SHAPE**: 2018 _Genome Biology_ - PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
