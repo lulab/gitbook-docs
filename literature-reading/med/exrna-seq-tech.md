@@ -28,7 +28,6 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ### Cancer
 
 * **Long**
-  * _**2022 NPJ precision oncology**_ - Plasma cell-free RNA proﬁling distinguishes cancers from premalignant conditions in solid and hematologic malignancies
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
   * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
   * **long evRNA-mRNA: **_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer&#x20;
@@ -41,7 +40,6 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
 * **Long - Platelet**&#x20;
-  * _**2022 Genome Medicine**_ - RNA profiling of blood platelets noninvasively differentiates colorectal cancer from healthy donors and noncancerous intestinal diseases: a retrospective cohort study
   * **✨ Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Small**

@@ -6,6 +6,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
+![4 steps in Machine Learning](<../../.gitbook/assets/machine learning steps.png>)
+
 ## I. Pipelines & Databases
 
 * \[small cfRNA-seq] ** **_**2019 Cell Sys. -**_** exceRpt:** A Comprehensive Analytic Platform for Extracellular RNA Profiling
