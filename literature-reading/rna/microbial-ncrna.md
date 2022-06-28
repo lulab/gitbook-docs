@@ -1,4 +1,4 @@
-# Microbial ncRNA
+# RNA motif in microbiome
 
 ## 0. **RNAmotif**
 

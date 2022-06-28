@@ -1,4 +1,4 @@
-# Targeting RNA
+# RNA Target
 
 ## I. RNA Network
 
