@@ -12,7 +12,7 @@ description: POST-trAnscriptional Regulation
 
 ## 1. RBP Binding: CLIP-seq etc
 
-see [**RNA-Protein**](rna-target.md#1.-rna-protein)****
+see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
 
 
 

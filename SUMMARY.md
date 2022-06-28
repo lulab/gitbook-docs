@@ -22,11 +22,11 @@
     * [cfRNA-seq Analysis](literature-reading/med/exrna-seq-analysis.md)
     * [cfDNA-seq Analysis](literature-reading/med/cfDNA-EVP.md)
     * [MultiOmics Analysis](literature-reading/med/multiomics-analysis.md)
-  * [Function](literature-reading/med/function/README.md)
-    * [EV and exRNA Function](literature-reading/med/function/exrna-function.md)
-    * [Cancer Immunology](literature-reading/med/function/cancer-immunology.md)
-    * [Cancer Microbiome](literature-reading/med/function/cancer-microbiome.md)
-  * [Clinical Panel and Screen](literature-reading/med/panel-and-screen.md)
+  * [Function](literature-reading/med/function-study/README.md)
+    * [EV and exRNA Function](literature-reading/med/exrna-function.md)
+    * [Cancer Immunology](literature-reading/med/cancer-immunology.md)
+    * [Cancer Microbiome](literature-reading/med/cancer-microbiome.md)
+  * [Panel and Screen](literature-reading/med/panel-and-screen.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Deep Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
   * [Deep Learning for RNA](literature-reading/ai/deep-learning-for-rna.md)
@@ -34,9 +34,9 @@
 * [RNA Structure & Reg.](literature-reading/rna/README.md)
   * [RNA Structure Prediction](literature-reading/rna/rna-structure.md)
   * [RNA motif in cfRNA](literature-reading/rna/rna-motif-in-cfrna.md)
-  * [RNA motif in microbiome](literature-reading/rna/rna-motif-in-microbiome.md)
+  * [RNA motif in microbiome](literature-reading/rna/microbial-ncrna.md)
   * [RNA Regulation](literature-reading/rna/postar.md)
-  * [RNA Target](literature-reading/rna/rna-target.md)
+  * [RNA Target](literature-reading/rna/target-rna.md)
 
 ## Paper Writing
 
