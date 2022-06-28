@@ -18,12 +18,6 @@
 * _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
 * _**2018 Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
 
-### 3. Network
-
-* ✨ _**2021 Nature -**_  Biologically informed deep neural network for prostate cancer discovery
-* ✨_**2021 Nature Computational Science**_ -  Modeling gene regulatory networks using neural network architectures
-* _**2020 Bioinformatics**_ - Varmole: A biologically drop-connect deep neural network model for prioritizing disease risk variants and genes
-
 ## II. Tool
 
 * ✨ _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
