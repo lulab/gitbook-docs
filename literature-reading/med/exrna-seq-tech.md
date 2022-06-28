@@ -6,13 +6,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
-##
-
-## II. cfRNA-seq Technologies
-
-****
-
-### 1. Protocols & Technologies
+## I. Protocols & Technologies
 
 * **✨ Purification:** _2021 bioRxiv_ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
 * **✨ Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
@@ -25,7 +19,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
   * **Pico Patent**: Pico Patent Application Publication
 * **✨ SILVER-seq**: 2019 PNAS - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
 
-### 2. Commercial Kit
+## II. Commercial Kit
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -36,9 +30,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 
 
-### 3. Papers recommended by HK Wang
-
-> [PDFs](https://cloud.tsinghua.edu.cn/library/5c9aa4b1-facf-4466-9b74-81a0fe5678da/Lu%20Lab%20Shared/1.Project%20Progress/17'%20Wang%20Hongke/Top%20reading%20list-%20\[exRNA-seq%20Technology])&#x20;
+## III. Papers recommended by HK Wang
 
 * **✨**\[Smart-seq3]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3&#x20;
 * \[UMI]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers&#x20;

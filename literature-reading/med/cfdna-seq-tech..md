@@ -1,17 +1,6 @@
 # cfDNA-seq Tech.
 
-[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
-
-## I. ctDNA/cfDNA Studies
-
-* **2021** _**Genome Res.** _ - Characteristics, origin, and potential for cancer diagnostics of ultrashort plasma cell-free DNA
-* **2021 **_**Hepatology**_ - Ultra‐Sensitive and Affordable Assay for Early Detection of Primary Liver Cancer Using Plasma cfDNA Fragmentomics
-* **CancerSEEK - Papadopoulos N Lab**
-  * **2020 **_**Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
-  * **✨ **_****_** 2018 **_**Science -**_ **ctDNA+Protein(CancerSEEK)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **✨**\[Frag. size + CNV + mtDNA%] ** **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer&#x20;
-* **2020** _**Nature Med**_. - Genome-wide cell-free DNA mutational integration enables ultra-sensitive cancer monitoring
-* **2019 **_**Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20Precision%20Medicine\&mode=list)****
 
 ## **II. cfDNA Methylation Tech.**
 

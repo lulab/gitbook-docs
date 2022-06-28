@@ -8,11 +8,11 @@ description: POST-trAnscriptional Regulation
 **POSTAR: POST-trAnscriptional Regulation**
 {% endhint %}
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation\&mode=list)
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Structure%20and%20Regulation\&mode=list)****
 
 ## 1. RBP Binding: CLIP-seq etc
 
-see [**RBP-RNA**](target-rna.md#1.-rbp-rna)****
+see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
 
 
 
