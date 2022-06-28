@@ -2,7 +2,7 @@
 description: POST-trAnscriptional Regulation
 ---
 
-# POSTAR
+# RNA Regulation
 
 {% hint style="info" %}
 **POSTAR: POST-trAnscriptional Regulation**
@@ -12,7 +12,7 @@ description: POST-trAnscriptional Regulation
 
 ## 1. RBP Binding: CLIP-seq etc
 
-see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
+see [**RNA-Protein**](rna-target.md#1.-rna-protein)****
 
 
 
