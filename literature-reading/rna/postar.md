@@ -12,7 +12,7 @@ description: POST-trAnscriptional Regulation
 
 ## 1. RBP Binding: CLIP-seq etc
 
-see [**RBP-RNA**](target-rna.md#1.-rbp-rna)****
+see [**RBP-RNA**](rna-target.md#1.-rbp-rna)****
 
 
 
@@ -115,3 +115,9 @@ see [**RBP-RNA**](target-rna.md#1.-rbp-rna)****
 
 * _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
 * _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly(A)
+
+## 8. Quantum Biology
+
+* 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
+
+> see more in [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation\&mode=list)
