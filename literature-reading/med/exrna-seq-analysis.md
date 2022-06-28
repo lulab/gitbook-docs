@@ -11,7 +11,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 * \[small cfRNA-seq] ** **_**2019 Cell Sys. -**_** exceRpt:** A Comprehensive Analytic Platform for Extracellular RNA Profiling
 * \[long and small cfRNA-seq] [exSEEK Tutorial](https://lulab2.gitbook.io/teaching/part-v.-quiz/1.quiz\_exrna)
 * \[long cfRNA-seq] [cfRNA-SEEK Github](https://lulab.github.io/cfRNA-SEEK/)&#x20;
-* **2021 NAR** - exoRBase 2.0: an atlas of mRNA, lncRNA and circRNA in extracellular vesicles from human bioﬂuids
+* _**2021 NAR**_ - exoRBase 2.0: an atlas of mRNA, lncRNA and circRNA in extracellular vesicles from human bioﬂuids
+* _**2019 NAR**_ - BBCancer: an expression atlas of blood-based biomarkers in the early diagnosis of cancers
 
 ## II. Origin of Tissue
 
