@@ -56,7 +56,8 @@
   * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
-* **EVP - Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+  * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
   * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 

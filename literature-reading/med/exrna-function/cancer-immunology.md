@@ -4,6 +4,7 @@
 
 ## **1. exRNA function in immunology**
 
+* _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
 * ✨ _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
