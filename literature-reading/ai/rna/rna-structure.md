@@ -1,4 +1,4 @@
-# Structure Prediction
+# RNA Structure Prediction
 
 > ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Structure%20and%20Regulation\&mode=list)****
 
@@ -62,8 +62,8 @@
 
 * **SCFG Model** (Rfam/Infernal)
   * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
-  * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
-* **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
+  * _You can read the SCFG section in the book_ [_above_](../#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
+* **Deep Learning Method** - [see Deep Learning for RNA](deep-learning-for-rna.md)
 
 
 
