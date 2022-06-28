@@ -38,3 +38,10 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 * **tsRNA: 2019 Molecular Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
 * **srpRNA domain (RNA7SL1)**: **2019 Clinical Chem.** - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
+
+
+
+## V. Advanced Methods and Models
+
+see [Machine Learning for Liquid Biopsy](../ai/machine-learning-for-liquid-biopsy.md)
+

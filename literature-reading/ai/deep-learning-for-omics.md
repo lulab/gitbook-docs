@@ -4,7 +4,7 @@
 
 ## I. Method
 
-### 1. Pre-training and Transfer Learning
+### 1. Pre-training
 
 * _**2022 BIB**_ - A universal approach for integrating super large-scale single-cell transcriptomes by exploring gene rankings
 
