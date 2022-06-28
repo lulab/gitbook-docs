@@ -26,7 +26,7 @@
     * [EV and exRNA Function](literature-reading/med/exrna-function.md)
     * [Cancer Immunology](literature-reading/med/cancer-immunology.md)
     * [Cancer Microbiome](literature-reading/med/cancer-microbiome.md)
-  * [Panel and Screen](literature-reading/med/panel-and-screen.md)
+  * [Panel and Database](literature-reading/med/panel-and-screen.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Machine Learning for Omics](literature-reading/ai/deep-learning-for-omics.md)
   * [Machine Learning for Liquid Biopsy](literature-reading/ai/machine-learning-for-liquid-biopsy.md)
