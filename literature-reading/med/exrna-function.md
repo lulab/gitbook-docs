@@ -31,10 +31,16 @@
 
 ### 2) MT-tRNA
 
-* _**2022 Frontier medicine**_ - Serum mitochondrial tsRNA serves as a novel biomarker for hepatocarcinoma diagnosis
+#### Function
+
+* **MT-tRNA function: **_**2022 Cell Metab.**_ - Glycine decarboxylase maintains mitochondrial protein lipoylation to support tumor growth
 * **tsRNA - function: 2021 Mol. Cancer** - A novel class of tsRNA signatures as biomarkers for diagnosis and prognosis of pancreatic cancer
-* **tsRNA - marker: 2019 Mol. Cancer** - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
-* _**2015 Cell**_ - Endogenous tRNA-Derived Fragments Suppress Breast Cancer Progression via YBX1 Displacement
+* **tsRNA - function **_**2015 Cell**_ - Endogenous tRNA-Derived Fragments Suppress Breast Cancer Progression via YBX1 Displacement
+
+#### Marker
+
+* **tsRNA - marker: **_**2022 Frontier medicine**_ - Serum mitochondrial tsRNA serves as a novel biomarker for hepatocarcinoma diagnosis
+* **tsRNA - marker: **_**2019 Mol. Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FexRNA%20function%2FMT-tRNA\&mode=list)
 
