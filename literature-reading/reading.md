@@ -1,13 +1,15 @@
 # Tips for paper reading
 
-* [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
 * [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)
+  * [Startup Reading](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)
+  * Topic 1: Precision Medicine
+  * Topic 2: Machine Learning & AI
   * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications\&mode=list)
   * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)
+* [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
 
 ## **Recommended Reading by PI**
 
-* [RNA Regulation](rna/)
 * [Precision Medicine](med/)
 * [Machine Leaning & AI](ai/)
 
