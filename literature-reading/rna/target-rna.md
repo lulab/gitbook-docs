@@ -1,6 +1,7 @@
 # RNA Target
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20AI%2FMachine%20Learning%20for%20RNA\&mode=list) ****&#x20;
+> * [**PDFs**](../ai/)****
+> * ✅ : Recommended
 
 ## I. RNA Network
 
@@ -14,20 +15,19 @@
 
 #### **Research**
 
-* **NMF:** 2017 _Genome Biology_ - Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA–protein binding sites
-* **Deep Learning:** 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* ✅ **NMF:** 2017 _Genome Biology_ - Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA–protein binding sites
+* ✅ **Deep Learning:** 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 
-> see more in [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FRBP-RNA%20interaction\&mode=list)****
+
 
 ## II. Drug RNA
 
-* ✨ **Drug RNA: **_**2022 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
+* ✅  **Drug RNA: **_**2022 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
 * **2019 Methods in Enzymology** Volume 623 - Differentiation and classification of RNA motifs using smallmolecule-based patternrecognition
-* ✨**2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
+* ✅  **2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
 
-> see more in [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FDrug%20RNA\&mode=list)****

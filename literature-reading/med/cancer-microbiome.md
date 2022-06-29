@@ -12,7 +12,11 @@ description: Cancer System and Environment
 * ✨ _**2018 Cell Host & Microbe**_ - Plant-Derived Exosomal MicroRNAs Shape the Gut Microbiota.&#x20;
 * _**2016 Cell Host & Microbe**_ - The Host Shapes the Gut Microbiota via Fecal MicroRNA
 
-## **II. Cancer microbiome**
+## **II. Metagenomics in liquid biopsy**
+
+* _**2019 PNAS**_ -  A cell-free DNA metagenomic sequencing assay that integrates the host injury response to infection
+
+## **III. Cancer microbiome**
 
 * _**2021 Cancer Cell**_** \[Review]** - Microbiome and cancer
 * _**2021 Science**_** \[Review]** - The microbiome and human cancer

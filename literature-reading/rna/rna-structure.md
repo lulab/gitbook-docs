@@ -1,31 +1,26 @@
 # RNA Structure Prediction
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20AI%2FMachine%20Learning%20for%20RNA\&mode=list) ****&#x20;
+> * [**PDFs**](../ai/)****
+> * ✅ : Recommended
 
 ## I. Structure Probing
 
 ### 1. Structure probing methods
 
-关于RNA 二级结构高通量测序方法
-
-> see more in [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20RNA%20Regulation%2FStructure%20probing%20method\&mode=list)
+关于RNA 二级结构高通量测序方法 (see more in **PDFs**)
 
 ### 2. Structure probing data analysis
 
 * _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
-
-
-
-###
 
 ## II. Structure Motif Finder
 
 * **SCFG ( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) )
   * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)&#x20;
   * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
-  * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs
+  * ✅ **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs
 * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
-* **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
+* ✅ **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Structural%20Motif\&mode=list)
 

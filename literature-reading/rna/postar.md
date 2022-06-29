@@ -5,14 +5,54 @@ description: POST-trAnscriptional Regulation
 # RNA Regulation
 
 {% hint style="info" %}
-**POSTAR: POST-trAnscriptional Regulation**
+## **RNA Regulation - POSTAR**
+
+**POSTAR: POST-trAnscriptional Regulation (**✅ : Recommended**)**
+
+****[**PDFs**](../ai/)****
 {% endhint %}
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F2.%20AI%2FMachine%20Learning%20for%20RNA\&mode=list) ****&#x20;
+## 1. Translation: Ribo-seq
 
-## 1. RBP Binding: CLIP-seq etc
+关于RNA翻译（Ribo-seq）
 
-see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
+* ORF finding&#x20;
+  * [RiboCode](https://www.ncbi.nlm.nih.gov/pubmed/29538776): 2018 _NAR_
+  * [RiboWave](https://www.ncbi.nlm.nih.gov/pubmed/29945224): 2018 _NAR_
+  * [RiboTaper](https://www.ncbi.nlm.nih.gov/pubmed/26657557): 2016 _Nature Methods_
+* Difference of Translation Efficiency
+  * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_&#x20;
+  * [Xtail](https://pubmed.ncbi.nlm.nih.gov/27041671/): 2016 _Nature Communications_
+
+| Preprocessing | ORF Iden.     | Quantification TE                                      | Translation elongation | Integrative & visualization                             |
+| ------------- | ------------- | ------------------------------------------------------ | ---------------------- | ------------------------------------------------------- |
+| Rfoot         | DeepRibo      | scikit-ribo                                            | diricore               | Plastid                                                 |
+| RiboWaltz     | FLOSS         | **RiboDiff**                                           | Iχnos                  | Rfeet                                                   |
+| **RiboWave**  | ORF-RATER     | riborex                                                | PausePred              | RiboGalaxy                                              |
+|               | PRICE         | [**Xtail**](https://pubmed.ncbi.nlm.nih.gov/27041671/) | ROSE                   | RiboProfiling                                           |
+|               | RiboCode      |                                                        | RiboMiner              | riboSeqR                                                |
+|               | RiboHMM       |                                                        |                        | RiboTools                                               |
+|               | RibORF        |                                                        |                        | RIVIT                                                   |
+|               | **RiboTaper** |                                                        |                        | Shoelaces                                               |
+|               | RP-BP         |                                                        |                        | tRanslatome                                             |
+|               | SPECtre       |                                                        |                        | [**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/) |
+|               | TITER         |                                                        |                        |                                                         |
+
+
+
+### 1.1. RiboShape
+
+* ✅ **2021 **_**Genome Biology**_** ** Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
+* ✅ **2018** _**Cell**_  **(e. coli, proposed a model)**  Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
+* _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
+* **2018** _**Mol. Cell**_ **(e. coli)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
+* **2020** _**Genome Biology**_ **(zebrafish)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
+* ✅ **2017 **_**Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
+
+#### 2.1 Motif&#x20;
+
+* _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
+* _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly(A)
 
 
 
@@ -28,7 +68,7 @@ see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
 * Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder. (Science, 2018)
 * An Arabidopsis PWI and RRM motif-containing protein is critical for pre-mRNA splicing and ABA responses. (Nature communications, 2015)
 
-### Splicing & Cancer
+### 2.1 Splicing & Cancer
 
 * 2020 - _Nature Reviews_ - Roles and mechanisms of alternative splicing in cancer — implications for care
 
@@ -72,51 +112,7 @@ see [**RNA-Protein**](target-rna.md#1.-rna-protein)****
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues (Science, 2019)&#x20;
 
-## 7. Translation: Ribo-seq
-
-关于RNA翻译（Ribo-seq）
-
-* ORF finding&#x20;
-  * [RiboCode](https://www.ncbi.nlm.nih.gov/pubmed/29538776): 2018 _NAR_
-  * [RiboWave](https://www.ncbi.nlm.nih.gov/pubmed/29945224): 2018 _NAR_
-  * [RiboTaper](https://www.ncbi.nlm.nih.gov/pubmed/26657557): 2016 _Nature Methods_
-* Difference of Translation Efficiency
-  * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_&#x20;
-  * [Xtail](https://pubmed.ncbi.nlm.nih.gov/27041671/): 2016 _Nature Communications_
-
-| Preprocessing | ORF Iden.     | Quantification TE                                      | Translation elongation | Integrative & visualization                             |
-| ------------- | ------------- | ------------------------------------------------------ | ---------------------- | ------------------------------------------------------- |
-| Rfoot         | DeepRibo      | scikit-ribo                                            | diricore               | Plastid                                                 |
-| RiboWaltz     | FLOSS         | **RiboDiff**                                           | Iχnos                  | Rfeet                                                   |
-| **RiboWave**  | ORF-RATER     | riborex                                                | PausePred              | RiboGalaxy                                              |
-|               | PRICE         | [**Xtail**](https://pubmed.ncbi.nlm.nih.gov/27041671/) | ROSE                   | RiboProfiling                                           |
-|               | RiboCode      |                                                        | RiboMiner              | riboSeqR                                                |
-|               | RiboHMM       |                                                        |                        | RiboTools                                               |
-|               | RibORF        |                                                        |                        | RIVIT                                                   |
-|               | **RiboTaper** |                                                        |                        | Shoelaces                                               |
-|               | RP-BP         |                                                        |                        | tRanslatome                                             |
-|               | SPECtre       |                                                        |                        | [**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/) |
-|               | TITER         |                                                        |                        |                                                         |
-
-
-
-
-
-### 7.1. RiboShape
-
-* **✨ 2021 **_**Genome Biology**_** ** Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
-* **✨ 2018** _**Cell**_  **(e. coli, proposed a model)**  Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
-* _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
-* **2018** _**Mol. Cell**_ **(e. coli)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
-* **2020** _**Genome Biology**_ **(zebrafish)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
-* **✨ 2017 **_**Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
-
-#### 2.1 Motif&#x20;
-
-* _**2015 Cell**_ - **polyU hairpin** -  EIN2-Directed Translational Regulation of Ethylene Signaling in _Arabidopsis_
-* _**2021 PNAS - polyU internal loop**_ - Structural analyses of an RNA stability element interacting with poly(A)
-
-## 8. Quantum Biology
+## 7. Quantum Biology
 
 * 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
 
