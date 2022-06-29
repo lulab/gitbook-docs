@@ -1,4 +1,4 @@
-# Liquid Biopsy - Overview
+# Overview of liquid biopsy
 
 > ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
 
@@ -38,7 +38,7 @@
 
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
@@ -48,7 +48,7 @@
 * **cfDNA Methylation**&#x20;
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
+* **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
   * **✨Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
   * **✨Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **✨ Tissue of origin-Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
@@ -56,7 +56,7 @@
   * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
-* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfDNA-EVP.md))
+* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
   * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
   * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response

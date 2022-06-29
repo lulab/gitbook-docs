@@ -26,7 +26,7 @@ description: Cancer System and Environment
 
 
 
-![2020 Science - Bacteria in Tumors](../../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
+![2020 Science - Bacteria in Tumors](../../../.gitbook/assets/2020-science-the-human-tumor-microbiome-is-composed-of-tumor-type-specific-intracellular-bacteria-cover.jpg)
 
 
 
