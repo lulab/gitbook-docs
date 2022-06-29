@@ -15,14 +15,13 @@
 
 ## II. Structure Motif Finder
 
-* **SCFG ( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) )
-  * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)&#x20;
-  * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
-  * ✅ **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  Systematic discovery of structural elements governing stability of mammalian messenger RNAs
-* **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
-* ✅ **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
-
-[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20Structural%20Motif\&mode=list)
+* **Short-distance folding**:  ****  RNAstructure; RNAfold (free energy minimization methods)
+* **Long distance (>200nt) pairing**:   [superfold](https://github.com/Weeks-UNC/Superfold)
+* **Motif finder:**
+  * **SCFG:** [Rfam/Infernal](https://rfam.xfam.org/);  CMfinder ([2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)_)_; RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
+  * ✅ **CFG:** TEISER ([2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308))
+  * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
+  * ✅ **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
 
 ### **1. Motif finding methods**
 
