@@ -13,7 +13,7 @@ description: Literature, Course and Book Recommendations
 * [Machine Learning for Omics](deep-learning-for-omics/)
 * [Machine Learning for RNA ](../rna/)
 
-****
+**4 steps of Machine Learning**
 
 ![4 steps in Machine Learning](<../../.gitbook/assets/machine learning steps.png>)
 
