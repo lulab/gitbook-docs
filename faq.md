@@ -8,14 +8,14 @@
 Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
 {% endhint %}
 
-要做好从本科生到研究生的角色转变（尤其注意不要还停留在高中生的角色），要从“被动学习”转向“主动学习”；而且，研究生和博士后不能只知道“学习”，要侧重“研究”。
-
-> 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
+听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
 ![学习金字塔](.gitbook/assets/learning.jpg)
 
 ### 如何成为一个好的研究生和科研工作者？
 
+> "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
+>
 > 做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。
 
 * **科研生涯的四戒律** 1. 边干边学，不要彷徨。 2. 勇于创新，敢于挑战。 3. 忍受寂寞，注重过程。 4. 掌握历史，树立信心。
@@ -27,6 +27,8 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
 ### 导师、同学、同事之间的交流方式
+
+> “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
 **基本原则**： 导师、同学、同事之间的面谈、讨论和会议等结构化并有提前预约的好习惯 (以下约定导师和学生彼此双向适用）
 
@@ -40,6 +42,8 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 ## 实验室规范
 
 ### 如何尽快融入到实验室的科研氛围中？
+
+> "_Study while others are sleeping; work while others are loafing; prepare while others are playing; dream while others are wishing._"  - William A. Ward
 
 要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
 

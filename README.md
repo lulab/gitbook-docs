@@ -8,6 +8,8 @@ description: 实验室指南
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
+> “_The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
+
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 * [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
   * See more frequently used info/files @ 腾讯文档: _**Lu Lab - All** _&#x20;
@@ -15,6 +17,8 @@ description: 实验室指南
   * [FAQ](faq.md)
 
 ### 📖 Learning <a href="#learning" id="learning"></a>
+
+> "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
@@ -25,6 +29,8 @@ description: 实验室指南
 ![](.gitbook/assets/learning.jpg)
 
 ## II. Research in Lu Lab
+
+> “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
 ### 📊Drylab
 
@@ -43,6 +49,10 @@ description: 实验室指南
 ![](.gitbook/assets/science.gif)
 
 ## III. Publish in Lu Lab
+
+> "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
+>
+> “_The carving and chipping away to create a masterpiece take years of dedication. Teachers help students discover their interests, passions, and ultimately themselves._”
 
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/about-us/#%E4%B8%93%E5%88%A9%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87)
