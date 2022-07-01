@@ -71,7 +71,7 @@ description: 实验室指南
 > * Homepage:   [www.ncRNAlab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
 > * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
 > * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
-> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) | _Bioinformatics Tutorial_
+> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) (Bioinformatics Tutorial)
 > * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
 
