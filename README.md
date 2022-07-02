@@ -34,8 +34,8 @@ description: 实验室指南
 
 ### 📊Drylab
 
-* **Hardware** (Facilities and Servers) Instructions @_intranet_
-* **Software** (notes and code)shared by lab members @ _intranet_
+* **Hardware** (Facilities and Servers) Instructions @_腾讯文档(private)/Lu Lab - All/intranet_
+* **Software** (notes and code)shared by lab members @_腾讯文档(private)/Lu Lab - All/intranet_
 * **MetaData** @_腾讯文档(private)/Lu Lab - Metadata_
 
 ### 🧪Wetlab
@@ -43,8 +43,7 @@ description: 实验室指南
 * **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - Wetlab_
 
 > * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
-> * [清华云盘](https://cloud.tsinghua.edu.cn) ([App Download](https://www.seafile.com/download)) (private) : Lu Lab Shared; Lu Lab Public Files; Lu Lab Public Photos
-> * [Intranet](internal-training/intranet\_link.md) hosted by Github/Gitbook (private) : Drylab Network, Hardware and Software Instructions
+> * [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared; Lu Lab Public Files; Lu Lab Public Photos
 
 ![](.gitbook/assets/science.gif)
 
