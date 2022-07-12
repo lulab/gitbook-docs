@@ -14,6 +14,7 @@
 
 ## 2. Research Article
 
+* **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
 * ✅  **2021 **_**Nature**_** ** - Multi-omic machine learning predictor of breast cancer therapy response
 * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
 * **2021 **_**Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
