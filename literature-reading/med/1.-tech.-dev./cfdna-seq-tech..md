@@ -5,6 +5,7 @@
 ## **II. cfDNA Methylation Tech.**
 
 * **TAPS**
+  * **2022 NAR -** Whole-genome long-read TAPS deciphers DNA methylation patterns at base resolution using PacBio SMRT sequencing technology
   * **✨**\[cfTAPS] **2021 **_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
   * **✨**\[TAPS] **2019 **_**Nature Biotech.** _ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
 * **MeDIP**

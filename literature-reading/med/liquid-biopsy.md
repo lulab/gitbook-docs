@@ -28,7 +28,6 @@
 * 2020 Science - The biology, function, and biomedical applications of **exosomes**
 * ✨ 2020 Genome Biology - The promise and challenge of cancer **microbiome** research
 * 2019 Cell - Review - The Role of **Non-coding RNAs** in Oncology
-* ✨ 2018 Nature Reviews | clinica l oncology - Clinical utility of **circulating non-coding RNAs** — an update
 * ✨ 2018 Nature Reviews | Genetics - Current and future perspectives of **liquid biopsies** in **genomics**-driven oncology
 * 2018 Nature Reviews | Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
 * 2018 NEJM - Circulating Extracellular Vesicles in Human Disease ([翻译版](https://www.nejmqianyan.cn/article/YXQYra1704286))

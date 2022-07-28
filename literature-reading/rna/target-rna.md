@@ -30,5 +30,7 @@
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
 * **2019 Methods in Enzymology** Volume 623 - Differentiation and classification of RNA motifs using smallmolecule-based patternrecognition
 * ✅  **2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
+* ✅  **2017 PNAS -** Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
+* ✅  **2015 Nature** - Selective small-molecule inhibition of an RNA structural element
 
