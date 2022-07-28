@@ -1,24 +1,17 @@
 # Tips for paper reading
 
-* [PDFs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)
+* ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)****
   * [Startup Reading](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)
-  * Topic 1: Precision Medicine
-  * Topic 2: Machine Learning & AI
   * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications\&mode=list)
-  * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)
-* [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
+  * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/) ([**Recommended Reading List**](https://docs.qq.com/sheet/DWUtvbXdJdE5oWXpH))
+* **PPTs**
+  * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
+  * [Experience Sharing](https://cloud.tsinghua.edu.cn/d/b60933af2557448594be/)
 
-## **Recommended Reading by PI**
+## **Recommended Reading organized by PI**
 
 * [Precision Medicine](med/)
 * [Machine Leaning & AI](ai/)
-
-## **Recommended Reading by group members**
-
-* **Recommened papers** each week by lab members
-* **Top Reading List** -- recommended by lab members each year.
-
-See details in **** [**JC文章推荐@【腾讯文档**](https://docs.qq.com/sheet/DWUtvbXdJdE5oWXpH)**】**shared by the group.
 
 ## Tips for Literature Search
 
