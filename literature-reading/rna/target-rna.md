@@ -26,6 +26,7 @@
 * **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
+* ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
 * **2019 Methods in Enzymology** Volume 623 - Differentiation and classification of RNA motifs using smallmolecule-based patternrecognition
 * ✅  **2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
