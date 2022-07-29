@@ -16,6 +16,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 * **✨ Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
 
+see more in [Classification - turmor localization](../../ai/deep-learning-for-omics/4.-classification.md)
+
 ## III. New cfRNA features
 
 * [**POSTAR**](../../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
