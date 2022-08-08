@@ -8,11 +8,11 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 ## I. Protocols & Technologies
 
-* **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
-* **✨total RNA-seq in single cell - 2022 Nature Bitotech. -** High-throughput total RNA sequencing in single cells using VASA-seq
-* **✨total RNA-seq in single cell - 2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
-* **✨ Purification:** _2021 bioRxiv_ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
-* **✨ Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+* **2022 Clin. Transl. Med.** - Polyadenylation ligation-mediated sequencing (PALM-Seq) characterizes cell-free coding and non-coding RNAs in human biofluids
+* ✅ **total RNA-seq in single cell - 2022 Nature Bitotech. -** High-throughput total RNA sequencing in single cells using VASA-seq
+* ✅ **total RNA-seq in single cell - 2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
+* ✅ **Purification:** _2021 bioRxiv_ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
+* ✅ **Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
 * **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
@@ -21,6 +21,13 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
   * **✨ DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
   * **Pico Patent**: Pico Patent Application Publication
 * **SILVER-seq**: 2019 PNAS - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
+
+
+
+### cf-Ribo
+
+* ✅ **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
+* **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
 
 ## II. Commercial Kit
 
@@ -35,12 +42,12 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 ## III. Papers recommended by HK Wang
 
-* **✨**\[Smart-seq3]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3&#x20;
+* ✅ \[Smart-seq3]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3&#x20;
 * \[UMI]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers&#x20;
 * \[Barcode]_**2015 Nature Methods**_ -Simultaneous generation of many rna-seq libraries in a single reaction&#x20;
-* **✨**\[DASH]_**2016 Genome Biology**_ -Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications&#x20;
-* **✨** \[Phospho‐seq]_**2019 EMBO J.**_ -Phospho‐RNA‐seq - a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma&#x20;
-* ✨ \[SILVER‐seq]_**2019 PNAS**_ -Extracellular RNA in a single droplet of human serum reﬂects physiologic and disease states&#x20;
+* ✅ \[DASH]_**2016 Genome Biology**_ -Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications&#x20;
+* \[Phospho‐seq]_**2019 EMBO J.**_ -Phospho‐RNA‐seq - a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma&#x20;
+* \[SILVER‐seq]_**2019 PNAS**_ -Extracellular RNA in a single droplet of human serum reﬂects physiologic and disease states&#x20;
 * \[CATS‐seq]_**2014 RNA Biology**_ -Capture and Amplification by Tailing and Switching (CATS)&#x20;
 * \[Pico-similar]_**2013 RNA Biology**_ -Peregrine - A rapid and unbiased method to produce strand-specific RNA-Seq libraries from small quantities of starting material
 * \[Review]_**2018 NAR**_ -Capturing the ‘ome’: the expanding molecular toolbox for RNA and DNA library construction
