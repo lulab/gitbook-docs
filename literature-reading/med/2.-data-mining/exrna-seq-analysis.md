@@ -5,6 +5,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 # cfRNA-seq Analysis
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+>
+> ✅ or ✨ **: recommended readings**
 
 ## I. Pipelines
 
@@ -12,15 +14,9 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 * \[long and small cfRNA-seq] [exSEEK Tutorial](https://lulab2.gitbook.io/teaching/part-v.-quiz/1.quiz\_exrna)
 * \[long cfRNA-seq] [cfRNA-SEEK Github](https://lulab.github.io/cfRNA-SEEK/)&#x20;
 
-## II. Origin of Tissue
+## II. cfRNA features
 
-* **✨ Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
-
-see more in [Classification - turmor localization](../../ai/deep-learning-for-omics/4.-classification.md)
-
-## III. New cfRNA features
-
-* [**POSTAR**](../../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
+* see more in [**RNA Regulation**](../../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
 * Learn from [**cfDNA features**](cfDNA-EVP.md#ii.-cfdna-features)****
 
 ### 1. cfRNA motif
@@ -38,9 +34,15 @@ see more in [Classification - turmor localization](../../ai/deep-learning-for-om
 * **mRNA/lncRNA frag.: 2019 EMBO J.** - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
 * **srpRNA domain (RNA7SL1)**: **2019 Clinical Chem.** - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
 
+## III. Origin of Tissue
+
+* ✅ **Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
+
+see more in [Machine Learning - 4.Classification (turmor localization](../../ai/deep-learning-for-omics/4.-classification.md))
+
 ## IV. Advanced Methods and Models
 
-see [Machine Learning for Liquid Biopsy](broken-reference)
+see [Machine Learning for Omics](../../ai/deep-learning-for-omics/)
 
 
 
