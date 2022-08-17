@@ -22,9 +22,9 @@
 
 ## II. Drug RNA
 
-* ✅  **Drug RNA: **_**2022 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
+* ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
