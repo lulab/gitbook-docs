@@ -52,13 +52,11 @@
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
-  * **✨Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
+  * **Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
   * **✨Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
-  * **✨ Tissue of origin-Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
-  * **✨ miRNA motif in sEV - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
-  * **✨Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+  * **Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-  * **✨Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 * **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
   * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
   * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
