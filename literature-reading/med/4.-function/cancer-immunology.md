@@ -4,8 +4,8 @@
 
 ## **1.** Neoadjuvant i**mmunotherapy**
 
-* ✅  **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
-* **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
+* ✅ **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+* ✅ **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 
 ## **2. exRNA function in immunology**
@@ -13,7 +13,7 @@
 * _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
-* ✨ \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
+* ✅  \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 
 ## **3. Methods**
