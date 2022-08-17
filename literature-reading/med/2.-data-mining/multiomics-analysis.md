@@ -14,12 +14,6 @@
 
 ## 2. Research Article
 
-### Multi-Omics for neojuvant therapy
-
-* ✅  **2022 - **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
-
-### More
-
 * **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
 * ✅  **2021 **_**Nature**_** ** - Multi-omic machine learning predictor of breast cancer therapy response
 * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
