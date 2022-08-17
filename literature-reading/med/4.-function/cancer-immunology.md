@@ -5,7 +5,7 @@
 ## **1.** Neoadjuvant i**mmunotherapy**
 
 * ✅ **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
-* ✅ **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
+* (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 
 ## **2. exRNA function in immunology**
