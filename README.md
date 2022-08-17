@@ -10,8 +10,8 @@ description: 实验室指南
 
 > “_The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
-* [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE))
+* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)  ( [extension](https://cloud.tsinghua.edu.cn/f/089900d1672548648ab7/) )
+* [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) ( [清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&qs=n\&form=QBLH\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86\&sc=5-7\&sk=\&cvid=E012CF87B239486DA741BC1E40498B82)  和 [地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE) )
   * See more frequently used info/files @ 腾讯文档: _**Lu Lab - All** _&#x20;
   * [Lab Calendar](cal.md)
   * [FAQ](faq.md)
