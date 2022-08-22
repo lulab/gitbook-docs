@@ -25,12 +25,16 @@ description: 实验室指南
   * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/6. Experience Sharing_)_
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
+* [PPT Templates](https://cloud.tsinghua.edu.cn/d/9494905887fe45dca6ea/)
 
 ![](.gitbook/assets/learning.jpg)
 
 ## II. Research in Lu Lab
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
+
+> * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
+> * [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared - R and RW; Lu Lab Public Files; Lu Lab Public Photos
 
 ### 📊Drylab
 
@@ -42,9 +46,6 @@ description: 实验室指南
 
 * **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - Wetlab_
 
-> * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
-> * [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared; Lu Lab Public Files; Lu Lab Public Photos
-
 ![](.gitbook/assets/science.gif)
 
 ## III. Publish in Lu Lab
@@ -54,7 +55,7 @@ description: 实验室指南
 > “_The carving and chipping away to create a masterpiece take years of dedication. Teachers help students discover their interests, passions, and ultimately themselves._”
 
 * [Software](http://www.ncrnalab.org/software)
-* [Patent](https://www.ncrnalab.org/about-us/#%E4%B8%93%E5%88%A9%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87)
+* [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
 * [Paper](https://www.ncrnalab.org/publications/)
   * 历届毕业论文: 清华云盘 - Lu Lab Shared/4.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
