@@ -2,7 +2,13 @@
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
 
-## **I. cfDNA Methylation Tech.**
+## **I. cfDNA Tech.**
+
+**Nanopore**
+
+* **2021 Mol. Cancer** - Nanopore sequencing from liquid biopsy analysis of copy number variations from cell-free DNA of lung cancer patients
+
+## **II. cfDNA Methylation Tech.**
 
 * **TAPS**
   * **2022 NAR -** Whole-genome long-read TAPS deciphers DNA methylation patterns at base resolution using PacBio SMRT sequencing technology
@@ -13,6 +19,7 @@
   * **✨**\[cfMeDIP] **2019 **_**Nature Protocol** _ - Preparation of cfMeDIP-seq libraries for methylome
   * **✨**\[cfMeDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **BS**&#x20;
+  * **2022 Nature Cancer** - cfDNA methylome profiling for detection and subtyping of small cell lung cancers
   * **2021** _**Nature Biomedical Engineering**_ - Ultrasensitive detection of circulating tumour DNA via deep methylation sequencing aided by machine learning
   * **✨** \[Targeted BS] _**2021 Annals of Oncology**_ - **Grail and CCGA Consortium** - Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
   * **✨** \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
@@ -23,6 +30,8 @@
   * _**2019 Gut**_ - Genome-wide mapping of 5-hydroxymethylcytosines in circulating cell-free DNA as a non-invasive approach for early detection of hepatocellular carcinoma
   * _**2019 Blood Adv**_ - Prognostic implications of 5-hydroxymethylcytosines from circulating cell-free DNA in diffuse large B-cell lymphoma
   * _**2017 Cell Res**_ - 5-Hydroxymethylcytosine signatures in circulating cell-free DNA as diagnostic biomarkers for human cancers
+* **Nanopore**
+  * 2022 Genome Biology - Detecting cell‐of‐origin and cancer‐specific methylation features of cell‐free DNA from Nanopore sequencing
 
 ### 1. More reading on cfDNAmet-seq
 

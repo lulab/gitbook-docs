@@ -27,6 +27,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 ### 2. cfRNA fragment
 
+* Peak calling: **2022 Genome Biology** - GoPeaks: histone modification peak calling for CUT\&Tag
+* **2021 PNAS** - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
 * **sRNA cluster: 2021 Gut** - Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
 * **Fragmented ribosomes: 2020 NAR** - Fragmentation of extracellular ribosomes and tRNAs shapes the extracellular RNAome
 * ✅ **mRNA frag. :  2020 elife** - Identification of protein-protected mRNA fragments and structured excised intron RNAs in human plasma by TGIRT-seq peak calling
