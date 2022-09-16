@@ -6,6 +6,7 @@
 
 * ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
+* ✅ **2022 **_**Cell -**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
 
