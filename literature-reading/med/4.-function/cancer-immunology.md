@@ -6,21 +6,22 @@
 
 * ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
-* ✅ **2022 **_**Cell -**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
+* ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
+* ****[**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) **** - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
 
 ## **2. dsRNA and exRNA in immunology**
 
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
-* **2016 Cell Host & Microbe** - The Evolution of Antiviral Defense Systems
+* ****[**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
 * **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
 * _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 * ✅  \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
-*
+* ✅  **2016 Cell Host & Microbe** - The Evolution of Antiviral Defense Systems
 
 ## **3. Methods**
 

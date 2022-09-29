@@ -37,7 +37,7 @@
     * [Overview](literature-reading/ai/deep-learning-for-rna.md)
     * [RNA Structure Prediction](literature-reading/rna/rna-structure.md)
     * [RNA motif in microbiome](literature-reading/rna/microbial-ncrna.md)
-    * [RNA Target](literature-reading/rna/target-rna.md)
+    * [RNA Target & Drug](literature-reading/ai/rna/rna-target-and-drug.md)
     * [RNA Regulation](literature-reading/rna/postar.md)
 
 ## Paper Writing

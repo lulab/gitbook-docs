@@ -6,7 +6,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
 
-## I. Protocols & Technologies
+## I. Seq Protocols & Technologies
 
 ### 1. cfRNA-seq
 
@@ -32,7 +32,30 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 * **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
 * **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
 
-## II. Commercial Kit
+
+
+
+
+## II. EV and Purification Method
+
+### 1. Exosome and EV
+
+* **RNP: **_**2021 Nature Cell Biol.**_ - Supermeres are functional extracellular nanoparticles replete with disease biomarkers and therapeutic targets
+* **2021 **_**Nature Methods**_** -** Exosome detection via the ultrafast-isolation system: EXODUS
+* **✨** 2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
+* **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
+* **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
+* **✨ Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
+* **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
+* **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
+
+### 2. EV and RNP Purification Method
+
+* _**2022 JEV**_ - Tetraspanins distinguish separate extracellular vesicle subpopulations in human serum and plasma – Contributions of platelet extracellular vesicles in plasma samples
+* **SEC: 2020 **_**Molecular Therapy**_** ** - Simple and Fast SEC-Based Protocol to Isolate Human Plasma-Derived Extracellular Vesicles for Transcriptional Research
+* **MV+sEV+RNP**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
+
+## III. Commercial Kit
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -43,7 +66,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 
 
-## III. Papers recommended by HK Wang
+## IV. Papers recommended by HK Wang
 
 * ✅ \[Smart-seq3]_**2020 Nature Biotech**_ -Single-cell RNA counting at allele and isoform resolution using Smart-seq3&#x20;
 * \[UMI]_**2012 Nature Methods**_ -Counting absolute numbers of molecules using unique molecular identiﬁers&#x20;

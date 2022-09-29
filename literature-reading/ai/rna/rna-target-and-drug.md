@@ -1,6 +1,6 @@
-# RNA Target
+# RNA Target & Drug
 
-> * [**PDFs**](../ai/)****
+> * [**PDFs**](../)****
 > * ✅ : Recommended
 
 ## I. RNA Network
@@ -25,6 +25,7 @@
 * **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
+* ****[**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
@@ -33,4 +34,5 @@
 * ✅  **2017 PNAS -** Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
 * ✅  **2015 Nature** - Selective small-molecule inhibition of an RNA structural element
+* ****[**2014 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1414678111) **** - Functional conservation despite structural divergence in ligand-responsive RNA switches
 

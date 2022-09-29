@@ -9,6 +9,7 @@
 **关于液体活检技术的科普**
 
 * **News**
+  * 2022 Nature - GRAIL and the quest for earlier multi-cancer detection
   * 2022 - 肿瘤早筛，群雄谁能逐鹿？([Wechat link](https://mp.weixin.qq.com/s/qbjdqVSZqWsjE0jR4bzFtQ) | [Everhub link](https://www.yinxiang.com/everhub/note/86e90ab1-550a-40bf-923e-5e1b68be4b98))&#x20;
   * 2022 - New genomic technologies for multi-cancer early detection: Rethinking the scope of cancer screening ([_Cancer Cell_ Commentary](https://www.sciencedirect.com/science/article/pii/S1535610822000149?via%3Dihub))
   * 2022 - Omics and AI advance biomarker discovery for liver disease ([_Nature Medicine_ News](https://www.nature.com/articles/s41591-022-01853-9))
@@ -52,6 +53,7 @@
   * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
   * **✨Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
+  * \[Grail] **2022 ESMO congress** - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
@@ -104,6 +106,7 @@
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
 * **Long - Platelet**&#x20;
+  * **✨ Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * _**2022 Genome Medicine**_ - RNA profiling of blood platelets noninvasively differentiates colorectal cancer from healthy donors and noncancerous intestinal diseases: a retrospective cohort study
   * **✨ Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
