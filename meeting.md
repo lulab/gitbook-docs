@@ -1,7 +1,7 @@
 # Lab Meetings
 
 {% hint style="info" %}
-**Lab Calendars**: [**html**](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html) **** ([ics link](https://docs.ncrnalab.org/docs/cal#lab-calendars) for subscribe）
+**Lab Calendar**: [**html**](https://outlook.live.com/owa/calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html) **** ([ics link](https://docs.ncrnalab.org/docs/cal#lab-calendars) for subscribe）
 {% endhint %}
 
 ## Group Meeting&#x20;
