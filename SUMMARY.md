@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home - Lab Guide](README.md)
+* [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
 
