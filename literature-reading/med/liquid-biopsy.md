@@ -57,11 +57,11 @@
   * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
+  * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
-  * **✨Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-  * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-  * **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
+  * **Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
+  * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
 * **TCR**
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
 * **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
