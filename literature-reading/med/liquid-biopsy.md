@@ -61,7 +61,7 @@
   * **✨Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **✨Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
 * **TCR**
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
 * **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
