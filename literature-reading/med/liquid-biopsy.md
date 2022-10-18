@@ -45,7 +45,7 @@
 
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
+* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
@@ -64,7 +64,7 @@
   * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
 * **TCR**
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
-* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA-EVP.md))
+* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
   * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
   * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
