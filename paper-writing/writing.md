@@ -17,9 +17,9 @@
 
 **Font and Line Space**
 
-1. Check Font: Times New Roman, 11pt or 10.5pt
-2. Check Line: double space (except for References)
-3. No indent for the first sentence of a new paragraph.
+1. Check Font: <mark style="color:red;">Times New Roman, 11pt or 10.5pt</mark>
+2. Check Line: <mark style="color:red;">double space</mark> (except for References)
+3. <mark style="color:red;">No indent for the first sentence</mark> of a new paragraph.
 
 **Abstract**
 
@@ -33,17 +33,17 @@
 
 ### **Terms**
 
-1. Check the writing of specific terms in right format in the **whole paper**:
+1. Check the writing of specific terms in <mark style="color:red;">right format</mark> in the **whole paper**:
    * noncoding, cross-validation
-   * _P_-value
-   * v.s.
-   * i.e., something
-   * e.g., something
-2. Check if the **Abreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
+   * _<mark style="color:red;">**P**</mark>_<mark style="color:red;">**-value**</mark> (italicize and capitalize the P here)
+   * <mark style="color:red;">**v.s.**</mark> (lower case with dot)
+   * <mark style="color:red;">**i.e.,**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> something ( "," is needed)&#x20;
+   * <mark style="color:red;">**e.g.,**</mark> something ( "," is needed)
+2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
 ### **Grammar**
 
-> [Grammarly](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin.
+> [**Grammarly**](https://app.grammarly.com) **** (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin.
 
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
@@ -55,20 +55,21 @@
 
 > **Figure and Figure legend sometimes are more IMPORTANT than main text, because many senior readers read figures first.**
 
-1. Check if Figure Legends contain **sufficiently detailed** descriptions. (We got this suggestion from a previous reviewer who rejected our paper.)
-2. Check if the colors are **easy to see**.  (We got this suggestion from a previous reviewer who rejected our paper.)
+1. Check if Figure Legends contain <mark style="color:red;">**sufficiently detailed**</mark> descriptions. (We got this suggestion from a previous reviewer who rejected our paper.)
+2. Check if the colors are <mark style="color:red;">**easy to see**</mark>.  (We got this suggestion from a previous reviewer who rejected our paper.)
+3. <mark style="color:red;">**Font**</mark>, key's and axis label's fonts in particular, in Figure need to be as large as possible.
 
 ### **Main Text**
 
 1. Check **first** and **last** sentence in the **whole paper**. To make it easy to read, in every paragraph, first and last sentences are important. Usually, first sentence introduces and summarizes the whole paragraph; last sentence concludes the whole paragraph (e.g. "This result suggests that ...").
 2. Check voice: 1. In **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …". 2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
-3. Check sentence patterns (Useful Sentence Patterns):
-   1. We ~~**performed**~~ RT-qPCR (RNA-seq …) for … → XX was **validated** (**seqenced** ...) by RT-qPCR.
-   2. We ~~**built**~~ a Random Forest model … → We used/developped a Random Forest model to …
+3. Recommended words:
+   1. We <mark style="color:red;"></mark> <mark style="color:red;"></mark>~~<mark style="color:red;">**performed**</mark>~~ <mark style="color:red;"></mark><mark style="color:red;"></mark> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
+   2. We ~~<mark style="color:red;">**built**</mark>~~ a Random Forest model … → We used/developed a Random Forest model to …
    3. We **assayed/analyzed** … datasets.
    4. We **curated/collected** … datasets from … OR 100 datasets were curated/collected from ...
-   5. XX was **significantly enriched** in the noncoding sequences (**t test** _**P**_**-valeue: 0.002**).
-   6. The enrichment is/was calcuated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8. (depends on if you are talking to the audience about a plot or describe a result you have done.)
+   5. XX was **significantly enriched** in the noncoding sequences (**t test** _**P**_**-value: 0.002**).
+   6. The enrichment is/was calculated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8. (depends on if you are talking to the audience about a plot or describe a result you have done.)
 
 ### **Statistics**
 
@@ -147,6 +148,6 @@ Effective Writing by _Nature_
 * 介绍部分说明本研究的理由，不是文献综述。讨论部分不用『可能』，如果不确定结论，做更多的实验。
 * 结果部分不使用『could』、『can』（受中文影响），减少不确定性。
 * 不使用『etc』、『and so on』，这些词说明作者懒。
-* 『observed』很弱很被动，改用：assess, calculate, detect, estimate, evalulate, examine...
+* 『observed』很弱很被动，改用：assess, calculate, detect, estimate, evaluate, examine...
 * 不用『obviously』，读者不一定容易理解。
-* 结果部分避免『significantly』，改为报告p-value。讨论部分可用。
+* 结果部分避免『significantly』，改为报告_P_-value。讨论部分可用。
