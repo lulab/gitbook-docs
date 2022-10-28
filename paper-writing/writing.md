@@ -62,7 +62,9 @@
 ### **Main Text**
 
 1. Check **first** and **last** sentence in the **whole paper**. To make it easy to read, in every paragraph, first and last sentences are important. Usually, first sentence introduces and summarizes the whole paragraph; last sentence concludes the whole paragraph (e.g. "This result suggests that ...").
-2. Check voice: 1. In **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …". 2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
+2. Check voice:&#x20;
+   1. &#x20;n **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".&#x20;
+   2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
 3. Recommended words:
    1. We <mark style="color:red;"></mark> <mark style="color:red;"></mark>~~<mark style="color:red;">**performed**</mark>~~ <mark style="color:red;"></mark><mark style="color:red;"></mark> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
    2. We ~~<mark style="color:red;">**built**</mark>~~ a Random Forest model … → We used/developed a Random Forest model to …
