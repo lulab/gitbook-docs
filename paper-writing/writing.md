@@ -48,7 +48,7 @@
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
 3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
-4. Check number list (First, Second, Third, ...) see [Firstly, Secondly, Thirdly - Grammarly](https://www.grammarly.com/blog/firstly/)
+4. Check number list (First, Second, Third, ...) see [Firstly, Secondly, Thirdly - Grammarly Blog](https://www.grammarly.com/blog/firstly/)
 5. Check [When do you use 'the' in English? - Learning English Grammar ](https://grammar.collinsdictionary.com/easy-learning/when-do-you-use-the-in-english)
 
 ### **Figure and Figure Legend**
