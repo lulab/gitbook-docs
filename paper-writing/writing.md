@@ -33,8 +33,12 @@
 
 ### **Terms**
 
-1. Check the writing of specific terms in the **whole paper**:
-   * noncoding, cross-validation, _P_-value, V.S. (need to be capitalized), HCC/liver cancer
+1. Check the writing of specific terms in right format in the **whole paper**:
+   * noncoding, cross-validation
+   * _P_-value
+   * v.s.
+   * i.e., something
+   * e.g., something
 2. Check if the **Abreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
 ### **Grammar**
@@ -44,6 +48,8 @@
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
 3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
+4. Check number list (First, Second, Third, ...) see [Firstly, Secondly, Thirdly - Grammarly](https://www.grammarly.com/blog/firstly/)
+5. Check [When do you use 'the' in English? - Learning English Grammar ](https://grammar.collinsdictionary.com/easy-learning/when-do-you-use-the-in-english)
 
 ### **Figure and Figure Legend**
 
