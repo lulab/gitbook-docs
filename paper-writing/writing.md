@@ -8,12 +8,12 @@
 
 **Sections**
 
-1. Title and Authors
+1. Title, Authors and Affiliations
 2. Abstract and Keywords
 3. Introduction
 4. Results
 5. Conclusion and Discussion
-6. Methods
+6. (Online) Methods
 
 **Font and Line Space**
 
