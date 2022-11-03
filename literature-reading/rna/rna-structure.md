@@ -3,17 +3,39 @@
 > * [**PDFs**](../ai/)****
 > * ✅ : Recommended
 
-## I. Structure Probing
+## I. RNA Secondary Structure Prediction
 
-### 1. Structure probing methods
+> * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
+> * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
 
-关于RNA 二级结构高通量测序方法 (see more in **PDFs**)
+* **Energy Model**&#x20;
+  * **RNAstructure/Mfold**  and **RNAfold**&#x20;
+    * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
+    * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
+  * **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 
-### 2. Structure probing data analysis
+> **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
+>
+> **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
 
-* _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
+* **SCFG Model** (Rfam/Infernal)
+  * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
+  * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
+* **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
-## II. Structure Motif Finder
+## II. RNA Tertiary Structure Prediction
+
+> Learn from Protein structure prediction:
+>
+> * 2017 Science - Protein structure determination using metagenome sequence data&#x20;
+> * 2021 Nature – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
+
+* ****[**2021 Science**](https://www.science.org/doi/10.1126/science.abe5650) **** - Geometric deep learning of RNA structure
+* [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.05.15.491755v1) - De Novo RNA Tertiary Structure Prediction at Atomic Resolution using Geometric Potentials from Deep Learning
+* [**2022 arxiv**](https://arxiv.org/abs/2207.01586) - **E2Efold-3D**: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction
+* ****[**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1) - Accurate prediction of nucleic acid and protein-nucleic acid complexes using **RoseTTAFoldNA**
+
+## III. Structure Motif Finder
 
 * **Short-distance folding**:  ****  RNAstructure; RNAfold (free energy minimization methods)
 * **Long distance (>200nt) pairing**:   [superfold](https://github.com/Weeks-UNC/Superfold)
@@ -39,25 +61,13 @@
 
 
 
-## III. RNA Secondary Structure Prediction
+## IV. Structure Probing
 
-> * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
-> * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
+### 1. Structure probing methods
 
-* **Energy Model**&#x20;
-  * **RNAstructure/Mfold**  and **RNAfold**&#x20;
-    * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
-    * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
-  * **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
+关于RNA 二级结构高通量测序方法 (see more in **PDFs**)
 
-> **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
->
-> **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
+### 2. Structure probing data analysis
 
-* **SCFG Model** (Rfam/Infernal)
-  * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
-  * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
-* **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
-
-
+* _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
 
