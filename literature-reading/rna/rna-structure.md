@@ -5,22 +5,16 @@
 
 ## I. RNA Secondary Structure Prediction
 
-> * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
-> * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
-
-* **Energy Model**&#x20;
-  * **RNAstructure/Mfold**  and **RNAfold**&#x20;
-    * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
-    * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
-  * **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
-
-> **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
+> **Course**: [生物信息学（清华大学）](https://www.ncrnalab.org/courses/#bioinfo);  [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics);
 >
-> **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
+> **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
 
+* **Energy Model** - **RNAstructure/Mfold**  and **RNAfold**&#x20;
+  * How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
+  * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
 * **SCFG Model** (Rfam/Infernal)
   * What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
-  * _You can read the SCFG section in the book_ [_above_](../ai/#3-1-rna-secondary-structure-prediction)_. (Need a short tutorial for SCFG.)_
+  * _You can read the SCFG section in the book_ _above (_《Biological Sequence Analysis》_)._&#x20;
 * **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
 ## II. RNA Tertiary Structure Prediction
@@ -38,12 +32,15 @@
 ## III. Structure Motif Finder
 
 * **Short-distance folding**:  ****  RNAstructure; RNAfold (free energy minimization methods)
-* **Long distance (>200nt) pairing**:   [superfold](https://github.com/Weeks-UNC/Superfold)
+* **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 * **Motif finder:**
   * **SCFG:** [Rfam/Infernal](https://rfam.xfam.org/);  CMfinder ([2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)_)_; RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
   * ✅ **CFG:** TEISER ([2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308))
   * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
-  * ✅ **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide search for functional RNA elements via structural data signatures
+  * ✅ **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide  search for functional RNA elements via structural data signatures
+
+> * **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
+> * **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
 
 ### **1. Motif finding methods**
 
