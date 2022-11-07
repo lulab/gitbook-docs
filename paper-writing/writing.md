@@ -36,7 +36,7 @@
 1. Check the writing of specific terms in <mark style="color:red;">right format</mark> in the **whole paper**:
    * noncoding, cross-validation
    * _<mark style="color:red;">**P**</mark>_<mark style="color:red;">**-value**</mark> (italicize and capitalize the P here)
-   * <mark style="color:red;">**v.s.**</mark> (lower case with dot)
+   * <mark style="color:red;">**vs.**</mark> (lower case with one dot after)
    * <mark style="color:red;">**i.e.,**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> something ( "," is needed)&#x20;
    * <mark style="color:red;">**e.g.,**</mark> something ( "," is needed)
 2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
