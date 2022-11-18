@@ -69,9 +69,10 @@
    1. We <mark style="color:red;"></mark> <mark style="color:red;"></mark>~~<mark style="color:red;">**performed**</mark>~~ <mark style="color:red;"></mark><mark style="color:red;"></mark> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
    2. We ~~<mark style="color:red;">**built**</mark>~~ a Random Forest model … → We used/developed a Random Forest model to …
    3. We **assayed/analyzed** … datasets.
-   4. We **curated/collected** … datasets from … OR 100 datasets were curated/collected from ...
-   5. XX was **significantly enriched** in the noncoding sequences (**t test** _**P**_**-value: 0.002**).
-   6. The enrichment is/was calculated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8. (depends on if you are talking to the audience about a plot or describe a result you have done.)
+   4. We **assessed, calculated, detected, estimated, evaluated, examined**, ...
+   5. We **curated/collected** … datasets from … OR 100 datasets were curated/collected from ...
+   6. XX was **significantly enriched** in the noncoding sequences (**t test** _**P**_**-value: 0.002**).
+   7. The enrichment is/was calculated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8. (depends on if you are talking to the audience about a plot or describe a result you have done.)
 
 ### **Statistics**
 
