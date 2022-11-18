@@ -2,11 +2,12 @@
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
 
-## **1.** Neoadjuvant i**mmunotherapy**
+## **1. Immunotherapy**
 
 * ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
+* ✅ [**2021 **_**Cell**_** ** ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
 * ****[**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) **** - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
