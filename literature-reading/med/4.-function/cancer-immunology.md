@@ -6,6 +6,7 @@
 
 * ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
+* ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) **** - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
 * ✅ [**2021 **_**Cell**_** ** ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
 * ****[**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) **** - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
