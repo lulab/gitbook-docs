@@ -43,7 +43,7 @@
 
 ### **Grammar**
 
-> [**Grammarly**](https://app.grammarly.com) **** (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin.
+> [**Grammarly**](https://app.grammarly.com) **** (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin. You can also install it into your office word from this [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?product=office\&page=1\&src=office\&search=grammarly).
 
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
