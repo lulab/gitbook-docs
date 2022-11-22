@@ -90,6 +90,10 @@
 * **✨ Long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
 
+### Infectious Diseases
+
+* [**2022 Genome Res.**](https://genome.cshlp.org/content/32/2/228) - Plasma cell-free RNA characteristics in COVID-19 patients
+
 ### Cancer
 
 * **Long**

@@ -10,6 +10,7 @@
 
 ## II. cfDNA Features
 
+* ****[**2022 PNAS**](https://doi.org/10.1073/pnas.2209852119) - Epigenetic analysis of cell-free DNA by fragmentomic profiling
 * ✅ **2022 Nature** - Deep whole-genome ctDNA chronology of treatment-resistant prostate cancer
 * **cfDNA - Nucleosome footprint & end motif**
   * \[fragmentomics] **2022 **_**Mol. Cancer**_** ** - An ultra-sensitive assay using cell-free DNA fragmentomics for multi-cancer early detection

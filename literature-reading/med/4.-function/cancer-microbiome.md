@@ -20,6 +20,8 @@ description: Cancer System and Environment
 
 ## **III. Cancer microbiome**
 
+* ****[**2022 Cell**](https://doi.org/10.1016/j.cell.2022.09.005) - Pan-cancer analyses reveal cancer-type-speciﬁc fungal ecologies and bacteriome interactions
+* ****[**2022 Cell** ](https://doi.org/10.1016/j.cell.2022.09.015)- A pan-cancer mycobiome analysis reveals fungal involvement in gastrointestinal and lung tumors
 * _**2021 Cancer Cell**_** \[Review]** - Microbiome and cancer
 * _**2021 Science**_** \[Review]** - The microbiome and human cancer
 * ✅ _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
