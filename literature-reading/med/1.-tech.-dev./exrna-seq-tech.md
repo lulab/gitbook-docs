@@ -45,7 +45,6 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 ### 1. Exosome and EV
 
-* [2022 bioRxiv](https://doi.org/10.1101/2022.09.22.509102) - Selective enrichment of plasma cell-free messenger RNA in cancer-associated extracellular vesicles
 * **RNP: **_**2021 Nature Cell Biol.**_ - Supermeres are functional extracellular nanoparticles replete with disease biomarkers and therapeutic targets
 * **2021 **_**Nature Methods**_** -** Exosome detection via the ultrafast-isolation system: EXODUS
 * **✨** 2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium

@@ -107,6 +107,7 @@
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
   * **long evRNA-seq**: _**2019 Clinical Chemistry**_ - Extracellular Vesicles Long RNA Sequencing Reveals Abundant mRNA, circRNA, and lncRNA in Human Blood as Potential Biomarkers for Cancer Diagnosis
   * **exoRBase:** _**2018 NAR**_ - exoRBase: a database of circRNA, lncRNA and mRNA in human blood exosomes
+  * **2018 PNAS** - Human plasma and serum extracellular small RNA reference profiles and their clinical utility
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
 * **Long - Platelet**&#x20;

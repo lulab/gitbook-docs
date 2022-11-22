@@ -23,6 +23,7 @@
 ## III. RNA-ligand
 
 * ✅  [**2022 Nature Reviews Drug Discovery** ](https://doi.org/10.1038/s41573-022-00521-4)- Targeting RNA structures with small molecules
+* [**2022 Nature Biotech.**](https://doi.org/10.1038/s41587-022-01307-0) **** - Prediction of protein–ligand binding affinity from sequencing data with interpretable machine learning
 * ****[**2021 Nature Reviews Drug Discovery**](https://www.nature.com/articles/s41573-021-00199-0) - Advances in targeting ‘undruggable’ transcription factors with small molecules
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * [**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery

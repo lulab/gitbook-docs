@@ -66,5 +66,6 @@
 
 ### 2. Structure probing data analysis
 
+* ****[**2022 Nature Methods**](https://www.nature.com/articles/s41592-022-01605-0) - RNA secondary structure packages evaluated and improved by high-throughput experiments
 * _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
 

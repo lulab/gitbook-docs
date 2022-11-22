@@ -17,6 +17,7 @@
 
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
 * ✅  [**2022 Nature**](https://www.nature.com/articles/s41586-022-05052-x) - RNA editing underlies genetic risk of common inflammatory diseases
+* ****[**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
 * ****[**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
 * **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
 * _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
