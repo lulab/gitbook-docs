@@ -52,6 +52,7 @@ see [RNA Structure Prediction](../../rna/rna-structure.md)
 
 ### 3. RNA-ligand interaction
 
+* ****[**2022 BIB**](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac486/6832814?redirectedFrom=fulltext) - RLBind: a deep learning method to predict RNA–ligand binding sites
 * ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
