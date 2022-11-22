@@ -55,7 +55,10 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 ### 组会和课题讨论小组会之间的差别是什么？
 
-* 课题讨论小组会的形式随意，主要以讨论结果和细节为目的。
+* 课题讨论小组会的形式随意，主要以讨论结果和细节为目的。 不论本科生还是研究生，做研究主要包括三块，汇报也是这三块：
+  * （1）文献调研结论（对一个科学问题或者技术的调研和理解）
+  * （2）湿实验结果
+  * （3）干实验（数据分析）结果
 * 组会报告要正式一些，每周一次，每个同学基本每学期会轮到一次的组会报告，以练习正式报告甚至是答辩报告的能力为目的，可以仿照“答辩ppt”的形式，包括I. Background, II. Method, III. Result, IV. Perspective (Future Plan)几个部分。
 
 > 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括PI的）一些好的background slides，这样可以不断优化和积累background的slides。
@@ -74,8 +77,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 > * 单位名称：清华大学
 > * 纳税人识别号：12100000400000624D
-> * 地址、电话：北京市海淀区清华园 01062795627
-> * 开户行及账号：工行海淀西区支行 0200004509089131550
+> * 其他（地址、电话、开户行及账号等）：**不要填，一定空着**
 
 ## 远程工作
 
