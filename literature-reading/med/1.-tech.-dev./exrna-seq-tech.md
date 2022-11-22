@@ -11,12 +11,14 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ### 1. cfRNA-seq
 
 * **2022 Clin. Transl. Med.** - Polyadenylation ligation-mediated sequencing (PALM-Seq) characterizes cell-free coding and non-coding RNAs in human biofluids
-* ✅ **total RNA-seq in single cell - 2022 Nature Biotech. -** High-throughput total RNA sequencing in single cells using VASA-seq
+* **total RNA-seq in spatial seq - 2022 Nature Biotech.** Spatial mapping of the total transcriptome by in situ polyadenylation
+* ✅ **total RNA-seq in single cell -** [**2022 Nature Biotech.** ](https://www.nature.com/articles/s41587-022-01517-6)**-** High-throughput total RNA sequencing in single cells using VASA-seq
 * ✅ **total RNA-seq in single cell - 2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
 * ✅ **Purification:** _2021 bioRxiv_ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
 * ✅ **Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
+* **Multiplex**: [**Nature Methods 2019**](https://doi.org/10.1038/s41592-018-0259-9) - Simultaneous multiplexed amplicon sequencing and transcriptome profiling in single cells
 * **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
 * **SMART-seq2(TSO)**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
 * **Pico-seq**:
@@ -32,7 +34,10 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 * **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
 * **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
 
+### 3. cfRNA modification
 
+* ****[**2022 Nature Biotech.** ](https://doi.org/10.1038/s41587-022-01487-9)**-** Absolute quantification of single-base m6A methylation in the mammalian transcriptome using GLORI
+* ****[**2019 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1817334116) - Transcriptome-wide profiling of multiple RNAmodifications simultaneously at single-base resolution
 
 
 
