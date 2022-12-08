@@ -33,7 +33,7 @@ description: System and Environment
 
 ### **(2) TE-RNA/Repeats and mbRNA (microbial ncRNA)**
 
-* see more in [Cancer Microbiome](cancer-microbiome.md#i-exrna-function-in-host-and-microbe)
+* see more in [Cancer Microbiome#Host & Microbe](cancer-microbiome.md#iii.-host-and-microbe)
 
 ### (3) circRNA
 
