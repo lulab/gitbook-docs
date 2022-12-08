@@ -106,13 +106,15 @@ description: POST-trAnscriptional Regulation
 * Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. (Genome Research, 2017)&#x20;
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. (Cancer cell, 2015)
 
+## 6. RNA modification
 
+* [**2022 Nature Methods**](https://doi.org/10.1038/s41592-022-01666-1) - Detection of m6A from direct RNA sequencing using a multiple instance learning framework
 
-## 6. DNA mutation using RNA-seq
+## 7. DNA mutation using RNA-seq
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues (Science, 2019)&#x20;
 
-## 7. Quantum Biology
+## 8. Quantum Biology
 
 * 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
 

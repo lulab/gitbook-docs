@@ -8,6 +8,7 @@
 > * **Course:**  Machine Learning (CS229) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)
 > * **Book:    《**机器学习》-- 周志华 ([link](https://book.douban.com/subject/26708119/))  ([更多书籍课程推荐](https://lulab1.gitbook.io/training/appendix/appendix-i.keep-learning))
 
+* **RNA modification**: [**2022 Nature Methods**](https://doi.org/10.1038/s41592-022-01666-1) - Detection of m6A from direct RNA sequencing using a multiple instance learning framework
 * ✅ **3D Structure prediction of RNA**: 2021 _Science_ - Geometric deep learning of RNA structure
 * **AS of RNA**: 2019 _Cell_ - Predicting Splicing from Primary Sequence with Deep Learning
 * **AS of RNA (DARTS**): 2019 _Nature Methods_ - Deep-learning augmented RNA-seq analysis of transcript splicing

@@ -8,6 +8,7 @@ description: Cancer System and Environment
 
 ## I. exRNA **in host & microbe**
 
+* _****_[_**2022 Nature Microbe**_](https://doi.org/10.1038/s41564-022-01121-z) _**-**_ Identification of shared and disease-specific host gene–microbiome associations across human diseases using multi-omic integration
 * _**2020 EMBO J.**_ -  Mouse circulating extracellular vesicles contain virus-derived siRNAs active in antiviral immunity
 * _**2018 Cell Host & Microbe**_ - Plant-Derived Exosomal MicroRNAs Shape the Gut Microbiota.&#x20;
 * _**2016 Cell Host & Microbe**_ - The Host Shapes the Gut Microbiota via Fecal MicroRNA
@@ -20,6 +21,9 @@ description: Cancer System and Environment
 
 ## **III. Cancer microbiome**
 
+* ****[**2022 Nature**](https://doi.org/10.1038/s41586-022-05435-0) - Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer
+* ****[**2022 Cell**](https://doi.org/10.1016/j.cell.2022.09.005) - Pan-cancer analyses reveal cancer-type-speciﬁc fungal ecologies and bacteriome interactions
+* ****[**2022 Cell** ](https://doi.org/10.1016/j.cell.2022.09.015)- A pan-cancer mycobiome analysis reveals fungal involvement in gastrointestinal and lung tumors
 * _**2021 Cancer Cell**_** \[Review]** - Microbiome and cancer
 * _**2021 Science**_** \[Review]** - The microbiome and human cancer
 * ✅ _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;

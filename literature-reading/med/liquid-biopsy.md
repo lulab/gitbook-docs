@@ -50,12 +50,17 @@
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
+  * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-  * **✨Fragment Size: **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+  * **Fragmentome (DELFI):** [_**2022 Cancer Discovery**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) _****_** -** Detecting liver cancer using cell-free DNA fragmentomes
+  * **Fragmentome (DELFI): 2021 Nature Commn.** - Detection and characterization of lung cancer using cell-free DNA fragmentomes
+  * **✨Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
-  * \[Grail] **2022 ESMO congress** - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
-  * \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * \[Grail, cfDNA, targeted BS] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
+  * \[Grail, Targeted BS] _**2022 ESMO congress**_ - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
+  * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) _****_** -** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
+  * \[Grail, Targeted BS] _**2020 Annals of Oncology**_** -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
   * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
