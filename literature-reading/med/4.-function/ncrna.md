@@ -36,7 +36,7 @@
 * \[Review] _**2019 EMBJ**_ Past, present, and future of circRNAs
 * _**2013 Nature**_ Circular RNAs are a large class of animal RNAs with regulatory potency
 
-### (4) microbial ncRNA
+### (4) Microbial ncRNA
 
 * see more in [Cancer Microbiome](cancer-microbiome.md#i-exrna-function-in-host-and-microbe)
 
