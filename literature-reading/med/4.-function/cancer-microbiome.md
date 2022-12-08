@@ -1,5 +1,5 @@
 ---
-description: Cancer System and Environment
+description: System and Environment
 ---
 
 # Cancer Microbiome
