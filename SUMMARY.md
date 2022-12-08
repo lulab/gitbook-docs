@@ -25,7 +25,7 @@
     * [MultiOmics Analysis](literature-reading/med/2.-data-mining/multiomics.md)
   * [3. Panel and Database](literature-reading/med/panel-and-screen.md)
   * [4. Function](literature-reading/med/4.-function/README.md)
-    * [RNA Function](literature-reading/med/4.-function/exrna-function.md)
+    * [ncRNA](literature-reading/med/4.-function/ncrna.md)
     * [Immunotherapy](literature-reading/med/4.-function/cancer-immunology.md)
     * [Cancer Microbiome](literature-reading/med/4.-function/cancer-microbiome.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
