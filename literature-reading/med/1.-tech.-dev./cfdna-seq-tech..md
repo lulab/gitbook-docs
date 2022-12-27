@@ -15,6 +15,7 @@
   * **✨**\[cfTAPS] **2021 **_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
   * **✨**\[TAPS] **2019 **_**Nature Biotech.** _ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
 * **MeDIP**
+  * _**2022 NCOMMN.**_ - The cell-free DNA methylome captures distinctions between localized and metastatic prostate tumors
   * **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
   * **✨**\[cfMeDIP] **2019 **_**Nature Protocol** _ - Preparation of cfMeDIP-seq libraries for methylome
   * **✨**\[cfMeDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
