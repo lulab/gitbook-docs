@@ -43,6 +43,7 @@ description: System and Environment
 
 ## **3. Applications: Immunotherapy**
 
+* (neoadjuvant) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
 * ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
 * ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) **** - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
