@@ -10,11 +10,9 @@ description: 实验室指南
 
 > “_The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)  ( [extension](https://cloud.tsinghua.edu.cn/f/089900d1672548648ab7/) )
-* [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3)&#x20;
-  * [清华校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm) ([清华校历@bing](https://cn.bing.com/search?q=%09%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86+%40tsinghua.edu.cn\&qs=n\&form=QBRE\&sp=-1\&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86+%40tsinghua.edu.cn\&sc=0-24\&sk=\&cvid=64DF6D2C91B94399AD389DB9DF5FCD0C\&ghsh=0\&ghacc=0\&ghpl=)) &#x20;
-  * [清华地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ([清华地图@bing](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE\&go=Search\&qs=ds\&form=QBRE) )
-  * See more frequently used info @ 腾讯文档: _**Lu Lab - All** _&#x20;
+* [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
+* [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) (more @ 腾讯共享文档: _**Lu Lab - All** )_
+* [Lab Introduction PPT](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)  ( [extension](https://cloud.tsinghua.edu.cn/f/089900d1672548648ab7/) )
 * [Lab Meetings](meeting.md) and [Lab Calendar](cal.md)
 * [FAQ](faq.md)
 
