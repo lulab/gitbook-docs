@@ -57,17 +57,17 @@
   * **Fragmentome (DELFI): 2021 Nature Commn.** - Detection and characterization of lung cancer using cell-free DNA fragmentomes
   * **✨Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
-  * \[Grail, cfDNA, targeted BS] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
+  * ✅ \[Grail, cfDNA vs. cfDNAmet] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
   * \[Grail, Targeted BS] _**2022 ESMO congress**_ - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
   * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) _****_** -** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
   * \[Grail, Targeted BS] _**2020 Annals of Oncology**_** -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
+  * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
   * **Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-  * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
 * **TCR**
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
 * **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
