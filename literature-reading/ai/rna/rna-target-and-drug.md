@@ -35,6 +35,11 @@
 * _**2006 BMC Bioinformatics**_ - An accurate and interpretable model for siRNA efficacy prediction
 * _**2005 Nature Biotech.**_ - Design of a genome-wide siRNA library using an artificial neural network
 
+**sgRNA prediction**
+
+* _**2022 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
+* [more sgRNA papers](https://portals.broadinstitute.org/gppx/crispick/public/faq)&#x20;
+
 ## II. RNA-Protein
 
 #### **Reviews**
