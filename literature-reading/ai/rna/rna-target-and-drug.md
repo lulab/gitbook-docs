@@ -30,7 +30,9 @@
 * [_**Our papers: NAR 2008a, 2008b, 2008c**_](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
 * _**2008 Bioinformatics**_, siDRM: an effective and generally applicable online siRNA design tool
 * _**2007 NAR**_ - Comparison of approaches for rational siRNA design leading to a new efficient and transparent method
+* _**2006 BMC Bioinformatics**_  - Computational models with thermodynamic and composition features improve siRNA design
 * _**2006 BMC Bioinformatics**_ - An accurate and interpretable model for siRNA efficacy prediction
+* _**2005 Nature Biotech.**_ - Design of a genome-wide siRNA library using an artificial neural network
 
 ## II. RNA-Protein
 
