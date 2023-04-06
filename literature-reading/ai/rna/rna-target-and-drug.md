@@ -1,7 +1,12 @@
 # RNA Target & Drug
 
-> * [**PDFs**](../)****
+> * [**PDFs**](../)
 > * ✅ : Recommended
+
+## 0.Reviews
+
+* ✅ [_**2022 Nature Reviews | Drug Discovery**_](https://www.nature.com/articles/s41573-021-00219-z) - Noncoding RNA therapeutics — challenges and potential solutions&#x20;
+* ✅ [_**2022 Cell Death and Disease**_](https://www.nature.com/articles/s41419-022-05075-2) - RNA-based therapeutics: an overview and prospectus
 
 ## I. RNA-oligo
 
@@ -23,8 +28,8 @@
 ## III. RNA-ligand
 
 * ✅  [**2022 Nature Reviews Drug Discovery** ](https://doi.org/10.1038/s41573-022-00521-4)- Targeting RNA structures with small molecules
-* [**2022 Nature Biotech.**](https://doi.org/10.1038/s41587-022-01307-0) **** - Prediction of protein–ligand binding affinity from sequencing data with interpretable machine learning
-* ****[**2021 Nature Reviews Drug Discovery**](https://www.nature.com/articles/s41573-021-00199-0) - Advances in targeting ‘undruggable’ transcription factors with small molecules
+* [**2022 Nature Biotech.**](https://doi.org/10.1038/s41587-022-01307-0) - Prediction of protein–ligand binding affinity from sequencing data with interpretable machine learning
+* [**2021 Nature Reviews Drug Discovery**](https://www.nature.com/articles/s41573-021-00199-0) - Advances in targeting ‘undruggable’ transcription factors with small molecules
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * [**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
@@ -44,7 +49,7 @@
 #### 1.1 Riboswitch
 
 * ✅  **2017 PNAS -** Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity
-* [**2014 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1414678111) **** - Functional conservation despite structural divergence in ligand-responsive RNA switches
+* [**2014 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1414678111) - Functional conservation despite structural divergence in ligand-responsive RNA switches
 
 ### 2. RNA structure prediction
 
@@ -52,7 +57,7 @@ see [RNA Structure Prediction](../../rna/rna-structure.md)
 
 ### 3. RNA-ligand interaction
 
-* ****[**2022 BIB**](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac486/6832814?redirectedFrom=fulltext) - RLBind: a deep learning method to predict RNA–ligand binding sites
+* [**2022 BIB**](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac486/6832814?redirectedFrom=fulltext) - RLBind: a deep learning method to predict RNA–ligand binding sites
 * ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
