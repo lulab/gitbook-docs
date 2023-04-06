@@ -10,6 +10,9 @@
 
 ## I. RNA-oligo
 
+* _**2018 BMC Genomics**_, SiRNA silencing efficacy prediction based on a deep architecture&#x20;
+* _**2008 Bioinformatics**_, siDRM: an effective and generally applicable online siRNA design tool
+
 ## II. RNA-Protein
 
 #### **Reviews**
