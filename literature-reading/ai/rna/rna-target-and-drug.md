@@ -27,6 +27,7 @@
 ## I. RNA-oligo
 
 * _**2018 BMC Genomics**_, SiRNA silencing efficacy prediction based on a deep architecture&#x20;
+* ✅ \[off-target] _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
 * [_**Our papers: NAR 2008a, 2008b, 2008c**_](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
 * _**2008 Bioinformatics**_, siDRM: an effective and generally applicable online siRNA design tool
 * _**2007 NAR**_ - Comparison of approaches for rational siRNA design leading to a new efficient and transparent method
