@@ -37,7 +37,8 @@
 
 **sgRNA prediction**
 
-* _**2022 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
+* ✅ _**2018 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
+* ✅ _**2016 Nature Biotech.**_ -Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
 * [more sgRNA papers](https://portals.broadinstitute.org/gppx/crispick/public/faq)&#x20;
 
 ## II. RNA-Protein
