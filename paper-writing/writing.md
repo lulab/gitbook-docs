@@ -37,13 +37,13 @@
    * noncoding, cross-validation
    * _<mark style="color:red;">**P**</mark>_<mark style="color:red;">**-value**</mark> (italicize and capitalize the P here)
    * <mark style="color:red;">**vs.**</mark> (lower case with one dot after)
-   * <mark style="color:red;">**i.e.,**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> something ( "," is needed)&#x20;
+   * <mark style="color:red;">**i.e.,**</mark> something ( "," is needed)&#x20;
    * <mark style="color:red;">**e.g.,**</mark> something ( "," is needed)
 2. Check if the **Abbreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
 ### **Grammar**
 
-> [**Grammarly**](https://app.grammarly.com) **** (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin. You can also install it into your office word from this [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?product=office\&page=1\&src=office\&search=grammarly).
+> [**Grammarly**](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and chrome/firefox/safari plugin. You can also install it into your office word from this [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?product=office\&page=1\&src=office\&search=grammarly).
 
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
@@ -66,7 +66,7 @@
    1. &#x20;n **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".&#x20;
    2. In **Methods**, we may use **passive voice** sometimes , such as " The difference was tested by a paired t test.".
 3. Recommended words:
-   1. We <mark style="color:red;"></mark> <mark style="color:red;"></mark>~~<mark style="color:red;">**performed**</mark>~~ <mark style="color:red;"></mark><mark style="color:red;"></mark> RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
+   1. We ~~<mark style="color:red;">**performed**</mark>~~ RT-qPCR (RNA-seq …) for … → XX was **validated** (**sequenced** ...) by RT-qPCR.
    2. We ~~<mark style="color:red;">**built**</mark>~~ a Random Forest model … → We used/developed a Random Forest model to …
    3. We **assayed/analyzed** … datasets.
    4. We **assessed, calculated, detected, estimated, evaluated, examined**, ...

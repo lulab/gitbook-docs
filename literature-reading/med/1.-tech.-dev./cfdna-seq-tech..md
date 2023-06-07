@@ -1,6 +1,6 @@
 # cfDNA-seq Tech.
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 
 ## **I. cfDNA Tech.**
 
@@ -13,11 +13,11 @@
 * **TAPS**
   * **2022 NAR -** Whole-genome long-read TAPS deciphers DNA methylation patterns at base resolution using PacBio SMRT sequencing technology
   * **✨**\[cfTAPS] **2021 **_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
-  * **✨**\[TAPS] **2019 **_**Nature Biotech.** _ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
+  * **✨**\[TAPS] **2019 **_**Nature Biotech.**_ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
 * **MeDIP**
   * _**2022 NCOMMN.**_ - The cell-free DNA methylome captures distinctions between localized and metastatic prostate tumors
   * **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
-  * **✨**\[cfMeDIP] **2019 **_**Nature Protocol** _ - Preparation of cfMeDIP-seq libraries for methylome
+  * **✨**\[cfMeDIP] **2019 **_**Nature Protocol**_ - Preparation of cfMeDIP-seq libraries for methylome
   * **✨**\[cfMeDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **BS**&#x20;
   * **2022 Nature Cancer** - cfDNA methylome profiling for detection and subtyping of small cell lung cancers

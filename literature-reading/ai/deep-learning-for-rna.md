@@ -1,6 +1,6 @@
 # Overview
 
-> * [**PDFs**](./)****
+> * [**PDFs**](./)
 > * ✅ : Recommended
 
 ## I. Deep Learning on RNA
@@ -26,4 +26,4 @@
 
 * **2022 Nature Biotech.** - Using deep learning to annotate the protein universe
 * ✅  _**AlphaFold2**_ - **2021 **_**Nature**_ - Highly accurate protein structure prediction with AlphaFold
-* Baker et al. - **2021 **_**Science**_** ** - Accurate prediction of protein structures and interactions using a three-track neural network
+* Baker et al. - **2021 **_**Science**_ - Accurate prediction of protein structures and interactions using a three-track neural network

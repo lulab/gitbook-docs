@@ -4,14 +4,14 @@ description: System and Environment
 
 # Immunotherapy
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
 > ✅ **: recommended readings**
 
 ## **1. dsRNA in immunology**
 
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
-* ****[**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
+* [**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
 * **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
 * _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
@@ -26,8 +26,8 @@ description: System and Environment
 ### 1.2 RNA editing and immune
 
 * ✅  [**2022 Nature**](https://www.nature.com/articles/s41586-022-05052-x) - RNA editing underlies genetic risk of common inflammatory diseases
-* ****[**2022 Cancer Res.**](https://doi.org/10.1158/0008-5472.can-22-1062) - Single-cell analysis in lung adenocarcinoma implicates RNA editing in cancer innate immunity and patient prognosis
-* ****[**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
+* [**2022 Cancer Res.**](https://doi.org/10.1158/0008-5472.can-22-1062) - Single-cell analysis in lung adenocarcinoma implicates RNA editing in cancer innate immunity and patient prognosis
+* [**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
 
 ### 1.3 RNA modification and immune
 
@@ -45,12 +45,12 @@ description: System and Environment
 
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 * (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
-* ✅ (neoadjuvant) **2022 **_**Cell**_** ** - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+* ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
-* ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) **** - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
+* ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
-* ✅ [**2021 **_**Cell**_** ** ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
-* ****[**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) **** - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
+* ✅ [**2021 **_**Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
+* [**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
 

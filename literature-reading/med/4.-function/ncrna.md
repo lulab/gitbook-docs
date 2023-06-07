@@ -4,7 +4,7 @@ description: System and Environment
 
 # ncRNA
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
 > ✅ **: recommended readings**
 
@@ -18,9 +18,9 @@ description: System and Environment
 * _**2021 Nature Biotechnology**_ - The RNA Atlas expands the catalog of human non-coding RNAs
 * _**2020 Nature**_ **- PCAWG** - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes
 * _**2020 Nature**_ **- PCAWG** - Genomic basis for RNA alterations in cancer
-* ✅ **** \[Review] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
+* ✅  \[Review] _**2019 Cell**_ The Role of Non-coding RNAs in Oncology
 * \[Function] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
-* \[Profiling] ** **_**2015 Nature Genetics**_ **- MiTranscriptome** - The Landscape of Long Noncoding RNAs in the Human Transcriptome
+* \[Profiling] _**2015 Nature Genetics**_ **- MiTranscriptome** - The Landscape of Long Noncoding RNAs in the Human Transcriptome
 
 ### (1) MT-RNA and tRNA/rRNA
 

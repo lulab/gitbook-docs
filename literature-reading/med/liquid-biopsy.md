@@ -1,6 +1,6 @@
 # Overview of liquid biopsy
 
-> ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
 > ✅ or ✨ **: recommended readings**
 
@@ -53,13 +53,13 @@
   * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-  * **Fragmentome (DELFI):** [_**2022 Cancer Discovery**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) _****_** -** Detecting liver cancer using cell-free DNA fragmentomes
+  * **Fragmentome (DELFI):** [_**2022 Cancer Discovery**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Detecting liver cancer using cell-free DNA fragmentomes
   * **Fragmentome (DELFI): 2021 Nature Commn.** - Detection and characterization of lung cancer using cell-free DNA fragmentomes
   * **✨Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
   * ✅ \[Grail, cfDNA vs. cfDNAmet] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
   * \[Grail, Targeted BS] _**2022 ESMO congress**_ - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
-  * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) _****_** -** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
+  * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
   * \[Grail, Targeted BS] _**2020 Annals of Oncology**_** -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
@@ -75,7 +75,7 @@
   * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
-****
+
 
 ## III. cfRNA (exRNA) studies
 
@@ -109,7 +109,7 @@
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
   * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
   * **long evRNA-mRNA: **_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer&#x20;
-  * **long cfRNA-ncRNA** _-_ **2021 **_**Theranostics**_** ** _-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
+  * **long cfRNA-ncRNA** _-_ **2021 **_**Theranostics**_ _-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
   * **✨ long evRNA-seq**: _**2020 GUT**_ Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states

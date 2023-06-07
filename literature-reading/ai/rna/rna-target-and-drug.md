@@ -62,6 +62,13 @@
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * [**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery
 
+### 0. Known Examples:
+
+* **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _Nature_ 2022
+* **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _Nature Chem. Biol._ 2019
+* **Targeting HIV TAR**: Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble, NCB 2011 [https://www.nature.com/articles/nchembio.596](https://www.nature.com/articles/nchembio.596)
+* **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _Nature_ 2015
+
 ### 1. RNA element druggable by ligand
 
 * ✅ **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
@@ -83,7 +90,10 @@
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
 
+### 3. RIBOTAC
 
+* **RIBOTACs** (Ribonuclease Targeting Chimeras): Programming inactive RNA-binding small molecules into bioactive degraders, _Nature_ 2023
+* **PROTAC**: PROTAC targeted protein degraders: the past is prologue, _Nature Reviews Drug Discovery_ 2022
+* **RIBOTAC & PROTAC 介绍**: https://mp.weixin.qq.com/s/zlS33lwnnko1pGOdWq5e6g
 
-
-
+![](../../../.gitbook/assets/EDEA6A20-2913-4A52-9B63-5F231659948B.png)

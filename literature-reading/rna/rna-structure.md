@@ -1,6 +1,6 @@
 # RNA Structure Prediction
 
-> * [**PDFs**](../ai/)****
+> * [**PDFs**](../ai/)
 > * ✅ : Recommended
 
 ## I. RNA Secondary Structure Prediction
@@ -24,14 +24,14 @@
 > * 2017 Science - Protein structure determination using metagenome sequence data&#x20;
 > * ✅ 2021 Nature – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
 
-* ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abe5650) **** - **ARES:** Geometric deep learning of RNA structure
+* ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abe5650) - **ARES:** Geometric deep learning of RNA structure
 * [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.05.15.491755v1) - **DeepFoldRNA**: De Novo RNA Tertiary Structure Prediction at Atomic Resolution using Geometric Potentials from Deep Learning
 * [**2022 arxiv**](https://arxiv.org/abs/2207.01586) - **E2Efold-3D**: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction
-* ****[**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1) - Accurate prediction of nucleic acid and protein-nucleic acid complexes using **RoseTTAFoldNA**
+* [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1) - Accurate prediction of nucleic acid and protein-nucleic acid complexes using **RoseTTAFoldNA**
 
 ## III. Structure Motif Finder
 
-* **Short-distance folding**:  ****  RNAstructure; RNAfold (free energy minimization methods)
+* **Short-distance folding**:  RNAstructure; RNAfold (free energy minimization methods)
 * ✅ **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 * **Motif finder:**
   * **SCFG:** [Rfam/Infernal](https://rfam.xfam.org/);  CMfinder ([2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)_)_; RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
@@ -66,6 +66,6 @@
 
 ### 2. Structure probing data analysis
 
-* ****[**2022 Nature Methods**](https://www.nature.com/articles/s41592-022-01605-0) - RNA secondary structure packages evaluated and improved by high-throughput experiments
+* [**2022 Nature Methods**](https://www.nature.com/articles/s41592-022-01605-0) - RNA secondary structure packages evaluated and improved by high-throughput experiments
 * _**2021 Genome Biology**_ - diffBUM-HMM a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data
 

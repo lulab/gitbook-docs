@@ -1,6 +1,6 @@
 # MultiOmics Analysis
 
-> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)****
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
 > ( ✅ : **recommended reading** )
 
@@ -15,7 +15,7 @@
 ## 2. Research Article
 
 * **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
-* ✅  **2021 **_**Nature**_** ** - Multi-omic machine learning predictor of breast cancer therapy response
+* ✅  **2021 **_**Nature**_ - Multi-omic machine learning predictor of breast cancer therapy response
 * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
 * **2021 **_**Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
 * ✅ _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways

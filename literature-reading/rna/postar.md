@@ -9,7 +9,7 @@ description: POST-trAnscriptional Regulation
 
 **POSTAR: POST-trAnscriptional Regulation (**✅ : Recommended**)**
 
-****[**PDFs**](../ai/)****
+[**PDFs**](../ai/)
 {% endhint %}
 
 ## 1. Translation: Ribo-seq
@@ -42,7 +42,7 @@ description: POST-trAnscriptional Regulation
 
 ### 1.1. RiboShape
 
-* ✅ **2021 **_**Genome Biology**_** ** Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
+* ✅ **2021 **_**Genome Biology**_ Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
 * ✅ **2018** _**Cell**_  **(e. coli, proposed a model)**  Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
 * _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 * **2018** _**Mol. Cell**_ **(e. coli)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation

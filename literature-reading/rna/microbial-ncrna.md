@@ -1,6 +1,6 @@
 # RNA motif in microbiome
 
-> * [**PDFs**](../ai/)****
+> * [**PDFs**](../ai/)
 > * ✅ : Recommended
 
 ## 0. **RNAmotif**
@@ -18,4 +18,4 @@
 * _**2019 Molecular Systems Biology**_ - Unraveling the hidden universe of small proteins in bacterial genomes
 * _**2009 Nature**_ - Metatranscriptomics reveals unique microbial small RNAs in the ocean’s water column. Nature
 
-## ****
+##
