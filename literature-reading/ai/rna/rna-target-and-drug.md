@@ -64,19 +64,17 @@
 
 ### 0. Known Examples
 
-* **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _Nature_ 2022
+* ✅ **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _Nature_ 2022
 * **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _Nature Chem. Biol._ 2019
+* ✅  **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _Nature_ 2015
 * **Targeting HIV TAR**: Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble, NCB 2011 [https://www.nature.com/articles/nchembio.596](https://www.nature.com/articles/nchembio.596)
-* **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _Nature_ 2015
 
 ### 1. RNA element druggable by ligand
 
-* ✅ **2022 Nature** - Targeting Xist with compounds that disrupt RNA structure and X inactivation
-* ✅ **2021-Bioinformatics**-Recognition of small molecule–RNA binding sites using RNA sequence and structure
+* **2021-Bioinformatics**-Recognition of small molecule–RNA binding sites using RNA sequence and structure
 * **2019 Nature Chem. Biol.** - Structural basis of a small molecule targeting RNA for a specific splicing correction
 * **2019 Methods in Enzymology** Volume 623 - Differentiation and classification of RNA motifs using small molecule-based pattern recognition
 * **2018 Nature Chemical Biology** - Small molecules that target group II introns are potent antifungal agents
-* ✅  **2015 Nature** - Selective small-molecule inhibition of an RNA structural element
 
 #### 1.1 Riboswitch
 
