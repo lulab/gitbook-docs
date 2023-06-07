@@ -62,7 +62,7 @@
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * [**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery
 
-### 0. Known Examples:
+### 0. Known Examples
 
 * **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _Nature_ 2022
 * **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _Nature Chem. Biol._ 2019
