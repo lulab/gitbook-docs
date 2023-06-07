@@ -64,10 +64,11 @@
 
 ### 0. Known Examples
 
-* ✅ **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _Nature_ 2022
-* **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _Nature Chem. Biol._ 2019
-* ✅  **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _Nature_ 2015
-* **Targeting HIV TAR**: Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble, NCB 2011 [https://www.nature.com/articles/nchembio.596](https://www.nature.com/articles/nchembio.596)
+* ✅ **Targeting miRNA precursor and mRNA’s UTR:**  Programming inactive RNA-binding small molecules into bioactive degraders, _**Nature**_ 2023
+* ✅ **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _**Nature**_ 2022
+* **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _**Nature Chem. Biol.**_ 2019
+* ✅  **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _**Nature**_ 2015
+* **Targeting HIV TAR**: Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble, [_**Nature Chem. Biol.**_  2011 ](https://www.nature.com/articles/nchembio.596)
 
 ### 1. RNA element druggable by ligand
 
@@ -90,8 +91,8 @@
 
 ### 3. RIBOTAC
 
-* **RIBOTACs** (Ribonuclease Targeting Chimeras): Programming inactive RNA-binding small molecules into bioactive degraders, _Nature_ 2023
-* **PROTAC**: PROTAC targeted protein degraders: the past is prologue, _Nature Reviews Drug Discovery_ 2022
-* **RIBOTAC & PROTAC 介绍**: https://mp.weixin.qq.com/s/zlS33lwnnko1pGOdWq5e6g
+* **RIBOTAC** (Ribonuclease Targeting Chimera) and **PROTAC**:&#x20;
+  * \[review] PROTAC targeted protein degraders: the past is prologue, _Nature Reviews Drug Discovery_ 2022
+  * [**RIBOTAC & PROTAC 介绍**](https://mp.weixin.qq.com/s/zlS33lwnnko1pGOdWq5e6g)
 
 ![](../../../.gitbook/assets/EDEA6A20-2913-4A52-9B63-5F231659948B.png)
