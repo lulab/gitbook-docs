@@ -21,6 +21,8 @@
 * [**2021 Nature Reviews Drug Discovery**](https://www.nature.com/articles/s41573-021-00199-0) - Advances in targeting ‘undruggable’ transcription factors with small molecules
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules
 * ✅ **2018 Nature Reviews Drug Discovery** - Principles for targeting RNA with drug-like small molecules
+* [以RNA为靶标的小分子药物的研究进展](https://zhuanlan.zhihu.com/p/610068685) - 知乎
+* [药物研发的全新领域：靶向RNA，驶向新蓝海](https://mp.weixin.qq.com/s/SApxzr3NFKzH2eBMRK8wdg) - 微信
 
 
 
