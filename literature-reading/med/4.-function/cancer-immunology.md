@@ -43,6 +43,7 @@ description: System and Environment
 
 ## **3. Applications: Immunotherapy**
 
+* [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 * (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
 * ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
