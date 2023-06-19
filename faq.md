@@ -93,15 +93,14 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/%E5%9C%A8-powerpoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E9%9F%B3%E9%A2%91-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html)）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
 * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5)&#x20;
 
-## V) 数据、软件和网络
+## V) 办公硬件和软件
 
-### 我们要经常备份数据吗？
+### 科研办公中的个人硬件如何购买？
 
-* **日常的数据备份是必需的**：[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-backup-your-data-regularly)
-
-### 在实验室如何上网？
-
-目前实验室分校园网（外网：166.156.。。。）及内部网（172.22.220….）（每个座位都有标签标明外网、内网），对于校园网上网原则上使用个人帐号。 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
+* 找管理员先申请后购买（和置换），需要管理员整体协调好之后报PI审批同意。
+* 每年新定导的研究生都会有一个固定金额（咨询管理员）封顶的个人电脑硬件购置费（个人电脑+外围比如显示器、鼠标键盘等）。 一般得等到年底（一般12月份左右）硬件费下来之后再购置。 但是大家如果着急想用新的，也可以每年的618期间自己在京东上先买着（比如可以先买个显示器和鼠标键盘之类的），开好电子发票（发票抬头税号等有严格要求，问一下管理员），等年底经费到了再报销就好。
+* 在新定导的研究生购置新设备时，如果用实验室的旧显示器（比如老生毕业后留下来的），就可以电脑等其他硬件买好一些，总额不变。 不论是置换旧显示器还是旧电脑，优先挑选的顺序都是按照定导实验室的时间，越早越优先。
+* **特别提醒**： 在总额度一定的前提下，推荐大家优先将预算用于购买一些对眼睛和人体功能有益的参数和性能。尤其是笔记本电脑的预算要注意：因为笔记本电脑主要用来办公而不是大规模计算（科研相关的计算都是在实验室的大型机器上远程运算），不推荐追求 CPU、GPU 等参数，我们更是反对购买高性能笔记本电脑后让自己沉迷游戏。
 
 ### 科研办公中的常用软件如何获取和购买？
 
@@ -112,6 +111,16 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 ### **How to automatically receive related literature update every week?**
 
 **see** [**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
+
+## VI) 网络和数据
+
+### 我们要经常备份数据吗？
+
+* **日常的数据备份是必需的**：[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-backup-your-data-regularly)
+
+### 在实验室如何上网？
+
+目前实验室分校园网（外网：166.156.。。。）及内部网（172.22.220….）（每个座位都有标签标明外网、内网），对于校园网上网原则上使用个人帐号。 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
 
 ### How to remove cache of a redirect site?
 
