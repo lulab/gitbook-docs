@@ -12,7 +12,7 @@ description: 实验室指南
 
 * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 * [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) (more @ 腾讯共享文档: _**Lu Lab - All** )_
-* [Lab Introduction PPT](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)  ( [extension](https://cloud.tsinghua.edu.cn/f/089900d1672548648ab7/) )
+* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 * [Lab Meetings](meeting.md) and [Lab Calendar](cal.md)
 * [FAQ](faq.md)
 
