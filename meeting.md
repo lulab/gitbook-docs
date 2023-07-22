@@ -17,9 +17,9 @@
 
 > Result discussion for subgroups
 
-* [**Subgroup Meeting Schedule**](https://app.yinxiang.com/fx/16147d64-7d5f-42d3-b4da-cacea5bf28d8)
-  * Students' Report: \[清华云] Lu Lab Shared/1.Project Progress/
-  * PI's notes: \[腾讯文档] [Lu Lab - All / Projects](https://docs.qq.com/doc/DWUVsUWVNSU1ERWR1)&#x20;
+*   **S**[**ubgroup Meeting Schedule & Project Notes**](https://app.yinxiang.com/fx/b4d6a00a-c294-4f9d-923d-c8be37fde790)
+
+    * PPTs of PI's notes and Students' Reports: \[清华云] Lu Lab Shared/1.Project Progress/
 
 
 
