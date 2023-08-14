@@ -30,7 +30,7 @@
 
 ### 2.1 scRNA+scATAC
 
-* _**2023 Nature Genetics**_ - Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases.&#x20;
+* [_**2023 Nature Genetics**_](https://www.nature.com/articles/s41588-023-01445-4) - Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases.&#x20;
 * _**2021 Nature Genetics**_ - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease.&#x20;
 
 ## 3. Database
