@@ -20,9 +20,12 @@
 * ✅  [_**2023 Nature Genetics**_](https://www.nature.com/articles/s41588-023-01445-4) - Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases.&#x20;
 * [_**2022 Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/36318921/)- Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution
 * _**2021 Nature Genetics**_ - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease.&#x20;
+
+### 2.2 scRNA+scDNAmet
+
 * ✅ _**2018 Science**_ - Single-cell multiomics sequencing and analyses of human colorectal cancer
 
-### 2.2 bulk-seq
+### 2.3 bulk-seq
 
 * **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
 * ✅  **2021 **_**Nature**_ - Multi-omic machine learning predictor of breast cancer therapy response
