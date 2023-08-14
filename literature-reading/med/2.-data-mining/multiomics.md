@@ -28,6 +28,11 @@
 * _**2015 Nature**_ - Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease
 * _**2014 NMETH**_ - Annotation of loci from genome-wide association studies using tissue-specific quantitative interaction proteomics&#x20;
 
+### 2.1 scRNA+scATAC
+
+* _**2023 Nature Genetics**_ - Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases.&#x20;
+* _**2021 Nature Genetics**_ - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease.&#x20;
+
 ## 3. Database
 
 * _**2021 Briefings in Bioinfo.**_ - DevOmics: an integrated multi-omics database of human and mouse early embryo
