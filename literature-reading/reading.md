@@ -1,17 +1,17 @@
 # Tips for paper reading
 
-* ****[**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)****
+* [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/)
   * [Startup Reading](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)
   * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications\&mode=list)
   * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/) ([**Recommended Reading List**](https://docs.qq.com/sheet/DWUtvbXdJdE5oWXpH))
 * **PPTs**
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)
-  * [Experience Sharing](https://cloud.tsinghua.edu.cn/d/b60933af2557448594be/)
+  * [Experience Sharing ](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/)
 
 ## **Recommended Reading organized by PI**
 
 * [Precision Medicine](med/)
-* [Machine Leaning & AI](ai/)
+* [Machine Learning & AI](ai/)
 
 ## Tips for Literature Search
 
