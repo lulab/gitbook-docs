@@ -12,7 +12,7 @@ description: 实验室指南
 
 * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 * [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) (more @ 腾讯共享文档: _**Lu Lab - All** )_
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
+* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md) and [Lab Calendar](cal.md)
 * [FAQ](faq.md)
 
@@ -25,7 +25,7 @@ description: 实验室指南
   * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/6. Experience Sharing_)_
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
-* [PPT Templates](https://cloud.tsinghua.edu.cn/d/9494905887fe45dca6ea/)
+* [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
 ![](.gitbook/assets/learning.jpg)
 
