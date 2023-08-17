@@ -54,6 +54,7 @@ description: System and Environment
 * [**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
+* ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
 ## 4. Neoantigen
 
