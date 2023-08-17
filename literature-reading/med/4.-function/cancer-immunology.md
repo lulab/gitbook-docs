@@ -41,20 +41,25 @@ description: System and Environment
 * _**2016 - Nature Genetics**_ - Landscape of tumor-infiltrating T cell repertoire of human cancers
 * _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
 
-## **3. Applications: Immunotherapy**
+## **3. Applications**&#x20;
+
+### **Immune Diseases**
 
 * [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
-* (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
-* ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
-* (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
 * ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
 * ✅ [**2021 **_**Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
 * [**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
+* ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
+
+### **Cancer Immunotherapy**
+
+* (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
+* ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+* (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
 * **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
-* ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
 ## 4. Neoantigen
 
