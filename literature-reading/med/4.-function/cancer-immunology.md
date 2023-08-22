@@ -47,6 +47,7 @@ description: System and Environment
 
 * [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
+* [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
 * ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation
 * ✅ [**2021 **_**Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
