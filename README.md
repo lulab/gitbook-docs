@@ -57,7 +57,7 @@ description: 实验室指南
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
 * [Paper](https://www.ncrnalab.org/publications/)
-  * 历届毕业论文: 清华云盘 - Lu Lab Shared/4.Thesis
+  * 历届毕业论文: 清华云盘 - Lu Lab Shared/3.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
     * [Tips for manuscript writing](paper-writing/writing.md)
 

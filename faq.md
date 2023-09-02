@@ -33,7 +33,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 **基本原则**： 导师、同学、同事之间的面谈、讨论和会议等结构化并有提前预约的好习惯 (以下约定导师和学生彼此双向适用）
 
 * **Group Meeting:** sharing and pratice talk
-* **/Subgroup Meeting**: project results' report & discussion
+* **Subgroup Meeting**: project results' report & discussion
 * **WECHAT** (**urgent**: need answer **within 24 hours or less**)
 * **EMAIL** (not urgent, need answer in a day or more)
 
@@ -73,7 +73,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 > 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括PI的）一些好的background slides，这样可以不断优化和积累background的slides。
 >
-> 清华云上还提供了一些正式的presentation的模板：0.PPT and Poster Templates; 3a.PPT - Project Presentation/优秀答辩ppt。
+> 清华云上还提供了一些正式的presentation的模板：4.Sharing - PPT and Poster Templates; 3.Thesis/优秀答辩ppt。
 
 ## III) 生活和财务
 
