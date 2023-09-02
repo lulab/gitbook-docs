@@ -22,7 +22,7 @@ description: 实验室指南
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
-  * **\[Advanced]** [Training Book of Lu Lab ](https://lulab1.gitbook.io/training/)<- organized from lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/6. Experience Sharing_)_
+  * **\[Advanced]** Lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/Experience Sharing_)_
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
@@ -38,13 +38,12 @@ description: 实验室指南
 
 ### 📊Drylab
 
-* **Hardware** (Facilities and Servers) Instructions @_腾讯文档(private)/Lu Lab - All/intranet_
-* **Software** (notes and code)shared by lab members @_腾讯文档(private)/Lu Lab - All/intranet_
+* **Hardware/Software** (Facilities and Servers) Instructions @_腾讯文档(private)/Lu Lab - All/intranet_
 * **MetaData** @_腾讯文档(private)/Lu Lab - Metadata_
 
 ### 🧪Wetlab
 
-* **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - Wetlab_
+* **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - All/Wetlab;_ @_腾讯文档(private)/Lu Lab - Wetlab_
 
 ![](.gitbook/assets/science.gif)
 
