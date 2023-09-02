@@ -11,7 +11,7 @@ description: 实验室指南
 > “_The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
 * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
-* [Lab Manual ](https://docs.qq.com/doc/DWWJzd3l0cllOYkR3) (more @ 腾讯共享文档: _**Lu Lab - All** )_
+* [Lab Manual ](https://cloud.tsinghua.edu.cn/f/de47757731fe498da215/) (more @ 腾讯共享文档: _**Lu Lab - All** )_
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md) and [Lab Calendar](cal.md)
 * [FAQ](faq.md)
