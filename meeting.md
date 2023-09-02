@@ -9,13 +9,14 @@
 > Weekly meeting for all
 
 * [**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d)&#x20;
-  * Research Presentation （\[清华云] Lu Lab Shared/3a.PPT - Project Presentation/)
-  * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)  |  [Experience Sharing ](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/)
-  * [5min Paper](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)&#x20;
+  * Formal Presentation (Practice Talk)（\[清华云] Lu Lab Shared/3a.PPT - Project Presentation/)
+  * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)&#x20;
+  * [Experience Sharing ](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/)
+  * [5min Paper Reading Sharing](https://cloud.tsinghua.edu.cn/d/9d49a35091bc41baa830/)&#x20;
 
 ## Subgroup Meetings
 
-> Result discussion for subgroups
+> Project discussion for subgroups
 
 *   [**Subgroup Meeting Schedule & Project Notes**](https://app.yinxiang.com/fx/b4d6a00a-c294-4f9d-923d-c8be37fde790)
 
