@@ -32,10 +32,10 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 **基本原则**： 导师、同学、同事之间的面谈、讨论和会议等结构化并有提前预约的好习惯 (以下约定导师和学生彼此双向适用）
 
-* **Routine Talk & Meeting**&#x20;
-  * **Group/Subgroup Meeting**: project result report & discussion
-  * **WECHAT** (**if emergency**: need answer within 24 hours or less)
-  * **EMAIL** (not urgent, need answer in a day or more)
+* **Group Meeting:** sharing and pratice talk
+* **/Subgroup Meeting**: project results' report & discussion
+* **WECHAT** (**urgent**: need answer **within 24 hours or less**)
+* **EMAIL** (not urgent, need answer in a day or more)
 
 > **“为什么国外把邮件(email)当微信一样发？**
 >
