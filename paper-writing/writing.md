@@ -3,6 +3,8 @@
 > [Example Manuscripts](https://cloud.tsinghua.edu.cn/d/d2c5d0670b7143deb2d4/)
 >
 > [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FENDNOTE\&mode=list)
+>
+> [Publication Tips](https://www.yinxiang.com/everhub/note/81f68b0f-80ca-463c-a96b-65765c90bde9) (Cover Letter, Status Enquiry Letter, etc)
 
 ## I. Format
 
