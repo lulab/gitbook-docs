@@ -36,8 +36,18 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
   * **Group/Subgroup Meeting**: project result report & discussion
   * **WECHAT** (**if emergency**: need answer within 24 hours or less)
   * **EMAIL** (not urgent, need answer in a day or more)
-* **Casual Chat**: (MON-FRI 4-6pm), PI would _answer questions/solve problems_ during this time period; **no need to report anything**.
-* **Sunday**: SILENT except for emergency&#x20;
+
+> **“为什么国外把邮件(email)当微信一样发？**
+>
+> 邮件(email)办公最大的好处，是不会期待对方“秒回”，所以收件方有足够的时间去整理信息，有更多的弹性时间，即便周末收到也可以等到周一上班再回。 而且因为邮件“非即时性”的特点，发起邮件对话的一方（通常是老板、或者甲方）会对自己编写的信息更认真，会想清楚自己到底要布置什么任务才会发送， 不会像微信这种“即时性”软件一样，很多是突然兴起 。。。
+>
+> 所以，客观上邮件(email)是不方便的，但就是这种不方便反而利于劳动者， 这是对劳动者私人空间的尊重， 是对上/下班界限的明晰。”
+>
+> 李小粥@知乎
+
+
+
+
 
 ## II) 实验室规范
 
