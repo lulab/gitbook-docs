@@ -18,9 +18,30 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 >
 > 做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。
 
-* **科研生涯的四戒律** 1. 边干边学，不要彷徨。 2. 勇于创新，敢于挑战。 3. 忍受寂寞，注重过程。 4. 掌握历史，树立信心。
-* **十准则** 1. Craft good questions 2. Ask for help 3. Respect and appreciate your lab mates 4. Have at least two projects 5. Sleep on it 6. If you need guidance from your mentor, set up a meeting 7. Learn when to be obsessive 8. Start with the task you are least excited about, and do it right away 9. Balance bouts of focused work with short breaks 10. Get organized
-* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v\_show/id\_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)） 1. 要无条件自信，即使在做错的时候； 2. 不要想太多，定时清除消极思想； 3. 学会忘记痛苦，为阳光记忆腾出空间； 4. 敢于尝试，不怕丢脸； 5. 每天都是新的，烦恼痛苦不过夜； 6. 面对别人的优秀，发自内心赞美； 7. 做人最高境界不是一味低调，也不是一味张扬，而是始终如一的不卑不亢
+* **科研生涯的四戒律**&#x20;
+  * 1\. 边干边学，不要彷徨；&#x20;
+  * 2\. 勇于创新，敢于挑战；&#x20;
+  * 3\. 忍受寂寞，注重过程；&#x20;
+  * 4\. 掌握历史，树立信心。
+* **十准则**&#x20;
+  * 1\. Craft good questions&#x20;
+  * 2\. Ask for help&#x20;
+  * 3\. Respect and appreciate your lab mates&#x20;
+  * 4\. Have at least two projects&#x20;
+  * 5\. Sleep on it&#x20;
+  * 6\. If you need guidance from your mentor, set up a meeting&#x20;
+  * 7\. Learn when to be obsessive&#x20;
+  * 8\. Start with the task you are least excited about, and do it right away&#x20;
+  * 9\. Balance bouts of focused work with short breaks&#x20;
+  * 10\. Get organized
+* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v\_show/id\_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)）&#x20;
+  * 1\. 要无条件自信，即使在做错的时候；&#x20;
+  * 2\. 不要想太多，定时清除消极思想；&#x20;
+  * 3\. 学会忘记痛苦，为阳光记忆腾出空间；&#x20;
+  * 4\. 敢于尝试，不怕丢脸；&#x20;
+  * 5\. 每天都是新的，烦恼痛苦不过夜；&#x20;
+  * 6\. 面对别人的优秀，发自内心赞美；&#x20;
+  * 7\. 做人最高境界不是一味低调，也不是一味张扬，而是始终如一的不卑不亢
 * See More
   * [科研生涯的四戒律和十准则](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
   * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
