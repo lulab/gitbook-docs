@@ -51,10 +51,10 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
-**基本原则**： 导师、同学、同事之间的面谈、讨论和会议等结构化并有提前预约的好习惯 (以下约定导师和学生彼此双向适用）
+**基本原则**： 导师对学生的时间应当尊重，不应当随性就微信索要实验结果或者分析结果；同样的，学生也应当尊重导师和其他同事的时间，有事情要讨论尽量提前预约。因此，除非紧急的事情，email 交流工作会给彼此更多的空间和时间，大家的课题讨论和会议等交流方式也应当结构化。
 
-* **Group Meeting:** sharing and pratice talk
-* **Subgroup Meeting**: project results' report & discussion
+* **Group Meeting:** sharing and talk practicing
+* **Subgroup Meeting**: research results' report & discussion
 * **WECHAT** (**urgent**: need answer **within 24 hours or less**)
 * **EMAIL** (not urgent, need answer in a day or more)
 
