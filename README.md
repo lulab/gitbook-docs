@@ -20,6 +20,17 @@ description: 实验室指南
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
+> **预修课程准备:**
+>
+> * 基本数学课程： 如《微积分》和《线性代数》&#x20;
+> * 基本统计课程： 如《概率论》或《生物统计》&#x20;
+> * 基本计算机课程：如《Linux》、《R》、《Python》等
+> * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》 &#x20;
+> * 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（春季学期）或《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（秋季学期）
+> * 机器学习课程：如《机器学习》或《深度学习》
+
+
+
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
   * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
   * **\[Advanced]** Lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/Experience Sharing_)_
