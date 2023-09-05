@@ -18,7 +18,7 @@
 
 > Project discussion for subgroups
 
-*   [**Subgroup Meeting Schedule & Project Notes**](https://app.yinxiang.com/fx/b4d6a00a-c294-4f9d-923d-c8be37fde790)
+*   [**Subgroup Meeting Schedule & Project Notes**](https://www.ncrnalab.org/projects/notes)
 
     * PPTs of PI's notes and Students' Reports: \[清华云] Lu Lab Shared/Project Progress/
 
