@@ -2,7 +2,7 @@
 
 ## I) 科研方式
 
-### 正式参与生物信息科研课题之前该做哪些准备？
+### 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
 \
 我们准备了一些可以参考和自学的材料，希望对大家有所帮助，为之后做科研实习甚至读博打好基础。
@@ -53,7 +53,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 ![学习金字塔](.gitbook/assets/learning.jpg)
 
-### 如何成为一个好的研究生和科研工作者？
+### 如何成为一个好的研究生和科研工作者？ <a href="#sci" id="sci"></a>
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
@@ -88,7 +88,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
   * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
-### 导师、同学、同事之间如何交流科研课题的进展？
+### 导师、同学、同事之间如何交流科研课题的进展？ <a href="#email" id="email"></a>
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
@@ -139,7 +139,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 ## III) 生活和财务
 
-### 校园内有哪些餐厅可以用支付宝和微信支付？
+### 校园内有哪些餐厅可以用支付宝和微信支付？ <a href="#eat" id="eat"></a>
 
 **餐厅**、**清青系列**可使用微信、支付宝结算：
 
