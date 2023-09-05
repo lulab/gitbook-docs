@@ -2,6 +2,47 @@
 
 ## I) 科研方式
 
+### 正式参与生物信息科研课题之前该做哪些准备？
+
+\
+我们准备了一些可以参考和自学的材料，希望对大家有所帮助，为之后做科研实习甚至读博打好基础。
+
+> 尤其是想做纯drylab课题的同学，建议完成下面的几件事之后再开始正式的科研实习课题。
+
+\
+**0. 预修课程准备**
+
+* 基本数学课程： 如《微积分》和《线性代数》
+* 基本统计课程： 如《概率论》或《生物统计》
+* 基本计算机课程：如《Linux》、《R》、《Python》等
+* 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》
+* 机器学习课程：如《机器学习》或《深度学习》
+* 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期），《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（研究生课-秋季学期）
+
+**(1) 完成该链接下的2个性格和能力测试题并email 给我一下结果：**\
+[https://cloud.tsinghua.edu.cn/d/cf493b8da3ac409ba2ee/](https://cloud.tsinghua.edu.cn/d/cf493b8da3ac409ba2ee/)\
+\
+**(2) 文献阅读**\
+通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)\
+此外，更多的文献我整理放在了：[Tips for paper reading](literature-reading/reading.md)\
+\
+**(3) Document your work** &#x20;
+
+建议学会使用github和markdown语言，可以自己注册一个github账号，通过google等工具自己学习利用markdown语言，甚至可以利用github page构建一个自己的网页。\
+关于github和markdown，我们有一个简单的介绍：[Getting Started - Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/getting-started)\
+\
+**(4) 生物信息学的基本技能的学习**
+
+具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。
+
+该教材主要用于我给大家开的《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期）和《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（研究生课-秋季学期），这两门课内容很相似，选修一门即可。
+
+* 注意熟悉三个计算机技能：Linux, R, Python &#x20;
+* 有余力的话，还可以提前学习上述教材的PART I, II和III（不着急的话可以等入学后选修这门课）
+* 还可以根据自己的基础学习教材里面推荐的一些其他参考内容（[Appendix I. Keep Learning - Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/appendix/appendix1.keep-learning)）
+
+
+
 ### 如何学习新知识和新技能？
 
 {% hint style="success" %}
@@ -47,7 +88,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
   * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
-### 导师、同学、同事之间的交流方式
+### 导师、同学、同事之间如何交流科研课题的进展？
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
