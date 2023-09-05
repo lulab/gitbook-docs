@@ -28,6 +28,8 @@ description: 实验室指南
 > * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》 &#x20;
 > * 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（春季学期）或《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（秋季学期）
 > * 机器学习课程：如《机器学习》或《深度学习》
+>
+> 更多见： [FAQ](faq.md) - _正式参与生物信息科研课题之前该做哪些准备？_
 
 
 
