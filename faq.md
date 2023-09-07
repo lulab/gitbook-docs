@@ -2,6 +2,12 @@
 
 ## I) 科研方式
 
+### 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
+
+1. <mark style="color:orange;">多用 email 少用微信</mark> （see [detail](faq.md#email))
+2. <mark style="color:orange;">请假要提前</mark> (see [detail](faq.md#you-shi-mei-fa-lai-shi-yan-shi-xu-yao-ti-qian-duo-jiu-qing-jia))
+3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [Get a Coach](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)  (see [detail](faq.md#sci) )
+
 ### 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
 \
@@ -43,7 +49,7 @@
 
 
 
-### 如何学习新知识和新技能？
+### 如何学习新知识和新技能？ <a href="#coach" id="coach"></a>
 
 {% hint style="success" %}
 Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
@@ -57,7 +63,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
-> 做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。
+> **做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。**
 
 * **科研生涯的四戒律**&#x20;
   * 1\. 边干边学，不要彷徨；&#x20;
@@ -119,7 +125,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
 
-### 有事没法来实验室需要提前多久请假？
+### 有事没法来实验室需要提前多久请假？ <a href="#vacation" id="vacation"></a>
 
 * 如非事出突然/特殊因由，请**提前一周**发email给PI（抄送实验室管理员）请假；
 * 寒暑假、国庆长假等**提前半个月到1个月**安排好工作交接和假日值班；
