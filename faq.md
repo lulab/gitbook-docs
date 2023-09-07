@@ -16,7 +16,9 @@
 4. <mark style="color:orange;">带上纸和笔</mark>
 5. [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)
 
-{% embed url="https://www.bilibili.com/video/BV1oW4y1i7qf/" %}
+![Think Different](.gitbook/assets/image.png)
+
+
 
 ### 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
