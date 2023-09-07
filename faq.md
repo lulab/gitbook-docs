@@ -6,9 +6,11 @@
 
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
-3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [_Want to Get Great at Something - Get a Coach_](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)     (see [detail](faq.md#sci) )
+3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
+4. <mark style="color:orange;">带上纸和笔</mark>
+5. [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)
 
-{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
+{% embed url="https://www.bilibili.com/video/BV1oW4y1i7qf/" %}
 
 ### 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
@@ -56,6 +58,8 @@
 {% hint style="success" %}
 Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
 {% endhint %}
+
+{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
 
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
