@@ -6,7 +6,7 @@
 
 1. <mark style="color:orange;">多用 email 少用微信</mark> （see [detail](faq.md#email))
 2. <mark style="color:orange;">请假要提前</mark> (see [detail](faq.md#vacation))
-3. <mark style="color:orange;">"研究“ > "学习“</mark> - [ Get a Coach](faq.md#coach)  (see [detail](faq.md#sci) )
+3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [_Want to Get Great at Something - Get a Coach_](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)  (see [detail](faq.md#sci) )
 
 {% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
 
