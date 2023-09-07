@@ -4,6 +4,12 @@
 
 ### 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
+> "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
+>
+> “_The carving and chipping away to create a masterpiece **take years of dedication**._&#x20;
+>
+> _Teachers help students discover their interests, passions, and ultimately themselves._”
+
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
 3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
