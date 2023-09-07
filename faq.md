@@ -55,6 +55,8 @@
 Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
 {% endhint %}
 
+{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
+
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
 ![学习金字塔](.gitbook/assets/learning.jpg)
@@ -63,7 +65,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
-> **做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。**
+> **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
 
 * **科研生涯的四戒律**&#x20;
   * 1\. 边干边学，不要彷徨；&#x20;
