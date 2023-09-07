@@ -5,8 +5,8 @@
 ### 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
 1. <mark style="color:orange;">多用 email 少用微信</mark> （see [detail](faq.md#email))
-2. <mark style="color:orange;">请假要提前</mark> (see [detail](faq.md#you-shi-mei-fa-lai-shi-yan-shi-xu-yao-ti-qian-duo-jiu-qing-jia))
-3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [Get a Coach](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach)  (see [detail](faq.md#sci) )
+2. <mark style="color:orange;">请假要提前</mark> (see [detail](faq.md#vacation))
+3. <mark style="color:orange;">"研究“ > "学习“</mark> - [ Get a Coach](faq.md#coach)  (see [detail](faq.md#sci) )
 
 ### 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
