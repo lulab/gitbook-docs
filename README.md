@@ -8,11 +8,11 @@ description: 实验室指南
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
+> “_I cannot teach anybody anything; I can only make them think._" - Socrates
+>
 > “_The mediocre teacher tells. The good teacher explains._&#x20;
 >
 > _The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
->
-> “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
 * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
@@ -74,7 +74,7 @@ description: 实验室指南
 >
 > “_The carving and chipping away to create a masterpiece **take years of dedication**._&#x20;
 >
-> _Teachers help students discover their interests, passions, and ultimately themselves._”
+> _Teachers help students **discover their interests, passions, and ultimately themselves**._”
 
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)

@@ -8,7 +8,7 @@
 >
 > “_The carving and chipping away to create a masterpiece **take years of dedication**._&#x20;
 >
-> _Teachers help students discover their interests, passions, and ultimately themselves._”
+> _Teachers help students **discover their interests, passions, and ultimately themselves**._”
 
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
