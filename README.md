@@ -48,7 +48,9 @@ description: 实验室指南
 
 ## II. Research in Lu Lab
 
-> “天道酬勤  勤而善悟 ”   --《周易》
+> “天道酬勤“   -《周易》
+>
+> ”勤而善悟 ”  &#x20;
 >
 > _"Study while others are sleeping;  work while others are loafing;_
 >
