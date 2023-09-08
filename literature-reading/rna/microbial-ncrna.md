@@ -12,6 +12,7 @@
 
 ## I. Noncoding RNA identification in microbiome
 
+* ✅[ **2023 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
 * ✅ _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
 * ✅ _**2019 Cell**_ - Large-Scale Analyses of Human Microbiomes Reveal Thousands of Small, Novel Genes
 * ✅ **2017 **_**Science**_ - Protein structure determination using metagenome sequence data
