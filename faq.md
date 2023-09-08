@@ -12,8 +12,8 @@
 
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
-3. <mark style="color:orange;">"研究“ > "学习“</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
-4. <mark style="color:orange;">带上纸和笔</mark>
+3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
+4. <mark style="color:orange;">带上“纸”和“笔”</mark>
 5. <mark style="color:orange;">Stay Hungry</mark> & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)
 
 ![Think Different](.gitbook/assets/image.png)
