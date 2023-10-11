@@ -17,6 +17,10 @@
   * _You can read the SCFG section in the book_ _above (_《Biological Sequence Analysis》_)._&#x20;
 * **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
+## I+. RNA Vaccine Design
+
+* ✅ LinearDesign: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
+
 ## II. RNA Tertiary Structure Prediction
 
 > Learn from Protein structure prediction:
