@@ -26,7 +26,7 @@
 
 
 
-## I. RNA-oligo
+## I-A. RNA-oligo
 
 * _**2018 BMC Genomics**_, SiRNA silencing efficacy prediction based on a deep architecture&#x20;
 * ✅ \[off-target] _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
@@ -42,6 +42,12 @@
 * ✅ _**2018 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
 * ✅ \[off-target] _**2016 Nature Biotech.**_ -Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
 * [more sgRNA papers](https://portals.broadinstitute.org/gppx/crispick/public/faq)&#x20;
+
+## I-B. RNA-RNA
+
+* [_**2017 Bioinformatics**_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408919/) - A comprehensive benchmark of RNA–RNA interaction prediction tools for all domains of life
+* [**2022 **_**Symmetry**_ ](https://www.mdpi.com/2073-8994/14/7/1302)- Recent Deep Learning Methodology Development for RNA–RNA Interaction Prediction
+* \[book] [**2023 **_**RNA Structure Prediction**_](https://link.springer.com/protocol/10.1007/978-1-0716-2768-6\_11) - Web Services for RNA-RNA Interaction Prediction
 
 ## II. RNA-Protein
 
