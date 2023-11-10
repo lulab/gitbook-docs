@@ -4,6 +4,8 @@
 
 ### 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
+**培养好的习惯应该重于追求成果的大小**，好的习惯包括： 自强不息止于至善（有上进心不懒散）、对他人的尊重和善意、勤于阅读并独立思考、作息规律且有效率、经常锻炼身体 ……&#x20;
+
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
 > “_The carving and chipping away to create a masterpiece **take years of dedication**._&#x20;
