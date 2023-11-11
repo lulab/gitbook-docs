@@ -25,6 +25,7 @@
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
 3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>
+5. [_**A grad school survival guide**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
 
 ![Think Different](.gitbook/assets/image.png)
 
