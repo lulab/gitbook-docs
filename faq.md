@@ -9,7 +9,7 @@
 * 自强不息（有上进心不懒散，止于至善）
 * 厚德载物（对他人的尊重和善意）
 * 作息规律且有效率
-* 勤于阅读、勤于思考
+* 勤于阅读、勤于思考 （<mark style="color:orange;">Stay Hungry</mark> & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
 * 经常锻炼身体&#x20;
 * … …&#x20;
 
@@ -25,7 +25,6 @@
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
 3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>
-5. <mark style="color:orange;">Stay Hungry</mark> & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)
 
 ![Think Different](.gitbook/assets/image.png)
 
