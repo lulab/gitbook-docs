@@ -49,6 +49,14 @@
 * [**2022 **_**Symmetry**_ ](https://www.mdpi.com/2073-8994/14/7/1302)- Recent Deep Learning Methodology Development for RNA–RNA Interaction Prediction
 * \[book] [**2023 **_**RNA Structure Prediction**_](https://link.springer.com/protocol/10.1007/978-1-0716-2768-6\_11) - Web Services for RNA-RNA Interaction Prediction
 
+## I-C. RNA-RNA seq
+
+* ✅ **\[review]** [_**2022 Current Opinion in Genetics & Development**_](https://doi.org/10.1016/j.gde.2021.11.007) - Architecture of RNA–RNA interactions
+* ✅  **2020 **_**Nature**_ - RIC-seq for global in situ profiling of RNA–RNA spatial interactions.&#x20;
+* **2023 Nature** - Complementary Alu sequences mediate enhancer–promoter selectivity
+
+
+
 ## II. RNA-Protein
 
 #### **Reviews**
