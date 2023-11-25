@@ -46,17 +46,17 @@
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
 * **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
-  * **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
+  * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
-  * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+  * ✅ **\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
   * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
-  * **✨Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
+  * **Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
   * **Fragmentome (DELFI):** [_**2022 Cancer Discovery**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Detecting liver cancer using cell-free DNA fragmentomes
   * **Fragmentome (DELFI): 2021 Nature Commn.** - Detection and characterization of lung cancer using cell-free DNA fragmentomes
-  * **✨Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+  * ✅ **Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
   * ✅ \[Grail, cfDNA vs. cfDNAmet] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
   * \[Grail, Targeted BS] _**2022 ESMO congress**_ - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
@@ -75,7 +75,7 @@
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
 * **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
   * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
-  * **✨** \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+  * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
 
 
