@@ -46,6 +46,7 @@
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
 * **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
+  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
