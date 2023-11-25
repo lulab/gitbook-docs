@@ -18,6 +18,7 @@
 * [Precision Medicine](literature-reading/med/README.md)
   * [Overview of liquid biopsy](literature-reading/med/liquid-biopsy.md)
   * [1. Tech. Dev.](literature-reading/med/1.-tech.-dev./README.md)
+    * [single cell sequencing](literature-reading/med/1.-tech.-dev./single-cell-sequencing.md)
     * [cfRNA-seq Tech.](literature-reading/med/1.-tech.-dev./exrna-seq-tech.md)
     * [cfDNA-seq Tech.](literature-reading/med/1.-tech.-dev./cfdna-seq-tech..md)
   * [2. Data Mining](literature-reading/med/2.-data-mining/README.md)
