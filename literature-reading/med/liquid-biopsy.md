@@ -45,7 +45,8 @@
 
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-* **Multianalyte**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
+* **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
+  * **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * **✨\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
@@ -62,6 +63,8 @@
   * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
   * \[Grail, Targeted BS] _**2020 Annals of Oncology**_** -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **cfDNAmet and histone modification**
+  * [**2023 Nature Medicine** ](https://www.nature.com/articles/s41591-023-02605-z)**-** Liquid biopsy epigenomic profiling for cancer subtyping
 * **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
   * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
