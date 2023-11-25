@@ -44,14 +44,18 @@ Our group is interested in developing **bioinformatics** technologies and practi
 
 **规律而有效的作息时间建议：**
 
+{% hint style="success" %}
 * 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7-9:30pm (2.5) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
 * 或者 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+{% endhint %}
 
 **效率对比：**
 
 同样是早上“9点多”来，晚上“快10点”走，如果稍微放松懒散一点，一周下来就<mark style="color:orange;">**很容易**</mark>会变成：
 
-* 9:50-11:20am (1.5) + 2-5:30pm(3.5) + 7:30-9:30pm (2) = 7  X 5 天 +  5  X  1 天 (SAT) = <mark style="color:orange;">**\~40小时**</mark>
+{% hint style="danger" %}
+* 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<mark style="color:orange;">**\~40小时**</mark>
+{% endhint %}
 
 > **注：**以上为每天的平均时间，实际执行时周一到周五多一点、周六少一点，更符合常情也更容易做到。每天和每周的工作时间和方式，要因人而异，适合自己才是最重要的。同时，工作效率要比绝对时间更为重要。
 
