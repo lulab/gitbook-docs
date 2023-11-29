@@ -30,7 +30,7 @@
     * [ncRNA](literature-reading/med/4.-function/ncrna.md)
     * [Immunotherapy](literature-reading/med/4.-function/cancer-immunology.md)
     * [Cancer Microbiome](literature-reading/med/4.-function/cancer-microbiome.md)
-  * [5.Genetics](literature-reading/med/5.genetics.md)
+  * [5. Genetics & Epi-Genetics](literature-reading/med/5.-genetics-and-epi-genetics.md)
 * [Machine learning & AI](literature-reading/ai/README.md)
   * [Machine Learning for Omics](literature-reading/ai/deep-learning-for-omics/README.md)
     * [1. Data Cleaning](literature-reading/ai/deep-learning-for-omics/1.-data-cleaning.md)
