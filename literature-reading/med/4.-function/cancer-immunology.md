@@ -56,8 +56,6 @@ description: System and Environment
 
 ### **Immune Diseases**
 
-* **\[review] 2023 Nature Reviews Nephrology -** Genetics of SLE mechanistic insights from monogenic disease and disease-associated variants
-* **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity
 * **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
 * **\[review] 2022 Nature Reviews Rheumatology** - The role of mitochondria in rheumatic diseases
 * **2022 Nature Leukemia** - Single-cell ATAC-seq maps the comprehensive and dynamic chromatin accessibility landscape of CAR-T cell dysfunction
