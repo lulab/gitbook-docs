@@ -74,6 +74,7 @@
 
 ## III. RNA-ligand
 
+* **2023 Nature Machine Intell.** - Interpretable bilinear attention network with domain adaptation improves drug–target prediction
 * [**2022 Nature Biotech.**](https://doi.org/10.1038/s41587-022-01307-0) - Prediction of protein–ligand binding affinity from sequencing data with interpretable machine learning
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
 * [**2020 Cell**](https://www.sciencedirect.com/science/article/pii/S0092867420301021#!) - A Deep Learning Approach to Antibiotic Discovery

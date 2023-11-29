@@ -17,7 +17,10 @@
 >   * _You can read the SCFG section in the book_ _above (_《Biological Sequence Analysis》_)._&#x20;
 > * **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
+
+
 * ✅ \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
+* \[review] **2022 PNAS** - Thoughts on how to think (and talk) about RNA structure
 
 
 
