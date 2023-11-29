@@ -101,9 +101,11 @@
 
 ### 2. RNA-ligand interaction
 
+* **2023 Nature Machine Intell. -** Large-scale chemical language representations capture molecular structure and properties
 * **2023 Nature Communications** - Sequence-based drug design as a concept in computational drug design
 * **2023 BIB** - Structural interaction fingerprints and machine learning for predicting and explaining binding of small molecule ligands to RNA
 * [**2022 BIB**](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac486/6832814?redirectedFrom=fulltext) - RLBind: a deep learning method to predict RNA–ligand binding sites
+* **2021 Bioinformatics** - Recognition of small molecule–RNA binding sites using RNA sequence and structure
 * ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 * ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions

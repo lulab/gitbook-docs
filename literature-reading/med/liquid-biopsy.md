@@ -53,6 +53,8 @@
   * ✅ **\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
   * **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
+  * **2023 STM** - Genome-wide analysis of aberrant position and sequence of plasma DNA fragment ends in patients with cancer
+  * **2022 Cancer Discovery** - Nucleosome patterns in circulating tumor DNA reveal transcriptional regulation of advanced prostate cancer phenotypes
   * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * **Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
@@ -110,6 +112,7 @@
 ### Cancer
 
 * **Long**
+  * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
   * _**2022 NPJ precision oncology**_ - Plasma cell-free RNA proﬁling distinguishes cancers from premalignant conditions in solid and hematologic malignancies
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
   * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection

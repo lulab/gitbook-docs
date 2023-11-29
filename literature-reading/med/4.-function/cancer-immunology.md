@@ -21,17 +21,23 @@ description: System and Environment
 
 ### 1.1 ncRNA and immune
 
+* \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
+* \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 * ✅  \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
+* **2012 Nature Reviews Rheumatology** - MicroRNAs—novel regulators of systemic lupus erythematosus pathogenesis
 
 ### 1.2 RNA editing and immune
 
 * ✅  [**2022 Nature**](https://www.nature.com/articles/s41586-022-05052-x) - RNA editing underlies genetic risk of common inflammatory diseases
 * [**2022 Cancer Res.**](https://doi.org/10.1158/0008-5472.can-22-1062) - Single-cell analysis in lung adenocarcinoma implicates RNA editing in cancer innate immunity and patient prognosis
+* **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
 * [**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
 
 ### 1.3 RNA modification and immune
 
+* **2022 Nature Methods** - Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution
+* **\[review] 2023 Trends in Immunology** - ‘(m 6 )A’ stands for ‘autoimmunity’: reading, writing, and erasing RNA modiﬁcations during inﬂammation
 * ✅ [**2020 Immunity**](https://www.sciencedirect.com/science/article/pii/S1074761320301849)  - m6A Modification Prevents Formation of Endogenous Double-Stranded RNAs and Deleterious Innate Immune Responses during Hematopoietic Development
 
 ### 1.4. dsRNA identification and prediction
@@ -50,6 +56,10 @@ description: System and Environment
 
 ### **Immune Diseases**
 
+* **\[review] 2023 Nature Reviews Nephrology -** Genetics of SLE mechanistic insights from monogenic disease and disease-associated variants
+* **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity
+* **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
+* **\[review] 2022 Nature Reviews Rheumatology** - The role of mitochondria in rheumatic diseases
 * **2022 Nature Leukemia** - Single-cell ATAC-seq maps the comprehensive and dynamic chromatin accessibility landscape of CAR-T cell dysfunction
 * [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
@@ -59,6 +69,7 @@ description: System and Environment
 * ✅ [**2021 **_**Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/33930287/)- Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
 * [**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * 2021 PNAS - The dynamic epigenetic regulation of the inactive X chromosome in healthy human B cells is dysregulated in lupus patients
+* **2020 Nature Immunology** - Mapping systemic lupus erythematosus heterogeneity at the single-cell level
 * ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
 ### **Cancer Immunotherapy**

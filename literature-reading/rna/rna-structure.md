@@ -3,7 +3,7 @@
 > * [**PDFs**](../ai/)
 > * ✅ : Recommended
 
-## I. RNA Secondary Structure Prediction
+## 0. RNA Secondary Structure Prediction
 
 > ✅ **Course**: [生物信息学（清华大学）](https://www.ncrnalab.org/courses/#bioinfo);  [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics);
 >
@@ -24,10 +24,12 @@
 
 
 
-## I+. RNA & RNA Vaccine Design
+## I. RNA Design & RNA Vaccine Design
 
+* **2023 bioRXiv** - CodonBERT- Large Language Models for mRNA Design and Optimization
 * ✅ LinearDesign: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
-* **2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
+* **2023 Science** - Large language models generate functional protein sequences across diverse families
+* **2023 BIB** - Integrated mRNA sequence optimization using deep learning
 * **2021 NAR** - Theoretical basis for stabilizing messenger RNA through secondary structure design
 
 ## II. RNA Tertiary Structure Prediction
@@ -38,6 +40,7 @@
 > * ✅ 2021 Nature – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
 
 * ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abe5650) - **ARES:** Geometric deep learning of RNA structure
+* 2022 bioRxiv - Accurate de novo prediction of RNA 3D structure with transformer network
 * [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.05.15.491755v1) - **DeepFoldRNA**: De Novo RNA Tertiary Structure Prediction at Atomic Resolution using Geometric Potentials from Deep Learning
 * [**2022 arxiv**](https://arxiv.org/abs/2207.01586) - **E2Efold-3D**: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction
 * [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1) - Accurate prediction of nucleic acid and protein-nucleic acid complexes using **RoseTTAFoldNA**
