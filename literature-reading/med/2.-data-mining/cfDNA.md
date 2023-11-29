@@ -13,6 +13,7 @@
 * [**2022 PNAS**](https://doi.org/10.1073/pnas.2209852119) - Epigenetic analysis of cell-free DNA by fragmentomic profiling
 * ✅ **2022 Nature** - Deep whole-genome ctDNA chronology of treatment-resistant prostate cancer
 * **cfDNA - Nucleosome footprint & end motif**
+  * ✅  **2023 PNAS -** Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs
   * **2022 NCOMMN.** - A framework for clinical cancer subtyping from nucleosome proﬁling of cell-free DNA
   * \[fragmentomics] **2022 **_**Mol. Cancer**_ - An ultra-sensitive assay using cell-free DNA fragmentomics for multi-cancer early detection
   * \[fragmentomics] **2021 **_**Hepatology**_ - Ultra‐Sensitive and Affordable Assay for Early Detection of Primary Liver Cancer Using Plasma cfDNA Fragmentomics

@@ -9,17 +9,23 @@
 >
 > **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
 
-* **Energy Model** - **RNAstructure/Mfold**  and **RNAfold**&#x20;
-  * ✅ How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
-  * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
-* **SCFG Model** (Rfam/Infernal)
-  * ✅ What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
-  * _You can read the SCFG section in the book_ _above (_《Biological Sequence Analysis》_)._&#x20;
-* **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
+> * **Energy Model** - **RNAstructure/Mfold**  and **RNAfold**&#x20;
+>   * ✅ How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
+>   * What is dynamic programming? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)
+> * **SCFG Model** (Rfam/Infernal)
+>   * ✅ What is a hidden Markov model? (Sean R Eddy) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315)&#x20;
+>   * _You can read the SCFG section in the book_ _above (_《Biological Sequence Analysis》_)._&#x20;
+> * **Deep Learning Method** - [see Deep Learning for RNA](../ai/deep-learning-for-rna.md)
 
-## I+. RNA Vaccine Design
+* ✅ \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
+
+
+
+## I+. RNA & RNA Vaccine Design
 
 * ✅ LinearDesign: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
+* **2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
+* **2021 NAR** - Theoretical basis for stabilizing messenger RNA through secondary structure design
 
 ## II. RNA Tertiary Structure Prediction
 
