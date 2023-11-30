@@ -1,0 +1,46 @@
+---
+description: System and Environment
+---
+
+# RNA & Immune System
+
+> [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
+>
+> ✅ **: recommended readings**
+
+## **1. dsRNA** and immunity
+
+* \[review] **2019 noncoding RNA** - Endogenous Double-Stranded RNA
+* ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
+* [**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
+* **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
+* _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
+* _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
+* _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
+* ✅  **2016 Cell Host & Microbe** - The Evolution of Antiviral Defense Systems
+
+### dsRNA identification and prediction
+
+* **2023 BioRxiv** - dsRID: Editing-free in silico identification of dsRNA region using long-read RNA-seq data
+
+## 2. ncRNA and immunity
+
+* \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
+* \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
+* \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
+* ✅  \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
+* **2012 Nature Reviews Rheumatology** - MicroRNAs—novel regulators of systemic lupus erythematosus pathogenesis
+
+## 3. RNA editing and immunity
+
+* ✅  [**2022 Nature**](https://www.nature.com/articles/s41586-022-05052-x) - RNA editing underlies genetic risk of common inflammatory diseases
+* [**2022 Cancer Res.**](https://doi.org/10.1158/0008-5472.can-22-1062) - Single-cell analysis in lung adenocarcinoma implicates RNA editing in cancer innate immunity and patient prognosis
+* **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
+* [**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
+
+## 4. RNA modification and immunity
+
+* **2022 Nature Methods** - Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution
+* **\[review] 2023 Trends in Immunology** - ‘(m 6 )A’ stands for ‘autoimmunity’: reading, writing, and erasing RNA modiﬁcations during inﬂammation
+* ✅ [**2020 Immunity**](https://www.sciencedirect.com/science/article/pii/S1074761320301849)  - m6A Modification Prevents Formation of Endogenous Double-Stranded RNAs and Deleterious Innate Immune Responses during Hematopoietic Development
+

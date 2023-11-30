@@ -1,0 +1,23 @@
+# Cancer Immunotherapy
+
+## 1. **Cancer Immunotherapy**
+
+* **\[review] 2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
+* **2023 Cancer Cell** - The pre-existing T cell landscape determines the response to bispecific T cell engagers in multiple myeloma patients
+* (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
+* ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+* (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
+* (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma
+* **2020 Science Advance** - Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy
+
+## 2. Neoantigen
+
+* \[review] _**2021 Nature**_ - Advances in the development of personalized neoantigen-based therapeutic cancer vaccines
+* \[review] _**2017 Cell**_ - Applications of Immunogenomics to Cancer
+* _**2020 NCOMM**_ - Integrated genomic analysis reveals mutated ELF3 as a potential gallbladder cancer vaccine candidate
+
+## 3. Cancer microenvironment
+
+* _**2019 - Nat Genetics**_ - Landscape of B cell immunity and related immune evasion in human cancers
+* _**2018 - Nat Biotech**_ - Evaluation of immune repertoire inference methods from RNA-seq data
+* _**2016 - Nature Genetics**_ - Landscape of tumor-infiltrating T cell repertoire of human cancers
