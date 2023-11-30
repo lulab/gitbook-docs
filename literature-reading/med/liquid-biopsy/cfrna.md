@@ -17,7 +17,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ## II. cfRNA features
 
 * see more in [**RNA Regulation**](../../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
-* Learn from [**cfDNA features**](cfDNA.md#ii.-cfdna-features)
+* Learn from [**cfDNA features**](cfdna.md#ii.-cfdna-features)
 
 ### 1. cfRNA motif
 

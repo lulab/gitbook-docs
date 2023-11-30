@@ -1,4 +1,4 @@
-# Overview of liquid biopsy
+# Liquid biopsy
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
@@ -39,13 +39,11 @@
 * 2018 NEJM - Application of **Cell-free DNA** Analysis to Cancer Treatment ([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174))
 * 2018 NEJM - Sequencing of circulating cell-free dna during **pregnancy** ([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345))
 
-
-
-## II.  Representative Studies in Liquid Biopsy
-
 > **Comparison of different liquid biopsy tech. :** [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-* **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
+## II. cfDNA
+
+* **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
@@ -69,7 +67,7 @@
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfDNAmet and histone modification**
   * [**2023 Nature Medicine** ](https://www.nature.com/articles/s41591-023-02605-z)**-** Liquid biopsy epigenomic profiling for cancer subtyping
-* **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](1.-tech.-dev./exrna-seq-tech.md))
+* **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
   * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
   * **Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
@@ -77,7 +75,7 @@
   * **Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
 * **TCR**
   * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
-* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](2.-data-mining/cfDNA.md))
+* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
   * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
   * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
   * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response

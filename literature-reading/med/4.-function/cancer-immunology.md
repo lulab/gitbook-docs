@@ -88,3 +88,4 @@ description: System and Environment
 ## 5. RNA Vaccine
 
 * **2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
+* ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
