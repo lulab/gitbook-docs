@@ -22,16 +22,6 @@
 * ✅ \[review] **2023 BIB** - Recent trends in RNA informatics: a review of machine learning and deep learning for RNA secondary structure prediction and RNA drug discovery
 * \[review] **2022 PNAS** - Thoughts on how to think (and talk) about RNA structure
 
-
-
-## I. RNA Design & RNA Vaccine Design
-
-* **2023 bioRXiv** - CodonBERT- Large Language Models for mRNA Design and Optimization
-* ✅ LinearDesign: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
-* **2023 Science** - Large language models generate functional protein sequences across diverse families
-* **2023 BIB** - Integrated mRNA sequence optimization using deep learning
-* **2021 NAR** - Theoretical basis for stabilizing messenger RNA through secondary structure design
-
 ## II. RNA Tertiary Structure Prediction
 
 > Learn from Protein structure prediction:

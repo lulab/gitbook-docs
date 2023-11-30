@@ -43,6 +43,7 @@
     * [RNA motif in microbiome](literature-reading/rna/microbial-ncrna.md)
     * [RNA Target & Drug](literature-reading/ai/rna/rna-target-and-drug.md)
     * [RNA Regulation](literature-reading/rna/postar.md)
+    * [RNA & Protein Design](literature-reading/ai/rna/rna-and-protein-design.md)
 
 ## Paper Writing
 
