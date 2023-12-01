@@ -3,13 +3,14 @@
 ## 0. Reviews
 
 * **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
+* **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity&#x20;
 * **\[review] 2022 Nature Reviews Rheumatology** - The role of mitochondria in rheumatic diseases
 
-## I. scMultiOmics
+## I. Genetics & post-GWAS analysis
 
-* [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
-* **2021 Science Immunology** - Integrated single-cell transcriptomics and epigenomics reveals strong germinal center–associated etiology of autoimmune risk loci
-* **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk
+* ✅ \[review] **2023 Nature Reviews Nephrology** - Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants
+* **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
+* **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
 
 ## II. scRNA
 
@@ -22,11 +23,17 @@
 * **2020 Nature Immunology** - Mapping systemic lupus erythematosus heterogeneity at the single-cell level
 * ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
-## III. CART-T
+## III. scMulti-Omics
+
+* [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
+* **2021 Science Immunology** - Integrated single-cell transcriptomics and epigenomics reveals strong germinal center–associated etiology of autoimmune risk loci
+* **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk
+
+## IV. CART-T
 
 * **2022 Nature Leukemia** - Single-cell ATAC-seq maps the comprehensive and dynamic chromatin accessibility landscape of CAR-T cell dysfunction
 
-## IV. Biomarkers
+## V. Biomarkers
 
 * ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 

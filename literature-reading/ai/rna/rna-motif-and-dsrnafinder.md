@@ -9,10 +9,10 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 * **Short-distance folding**:  RNAstructure; RNAfold (free energy minimization methods) see [_**RNA Secondary Structure Prediction**_](../../rna/rna-structure.md#i.-rna-secondary-structure-prediction)
 * ✅ **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 * **Motif finder:**
-  * ✅ **CGF:** 2012 _Nature_  - TESISER**:** Systematic discovery of structural elements governing stability of mammalian messenger RNAs
-  * ✅ **HMM+SHAPE**: 2018 _Genome Biology_ - PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide  search for functional RNA elements via structural data signatures
+  * **CGF:** 2012 _Nature_  - TESISER**:** Systematic discovery of structural elements governing stability of mammalian messenger RNAs
+  * **HMM+SHAPE**: 2018 _Genome Biology_ - PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)PATTERNA: transcriptome-wide  search for functional RNA elements via structural data signatures
   * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
-  * ✅ **CFG:** TEISER ([2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308))
+  * **CFG:** TEISER ([2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308))
   * **SCFG:** [Rfam/Infernal](https://rfam.xfam.org/);  CMfinder ([2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030)_)_; RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
 
 > * **RNAstructure**/**Mfold** and **RNAfold** perform good for sequence less than 200nt.
@@ -28,6 +28,15 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 * _**2014 Nature Method**_ RNA motif discovery by SHAPE and mutational profiling (SHAPE-MaP)
 * _**2015 Plos Computational Biology**_ Structure-Based Alignment and Consensus Secondary Structures for Three HIV-Related RNA Genomes
 
+
+
+### I.1 dsRNAfinder
+
+* **2023 BioRxiv** - dsRID: Editing-free in silico identification of dsRNA region using long-read RNA-seq data
+* **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
+
+
+
 ## **II. Applications in human**
 
 * _**2021 Science**_ \[**TEISER**] - A prometastatic splicing program regulated by SNRPA1 interactions with structured RNA elements
@@ -40,3 +49,4 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 * ✅ **2017 **_**Science**_ - Protein structure determination using metagenome sequence data
 * _**2019 Molecular Systems Biology**_ - Unraveling the hidden universe of small proteins in bacterial genomes
 * _**2009 Nature**_ - Metatranscriptomics reveals unique microbial small RNAs in the ocean’s water column. Nature
+

@@ -2,7 +2,7 @@
 description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ---
 
-# cfRNA Analysis Method
+# cfRNA-seq Analysis
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
@@ -16,8 +16,9 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 ## II. cfRNA features
 
-* see more in [**RNA Regulation**](../../rna/postar.md): editing, splicing, modification, APA, chimeric RNA, etc
-* Learn from [**cfDNA features**](cfdna.md#ii.-cfdna-features)
+* see more in [**RNA Regulation**](postar.md): editing, splicing, modification, APA, chimeric RNA, etc
+
+
 
 ### 1. cfRNA motif
 
@@ -42,11 +43,11 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 * ✅ **Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
 
-see more in [Machine Learning - 4.Classification (turmor localization](../../ai/deep-learning-for-omics/4.-classification.md))
+see more in [Machine Learning - 4.Classification (turmor localization](4.-classification.md))
 
 ## IV. Advanced Methods and Models
 
-see [Machine Learning for Omics](../../ai/deep-learning-for-omics/)
+see [Machine Learning for Omics](./)
 
 
 

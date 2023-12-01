@@ -2,14 +2,14 @@
 description: POST-trAnscriptional Regulation
 ---
 
-# RNA Regulation
+# RNA Regulation Analysis
 
 {% hint style="info" %}
 ## **RNA Regulation - POSTAR**
 
 **POSTAR: POST-trAnscriptional Regulation (**✅ : Recommended**)**
 
-[**PDFs**](../ai/)
+[**PDFs**](../)
 {% endhint %}
 
 ## 1. Translation: Ribo-seq

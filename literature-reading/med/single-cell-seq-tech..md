@@ -12,14 +12,36 @@ description: Single Cell Sequencing Technologies
 * ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abf5759) - The coding and long noncoding single-cell atlas of the developing human fetal striatum
 * **2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
 
-## II. Split-pool
+### I.1 Split-pool
 
 * ✅ \[Split-pool RNA+ATAC] **2020 Cell** - Chromatin Potential Identiﬁed by Shared Single-Cell Proﬁling of RNA and Chromatin
 * \[Split-pool RNA+ATAC] **2019 Nature Structure Molecular Biology** -  An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome
 * ✅ \[**scATAC - split-pool**] [**2019 **_**Nat. Biotechnol**_**.**](https://doi.org/10.1038/s41587-019-0147-6) - Droplet-based combinatorial indexing for massive-scale single-cell chromatin accessibility.
 * ✅ \[**scRNA split-pool**] - [**2018 **_**Science**_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643870/) **-** SPLiT-seq reveals cell types and lineages in the developing brain and spinal cord&#x20;
 
+## II. scMulti-Omics
 
+* ✅  [**2023 **_**Nature Methods**_](https://www.nature.com/articles/s41592-023-01938-4) - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
+* ✅  [_**2023 Nature Genetics**_](https://www.nature.com/articles/s41588-023-01445-4) - Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases.&#x20;
+* [_**2022 Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/36318921/)- Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution
+* _**2021 Nature Genetics**_ - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease.&#x20;
+* _**2018 Science**_ - Single-cell multiomics sequencing and analyses of human colorectal cancer
+* **\[review] **_**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
+
+> ### Multi-Omics studies with bulk-seq
+>
+> * **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
+> * ✅  **2021 **_**Nature**_ - Multi-omic machine learning predictor of breast cancer therapy response
+> * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
+> * **2021 **_**Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
+> * ✅  _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
+> * _**2021 Nature Commn**_ - An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer
+> * _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
+> * _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
+> * _**2020 Nature Medicine**_ - Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
+> * _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
+> * _**2015 Nature**_ - Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease
+> * _**2014 NMETH**_ - Annotation of loci from genome-wide association studies using tissue-specific quantitative interaction proteomics&#x20;
 
 ## III. scRNA-mod
 
@@ -31,11 +53,12 @@ description: Single Cell Sequencing Technologies
 
 
 
-### 2. cf-Ribo
+## IV. scRibo-seq
 
 * ✅ **2021 Nature** - Single-cell Ribo-seq reveals cell cycle-dependent translational pausing
 * **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
-*
+
+
 
 
 

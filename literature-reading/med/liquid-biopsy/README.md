@@ -43,7 +43,7 @@
 
 ## II. cfDNA
 
-* **Multianalyte & Multiomics**  (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
+* **Multianalyte & Multiomics**&#x20;
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
@@ -77,9 +77,9 @@
 
 ### **Pregnancy**
 
-*   **ccfDNA - 2023 **_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
+*   (**ccfDNA - 2023 **_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
 
-    Pregnancy Loss Study (COPL): a prospective cohort study
+    Pregnancy Loss Study (COPL): a prospective cohort study)
 * ✅ **long cfRNA-seq**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
 * **Captured long cfRNA-seq**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
 * **2020 Science translational medicine** - Circulating transcripts in maternal blood reflect a molecular signature of early-onset preeclampsia
@@ -142,9 +142,12 @@
 
 ## IV. Others - Proteome etc
 
-* **TCR**
-  * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
-* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
-  * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
-  * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
-  * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
+### **TCR**
+
+* **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
+
+### **Proteome**
+
+* **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
+* ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+* \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response

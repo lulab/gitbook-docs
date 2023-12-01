@@ -2,13 +2,13 @@
 description: System and Environment
 ---
 
-# Cancer & ncRNA
+# ncRNA in Cancer
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
 > ✅ **: recommended readings**
 
-## ncRNA in Cancer
+## I. Basics
 
 * ✅ \[Review] _**2021 Nature Review | Cancer**_ - Long noncoding RNAs in cancer metastasis
 * _**2021 Nature Biotechnology**_ - The RNA Atlas expands the catalog of human non-coding RNAs
@@ -18,7 +18,7 @@ description: System and Environment
 * \[Function] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 * \[Profiling] _**2015 Nature Genetics**_ **- MiTranscriptome** - The Landscape of Long Noncoding RNAs in the Human Transcriptome
 
-### (1) MT-RNA and tRNA/rRNA
+## II. MT-RNA and tRNA/rRNA
 
 * \[Function] _**2022 Cell Metab.**_ - Glycine decarboxylase maintains mitochondrial protein lipoylation to support tumor growth
 * \[Marker] _**2022 Frontier Medicine**_ - Serum mitochondrial tsRNA serves as a novel biomarker for hepatocarcinoma diagnosis
@@ -27,11 +27,9 @@ description: System and Environment
 * \[Marker] _**2019 Mol. Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
 * \[Function] _**2015 Cell**_ - Endogenous tRNA-Derived Fragments Suppress Breast Cancer Progression via YBX1 Displacement
 
-### **(2) TE-RNA/Repeats and mbRNA (microbial ncRNA)**
 
-* see more in [Cancer Microbiome#Host & Microbe](cancer-microbiome.md#iii.-host-and-microbe)
 
-### (3) circRNA
+## III. circRNA
 
 * \[Review] _**2021 Mol Cancer**_ Circular RNAs in body fluids as cancer biomarkers: the new frontier of liquid biopsies
 * \[Function] _**2020 Signal Transduction and Targeted Therapy**_ CircRNA-SORE mediates sorafenib resistance in hepatocellular carcinoma by stabilizing YBX
@@ -40,5 +38,12 @@ description: System and Environment
 
 
 
+## IV. TE-RNA/Repeats&#x20;
 
+* **\[review]** [**2017 Nature Reviews** Cancer ](https://www.nature.com/articles/nrc.2017.35)- Transposable elements in cancer
+
+## V. Other noncoding RNAs
+
+* \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
+* \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 

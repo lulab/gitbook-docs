@@ -2,7 +2,7 @@
 description: System and Environment
 ---
 
-# RNA & Immune System
+# RNA in Immune System
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
@@ -10,25 +10,25 @@ description: System and Environment
 
 ## **1. dsRNA** and immunity
 
-* \[review] **2019 noncoding RNA** - Endogenous Double-Stranded RNA
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
 * [**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
 * **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
 * _**2022 Immunity**_ - Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
 * _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
+* \[review] **2019 noncoding RNA** - Endogenous Double-Stranded RNA
 * _**2018 - JCO**_ - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
 * ✅  **2016 Cell Host & Microbe** - The Evolution of Antiviral Defense Systems
 
 ### dsRNA identification and prediction
 
-* **2023 BioRxiv** - dsRID: Editing-free in silico identification of dsRNA region using long-read RNA-seq data
+* see [RNA Motif & dsRNAfinder](../../ai/rna/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder)[#i.1-dsrnafinder](../../ai/rna/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder "mention")
 
 ## 2. ncRNA and immunity
 
 * \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
 * \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
-* ✅  \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
+* \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 * **2012 Nature Reviews Rheumatology** - MicroRNAs—novel regulators of systemic lupus erythematosus pathogenesis
 
 ## 3. RNA editing and immunity
