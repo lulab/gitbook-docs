@@ -2,19 +2,6 @@
 
 ## RNA-siRNA/ASO
 
-{% hint style="info" %}
-✅ [_**2021 Nature Reviews | Drug Discovery**_](https://www.nature.com/articles/s41573-021-00219-z) - Noncoding RNA therapeutics — challenges and potential solutions&#x20;
-
-✅ [_**2022 Cell Death and Disease**_](https://www.nature.com/articles/s41419-022-05075-2) - RNA-based therapeutics: an overview and prospectus
-{% endhint %}
-
-### **Reviews**
-
-* [_**2022 Nature Reviews | Genetics**_](https://www.nature.com/articles/s41576-021-00439-4) - Drug delivery systems for RNA therapeutics
-* [**2021 **_**Nature Nanotechnology**_](https://www.nature.com/articles/s41565-021-00898-0) -  The current landscape of nucleic acid therapeutic
-
-### **Research**
-
 * _**2018 BMC Genomics**_, SiRNA silencing efficacy prediction based on a deep architecture&#x20;
 * ✅ \[off-target] _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
 * [_**Our papers: NAR 2008a, 2008b, 2008c**_](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
