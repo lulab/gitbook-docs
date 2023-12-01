@@ -35,13 +35,11 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 * **2023 BioRxiv** - dsRID: Editing-free in silico identification of dsRNA region using long-read RNA-seq data
 * **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 
-
-
-## **II. Applications in human**
+## **II. RNA motif in human**
 
 * _**2021 Science**_ \[**TEISER**] - A prometastatic splicing program regulated by SNRPA1 interactions with structured RNA elements
 
-## III. Applications in microbiome
+## III. sRNA in microbiome
 
 * ✅[ **2023 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
 * _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
