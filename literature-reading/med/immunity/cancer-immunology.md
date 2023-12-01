@@ -21,7 +21,7 @@ description: System and Environment
 
 ### dsRNA identification and prediction
 
-* see [RNA Motif & dsRNAfinder](../../ai/rna/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder)[#i.1-dsrnafinder](../../ai/rna/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder "mention")
+* see [RNA Motif & dsRNAfinder](../../ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder)[#i.1-dsrnafinder](../../ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder "mention")
 
 ## 2. ncRNA and immunity
 

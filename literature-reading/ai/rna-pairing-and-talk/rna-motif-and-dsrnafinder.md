@@ -6,7 +6,7 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 
 ## 0. Overview
 
-* **Short-distance folding**:  RNAstructure; RNAfold (free energy minimization methods) see [_**RNA Secondary Structure Prediction**_](../../rna/rna-structure.md#i.-rna-secondary-structure-prediction)
+* **Short-distance folding**:  RNAstructure; RNAfold (free energy minimization methods) see [_**RNA Secondary Structure Prediction**_](rna-structure.md#i.-rna-secondary-structure-prediction)
 * ✅ **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 * **Motif finder:**
   * **CGF:** 2012 _Nature_  - TESISER**:** Systematic discovery of structural elements governing stability of mammalian messenger RNAs
