@@ -14,21 +14,21 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 * \[long and small cfRNA-seq] [exSEEK Tutorial](https://lulab2.gitbook.io/teaching/part-v.-quiz/1.quiz\_exrna)
 * \[long cfRNA-seq] [cfRNA-SEEK Github](https://lulab.github.io/cfRNA-SEEK/)&#x20;
 
-## II. cfRNA Feature Extraction
+## II. RNA Feature Extraction
 
 {% hint style="info" %}
 * see more in [**RNA Regulation**](postar.md): editing, splicing, modification, APA, chimeric RNA, etc
 * learn from [**cfDNA features**](../med/liquid-biopsy/#ii.-cfdna)
 {% endhint %}
 
-### II.1. cfRNA motif
+### II.1. RNA motif
 
 * ( ✅ **2023 PNAS** - Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs )
 * ✅ **miRNA motif - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * G-quadruplex - _**2020 Genome biology**_ - RNA G-quadruplex structures exist and function in vivo in plants
 * G-quadruplex - _**2016 Science** -_ RNA G-quadruplexes are globally unfolded in eukaryotic cells and depleted in bacteria
 
-### II.2. cfRNA fragment
+### II.2. RNA fragment (novel sncRNA)
 
 * Peak calling: **2022 Genome Biology** - GoPeaks: histone modification peak calling for CUT\&Tag
 * **2021 PNAS** - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
