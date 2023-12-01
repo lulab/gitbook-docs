@@ -18,6 +18,7 @@
 * [Omics Data Analysis](literature-reading/omics/README.md)
   * [RNA Regulation Analysis](literature-reading/omics/postar.md)
   * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
+  * [Multi-Omics Analysis](literature-reading/omics/3.-model-fitting.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Single-Cell-seq Tech.](literature-reading/med/single-cell-seq-tech..md)
   * [Liquid Biopsy](literature-reading/med/liquid-biopsy/README.md)
@@ -36,12 +37,11 @@
     * [RNA 2nd Structure Prediction](literature-reading/ai/rna-pairing-and-talk/rna-structure.md)
     * [RNA-RNA Interaction](literature-reading/ai/rna-pairing-and-talk/rna-rna-interaction.md)
     * [RNA Motif & dsRNAfinder](literature-reading/ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md)
-    * [RNA & Protein Design](literature-reading/ai/rna-pairing-and-talk/rna-and-protein-design.md)
   * [RNA Target & Drug](literature-reading/ai/rna-target-and-drug/README.md)
     * [RNA 3D Structure Prediction](literature-reading/ai/rna-target-and-drug/rna-3d-structure-prediction.md)
     * [RNA-Ligand](literature-reading/ai/rna-target-and-drug/rna-target-and-drug.md)
     * [RNA-Protein](literature-reading/ai/rna-target-and-drug/rna-protein.md)
-  * [Multi-Omics Model](literature-reading/ai/3.-model-fitting.md)
+  * [RNA & Protein Design](literature-reading/ai/rna-and-protein-design.md)
 
 ## Paper Writing
 
