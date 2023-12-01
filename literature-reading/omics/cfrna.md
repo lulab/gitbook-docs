@@ -23,6 +23,7 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 ### II.1. cfRNA motif
 
+* ( ✅ **2023 PNAS** - Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs )
 * ✅ **miRNA motif - **_**2021 Nature**_** -** MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 * G-quadruplex - _**2020 Genome biology**_ - RNA G-quadruplex structures exist and function in vivo in plants
 * G-quadruplex - _**2016 Science** -_ RNA G-quadruplexes are globally unfolded in eukaryotic cells and depleted in bacteria

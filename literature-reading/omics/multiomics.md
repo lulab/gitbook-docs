@@ -1,12 +1,13 @@
-# Multi-Omics Analysis
+# Multi-Omics Integration
 
-## Multi-Omics Data Analysis Tools
+## Multi-Omics Data Integration Tools
 
 * _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
-## MultiOmics Data Integration Models
+## Multi-Omics Data Integration Models
 
+* [**2022 Nature Reviews**](https://www.nature.com/articles/s41576-022-00532-2) - Obtaining genetics insights from deep learning via explainable artificial intelligence
 * ✅ [2022 bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.27.514141v1.full) - Transformer-based deep learning integrates multi-omic data with cancer pathways
 * **2022 Genome Biology** - A benchmark study of deep learning‑based multi‑omics data fusion methods for cancer
 * **2022 BIB** - Blood-based transcriptomic signature panel identification for cancer diagnosis: benchmarking of feature extraction methods

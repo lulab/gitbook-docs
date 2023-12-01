@@ -52,6 +52,7 @@
 * **cfDNA/mbDNA** &#x20;
   * **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
   * **2023 STM** - Genome-wide analysis of aberrant position and sequence of plasma DNA fragment ends in patients with cancer
+  * &#x20;✅ \[**end-motif]** **2023 PNAS** - Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs
   * **2022 Cancer Discovery** - Nucleosome patterns in circulating tumor DNA reveal transcriptional regulation of advanced prostate cancer phenotypes
   * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
   * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection

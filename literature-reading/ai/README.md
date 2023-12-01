@@ -2,7 +2,7 @@
 description: Literature, Course and Book Recommendations
 ---
 
-# Machine learning & AI
+# AI in RNA
 
 {% hint style="info" %}
 * **Course:**  Machine Learning (CS229) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)
@@ -19,8 +19,6 @@ description: Literature, Course and Book Recommendations
   * **2022 Nature Biotech.** - Using deep learning to annotate the protein universe
   * _**AlphaFold2**_ - **2021 **_**Nature**_ - Highly accurate protein structure prediction with AlphaFold
   * Baker et al. - **2021 **_**Science**_ - Accurate prediction of protein structures and interactions using a three-track neural network
-* **Deep Learning on Multi-Omics**
-  * [**2022 Nature Reviews**](https://www.nature.com/articles/s41576-022-00532-2) - Obtaining genetics insights from deep learning via explainable artificial intelligence
 
 
 
