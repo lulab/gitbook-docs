@@ -25,7 +25,7 @@
 * [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms ([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig))
 * (**Transfer learning**) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
-## II. Structure Probing
+## II. Structure Probing Experiments
 
 ### 1. Structure probing methods
 
