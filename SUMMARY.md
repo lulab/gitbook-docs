@@ -40,7 +40,7 @@
     * [RNA Motif & dsRNAfinder](literature-reading/ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md)
   * [RNA Target & Drug](literature-reading/ai/rna-target-and-drug/README.md)
     * [RNA-Oligo](literature-reading/ai/rna-target-and-drug/rna-oligo.md)
-    * [RNA-Ligand](literature-reading/ai/rna-target-and-drug/rna-target-and-drug.md)
+    * [RNA-Ligand](literature-reading/ai/rna-target-and-drug/rna-ligand.md)
     * [RNA-Protein](literature-reading/ai/rna-target-and-drug/rna-protein.md)
     * [RNA 3D Structure Prediction](literature-reading/ai/rna-target-and-drug/rna-3d-structure-prediction.md)
   * [RNA & Protein Design](literature-reading/ai/rna-and-protein-design.md)
