@@ -16,8 +16,8 @@
 
 * [Tips for paper reading](literature-reading/reading.md)
 * [Omics Data Analysis](literature-reading/omics/README.md)
-  * [RNA Regulation Analysis](literature-reading/omics/postar.md)
   * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
+  * [RNA Regulation Analysis](literature-reading/omics/postar.md)
   * [Multi-Omics Integration](literature-reading/omics/multiomics.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Single-Cell-seq Tech.](literature-reading/med/single-cell-seq-tech..md)
