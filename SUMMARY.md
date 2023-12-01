@@ -15,9 +15,9 @@
 ## Literature Reading
 
 * [Tips for paper reading](literature-reading/reading.md)
-* [Omics Data Analysis](literature-reading/deep-learning-for-omics/README.md)
-  * [RNA Regulation Analysis](literature-reading/deep-learning-for-omics/postar.md)
-  * [cfRNA-seq Analysis](literature-reading/deep-learning-for-omics/cfrna.md)
+* [Omics Data Analysis](literature-reading/omics/README.md)
+  * [RNA Regulation Analysis](literature-reading/omics/postar.md)
+  * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Single-Cell-seq Tech.](literature-reading/med/single-cell-seq-tech..md)
   * [Liquid Biopsy](literature-reading/med/liquid-biopsy/README.md)
