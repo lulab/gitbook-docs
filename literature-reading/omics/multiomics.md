@@ -1,11 +1,25 @@
 # Multi-Omics Integration
 
-## Multi-Omics Data Integration Tools
+## I. Multi-Omics Data Integration Tools
 
 * _**2021 Brief Bioinfo**_ - A comparative study of multi-omics integration tools
 * _**2017 PLoS computational biology**_ - mixOmics: An R package for ‘omics feature selection and multiple data integration
 
-## Multi-Omics Data Integration Models
+## II. Multi-Omics Studies
+
+* ✅  **2021 **_**Nature**_ - Multi-omic machine learning predictor of breast cancer therapy response
+* _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
+* **2021 **_**Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
+* ✅  _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
+* _**2021 Nature Commn**_ - An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer
+* _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
+* _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
+* _**2020 Nature Medicine**_ - Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
+* _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
+* _**2015 Nature**_ - Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease
+* _**2014 NMETH**_ - Annotation of loci from genome-wide association studies using tissue-specific quantitative interaction proteomics&#x20;
+
+## III. Multi-Omics Data Integration Models
 
 * [**2022 Nature Reviews**](https://www.nature.com/articles/s41576-022-00532-2) - Obtaining genetics insights from deep learning via explainable artificial intelligence
 * ✅ [2022 bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.27.514141v1.full) - Transformer-based deep learning integrates multi-omic data with cancer pathways

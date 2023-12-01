@@ -40,7 +40,6 @@ description: System and Environment
 
 ## 4. RNA modification and immunity
 
-* **2022 Nature Methods** - Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution
 * **\[review] 2023 Trends in Immunology** - ‘(m 6 )A’ stands for ‘autoimmunity’: reading, writing, and erasing RNA modiﬁcations during inﬂammation
 * ✅ [**2020 Immunity**](https://www.sciencedirect.com/science/article/pii/S1074761320301849)  - m6A Modification Prevents Formation of Endogenous Double-Stranded RNAs and Deleterious Innate Immune Responses during Hematopoietic Development
 

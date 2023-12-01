@@ -28,24 +28,12 @@ description: Single Cell Sequencing Technologies
 * _**2018 Science**_ - Single-cell multiomics sequencing and analyses of human colorectal cancer
 * **\[review] **_**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
 
-> ### Multi-Omics studies with bulk-seq
->
-> * **2022 Genome Biology** - Widespread redundancy in -omics profiles of cancer mutation states
-> * ✅  **2021 **_**Nature**_ - Multi-omic machine learning predictor of breast cancer therapy response
-> * _**2021 Cell**_ - Integrated analysis of multimodal single-cell data
-> * **2021 **_**Cancer Cell -**_ Molecular classiﬁcation and diagnostics of upper urinary tract urothelial carcinoma
-> * ✅  _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
-> * _**2021 Nature Commn**_ - An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer
-> * _**2020 Cell**_ - Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer
-> * _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
-> * _**2020 Nature Medicine**_ - Whole genome, transcriptome and methylome profiling enhances actionable target discovery in high-risk pediatric cancer.
-> * _**2018 Science**_ - Comprehensive functional genomic resource and integrative model for the human brain
-> * _**2015 Nature**_ - Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease
-> * _**2014 NMETH**_ - Annotation of loci from genome-wide association studies using tissue-specific quantitative interaction proteomics&#x20;
+
 
 ## III. scRNA-mod
 
 * [**2023 **_**Nature Commn**_](https://www.nature.com/articles/s41467-023-35958-7). - **scm6A-seq** reveals single-cell landscapes of the dynamic m6A during oocyte maturation and early embryonic development
+* **2022 Nature Methods** - Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution
 * [**2022 **_**Nature Biotech.**_ ](https://doi.org/10.1038/s41587-022-01487-9)**-** Absolute quantification of single-base m6A methylation in the mammalian transcriptome using GLORI
 * [**2022 **_**Mol. Cell**_](https://www.sciencedirect.com/science/article/pii/S1097276521011436?via%3Dihub)  - **scDART-seq** reveals distinct m6A signatures and mRNA methylation heterogeneity in single cells.&#x20;
 * \[**RNA mod Review**] - [_**2022 Experimental & Molecular Medicine**_](https://www.nature.com/articles/s12276-022-00821-0#Sec11) - Detection technologies for RNA modifications
