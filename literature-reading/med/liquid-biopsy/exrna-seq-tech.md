@@ -28,19 +28,6 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 
 
 
-### 2. cf-Ribo
-
-* ✅ **2021 Nature** - Single-cell Ribo-seq reveals cell cycle-dependent translational pausing
-* **2022 NAR** - Identifying ribosome heterogeneity using ribosome proﬁling
-* **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
-
-### 3. cfRNA modification
-
-* [**2022 Nature Biotech.** ](https://doi.org/10.1038/s41587-022-01487-9)**-** Absolute quantification of single-base m6A methylation in the mammalian transcriptome using GLORI
-* [**2019 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1817334116) - Transcriptome-wide profiling of multiple RNAmodifications simultaneously at single-base resolution
-
-
-
 ## II. EV and Purification Method
 
 ### 1. Exosome and EV

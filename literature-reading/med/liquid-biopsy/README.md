@@ -1,4 +1,4 @@
-# Liquid biopsy
+# Liquid Biopsy
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 >
@@ -67,34 +67,17 @@
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfDNAmet and histone modification**
   * [**2023 Nature Medicine** ](https://www.nature.com/articles/s41591-023-02605-z)**-** Liquid biopsy epigenomic profiling for cancer subtyping
-* **cfRNA/exRNA** **- Transcriptome** (see more in [exRNA-seq](exrna-seq-tech.md))
-  * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
-  * ✅ **Long cfRNA**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
-  * **Captured long cfRNA**: _**2022 Nature**_ RNA profiles reveal signatures of future health and disease in pregnancy
-  * **Long cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-  * **Exosome (ERCC)**: _**2019 Cell**_  - Reassessment of Exosome Composition
-* **TCR**
-  * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
-* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
-  * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
-  * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
-  * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
+  * **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
 
 
 
-## III. cfRNA (exRNA) studies
+## III. cfRNA (exRNA)&#x20;
 
 > **cfRNA** (cell-free RNA) is also called **exRNA** (extracellular RNA)
 
-### **Neural Diseases**
-
-* **small cfRNA - **_**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
-* **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
-* **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
-
 ### **Pregnancy**
 
-*   ✅ **ccfDNA - 2023 **_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
+*   **ccfDNA - 2023 **_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
 
     Pregnancy Loss Study (COPL): a prospective cohort study
 * ✅ **long cfRNA-seq**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
@@ -103,13 +86,10 @@
 * ✅ **Long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
 
-### Infectious Diseases
-
-* [**2022 Genome Res.**](https://genome.cshlp.org/content/32/2/228) - Plasma cell-free RNA characteristics in COVID-19 patients
-
 ### Cancer
 
 * **Long**
+  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
   * _**2022 NPJ precision oncology**_ - Plasma cell-free RNA proﬁling distinguishes cancers from premalignant conditions in solid and hematologic malignancies
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
@@ -125,9 +105,9 @@
   * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
 * **Long - Platelet**&#x20;
-  * **✨ Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
+  * ✅ **Platelet RNA:** [**2022 Cancer Cell**](https://doi.org/10.1016/j.ccell.2022.08.006) - Detection and localization of early- and late-stage cancers using platelet RNA
   * _**2022 Genome Medicine**_ - RNA profiling of blood platelets noninvasively differentiates colorectal cancer from healthy donors and noncancerous intestinal diseases: a retrospective cohort study
-  * **✨ Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Small**
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
@@ -136,6 +116,16 @@
   * **structured ncRNA domain (small cfRNA-seq)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
   * ✨ **oncRNA:** _**2018 Nature Med.**_ - Cancer cells exploit an orphan RNA to drive metastatic progression
   * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
+
+### Infectious Diseases
+
+* [**2022 Genome Res.**](https://genome.cshlp.org/content/32/2/228) - Plasma cell-free RNA characteristics in COVID-19 patients
+
+### **Neural Diseases**
+
+* **small cfRNA - **_**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
+* **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
+* **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
 
 ### **ERCC**  (_**2019 Cell papers**_)
 
@@ -147,3 +137,14 @@
 * **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
 * **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
 * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
+
+
+
+## IV. Others - Proteome etc
+
+* **TCR**
+  * **2020** - _**Science Transl. Med.**_ - De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
+* **Proteome** (see more in [MultiOmics - cfDNA & evProtein](cfdna.md))
+  * **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
+  * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+  * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
