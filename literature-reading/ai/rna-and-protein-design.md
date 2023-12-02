@@ -2,7 +2,7 @@
 
 ## 0. Protein Design
 
-* **2023 Science** - Large language models generate functional protein sequences across diverse families
+* &#x20;✅ **2023 Science** - Large language models generate functional protein sequences across diverse families
 
 ## I. RNA Design&#x20;
 

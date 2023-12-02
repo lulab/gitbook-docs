@@ -7,7 +7,7 @@ description: POST-trAnscriptional Regulation
 {% hint style="info" %}
 ## **RNA Regulation - POSTAR**
 
-**POSTAR: POST-trAnscriptional Regulation (**✅ : Recommended**)**
+**POSTAR: POST-trAnscriptional Regulation** [http://POSTAR.ncRNAlab.org](http://postar.ncrnalab.org)
 
 [**PDFs**](../ai/)
 {% endhint %}

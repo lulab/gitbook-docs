@@ -2,8 +2,8 @@
 
 ## 0. Reviews
 
-* **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
-* **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity&#x20;
+* ✅  **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
+* ✅  **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity&#x20;
 * **\[review] 2022 Nature Reviews Rheumatology** - The role of mitochondria in rheumatic diseases
 
 ## I. Genetics & post-GWAS analysis
@@ -21,7 +21,7 @@
 * [**2022 Nature Med**](https://www.nature.com/articles/s41591-022-01789-0) - Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of the phase 4 R4RA randomized trial
 * 2021 PNAS - The dynamic epigenetic regulation of the inactive X chromosome in healthy human B cells is dysregulated in lupus patients
 * **2020 Nature Immunology** - Mapping systemic lupus erythematosus heterogeneity at the single-cell level
-* ✅ [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
+* [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
 ## III. scMulti-Omics
 
@@ -35,5 +35,5 @@
 
 ## V. Biomarkers
 
-* ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
+* (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 

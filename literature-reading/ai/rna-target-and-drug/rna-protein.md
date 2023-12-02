@@ -10,6 +10,6 @@
 
 #### **Research**
 
-* ✅ **NMF:** 2017 _Genome Biology_ - Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA–protein binding sites
-* ✅ **Deep Learning:** 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* **NMF:** 2017 _Genome Biology_ - Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA–protein binding sites
+* **Deep Learning:** 2015 _Nature Biotech._ - **DeepBind**: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 

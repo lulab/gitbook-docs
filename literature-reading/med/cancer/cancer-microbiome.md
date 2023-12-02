@@ -11,7 +11,7 @@ description: System and Environment
 ## **I. Cancer microbiome**
 
 * \[Review][ _**2022 Science**_](http://www.science.org/doi/10.1126/science.add9667) - Engineering bacteria as interactive cancer therapies
-* ✅ [**2022 Nature**](https://doi.org/10.1038/s41586-022-05435-0) - Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer
+* [**2022 Nature**](https://doi.org/10.1038/s41586-022-05435-0) - Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer
 * [**2022 Cell**](https://doi.org/10.1016/j.cell.2022.09.005) - Pan-cancer analyses reveal cancer-type-speciﬁc fungal ecologies and bacteriome interactions
 * [**2022 Cell** ](https://doi.org/10.1016/j.cell.2022.09.015)- A pan-cancer mycobiome analysis reveals fungal involvement in gastrointestinal and lung tumors
 * **\[Review] **_**2021 Cancer Cell**_  - Microbiome and cancer
@@ -23,7 +23,7 @@ description: System and Environment
 
 * **2022 Nature Communications** - A metagenomic DNA sequencing assay that is robust against environmental DNA contamination
 * ✅ _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
-* ✅ **2020 Microbiome** - Separating the signal from the noise in metagenomic cell-free DNA sequencing
+* **2020 Microbiome** - Separating the signal from the noise in metagenomic cell-free DNA sequencing
 * _**2019 PNAS**_ -  A cell-free DNA metagenomic sequencing assay that integrates the host injury response to infection
 
 ## III. H**ost & Microbe**

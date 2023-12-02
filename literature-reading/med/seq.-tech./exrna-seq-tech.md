@@ -11,9 +11,6 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ### 1. cfRNA-seq
 
 * **2022 Clin. Transl. Med.** - Polyadenylation ligation-mediated sequencing (PALM-Seq) characterizes cell-free coding and non-coding RNAs in human biofluids
-* **total RNA-seq in spatial seq - 2022 Nature Biotech.** Spatial mapping of the total transcriptome by in situ polyadenylation
-* ✅ **total RNA-seq in single cell -** [**2022 Nature Biotech.** ](https://www.nature.com/articles/s41587-022-01517-6)**-** High-throughput total RNA sequencing in single cells using VASA-seq
-* ✅ **total RNA-seq in single cell - 2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
 * ✅ **Purification:** _2021 bioRxiv_ - Performance of RNA purification kits and blood collection tubes in the Extracellular RNA Quality Control (exRNAQC) study
 * ✅ **Storage & Transportation**: _2021 Nature Commn._ - Grail - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing

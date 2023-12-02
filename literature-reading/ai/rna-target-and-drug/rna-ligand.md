@@ -24,9 +24,9 @@
 * ✅ **Targeting miRNA precursor and mRNA’s UTR:**  Programming inactive RNA-binding small molecules into bioactive degraders, _**Nature**_ 2023
 * ✅ **Targeting lncRNA Xist** with compounds that disrupt RNA structure and X inactivation,  _**Nature**_ 2022
 * **2021 Nature Biotech.** - First small-molecule drug targeting RNA gains momentum
-* ✅  **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
+* **2020 SLAS Discovery** - Targeting RNA with Small Molecules: Identification of Selective, RNA-Binding Small Molecules Occupying Drug-Like Chemical Space
 * **Targeting mRNA splicing** (SMN2 exon7): A small molecule (SMN-C5) targeting RNA for a specific splicing correction of SMN2 exon7 to treat spinal muscular atrophy,  _**Nature Chem. Biol.**_ 2019
-* ✅  **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _**Nature**_ 2015
+* **Targeting Ribo-switch**: Selective small-molecule inhibition of an RNA structural element, _**Nature**_ 2015
 * **Targeting HIV TAR**: Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble, [_**Nature Chem. Biol.**_  2011 ](https://www.nature.com/articles/nchembio.596)
 
 ### II. RNA element druggable by ligand
@@ -38,12 +38,12 @@
 * **2019 Methods in Enzymology** Volume 623 - Differentiation and classification of RNA motifs using small molecule-based pattern recognition
 * **2018 Nature Chemical Biology** - Small molecules that target group II introns are potent antifungal agents
 * \[**Riboswitch**]&#x20;
-  * ✅  **2017 PNAS -** Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity
+  * **2017 PNAS -** Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity
   * [**2014 PNAS**](https://www.pnas.org/cgi/doi/10.1073/pnas.1414678111) - Functional conservation despite structural divergence in ligand-responsive RNA switches
 
 ### III. RNA-ligand interaction prediction
 
-* **2023 Nature Machine Intell. -** Large-scale chemical language representations capture molecular structure and properties
+* ✅ **2023 Nature Machine Intell. -** Large-scale chemical language representations capture molecular structure and properties
 * **2023 Nature Communications** - Sequence-based drug design as a concept in computational drug design
 * ✅  **Drug RNA: **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
 *

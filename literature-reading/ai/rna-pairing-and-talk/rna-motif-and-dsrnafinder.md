@@ -33,7 +33,7 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 ### I.1 dsRNAfinder
 
 * **2023 BioRxiv** - dsRID: Editing-free in silico identification of dsRNA region using long-read RNA-seq data
-* **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
+* ✅ **Long distance (>200nt) pairing**:   **SuperFold** for long distance base pairs (folding)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)
 
 ## **II. RNA motif in human**
 
@@ -41,10 +41,11 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 
 ## III. sRNA in microbiome
 
+* **2023 **_**Science**_ - Uncovering the functional diversity of rare CRISPR-Cas systems with deep terascale clustering
 * ✅[ **2023 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
 * _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
 * ✅ [_**2019 Cell**_ ](https://www.sciencedirect.com/science/article/pii/S0092867419307810)- Large-Scale Analyses of Human Microbiomes Reveal Thousands of Small, Novel Genes
-* ✅ **2017 **_**Science**_ - Protein structure determination using metagenome sequence data
+* **2017 **_**Science**_ - Protein structure determination using metagenome sequence data
 * _**2019 Molecular Systems Biology**_ - Unraveling the hidden universe of small proteins in bacterial genomes
 * _**2009 Nature**_ - Metatranscriptomics reveals unique microbial small RNAs in the ocean’s water column. Nature
 
