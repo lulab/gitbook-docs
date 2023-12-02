@@ -10,8 +10,9 @@
 
 ## **Recommended Reading organized by PI**
 
+* [Omics Data Analysis](omics/)
 * [Precision Medicine](med/)
-* [Machine Learning & AI](ai/)
+* [Artificial Intelligence](ai/)
 
 ## Tips for Literature Search
 
