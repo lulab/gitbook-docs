@@ -90,7 +90,8 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 ### Pre-training and Transfer Learning
 
-* ✅ _**2022 BIB**_ - A universal approach for integrating super large-scale single-cell transcriptomes by exploring gene rankings
+* ✅ [**2023 Nature Methods** ](https://www.nature.com/articles/s41592-023-02117-1)- SEVtras delineates small extracellular vesicles at droplet resolution from single-cell transcriptomes
+* _**2022 BIB**_ - A universal approach for integrating super large-scale single-cell transcriptomes by exploring gene rankings
 * _**2022 bioRxiv**_ - Generative pretraining from large-scale transcriptomes: Implications for single-cell deciphering and clinical translation
 * ✅ _**2021 bioRxiv**_ - scBERT: a Large-scale Pretrained Deep Langurage Model for Cell Type Annotation of Single-cell RNA-seq Data
 
