@@ -25,6 +25,7 @@
 
 ## III. scMulti-Omics
 
+* **2023 Nature cell biology** - Single-cell analysis reveals transcriptomic and epigenomic impacts on the maternal– fetal interface following SARS-CoV-2 infection
 * [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
 * **2021 Science Immunology** - Integrated single-cell transcriptomics and epigenomics reveals strong germinal center–associated etiology of autoimmune risk loci
 * **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk

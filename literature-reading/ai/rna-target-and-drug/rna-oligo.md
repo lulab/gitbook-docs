@@ -2,7 +2,7 @@
 
 ## RNA-siRNA/ASO
 
-* [**2023 **_**biorxiv**_](https://doi.org/10.1101/2023.11.24.568517) _**-**_ AttSiOff: A self-attention-based approach on siRNA design with inhibition and off-target effect prediction
+* ✅ [**2023 **_**biorxiv**_](https://doi.org/10.1101/2023.11.24.568517) _**-**_ AttSiOff: A self-attention-based approach on siRNA design with inhibition and off-target effect prediction
 * _**2018 BMC Genomics**_, SiRNA silencing efficacy prediction based on a deep architecture&#x20;
 * ✅ \[off-target] _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
 * [_**Our papers: NAR 2008a, 2008b, 2008c**_](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
