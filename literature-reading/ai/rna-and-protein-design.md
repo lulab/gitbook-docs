@@ -7,12 +7,11 @@
 
 ## I. RNA Design&#x20;
 
-*
 * **2023 bioRXiv** - CodonBERT- Large Language Models for mRNA Design and Optimization
 * **2023 BIB** - Integrated mRNA sequence optimization using deep learning
 * **2021 NAR** - Theoretical basis for stabilizing messenger RNA through secondary structure design
 
 ## II. RNA Vaccine Design
 
-* ✅ **2023 Nature reviews drug discovery** - Tailor made: the art of therapeutic mRNA design&#x20;
-* LinearDesign: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
+* ✅ [**2023 Nature reviews** drug discovery](https://www.nature.com/articles/s41573-023-00827-x) - Tailor made: the art of therapeutic mRNA design&#x20;
+* \[**LinearDesign**]: [**2023 Nature**](https://www.nature.com/articles/s41586-023-06127-z) - Algorithm for optimized mRNA design improves stability and immunogenicity
