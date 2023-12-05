@@ -3,7 +3,7 @@
 ## 0. Protein Design
 
 * **2023 Nature** - Illuminating protein space with a programmable generative model&#x20;
-* [**2023 Nature Biotech.**](https://www.nature.com/articles/s41587-022-01618-2) - Large language models generate functional protein sequences across diverse families
+* [**2022 Nature Biotech.**](https://www.nature.com/articles/s41587-022-01618-2) - Large language models generate functional protein sequences across diverse families
 
 ## I. RNA Design&#x20;
 
