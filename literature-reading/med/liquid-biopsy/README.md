@@ -149,6 +149,7 @@
 
 ### **Proteome**
 
-* **Plasma proteins: **_**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
+* ✅ \[Plasma proteome] [**2023 **_**Nature**_ ](https://www.nature.com/articles/s41586-023-06802-1)**-** Organ aging signatures in the plasma proteome track health and disease
+* \[Plasma proteome] _**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
 * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
