@@ -21,7 +21,7 @@
 *   **Subgroup Meeting Schedule & Project Notes**
 
     * PPTs of PI's and Students' Reports: \[清华云] Lu Lab Shared/Project Progress/
-    * PI's project notes: 【腾讯文档] Lu Lab - All
+    * PI's project notes: 【腾讯文档】 Lu Lab - All
 
 
 
