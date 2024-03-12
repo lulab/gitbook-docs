@@ -7,6 +7,7 @@
 
 ## I. RNA Design&#x20;
 
+* [**2024 Nature Methods**](https://www.nature.com/articles/s41592-023-02148-8) - Deep generative design of RNA family sequences
 * **2023 bioRXiv** - CodonBERT- Large Language Models for mRNA Design and Optimization
 * **2023 BIB** - Integrated mRNA sequence optimization using deep learning
 * **2021 NAR** - Theoretical basis for stabilizing messenger RNA through secondary structure design
