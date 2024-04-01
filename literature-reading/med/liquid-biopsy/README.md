@@ -4,21 +4,55 @@
 >
 > ✅ or ✨ **: recommended readings**
 
-## 0. News/Patents of Liquid Biopsy
+> **关于液体活检技术的科普:**
+>
+> * **News**
+>   * 2022 Nature - GRAIL and the quest for earlier multi-cancer detection
+>   * 2022 - 肿瘤早筛，群雄谁能逐鹿？([Wechat link](https://mp.weixin.qq.com/s/qbjdqVSZqWsjE0jR4bzFtQ) | [Everhub link](https://www.yinxiang.com/everhub/note/86e90ab1-550a-40bf-923e-5e1b68be4b98))&#x20;
+>   * 2022 - New genomic technologies for multi-cancer early detection: Rethinking the scope of cancer screening ([_Cancer Cell_ Commentary](https://www.sciencedirect.com/science/article/pii/S1535610822000149?via%3Dihub))
+>   * 2022 - Omics and AI advance biomarker discovery for liver disease ([_Nature Medicine_ News](https://www.nature.com/articles/s41591-022-01853-9))
+>   * 2019 - 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 ( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) | [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) )
+>   * 2019 - 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub link](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I\_mlH\_l4ORrAZS\_rv9bytQ) )
+> * **Patents**&#x20;
+>   * 2019 - Nature Biotech. - Recent patents in cancer detection&#x20;
+> * [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium (ERCC) @ _Cell_
+> * [Outlook collection](https://www.nature.com/collections/hibdgeeijf) of _Nature_ ([Could tracking RNA in body fluids reveal disease?](https://www.nature.com/articles/d41586-020-01763-1) )
 
-**关于液体活检技术的科普**
 
-* **News**
-  * 2022 Nature - GRAIL and the quest for earlier multi-cancer detection
-  * 2022 - 肿瘤早筛，群雄谁能逐鹿？([Wechat link](https://mp.weixin.qq.com/s/qbjdqVSZqWsjE0jR4bzFtQ) | [Everhub link](https://www.yinxiang.com/everhub/note/86e90ab1-550a-40bf-923e-5e1b68be4b98))&#x20;
-  * 2022 - New genomic technologies for multi-cancer early detection: Rethinking the scope of cancer screening ([_Cancer Cell_ Commentary](https://www.sciencedirect.com/science/article/pii/S1535610822000149?via%3Dihub))
-  * 2022 - Omics and AI advance biomarker discovery for liver disease ([_Nature Medicine_ News](https://www.nature.com/articles/s41591-022-01853-9))
-  * 2019 - 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 ( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) | [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) )
-  * 2019 - 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub link](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I\_mlH\_l4ORrAZS\_rv9bytQ) )
-* **Patents**&#x20;
-  * 2019 - Nature Biotech. - Recent patents in cancer detection&#x20;
-* [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium (ERCC) @ _Cell_
-* [Outlook collection](https://www.nature.com/collections/hibdgeeijf) of _Nature_ ([Could tracking RNA in body fluids reveal disease?](https://www.nature.com/articles/d41586-020-01763-1) )
+
+## 0. Representative Publications
+
+### cfDNA - cancer
+
+* **2024 The New England Journal of Medicine** -  A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening
+* **2023 Nature Medicine** - Liquid biopsy epigenomic profiling for cancer subtyping
+* **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
+* **2023 Science Translational Med.** - Genome-wide analysis of aberrant position and sequence of plasma DNA fragment ends in patients with cancer
+* **2023 Cancer Discovery** - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA
+* **2022 Cancer Cell** - Evaluation of cell-free DNA approaches for multi- cancer early detection
+* **2020 Nature** - Integrating genomic features for noninvasive early lung cancer detection
+* **2020 Nature** - Microbiome analyses of blood and tissues suggest cancer diagnostic approach
+* **2020 Science** - Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
+* **2019 Nature** - Genome-wide cell-free DNA fragmentation in patients with cancer
+* **2018 Nature** - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **2018 Science** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+
+### cfRNA - cancer
+
+* **2023 Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
+* **2022 Cancer Cell** - Detection and localization of early- and late-stage cancers using platelet RNA
+* **2022 eLife** - Cancer type classification using plasma cell-free RNAs derived from human and microbes
+* **2018 Nature Med.** - Cancer cells exploit an orphan RNA to drive metastatic progression
+
+### cfRNA - pregnancy
+
+* **2022 Nature** - Early prediction of preeclampsia in pregnancy with cell-free RNA
+* **2022 Nature** - RNA profiles reveal signatures of future health and disease in pregnancy
+* **2022 Nature Biotech.** - Cell types of origin of the cell-free transcriptome
+* **2020 Science Translational Med.** - Circulating transcripts in maternal blood reflect a molecular signature of early-onset preeclampsia
+* **2018 Science** - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+
+
 
 ## I. Reviews of Liquid Biopsy
 
