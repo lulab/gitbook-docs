@@ -12,7 +12,7 @@
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
 * **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
 
-## II. scRNA
+## II. scRNA Profiling
 
 * [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
@@ -23,7 +23,7 @@
 * **2020 Nature Immunology** - Mapping systemic lupus erythematosus heterogeneity at the single-cell level
 * [**2019 **_**Nature**_](https://pubmed.ncbi.nlm.nih.gov/31554970/) - Analysis of the B cell receptor repertoire in six immune-mediated diseases
 
-## III. scMulti-Omics
+## III. scMulti-Omics Profiling
 
 * **2023 Nature cell biology** - Single-cell analysis reveals transcriptomic and epigenomic impacts on the maternal– fetal interface following SARS-CoV-2 infection
 * [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
@@ -34,7 +34,7 @@
 
 * **2022 Nature Leukemia** - Single-cell ATAC-seq maps the comprehensive and dynamic chromatin accessibility landscape of CAR-T cell dysfunction
 
-## V. Biomarkers
+## V. Biomarkers&#x20;
 
 * (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 

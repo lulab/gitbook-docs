@@ -19,6 +19,7 @@
   * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
   * [RNA Regulation Analysis](literature-reading/omics/postar.md)
   * [Multi-Omics Integration](literature-reading/omics/multiomics.md)
+  * [Single Cell Data Analysis](literature-reading/omics/single-cell-data-analysis.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Cancer](literature-reading/med/cancer/README.md)
     * [ncRNA in Cancer](literature-reading/med/cancer/ncrna.md)

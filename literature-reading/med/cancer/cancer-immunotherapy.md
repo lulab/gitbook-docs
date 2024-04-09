@@ -5,7 +5,7 @@
 * **\[review] 2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
 * **2023 Cancer Cell** - ZNF683 marks a CD8+ T cell population associated with anti-tumor immunity following anti-PD-1 therapy for Richter syndrome
 * **2023 Cancer Cell** - The pre-existing T cell landscape determines the response to bispecific T cell engagers in multiple myeloma patients
-* (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
+* ✅ (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
 * ✅ (neoadjuvant) **2022 **_**Cell**_ - Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
 * (neoadjuvant) **2022 Nature Med  -** Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer
 * (non-neo adjuvant) **2021** _**Nature -**_ ctDNA guiding adjuvant immunotherapy in urothelial carcinoma

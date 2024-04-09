@@ -38,6 +38,3 @@
 * _**2019 Bioinformatics**_ - Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.
 * _**2018 Clinical Cancer Research**_ - Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer
 
-
-
-###

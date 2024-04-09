@@ -1,4 +1,4 @@
-# 3. Panel and Database
+# Panel and Database
 
 > [**PDFs**](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F1.%20Precision%20Medicine\&mode=list)
 
@@ -49,6 +49,8 @@
 
 ### Other Detection/Diagnosis Panels
 
+* ✅ (neoadjuvant biomarker) [_**2022 Mol. Cancer**_ ](https://doi.org/10.1186/s12943-022-01684-9)- A liquid biopsy signature of circulating exosome-derived mRNAs, miRNAs and lncRNAs predict therapeutic efficacy to neoadjuvant chemotherapy in patients with advanced gastric cancer
+* ✅ (SLE biomarker) [_**2022 Lancet Rheumatol**_](https://www.sciencedirect.com/science/article/pii/S2665991322003320?via%3Dihub) - Identification of biomarkers to stratify response to B-cell-targeted therapies in systemic lupus erythematosus: an exploratory analysis of a randomised controlled trial
 * **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
   * 2019 - iScience - Early Cancer Detection from Multianalyte Blood Test Results
   * 2021 - Bioinformatics - CancerEMC frontline non-invasive cancer screening from circulating protein biomarkers and mutations in cell-free DNA
