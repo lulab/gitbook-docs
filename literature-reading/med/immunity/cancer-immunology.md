@@ -10,6 +10,7 @@ description: System and Environment
 
 ## **1. dsRNA** and immunity
 
+* ✅ **2023 Nature Reviews Immunology** - Novel insights into double-stranded RNA-mediated immunopathology
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
 * [**2021 Cancer Discovery** ](https://aacrjournals.org/cancerdiscovery/article/11/3/638/3342/Aggressive-PDACs-Show-Hypomethylation-of)- Aggressive PDACs Show Hypomethylation of Repetitive Elements and the Execution of an Intrinsic IFN Program Linked to a Ductal Cell of Origin
 * **2022 Nature Reviews Immunology** - The roles of extracellular vesicles in the immune system
