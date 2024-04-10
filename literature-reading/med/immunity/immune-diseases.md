@@ -1,16 +1,12 @@
 # Immune Diseases
 
-## 0. Reviews
+## I. Reviews
 
 * ✅  **\[review] 2023 Nature Reviews Rheumatology** - Precision medicine in systemic lupus erythematosus
 * ✅  **\[review] 2023 Nature Reviews Rheumatology** - Post-transcriptional checkpoints in autoimmunity&#x20;
 * **\[review] 2022 Nature Reviews Rheumatology** - The role of mitochondria in rheumatic diseases
 
-## I. Genetics & post-GWAS analysis
 
-* ✅ \[review] **2023 Nature Reviews Nephrology** - Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants
-* **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
-* **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
 
 ## II. scRNA Profiling
 
@@ -25,10 +21,10 @@
 
 ## III. scMulti-Omics Profiling
 
+* ✅ [**2023 Nature**](https://www.nature.com/articles/s41586-023-06708-y) - Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes
 * **2023 Nature cell biology** - Single-cell analysis reveals transcriptomic and epigenomic impacts on the maternal– fetal interface following SARS-CoV-2 infection
 * [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
 * **2021 Science Immunology** - Integrated single-cell transcriptomics and epigenomics reveals strong germinal center–associated etiology of autoimmune risk loci
-* **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk
 
 ## IV. CART-T
 

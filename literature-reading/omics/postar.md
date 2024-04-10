@@ -14,7 +14,7 @@ description: POST-trAnscriptional Regulation
 
 ## 0. POSTAR & Genetics
 
-* ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
+*
 
 ## 1. AS: Alternative splicing
 

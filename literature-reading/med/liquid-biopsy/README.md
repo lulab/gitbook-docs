@@ -187,3 +187,8 @@
 * \[Plasma proteome] _**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
 * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response
+
+### Metabolome
+
+* **2024 Nature Commn.** - Metabolomic machine learning predictor for diagnosis and prognosis of gastric cancer
+

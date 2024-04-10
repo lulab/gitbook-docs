@@ -16,10 +16,11 @@
 
 * [Tips for paper reading](literature-reading/reading.md)
 * [Omics Data Analysis](literature-reading/omics/README.md)
-  * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
   * [RNA Regulation Analysis](literature-reading/omics/postar.md)
+  * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
   * [Multi-Omics Integration](literature-reading/omics/multiomics.md)
   * [Single Cell Data Analysis](literature-reading/omics/single-cell-data-analysis.md)
+  * [Post-GWAS Analysis](literature-reading/omics/post-gwas-analysis.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Cancer](literature-reading/med/cancer/README.md)
     * [ncRNA in Cancer](literature-reading/med/cancer/ncrna.md)
