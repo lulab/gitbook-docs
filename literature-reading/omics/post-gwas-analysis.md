@@ -14,5 +14,7 @@
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
 
+### RNA modification
 
+* **2022 Nature Genetics** - Genetic drivers of m6A methylation in human brain, lung, heart and muscle
 
