@@ -78,6 +78,7 @@
 ## II. cfDNA
 
 * **Multianalyte & Multiomics**&#x20;
+  * **2024 Cell Reports Medicine** - Multi-modal cell-free DNA genomic and fragmentomic patterns enhance cancer survival and recurrence analysis
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
   * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
@@ -126,6 +127,7 @@
 * **Long**
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
+  * **2023 Nature Commn.** - Terminal modiﬁcations independent cell-free RNA sequencing enables sensitive early cancer detection and classiﬁcation
   * _**2022 NPJ precision oncology**_ - Plasma cell-free RNA proﬁling distinguishes cancers from premalignant conditions in solid and hematologic malignancies
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
   * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection

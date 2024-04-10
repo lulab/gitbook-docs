@@ -19,6 +19,7 @@ description: System and Environment
 
 ## I. TE-RNA/Repeats&#x20;
 
+* **2024 Nature reviews cancer** -  Towards targeting transposable elements for cancer therapy
 * ✅ **2024 Genome Biology** - Divergent composition and transposon-silencing activity of small RNAs in mammalian oocytes
 * **\[review]** [**2017 Nature Reviews** Cancer ](https://www.nature.com/articles/nrc.2017.35)- Transposable elements in cancer
 * **2022 Nature Genetics** - LINE1 are spliced in non-canonical transcript variants to regulate T cell quiescence and exhaustion
