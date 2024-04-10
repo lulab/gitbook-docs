@@ -2,6 +2,7 @@
 
 ## I. RNA-RNA sequencing methods
 
+* **2024 Nature Biotechnology** - KARR-seq reveals cellular higher-order RNA structures and RNA–RNA interactions
 * ✅ **\[review]** [_**2022 Current Opinion in Genetics & Development**_](https://doi.org/10.1016/j.gde.2021.11.007) - Architecture of RNA–RNA interactions
 * ✅  **2020 **_**Nature**_ - RIC-seq for global in situ profiling of RNA–RNA spatial interactions.&#x20;
 * **2023 Nature** - Complementary Alu sequences mediate enhancer–promoter selectivity
