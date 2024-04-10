@@ -6,6 +6,7 @@
 
 **Reviews**
 
+* ✅ **2024 Nature reviews chemistry** - Small molecule approaches to targeting RNA
 * ✅ [**2022 Nature Reviews Drug Discovery** ](https://doi.org/10.1038/s41573-022-00521-4)- Targeting RNA structures with small molecules
 * [**2021 Nature Reviews Drug Discovery**](https://www.nature.com/articles/s41573-021-00199-0) - Advances in targeting ‘undruggable’ transcription factors with small molecules
 * **2020 J. of Med. Chem.** - How We Think about Targeting RNA with Small Molecules

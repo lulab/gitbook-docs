@@ -24,6 +24,7 @@
 
 ### cfDNA - cancer
 
+* **2024 Science Translational Medicine** - Genome-wide repeat landscapes in cancer and cell-free DNA
 * **2024 The New England Journal of Medicine** -  A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening
 * **2023 Nature Medicine** - Liquid biopsy epigenomic profiling for cancer subtyping
 * **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
