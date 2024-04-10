@@ -86,6 +86,7 @@
   * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * ✅ **\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
+  * **2024 Science Translational Medicine** - Machine learning to detect the SINEs of cancer
   * **2023 Nature Genetics** - Single-molecule genome-wide mutation profiles of cell-free DNA for non-invasive detection of cancer
   * **2023 STM** - Genome-wide analysis of aberrant position and sequence of plasma DNA fragment ends in patients with cancer
   * &#x20;✅ \[**end-motif]** **2023 PNAS** - Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs
