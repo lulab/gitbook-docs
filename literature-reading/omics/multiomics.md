@@ -21,6 +21,8 @@
 
 ## III. Multi-Omics Data Integration Models
 
+* **2023 bioRxiv** - scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
+* **2023 Nature** - Transfer learning enables predictions in network biology
 * [**2022 Nature Reviews**](https://www.nature.com/articles/s41576-022-00532-2) - Obtaining genetics insights from deep learning via explainable artificial intelligence
 * ✅ [2022 bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.27.514141v1.full) - Transformer-based deep learning integrates multi-omic data with cancer pathways
 * **2022 Genome Biology** - A benchmark study of deep learning‑based multi‑omics data fusion methods for cancer
