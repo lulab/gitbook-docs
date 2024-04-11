@@ -16,6 +16,7 @@
 * [_**2022 Cell**_ ](https://pubmed.ncbi.nlm.nih.gov/36318921/)- Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution
 * ✅  _**2021 Nature Genetics**_ - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease&#x20;
 * **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk
+* ✅  _**2021 Genome Biology**_ - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * _**2018 Science**_ - Single-cell multiomics sequencing and analyses of human colorectal cancer
 
 

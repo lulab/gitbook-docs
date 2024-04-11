@@ -20,7 +20,7 @@
   * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
   * [Multi-Omics Integration](literature-reading/omics/multiomics.md)
   * [Single Cell Data Analysis](literature-reading/omics/single-cell-data-analysis.md)
-  * [Post-GWAS Analysis](literature-reading/omics/post-gwas-analysis.md)
+  * [Genetic & Function Analysis](literature-reading/omics/genetic-and-function-analysis.md)
 * [Precision Medicine](literature-reading/med/README.md)
   * [Cancer](literature-reading/med/cancer/README.md)
     * [ncRNA in Cancer](literature-reading/med/cancer/ncrna.md)
