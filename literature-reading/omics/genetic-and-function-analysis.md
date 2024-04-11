@@ -12,6 +12,7 @@
 ### 1. Genetics & Post-GWAS
 
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
+* ✅  _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
 
 ### 2. Functional Regulation
