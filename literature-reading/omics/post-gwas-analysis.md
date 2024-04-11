@@ -9,6 +9,8 @@
 
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
+* **2017 Genome Research** - Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. &#x20;
+* **2015 Cancer cell** - The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers&#x20;
 
 ## III. RNA modification
 
