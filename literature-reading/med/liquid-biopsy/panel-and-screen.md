@@ -4,6 +4,7 @@
 
 ## 0. Databases
 
+* **2024 NAR** - cfOmics: a cell-free multi-Omics database for diseases
 * _**2021 NAR**_ - exoRBase 2.0: an atlas of mRNA, lncRNA and circRNA in extracellular vesicles from human bioﬂuids
 * _**2020 NAR**_ - Vesiclepedia 2019: a compendium of RNA, proteins, lipids and metabolites in extracellular vesicles
 * _**2020 NAR**_ - CFEA a cell-free epigenome atlas in human disease
