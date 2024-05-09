@@ -5,6 +5,7 @@
 * ✅ **2023 **_**Nature Genetics**_ - Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell resolution&#x20;
 * ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abf5759) - The coding and long noncoding single-cell atlas of the developing human fetal striatum
 * **2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
+* [**2020 Nature Cell Biol.** ](https://www.nature.com/articles/s41556-020-0512-1)- Differentiation of transplanted haematopoietic stem cells tracked by single-cell transcriptomic analysis
 
 ## II. scMultiOmics
 
