@@ -2,6 +2,7 @@
 
 ## 1. **Cancer Immunotherapy**
 
+* **2024 Cancer Cell** - Integrated multi-omics profiling to dissect thespatiotemporal evolution of metastatichepatocellular carcinoma
 * **\[review] 2023 Cell** - Delivering the next generation of cancer immunotherapies with RNA
 * **2023 Cancer Cell** - ZNF683 marks a CD8+ T cell population associated with anti-tumor immunity following anti-PD-1 therapy for Richter syndrome
 * **2023 Cancer Cell** - The pre-existing T cell landscape determines the response to bispecific T cell engagers in multiple myeloma patients

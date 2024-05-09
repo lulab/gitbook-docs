@@ -150,6 +150,7 @@
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Small**
+  * ✨ **oncRNA: 2024 bioRxiv** - Systematic annotation of orphan RNAs reveals blood-accessible molecular barcodes of cancer identity and cancer-emergent oncogenic drivers
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
   * **small cfRNA**: _**2015 Scientific Report**_ - Plasma extracellular RNA profiles in healthy and cancer patients

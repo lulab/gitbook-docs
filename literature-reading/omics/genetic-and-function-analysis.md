@@ -4,14 +4,16 @@
 
 ### **1. Genetics & Post-GWAS**
 
+* **2022 Nature genetics** - Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data
 * **2022 Cancer Discovery** - Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk Alleles Somatic Mutations and 3D Genomic Architecture
 * **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
 
-## II. RNA editing
+## II. RNA editing and splicing
 
 ### 1. Genetics & Post-GWAS
 
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
+* **2022 Nature Genetics** - Genetic control of RNA splicing and its distinct role in complex trait variation
 * ✅  _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
 
