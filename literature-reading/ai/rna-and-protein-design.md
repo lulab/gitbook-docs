@@ -1,5 +1,10 @@
 # RNA & Protein Design
 
+## All Atom
+
+* [**2024 Nature**](https://www.nature.com/articles/s41586-024-07487-w) - Accurate structure prediction of biomolecular interactions with AlphaFold 3
+* [**2024 Science**](https://pubmed.ncbi.nlm.nih.gov/38452047/) - Generalized biomolecular modeling and design with RoseTTAFold All-Atom
+
 ## 0. Protein Design
 
 * ✅ \[review] [**2024 NBT**](https://www.nature.com/articles/s41587-024-02127-0) - Machine learning for functional protein design
