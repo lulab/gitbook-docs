@@ -14,6 +14,7 @@
 * ✅ [**2023 Nature Genetics**](https://www.nature.com/articles/s41588-023-01445-4) _-_ Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases
 * [**2023 Nature Methods**](https://www.nature.com/articles/s41592-023-01938-4) - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
 * [**2022 Cell** ](https://pubmed.ncbi.nlm.nih.gov/36318921/)- Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution
+* ✅ **2021 Cancer Cell** - Single-cell analyses reveal key immune cell subsets associated with response to PD-L1 blockade in triple-negative breast cancer
 * ✅ **2021 Nature Genetics** - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease&#x20;
 * ✅ **2021 Nature Genetics** - Single-cell chromatin accessibility identifies pancreatic islet cell type– and state-specific regulatory programs of diabetes risk
 * ✅ **2021 Genome Biology** - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
