@@ -41,6 +41,7 @@ description: Finding Structural Motif (dsRNA, RNA-RNA pairs)
 
 ## III. sRNA in microbiome
 
+* ✅[ ](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub)[**2024 Science**](https://www.science.org/doi/10.1126/science.adh4859) - Hydrolytic endonucleolytic ribozyme (HYER) is programmable for sequence-specific DNA cleavage
 * **2023 **_**Science**_ - Uncovering the functional diversity of rare CRISPR-Cas systems with deep terascale clustering
 * ✅[ **2023 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
 * _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
