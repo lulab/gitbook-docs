@@ -18,6 +18,7 @@
 
 ### 1. Genetics & Post-GWAS
 
+* **2024 Nature Communications** - Long-read sequencing for 29 immune cell subsets reveals disease-linked isoforms
 * ✅ [**2022 Nature**](https://pubmed.ncbi.nlm.nih.gov/35922514/) - RNA editing underlies genetic risk of common inflammatory diseases
 * **2022 Nature Genetics** - Genetic control of RNA splicing and its distinct role in complex trait variation
 * ✅  _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
