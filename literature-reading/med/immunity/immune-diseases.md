@@ -11,6 +11,7 @@
 
 ## II. scRNA Profiling
 
+* **2024 Cell Reports Medicine** - Uncoupling interferons and the interferon signature explains clinical and transcriptional subsets in SLE
 * [**2022 **_**Signal transduction and targeted therapy**_](https://www.nature.com/articles/s41392-022-01167-9) - Deciphering transcriptome alterations in bone marrow hematopoiesis at single-cell resolution in immune thrombocytopenia
 * ✅ [**2022 **_**Science**_](https://pubmed.ncbi.nlm.nih.gov/35389781/) - Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus
 * ✅ [**2022 **_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422009242) _**-**_ Distinct transcriptome architectures underlying lupus establishment and exacerbation

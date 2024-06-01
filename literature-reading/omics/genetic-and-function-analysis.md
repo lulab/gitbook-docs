@@ -4,9 +4,14 @@
 
 ### **1. Genetics & Post-GWAS**
 
+* ✅ **2024 Nature Genetics** - Genetic mapping across autoimmune diseases reveals shared associations and mechanisms
 * **2022 Nature genetics** - Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data
 * **2022 Cancer Discovery** - Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk Alleles Somatic Mutations and 3D Genomic Architecture
 * **2019 Nature Communications** - SLE non-coding genetic risk variant determines the epigenetic dysfunction of an immune cell speciﬁc enhancer that controls disease-critical microRNA expression
+
+### 2. RNA & Function Analysis
+
+* **2024 Cell Reports Medicine** - Uncoupling interferons and the interferon signature explains clinical and transcriptional subsets in SLE
 
 ## II. RNA editing and splicing
 
