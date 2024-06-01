@@ -14,6 +14,7 @@
 
 ## I. RNA Design&#x20;
 
+* **2024 Nature Machine Intelligence** - Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning
 * ✅ [**2024 Nature machine intelligence** ](https://www.nature.com/articles/s42256-024-00823-9)- A 5′ UTR language model for decoding untranslated regions of mRNA and function predictions
 * **2024 Cell Genome** - Revealing the grammar of small RNA secretion using interpretable machine learning
 * [**2024 Nature Methods**](https://www.nature.com/articles/s41592-023-02148-8) - Deep generative design of RNA family sequences
