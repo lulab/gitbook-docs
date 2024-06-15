@@ -8,6 +8,7 @@ description: Single Cell Sequencing Technologies
 
 * ✅ [**2022 Nature Biotech.** ](https://www.nature.com/articles/s41587-022-01517-6)**-** High-throughput total RNA sequencing in single cells using VASA-seq
 * **2022 Nature Biotech.** Spatial mapping of the total transcriptome by in situ polyadenylation
+* \[mb**RNA split-pool**]  **2020 Science -** Microbial single-cell RNA sequencing by split-pool barcoding
 * ✅ \[**scRNA split-pool**] - [**2018 **_**Science**_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643870/) **-** SPLiT-seq reveals cell types and lineages in the developing brain and spinal cord&#x20;
 
 ## II. scMulti-Omics
