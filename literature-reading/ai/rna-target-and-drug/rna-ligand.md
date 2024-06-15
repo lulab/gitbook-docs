@@ -16,6 +16,7 @@
 
 ### 0. Protein-ligand prediction methods
 
+* **2024 Nature Machine Intelligence** - Generic protein–ligand interaction scoring by integrating physical prior knowledge and data augmentation modelling
 * **2023 Nature machine intelligence** - Calibrated geometric deep learning improves kinase–drug binding predictions
 * **2023 Nature machine intelligence** - Learning characteristics of graph neural networks predicting protein–ligand affinities
 * **2023 Nature Machine Intell.** - Interpretable bilinear attention network with domain adaptation improves drug–target prediction

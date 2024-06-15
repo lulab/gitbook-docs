@@ -7,6 +7,7 @@
 
 ## II. Multi-Omics Data Integration Models
 
+* **2024 Nature Communications** -  Enhancing NSCLC recurrence prediction with PET/CT habitat imaging, ctDNA, and integrative radiogenomics-blood insights
 * **2023 bioRxiv** - scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
 * **2023 Nature** - Transfer learning enables predictions in network biology
 * [**2022 Nature Reviews**](https://www.nature.com/articles/s41576-022-00532-2) - Obtaining genetics insights from deep learning via explainable artificial intelligence
