@@ -8,7 +8,16 @@
 
 ## I. Format
 
-**Sections**
+**Files for Submission**
+
+1. **Cover Letter.docx** (1 page)
+2. **Suggested Reviewers.docx** (6 reviewers)
+3. **Manuscript - Main text.docx** (see sections below)
+4. **Figures.pdf** (save as from PPT file)
+5. **Supplementary Info.pdf** (save as from docx file)
+6. **Supplementary file 1.xlsx, Supplementary file 2.xlsx, ...**&#x20;
+
+**Sections in Main text**
 
 1. Title, Authors and Affiliations
 2. Abstract and Keywords
