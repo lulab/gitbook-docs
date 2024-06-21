@@ -1,6 +1,6 @@
 # FAQ
 
-## I) 科研方式
+I) 科研方式
 
 ### 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
@@ -47,6 +47,18 @@
 * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》
 * 机器学习课程：如《机器学习》或《深度学习》
 * 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期），《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（研究生课-秋季学期）
+
+**清华大学Python 课程推荐：**
+
+* 00740282 计算机程序设计基础(Python)  2学分
+* :star2:【推荐】 00310352 **基于Python的科学与数值计算**  2学分
+* 00740292 Python程序设计进阶  2学分
+
+**清华大学进阶人工智能课程推荐：**
+
+<figure><img src=".gitbook/assets/WechatIMG254.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 **(1) 完成该链接下的2个性格和能力测试题并email 给我一下结果：**\
 [https://cloud.tsinghua.edu.cn/d/cf493b8da3ac409ba2ee/](https://cloud.tsinghua.edu.cn/d/cf493b8da3ac409ba2ee/)\
