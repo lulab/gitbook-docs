@@ -4,7 +4,7 @@ description: 实验室指南
 
 # Home - Lab Guide
 
-## I. Start in Lu Lab
+## <mark style="color:green;">I. Start in Lu Lab</mark>
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
@@ -46,7 +46,7 @@ description: 实验室指南
 
 ![](.gitbook/assets/learning.jpg)
 
-## II. Research in Lu Lab
+## <mark style="color:green;">II. Research in Lu Lab</mark>
 
 > “天道酬勤“   -《周易》
 >
@@ -70,7 +70,7 @@ description: 实验室指南
 
 ![](.gitbook/assets/science.gif)
 
-## III. Publish in Lu Lab
+## <mark style="color:green;">III. Publish in Lu Lab</mark>
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
