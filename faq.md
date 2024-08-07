@@ -178,7 +178,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 >
 > 清华云上还提供了一些正式的presentation的模板：4.Sharing - PPT and Poster Templates; 3.Thesis/优秀答辩ppt。
 
-## III) 生活和财务
+## III. 生活和财务
 
 ### 1） 校园内有哪些餐厅可以用支付宝和微信支付？ <a href="#eat" id="eat"></a>
 
@@ -215,21 +215,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 > * 纳税人识别号：12100000400000624D
 > * 其他（地址、电话、开户行及账号等）：**不要填，一定空着**
 
-## IV) 远程工作
-
-### 1） 需要下载论文或者登录校园网，如何连接清华VPN?
-
-* 方法1. 清华大学WebVPN
-* 方法2. SSL VPN
-
-> 更多帮助：[https://its.tsinghua.edu.cn](https://its.tsinghua.edu.cn)
-
-### 2) 如何录制讲课视频？
-
-* 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/%E5%9C%A8-powerpoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E9%9F%B3%E9%A2%91-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html)）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
-* 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5)&#x20;
-
-## V) 办公硬件和软件
+## IV. 办公硬件和软件
 
 ### 1) 科研办公中的个人硬件如何购买？
 
@@ -248,7 +234,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 
 **see** [**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
 
-## VI) 网络和数据
+## V. 网络和数据
 
 ### 1) 我们要经常备份数据吗？
 
@@ -267,3 +253,19 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 View --> Developer --> Developer Tools --> Settings (click upright corner)
 
 check "_disable cache_"
+
+
+
+## VI. 远程工作
+
+### 1） 需要下载论文或者登录校园网，如何连接清华VPN?
+
+* 方法1. 清华大学WebVPN
+* 方法2. SSL VPN
+
+> 更多帮助：[https://its.tsinghua.edu.cn](https://its.tsinghua.edu.cn)
+
+### 2) 如何录制讲课视频？
+
+* 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/%E5%9C%A8-powerpoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E9%9F%B3%E9%A2%91-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html)）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
+* 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5)&#x20;
