@@ -4,6 +4,8 @@ description: 实验室指南
 
 # Home - Lab Guide
 
+## [Our Mission](our-mission.md)
+
 ## <mark style="color:green;">I. Start in Lu Lab</mark>
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
@@ -17,7 +19,7 @@ description: 实验室指南
 * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md)  &  [Lab Calendar](cal.md)
-* [Lab Manual](lab-manual.md)  &  [FAQ](faq.md)  (more @ 腾讯共享文档: _**Lu Lab - All** )_
+* [FAQ](faq.md)  (more @ 腾讯共享文档: _**Lu Lab - All** )_
 
 ### 📖 Learning <a href="#learning" id="learning"></a>
 
@@ -97,3 +99,12 @@ description: 实验室指南
 > * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) ) - Bioinformatics Tutorial
 > * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
+***
+
+| "生物信息学"教育部重点实验室                                                           | MOE Key Lab of Bioinformatics                               |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 清华大学 生命科学学院                                                               | School of Life Sciences, Tsinghua University                |
+| 电话/传真：010-627-89217                                                       | Tel/FAX: +86-010-627-89217                                  |
+| 网址：[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) | Website: [http://www.ncRNAlab.org](http://www.ncrnalab.org) |
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><strong>天行健  君子以自强不息        地势坤 君子以厚德载物</strong></p></figcaption></figure>

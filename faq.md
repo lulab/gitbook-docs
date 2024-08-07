@@ -8,7 +8,7 @@
 
 * 自强不息（有上进心不懒散，止于至善）
 * 厚德载物（对他人的尊重和善意）
-* 作息规律且有效率
+* [作息规律且有效率](faq.md#pre-1)
 * 勤于阅读、勤于思考 （<mark style="color:orange;">Stay Hungry</mark> & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
 * 经常锻炼身体&#x20;
 * … …&#x20;
@@ -29,9 +29,56 @@
 
 ![Think Different](.gitbook/assets/image.png)
 
+### 2) 如何学习新知识和新技能？ <a href="#coach" id="coach"></a>
+
+{% hint style="success" %}
+Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
+{% endhint %}
+
+{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
+
+听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
+
+![学习金字塔](.gitbook/assets/learning.jpg)
+
+### 3) 如何成为一个好的研究生和科研工作者？ <a href="#sci" id="sci"></a>
+
+> "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
+>
+> **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
+
+* **科研生涯的四戒律**&#x20;
+  * 1\. 边干边学，不要彷徨；&#x20;
+  * 2\. 勇于创新，敢于挑战；&#x20;
+  * 3\. 忍受寂寞，注重过程；&#x20;
+  * 4\. 掌握历史，树立信心。
+* **十准则**&#x20;
+  * 1\. Craft good questions&#x20;
+  * 2\. Ask for help&#x20;
+  * 3\. Respect and appreciate your lab mates&#x20;
+  * 4\. Have at least two projects&#x20;
+  * 5\. Sleep on it&#x20;
+  * 6\. If you need guidance from your mentor, set up a meeting&#x20;
+  * 7\. Learn when to be obsessive&#x20;
+  * 8\. Start with the task you are least excited about, and do it right away&#x20;
+  * 9\. Balance bouts of focused work with short breaks&#x20;
+  * 10\. Get organized
+* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v\_show/id\_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)）&#x20;
+  * 1\. 要无条件自信，即使在做错的时候；&#x20;
+  * 2\. 不要想太多，定时清除消极思想；&#x20;
+  * 3\. 学会忘记痛苦，为阳光记忆腾出空间；&#x20;
+  * 4\. 敢于尝试，不怕丢脸；&#x20;
+  * 5\. 每天都是新的，烦恼痛苦不过夜；&#x20;
+  * 6\. 面对别人的优秀，发自内心赞美；&#x20;
+  * 7\. 做人最高境界不是一味低调，也不是一味张扬，而是始终如一的不卑不亢
+* See More
+  * [科研生涯的四戒律和十准则](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
+  * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
+  * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
 
-### 2) 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
+
+### 4) 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
 \
 我们准备了一些可以参考和自学的材料，希望对大家有所帮助，为之后做科研实习甚至读博打好基础。
@@ -82,54 +129,13 @@
 
 
 
-### 3) 如何学习新知识和新技能？ <a href="#coach" id="coach"></a>
+### 5) 如何尽快融入到实验室的科研氛围中？
 
-{% hint style="success" %}
-Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
-{% endhint %}
+> "_Study while others are sleeping; work while others are loafing; prepare while others are playing; dream while others are wishing._"  - William A. Ward
 
-{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
+要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
 
-听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
-
-![学习金字塔](.gitbook/assets/learning.jpg)
-
-### 4) 如何成为一个好的研究生和科研工作者？ <a href="#sci" id="sci"></a>
-
-> "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
->
-> **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
-
-* **科研生涯的四戒律**&#x20;
-  * 1\. 边干边学，不要彷徨；&#x20;
-  * 2\. 勇于创新，敢于挑战；&#x20;
-  * 3\. 忍受寂寞，注重过程；&#x20;
-  * 4\. 掌握历史，树立信心。
-* **十准则**&#x20;
-  * 1\. Craft good questions&#x20;
-  * 2\. Ask for help&#x20;
-  * 3\. Respect and appreciate your lab mates&#x20;
-  * 4\. Have at least two projects&#x20;
-  * 5\. Sleep on it&#x20;
-  * 6\. If you need guidance from your mentor, set up a meeting&#x20;
-  * 7\. Learn when to be obsessive&#x20;
-  * 8\. Start with the task you are least excited about, and do it right away&#x20;
-  * 9\. Balance bouts of focused work with short breaks&#x20;
-  * 10\. Get organized
-* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v\_show/id\_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)）&#x20;
-  * 1\. 要无条件自信，即使在做错的时候；&#x20;
-  * 2\. 不要想太多，定时清除消极思想；&#x20;
-  * 3\. 学会忘记痛苦，为阳光记忆腾出空间；&#x20;
-  * 4\. 敢于尝试，不怕丢脸；&#x20;
-  * 5\. 每天都是新的，烦恼痛苦不过夜；&#x20;
-  * 6\. 面对别人的优秀，发自内心赞美；&#x20;
-  * 7\. 做人最高境界不是一味低调，也不是一味张扬，而是始终如一的不卑不亢
-* See More
-  * [科研生涯的四戒律和十准则](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
-  * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
-  * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
-
-### 5) 导师、同学、同事之间如何交流科研课题的进展？ <a href="#email" id="email"></a>
+### 6) 导师、同学、同事之间如何交流科研课题的进展？ <a href="#email" id="email"></a>
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
@@ -148,25 +154,7 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 >
 > 李小粥@知乎
 
-
-
-
-
-## II. 实验室规范
-
-### 1) 如何尽快融入到实验室的科研氛围中？
-
-> "_Study while others are sleeping; work while others are loafing; prepare while others are playing; dream while others are wishing._"  - William A. Ward
-
-要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
-
-### 2) 有事没法来实验室需要提前多久请假？ <a href="#vacation" id="vacation"></a>
-
-* 如非事出突然/特殊因由，请**提前一周**发email给PI（抄送实验室管理员）请假；
-* 寒暑假、国庆长假等**提前半个月到1个月**安排好工作交接和假日值班；
-* 如果只是短暂离开几个小时，可以不用请假。
-
-### 3) 组会和课题讨论小组会之间的差别是什么？
+### 7) 组会和课题讨论小组会之间的差别是什么？
 
 * 课题讨论小组会的形式随意，主要以讨论结果和细节为目的。 不论本科生还是研究生，做研究主要包括三块，汇报也是这三块：
   * （1）文献调研结论（对一个科学问题或者技术的调研和理解）
@@ -177,6 +165,64 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 > 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括PI的）一些好的background slides，这样可以不断优化和积累background的slides。
 >
 > 清华云上还提供了一些正式的presentation的模板：4.Sharing - PPT and Poster Templates; 3.Thesis/优秀答辩ppt。
+
+
+
+## II. 实验室规范
+
+### 1) 如何作息规律且有效率？ <a href="#pre" id="pre"></a>
+
+到底需要每周在实验室工作多久？不少杰出的科学家给学生做出的工作时间的看法和建议（认为每周需要工作<mark style="color:orange;">**60个小时以上**</mark>），都是非常值得我们借鉴的。 【[原文链接](https://app.yinxiang.com/fx/c0d05045-6620-4fbc-8ce6-06c5b799fc98)】
+
+> “天道酬勤”  “勤而善悟”  &#x20;
+>
+> _"Study while others are sleeping;  work while others are loafing;_
+>
+> _prepare while others are playing; dream while others are wishing."_    - William A. Ward
+
+**规律而有效的作息时间建议：**
+
+{% hint style="success" %}
+* 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7:30-10pm (2.5) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+* 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+{% endhint %}
+
+**效率对比：**
+
+同样是早上“9点多”来，晚上“快10点”走，但如果稍微放松懒散一点，**感觉上差不多**的作息时间，实质上一周下来就<mark style="color:orange;">**很容易**</mark>会变成：
+
+{% hint style="danger" %}
+* 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<mark style="color:orange;">**\~40小时**</mark>
+{% endhint %}
+
+> **注：**以上为每天的平均时间，实际执行时周一到周五多一点、周六少一点，更符合常情也更容易做到。每天和每周的工作时间和方式，要因人而异，适合自己才是最重要的。同时，工作效率要比绝对时间更为重要。
+
+### 2) 假期如何安排？
+
+#### A. 研究生
+
+* 【基本要求】 遵守国家、学校和学院的作息和放假规定，不随意不来实验室。
+* 【较高要求】 建议如下：
+  * 暑假1周左右，寒假2周左右（建议不连续长时间脱产，否则假期后要很长时间才能恢复工作状态）；
+  * 五一、十一休息一半左右的天数；
+  * 有特殊需求的，上述天数可以改为年假平常修。
+* 注意同一课题不同人员错峰（最好保证实验室同一课题最多只有除夕到初三的四天没有人）。
+* 特殊情况者可以申请远程工作。
+* 事假从上述天数中扣除，病假视具体情况酌情评估。
+
+#### B. 博士后和其他工作人员
+
+* 可选择和学生假期同步；
+* 也可选择普通社会放假制度（每周双休 + 国家法定假日+带薪年假； 带薪年假按照劳动法的规定，工作满1年不满10年，带薪年休假5个工作日；工作10-20年，带薪年休假10个工作日； 事假可从年假中扣除； 病假视具体情况酌情评估）。&#x20;
+
+### 3) 有事没法来实验室如何请假？ <a href="#vacation" id="vacation"></a>
+
+**建议养成做事提前规划的习惯**:
+
+* 如非事出突然/特殊因由，请<mark style="color:red;">**提前一周**</mark>发email给PI（抄送实验室管理员）请假；
+* 寒暑假、国庆长假等<mark style="color:red;">**提前半个月到1个月**</mark>安排好工作交接和假日值班；
+* 如果只是短暂离开几个小时，可以不用请假;
+* 如遇到疫情封控、天灾等不可抗力，上述规定根据具体情况具体调整。 &#x20;
 
 ## III. 生活和财务
 
