@@ -8,15 +8,9 @@
 
 ### Our Mission
 
-Our group is interested in developing **bioinformatics** technologies and practicing evidence-based **precision medicine**. We utilize <mark style="color:orange;">**noncoding RNA (ncRNA)**</mark> focused multi-omics data, together with **machine learning and AI**, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system, including both animal and plant. Ultimately, this will help us understand and cure human diseases, know, and improve ourselves.
+Our group is interested in developing **bioinformatics** technologies and practicing evidence-based **precision medicine**. We utilize <mark style="color:orange;">**noncoding RNA (ncRNA)**</mark> focused multi-omics data, together with **machine learning and AI**, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system. Ultimately, this will help us understand and cure human diseases, know, and improve ourselves.
 
 我们实验室致力于发展<mark style="color:green;">**生物信息学**</mark>技术，并探索能够广泛应用于<mark style="color:green;">**精准医疗**</mark>的具体实践。我们利用<mark style="color:orange;">**非编码 RNA**</mark><mark style="color:orange;">（</mark><mark style="color:orange;">**ncRNA）**</mark>为核心的多组学数据，结合机器学习和<mark style="color:green;">**人工智能**</mark>技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。“上工治未病”，我们的一个重要使命，是帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
-
-> “少年应有鸿鹄志，当骑骏马踏平川 ” &#x20;
->
-> “_I cannot teach anybody anything; I can only make them think._" – Socrates
->
-> _“The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.”_   - William A. Ward
 
 
 
@@ -45,13 +39,13 @@ Our group is interested in developing **bioinformatics** technologies and practi
 **规律而有效的作息时间建议：**
 
 {% hint style="success" %}
-* 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7-9:30pm (2.5) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
-* 或者 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+* 9:00am-12pm (3) + 1:30-6:00pm (4.5) + 7:30-10pm (2.5) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
+* 8:00am-12pm (4) + 1:00-6:00pm (5) + 9-10pm (1) = \~10  X 6 天 = <mark style="color:orange;">**\~60 小时**</mark>
 {% endhint %}
 
 **效率对比：**
 
-同样是早上“9点多”来，晚上“快10点”走，如果稍微放松懒散一点，一周下来就<mark style="color:orange;">**很容易**</mark>会变成：
+同样是早上“9点多”来，晚上“快10点”走，但如果稍微放松懒散一点，**感觉上差不多**的作息时间，实质上一周下来就<mark style="color:orange;">**很容易**</mark>会变成：
 
 {% hint style="danger" %}
 * 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<mark style="color:orange;">**\~40小时**</mark>
@@ -68,11 +62,11 @@ Our group is interested in developing **bioinformatics** technologies and practi
 * 【基本要求】 遵守国家、学校和学院的作息和放假规定，不随意不来实验室。
 * 【较高要求】 建议如下：
   * 暑假1周左右，寒假2周左右（建议不连续长时间脱产，否则假期后要很长时间才能恢复工作状态）；
-  * 注意同一课题不同人员错峰（最好保证实验室同一课题最多只有除夕到初三的四天没有人）；
   * 五一、十一休息一半左右的天数；
-  * 上述天数可以改为年假平常修；
-  * 特殊情况者可以申请远程工作;
-  * 事假从上述天数中扣除，病假视具体情况酌情评估。
+  * 有特殊需求的，上述天数可以改为年假平常修。
+* 注意同一课题不同人员错峰（最好保证实验室同一课题最多只有除夕到初三的四天没有人）。
+* 特殊情况者可以申请远程工作。
+* 事假从上述天数中扣除，病假视具体情况酌情评估。
 
 ### III-B. 博士后和其他工作人员：
 
