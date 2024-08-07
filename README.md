@@ -38,7 +38,7 @@ description: 实验室指南
 
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://lulab2.gitbook.io)
+  * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://book.ncrnalab.org/teaching)
   * **\[Advanced]** Lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/Experience Sharing_)_
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
@@ -81,8 +81,8 @@ description: 实验室指南
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
 * [Paper](https://www.ncrnalab.org/publications/)
-  * 历届毕业论文: 清华云盘 - Lu Lab Shared/3.Thesis
-  * Manuscripts: 清华云盘 - Lu Lab Shared/5.Manuscript
+  * 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
+  * Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
     * [Tips for manuscript writing](paper-writing/writing.md)
 
 ![](.gitbook/assets/success.png)
@@ -98,6 +98,3 @@ description: 实验室指南
 > * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) ) - Bioinformatics Tutorial
 > * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
 
-
-
-> [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown\_tables) | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
