@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Home - Lab Guide](README.md)
-* [Lab Manual](lab-manual.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
+* [Lab Manual](lab-manual.md)
 * [FAQ](faq.md)
 
 ## Internal Training
