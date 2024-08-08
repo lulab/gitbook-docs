@@ -4,15 +4,15 @@ description: 实验室指南
 
 # Home - Lab Guide
 
-## &#x20; [Our Mission](our-mission.md)
-
 <div align="left">
 
 <figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure>
 
 </div>
 
+## [Our Mission](our-mission.md)
 
+***
 
 ## <mark style="color:purple;">I. Start in Lu Lab</mark>
 
@@ -103,6 +103,8 @@ description: 实验室指南
 | 清华大学 生命科学学院                                                               | School of Life Sciences, Tsinghua University                |
 | 电话/传真：010-627-89217                                                       | Tel/FAX: +86-010-627-89217                                  |
 | 网址：[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) | Website: [http://www.ncRNAlab.org](http://www.ncrnalab.org) |
+
+***
 
 > * **Lu Lab @ Tsinghua University**
 > * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
