@@ -4,9 +4,17 @@ description: 实验室指南
 
 # Home - Lab Guide
 
-## [Our Mission](our-mission.md)
+## [<mark style="color:purple;">Our Mission</mark>](our-mission.md)
 
-## <mark style="color:green;">I. Start in Lu Lab</mark>
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="157"><figcaption><p><strong>天行健  君子以自强不息        地势坤 君子以厚德载物</strong></p></figcaption></figure>
+
+</div>
+
+
+
+## <mark style="color:purple;">I. Start in Lu Lab</mark>
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
@@ -47,7 +55,7 @@ description: 实验室指南
 
 ![](.gitbook/assets/learning.jpg)
 
-## <mark style="color:green;">II. Research in Lu Lab</mark>
+## <mark style="color:purple;">II. Research in Lu Lab</mark>
 
 > “天道酬勤“   -《周易》
 >
@@ -71,7 +79,7 @@ description: 实验室指南
 
 ![](.gitbook/assets/science.gif)
 
-## <mark style="color:green;">III. Publish in Lu Lab</mark>
+## <mark style="color:purple;">III. Publish in Lu Lab</mark>
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
@@ -86,18 +94,7 @@ description: 实验室指南
   * Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
     * [Tips for manuscript writing](paper-writing/writing.md)
 
-![](.gitbook/assets/success.png)
-
-##
-
-> * **Lu Lab @ Tsinghua University**
-> * Address:   School of Life Sciences, Tsinghua University, Beijing, China
-> * E-mail:    lulab1 AT tsinghua.edu.cn
-> * Homepage:   [www.ncRNAlab.org](http://www.ncrnalab.org)  ( [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) )
-> * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
-> * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
-> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) ) - Bioinformatics Tutorial
-> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
+&#x20;
 
 ***
 
@@ -107,4 +104,8 @@ description: 实验室指南
 | 电话/传真：010-627-89217                                                       | Tel/FAX: +86-010-627-89217                                  |
 | 网址：[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) | Website: [http://www.ncRNAlab.org](http://www.ncrnalab.org) |
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><strong>天行健  君子以自强不息        地势坤 君子以厚德载物</strong></p></figcaption></figure>
+> * **Lu Lab @ Tsinghua University**
+> * Software:  [software.ncRNAlab.org](http://software.ncrnalab.org)
+> * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
+> * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )&#x20;
+> * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
