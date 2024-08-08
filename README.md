@@ -4,11 +4,11 @@ description: 实验室指南
 
 # Home - Lab Guide
 
-## [<mark style="color:purple;">Our Mission</mark>](our-mission.md)
+## &#x20; [Our Mission](our-mission.md)
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="157"><figcaption><p><strong>天行健  君子以自强不息        地势坤 君子以厚德载物</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure>
 
 </div>
 
