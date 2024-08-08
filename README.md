@@ -4,12 +4,6 @@ description: 实验室指南
 
 # Home - Lab Guide
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure>
-
-</div>
-
 ## <mark style="color:purple;">I. Start in Lu Lab</mark>
 
 ### ❤️ [Our Mission](our-mission.md)
@@ -94,6 +88,14 @@ description: 实验室指南
   * [Tips for manuscript writing](paper-writing/writing.md)
 
 &#x20;
+
+
+
+<div align="center">
+
+<figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure>
+
+</div>
 
 ***
 
