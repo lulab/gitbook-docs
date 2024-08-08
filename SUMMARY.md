@@ -8,9 +8,7 @@
 
 ## Internal Training
 
-* [Bioinfo Tutorial - Basic](https://bioinfo.gitbook.io)
 * [Lab Training Book](http://lulab1.gitbook.io)
-* [Lab Intranet](internal-training/intranet\_link.md)
 
 ## Literature Reading
 
