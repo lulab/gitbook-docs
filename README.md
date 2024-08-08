@@ -12,7 +12,7 @@ description: 实验室指南
 
 ## <mark style="color:purple;">I. Start in Lu Lab</mark>
 
-### :heart: [Our Mission](our-mission.md)
+### ❤️ [Our Mission](our-mission.md)
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
