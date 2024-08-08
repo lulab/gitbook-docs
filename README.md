@@ -45,8 +45,7 @@ description: 实验室指南
 
 
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * **\[Basic]** [Bioinformatics Tutorial of Lu Lab](https://book.ncrnalab.org/teaching)
-  * **\[Advanced]** Lab members' _Experience Sharing (_清华云盘 - Lu Lab Shared/Experience Sharing_)_
+  * [Bioinformatics Tutorial of Lu Lab](https://book.ncrnalab.org/teaching)
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
@@ -63,17 +62,19 @@ description: 实验室指南
 >
 > &#x20;_prepare while others are playing; dream while others are wishing."_    - William A. Ward
 
-> * [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
-> * [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared - R and RW; Lu Lab Public Files; Lu Lab Public Photos
+### **🗂️ Files**
 
-### 📊Drylab
+* [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
+* [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared - R and RW; Lu Lab Public Files; Lu Lab Public Photos
 
-* **Hardware/Software** (Facilities and Servers) Instructions @_腾讯文档(private)/Lu Lab - All/intranet_
-* **MetaData** @_腾讯文档(private)/Lu Lab - Metadata_
+### 🧪 Lab
 
-### 🧪Wetlab
+* [**Lab Training Book**](https://lulab1.gitbook.io/training)&#x20;
+  * **Wetlab Instructions, Protocols & Samples** @_腾讯文档 ；@ 清华云_ - Lu Lab Shared/Experience Sharing
+  * **Drylab Hardware, Software & Instructions** @_腾讯文档 ；@ 清华云_ - Lu Lab Shared/Experience Sharing
+  * **MetaData** @_腾讯文档_&#x20;
 
-* **Wetlab Instructions, Protocols & Samples** @_腾讯文档(private)/Lu Lab - All/Wetlab;_ @_腾讯文档(private)/Lu Lab - Wetlab_
+
 
 ![](.gitbook/assets/science.gif)
 
@@ -85,12 +86,12 @@ description: 实验室指南
 >
 > _Teachers help students **discover their interests, passions, and ultimately themselves**._”
 
-* [Software](http://www.ncrnalab.org/software)
+* [Software](http://www.ncrnalab.org/software)&#x20;
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
 * [Paper](https://www.ncrnalab.org/publications/)
   * 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
-    * [Tips for manuscript writing](paper-writing/writing.md)
+  * [Tips for manuscript writing](paper-writing/writing.md)
 
 &#x20;
 
