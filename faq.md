@@ -4,38 +4,32 @@
 
 ### 1) 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
-育人的目的应该是帮助学生**培养好的习惯重于追求成果的大小**，好的习惯包括：&#x20;
-
-* 自强不息（有上进心不懒散，止于至善）
-* 厚德载物（对他人的尊重和善意）
-* [作息规律且有效率](faq.md#pre-1)
-* 勤于阅读、勤于思考 （<mark style="color:orange;">Stay Hungry</mark> & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
-* 经常锻炼身体&#x20;
-* … …&#x20;
-
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
 >
 > “_The carving and chipping away to create a masterpiece **take years of dedication**._&#x20;
 >
 > _Teachers help students **discover their interests, passions, and ultimately themselves**._”
 
+育人的目的应该是帮助学生**培养好的习惯重于追求成果的大小**，好的习惯包括：&#x20;
+
+* 自强不息（有上进心不懒散，止于至善）
+* 厚德载物（对他人的尊重和善意）
+* [作息规律且有效率](faq.md#pre-1)
+* 勤于阅读、勤于思考 （Stay Hungry & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
+* 经常锻炼身体&#x20;
+* … …&#x20;
+
 实操建议：
 
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
-3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark> -  [_Want to Get Great at Something - Get a Coach_](faq.md#coach)     (see [detail](faq.md#sci) )
+3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>
 5. [_**A grad school survival guide**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
 
-![Think Different](.gitbook/assets/image.png)
+
 
 ### 2) 如何学习新知识和新技能？ <a href="#coach" id="coach"></a>
-
-{% hint style="success" %}
-Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
-{% endhint %}
-
-{% embed url="https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach" %}
 
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
@@ -46,6 +40,10 @@ Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
 > **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
+>
+> {% hint style="success" %}
+> Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
+> {% endhint %}
 
 * **科研生涯的四戒律**&#x20;
   * 1\. 边干边学，不要彷徨；&#x20;
