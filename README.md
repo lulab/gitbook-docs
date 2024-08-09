@@ -10,36 +10,24 @@ description: 实验室指南
 
 ### 🎉 Welcome <a href="#welcome" id="welcome"></a>
 
-> “_I cannot teach anybody anything; I can only make them think._" - Socrates
->
 > “_The mediocre teacher tells. The good teacher explains._&#x20;
 >
 > _The superior teacher demonstrates. The great teacher inspires._”  - William A. Ward
 
-* [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md)  &  [Lab Calendar](cal.md)
-* [FAQ](faq.md)  (more @ 腾讯共享文档: _**Lu Lab - All** )_
+* [FAQ](faq.md)&#x20;
+* [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 
 ### 📖 Learning <a href="#learning" id="learning"></a>
 
+> “_I cannot teach anybody anything; I can only make them think._" - Socrates
+>
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
-> **预修课程准备:**
->
-> * 基本数学课程： 如《微积分》和《线性代数》&#x20;
-> * 基本统计课程： 如《概率论》或《生物统计》&#x20;
-> * 基本计算机课程：如《Linux》、《R》、《Python》等
-> * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》 &#x20;
-> * 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（春季学期）或《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（秋季学期）
-> * 机器学习课程：如《机器学习》或《深度学习》
->
-> 更多见： [FAQ - _正式参与生物信息科研课题之前该做哪些准备？_](faq.md#pre)
-
-
-
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * [Bioinformatics Tutorial of Lu Lab](https://book.ncrnalab.org/teaching)
+  * [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
+  * &#x20;[FAQ - 正式参与生物信息科研课题之前该做哪些准备？](faq.md#pre)（包括预修课推荐等）
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
@@ -48,9 +36,7 @@ description: 实验室指南
 
 ## <mark style="color:purple;">II. Research in Lu Lab</mark>
 
-> “天道酬勤“   -《周易》
->
-> ”勤而善悟”  &#x20;
+> “勤而善悟” ;  “天道酬勤” -- 《周易》
 >
 > _"Study while others are sleeping;  work while others are loafing;_
 >
@@ -58,15 +44,23 @@ description: 实验室指南
 
 ### **🗂️ Files**
 
-* [腾讯文档](https://docs.qq.com) (private)  ： Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
+* [腾讯文档](https://docs.qq.com) (private) : Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
 * [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared - R and RW; Lu Lab Public Files; Lu Lab Public Photos
 
-### 🧪 Lab
+### 🧪 Lab Training
 
-* [**Lab Training Book**](https://lulab1.gitbook.io/training)&#x20;
-  * **Wetlab Instructions, Protocols & Samples** @_腾讯文档 ；@ 清华云_ - Lu Lab Shared/Experience Sharing
-  * **Drylab Hardware, Software & Instructions** @_腾讯文档 ；@ 清华云_ - Lu Lab Shared/Experience Sharing
-  * **MetaData** @_腾讯文档_&#x20;
+* **Dry-lab Training**
+  * [Genomics](https://lulab1.gitbook.io/training/drylab-training/genomics)
+  * Hardware, Software & Instructions
+    * @腾讯文档 - Lu Lab - All/Drylab (private)
+    * @清华云 [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list)  (Lu Lab Shared - RW/Experience Sharing)
+* **Wet-lab Training**
+  * [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab\_safety)
+  * [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
+  * Instructions, Protocols & Samples&#x20;
+    * @腾讯文档 - Lu Lab -All/Wetlab;  Lu Lab - Wetlab (private)
+    * @清华云[ Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) (Lu Lab Shared - RW/Experience Sharing)
+* **MetaData** @腾讯文档 Lu Lab - Metadata
 
 
 

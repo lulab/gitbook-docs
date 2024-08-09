@@ -6,10 +6,6 @@
 * [Lab Calendar](cal.md)
 * [FAQ](faq.md)
 
-## Internal Training
-
-* [Lab Training Book](http://lulab1.gitbook.io)
-
 ## Literature Reading
 
 * [Tips for paper reading](literature-reading/reading.md)
