@@ -31,11 +31,7 @@ description: 实验室指南
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
-<div align="left">
 
-<img src=".gitbook/assets/learning.jpg" alt="" width="188">
-
-</div>
 
 ***
 
@@ -65,13 +61,9 @@ description: 实验室指南
   * Instructions, Protocols & Samples&#x20;
     * @腾讯文档 - Lu Lab -All/Wetlab;  Lu Lab - Wetlab (private)
     * @清华云[ Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) (Lu Lab Shared - RW/Experience Sharing)
-* **MetaData** @腾讯文档 Lu Lab - Metadata
+* **Data** @腾讯文档 Lu Lab - Metadata (private)
 
-<div align="left">
 
-<img src=".gitbook/assets/science.gif" alt="" width="188">
-
-</div>
 
 ***
 
