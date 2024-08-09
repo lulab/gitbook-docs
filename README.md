@@ -17,7 +17,7 @@ description: 实验室指南
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md)  &  [Lab Calendar](cal.md)
 * [FAQ](faq.md)&#x20;
-* [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
+  * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 
 ### 📖 Learning <a href="#learning" id="learning"></a>
 
@@ -25,14 +25,19 @@ description: 实验室指南
 >
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
-* [Courses](https://www.ncrnalab.org/courses) @Tsinghua
-  * [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
-  * &#x20;[FAQ - 正式参与生物信息科研课题之前该做哪些准备？](faq.md#pre)（包括预修课推荐等）
+* [正式参与生物信息科研课题之前该做哪些准备？](faq.md#pre)（包括预修课推荐等）
+* [Courses](https://www.ncrnalab.org/courses) @Tsinghua - [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;
 * [PPT Templates](https://cloud.tsinghua.edu.cn/d/54e8815e603f4cccb951/)
 
-![](.gitbook/assets/learning.jpg)
+<div align="left">
+
+<img src=".gitbook/assets/learning.jpg" alt="" width="188">
+
+</div>
+
+***
 
 ## <mark style="color:purple;">II. Research in Lu Lab</mark>
 
@@ -62,9 +67,13 @@ description: 实验室指南
     * @清华云[ Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) (Lu Lab Shared - RW/Experience Sharing)
 * **MetaData** @腾讯文档 Lu Lab - Metadata
 
+<div align="left">
 
+<img src=".gitbook/assets/science.gif" alt="" width="188">
 
-![](.gitbook/assets/science.gif)
+</div>
+
+***
 
 ## <mark style="color:purple;">III. Publish in Lu Lab</mark>
 
@@ -80,8 +89,6 @@ description: 实验室指南
   * 历届毕业论文: 清华云盘 - Lu Lab Shared-R/3.Thesis
   * Manuscripts: 清华云盘 - Lu Lab Shared-R/5.Manuscript
   * [Tips for manuscript writing](paper-writing/writing.md)
-
-&#x20;
 
 
 
