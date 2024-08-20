@@ -24,8 +24,9 @@ description: System and Environment
 
 * see [RNA Motif & dsRNAfinder](../../ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder)[#i.1-dsrnafinder](../../ai/rna-pairing-and-talk/rna-motif-and-dsrnafinder.md#i.1-dsrnafinder "mention")
 
-## 2. ncRNA and immunity
+## 2. ncRNA, TE-RNA and immunity
 
+* [**2024 Immunity**](https://doi.org/10.1016/j.immuni.2024.06.015) - Single-cell chromatin accessibility and transposable element landscapes reveal shared features of tissue-residing immune cells
 * \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
 * \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function

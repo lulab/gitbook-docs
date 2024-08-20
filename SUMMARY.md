@@ -30,6 +30,7 @@
   * [Liquid Biopsy](literature-reading/med/liquid-biopsy/README.md)
     * [Panel and Database](literature-reading/med/liquid-biopsy/panel-and-screen.md)
 * [Artificial Intelligence](literature-reading/ai/README.md)
+  * [Multi-modal](literature-reading/ai/multi-modal.md)
   * [RNA Pairing & Talk](literature-reading/ai/rna-pairing-and-talk/README.md)
     * [RNA 2nd Structure Prediction](literature-reading/ai/rna-pairing-and-talk/rna-structure.md)
     * [RNA-RNA Interaction](literature-reading/ai/rna-pairing-and-talk/rna-rna-interaction.md)
