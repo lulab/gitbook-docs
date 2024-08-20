@@ -23,6 +23,7 @@
 * **2022 Nature Genetics** - Genetic control of RNA splicing and its distinct role in complex trait variation
 * ✅  _**2020 Nature**_ - PCAWG - Genomic basis for RNA alterations in cancer
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
+* [**2019 Nature Genetics**](https://www.nature.com/articles/s41588-021-00864-5) - An atlas of alternative polyadenylation quantitative trait loci contributing to complex trait and disease heritability
 
 ### 2. Functional Regulation
 

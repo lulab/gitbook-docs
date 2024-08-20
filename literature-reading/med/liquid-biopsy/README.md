@@ -24,6 +24,7 @@
 
 ### cfDNA - cancer
 
+* **2024 Nature Communications** - Cell type signatures in cell-free DNA fragmentation profiles reveal disease biology
 * **2024 Science Translational Medicine** - Genome-wide repeat landscapes in cancer and cell-free DNA
 * **2024 The New England Journal of Medicine** -  A Cell-free DNA Blood-Based Test for Colorectal Cancer Screening
 * **2023 Nature Medicine** - Liquid biopsy epigenomic profiling for cancer subtyping
@@ -160,6 +161,7 @@
 
 ### Infectious Diseases
 
+* [**2024 Nature Communications**](https://doi.org/10.1038/s41467-024-49245-6) - Circulating cell-free RNA in blood as a host response biomarker for detection of tuberculosis
 * [**2022 Genome Res.**](https://genome.cshlp.org/content/32/2/228) - Plasma cell-free RNA characteristics in COVID-19 patients
 
 ### **Neural Diseases**

@@ -12,6 +12,7 @@
 * ✅ [**2024 Nature**](https://www.nature.com/articles/s41586-024-07239-w) **-** Single-cell multiplex chromatin and RNA interactions in ageing human brain
 * ✅ [**2023 Nature**](https://www.nature.com/articles/s41586-023-06708-y) - Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes
 * ✅ [**2023 Nature Genetics**](https://www.nature.com/articles/s41588-023-01445-4) _-_ Integrated single-cell chromatin and transcriptomic analyses of human scalp identify gene-regulatory programs and critical cell types for hair and skin diseases
+* [**2023 Nature**](https://www.nature.com/articles/s41586-023-06682-5) - Epigenetic regulation during cancer transitions across 11 tumour types
 * [**2023 Nature Methods**](https://www.nature.com/articles/s41592-023-01938-4) - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks
 * [**2022 Cell** ](https://pubmed.ncbi.nlm.nih.gov/36318921/)- Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution
 * ✅ **2021 Cancer Cell** - Single-cell analyses reveal key immune cell subsets associated with response to PD-L1 blockade in triple-negative breast cancer
@@ -20,5 +21,9 @@
 * ✅ **2021 Genome Biology** - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * **2018 Science** - Single-cell multiomics sequencing and analyses of human colorectal cancer
 
+## III. scATAC-seq
 
+* ✅ [**2024 Immunity**](https://doi.org/10.1016/j.immuni.2024.06.015) -  Single-cell chromatin accessibility and transposable element landscapes reveal shared features of tissue-residing immune cells
+* [**2024 Nature Cell Biology** ](https://doi.org/10.1038/s41556-024-01449-0)- Mapping the chromatin accessibility landscape of zebrafish embryogenesis at single-cell resolution by SPATAC-seq
+* [**2024 Nature Cell Biology** ](https://doi.org/10.1038/s41556-024-01435-6)- A single-cell atlas of chromatin accessibility in mouse organogenesis
 
