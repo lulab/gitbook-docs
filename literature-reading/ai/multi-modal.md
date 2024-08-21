@@ -1,10 +1,15 @@
 # Multi-modal
 
+## 0. Foundation Models
+
+* **\[RNA] 2024 Nature Machine Intelligence** - Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning
+* **\[scRNA-seq]** [**2024 Nature Methods**](https://pubmed.ncbi.nlm.nih.gov/38844628/) - Large-scale foundation model on single-cell transcriptomics
+
 ## I. LLMs for Multi-modal Data
 
-* [**2024 Nature machine intelligence**](https://www.nature.com/articles/s42256-024-00868-w)  - A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular marker discovery of gliomas
-* [2022 bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.27.514141v1.full) - Transformer-based deep learning integrates multi-omic data with cancer pathways
-* **2023 bioRxiv** - scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
+* ✅ [**2024 Nature machine intelligence**](https://www.nature.com/articles/s42256-024-00868-w)  - A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular marker discovery of gliomas
+* **2024 Nature Methods** - scGPT: toward building a foundation model for single-cell multi-omics using generative AI
+* ✅  **2023 Nature** - Foundation models for generalist medical artificial intelligence
 
 ## II. Deep Learning Models for Multi-modal Data
 
