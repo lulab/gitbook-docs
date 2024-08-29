@@ -18,7 +18,13 @@
 * ✅ _**2017 Cell Systems**_ - Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results
 * [**2013 Biomed Res Int.** ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3773410/) - SeedSeq: Off-Target Transcriptome Database
 
-### **sgRNA offtarget**
+### **sgRNA offtarget - experimental methods**
+
+* **2024 Nat. Biotech.** - Tracking-seq reveals the heterogeneity of off-target effects in CRISPR–Cas9-mediated genome editing
+* **2023 Nat. Methods** - Improving the sensitivity of in vivo CRISPR off-target detection with DISCOVER-Seq+
+* **2019 Science** _-_ Unbiased detection of CRISPR off-targets in vivo using DISCOVER-Seq
+
+### **sgRNA offtarget - computational methods**
 
 * \[Benchmark] [**2023 BIB**](https://academic.oup.com/bib/article/24/6/bbad333/7286387) - Benchmarking deep learning methods for predicting CRISPR/Cas9 sgRNA on- and off-target activities
 * \[review][ **2023 BIB**](https://academic.oup.com/bib/article/24/3/bbad131/7130974) - Using traditional machine learning and deep learning methods for on- and off-target prediction in CRISPR/Cas9: a review
