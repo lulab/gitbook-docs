@@ -29,7 +29,6 @@
 ### **1. sgRNA activity**&#x20;
 
 * ✅ _**2018 Nature Biotech.**_ - Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity
-* ✅ \[off-target] _**2016 Nature Biotech.**_ -Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
 * [more sgRNA papers](https://portals.broadinstitute.org/gppx/crispick/public/faq)&#x20;
 
 ### **2a. sgRNA offtarget - computational methods**
@@ -37,6 +36,7 @@
 * \[Benchmark] [**2023 BIB**](https://academic.oup.com/bib/article/24/6/bbad333/7286387) - Benchmarking deep learning methods for predicting CRISPR/Cas9 sgRNA on- and off-target activities
 * \[review][ **2023 BIB**](https://academic.oup.com/bib/article/24/3/bbad131/7130974) - Using traditional machine learning and deep learning methods for on- and off-target prediction in CRISPR/Cas9: a review
 * [**2023 Nature Communications** ](https://www.nature.com/articles/s41467-023-42695-4)- Genome-wide CRISPR off-target prediction and optimization using RNA-DNA interaction fingerprints
+* ✅ \[off-target] _**2016 Nature Biotech.**_ -Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
 
 ### **2b. sgRNA offtarget - experimental methods**
 
