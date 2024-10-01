@@ -8,7 +8,7 @@
 
 > Weekly meeting for all
 
-* [**Group Meeting Schedule**](https://docs.qq.com/sheet/DWXBld2JXeUJYbVZa?tab=q83q4d)&#x20;
+* [**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/d49bb77284fd403a8154/)&#x20;
   * Formal Presentation (Practice Talk)（\[清华云] Lu Lab Shared/PPT - Project Presentation/)
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)&#x20;
   * [Experience Sharing ](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/)
@@ -18,15 +18,14 @@
 
 > Project discussion for subgroups
 
-*   **Subgroup Meeting Schedule & Project Notes**
+* **Project Report and Minutes**
+  * Students' Reports: \[清华云] Lu Lab Shared/Project Progress/
+  * PI's Project Note and PPTs: \[清华云] Lu Lab Shared/Project Progress/11' Zhi John Lu - Project Design/
 
-    * PPTs of PI's and Students' Reports: \[清华云] Lu Lab Shared/Project Progress/
-    * PI's project notes: 【腾讯文档】 Lu Lab - All
+{% hint style="info" %}
+**养成好的习惯：**
 
+* **开会前**：提前上传PPT（上午9点前，最晚中午之前） (清华云Lu Lab Shared/1.Project Progress/)。
+* **开会后**：【尽快】整理Meeting Minutes （形式：清华云 ppt 最后一页，电子笔记或email）。
+{% endhint %}
 
-
-> * **请所有人都要特别注意要有好的实验和会议记录的习惯。**
-> * 小组会的 ppt 等书面结果尽量提前上传清华云。
->   * 如果没有清华云，可以 email 文件给PI；
->   * 如果不习惯清华云，有自己的笔记软件或者云盘组织自己的工作结果也很好，可以每次小组会前email 链接给PI；
->   * 如果忘了，记得会后上传和/或email。
