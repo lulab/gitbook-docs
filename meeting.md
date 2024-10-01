@@ -25,7 +25,7 @@
 {% hint style="info" %}
 **养成好的习惯：**
 
-* **开会前**：提前上传PPT（上午9点前，最晚中午之前） (清华云Lu Lab Shared/1.Project Progress/)。
-* **开会后**：【尽快】整理Meeting Minutes （形式：清华云 ppt 最后一页，电子笔记或email）。
+* **开会前**：<mark style="color:red;">提前</mark>上传PPT (清华云Lu Lab Shared/1.Project Progress/)。
+* **开会后**：<mark style="color:red;">尽快</mark>整理Meeting Minutes（形式：清华云 ppt 最后一页，电子笔记或email）。
 {% endhint %}
 
