@@ -45,23 +45,21 @@ description: 实验室指南
 
 ### **🗂️ Files**
 
-* [腾讯文档](https://docs.qq.com) (private) : Lu Lab - All; Lu Lab - Wetlab; Lu Lab - Metadata
-* [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab Shared - R and RW; Lu Lab Public Files; Lu Lab Public Photos
+* [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab - Logistic; Lu Lab - Shared (R and RW);  Lu Lab - Photos
 
 ### 🧪 Lab Training
 
 * **Dry-lab Training**
   * [Genomics](https://lulab1.gitbook.io/training/drylab-training/genomics)
   * Hardware, Software & Instructions
-    * @腾讯文档 - Lu Lab - All/Drylab (private)
-    * @清华云 [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list)  (Lu Lab Shared - RW/Experience Sharing)
+    * @清华云 (private) : Lu Lab Shared/Lab Guide, Experience Sharing, ...  (Public Link: [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) )
 * **Wet-lab Training**
   * [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab\_safety)
   * [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
   * Instructions, Protocols & Samples&#x20;
-    * @腾讯文档 - Lu Lab -All/Wetlab;  Lu Lab - Wetlab (private)
-    * @清华云[ Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) (Lu Lab Shared - RW/Experience Sharing)
-* **Data** @腾讯文档 Lu Lab - Metadata (private)
+    * @清华云 (private): Lu Lab Shared/Lab Guide, Wetlab, Experience Sharing, ... (Public Link: [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) )
+* **Data**&#x20;
+  * @清华云 (private): Lu Lab Shared/Metadata
 
 
 
