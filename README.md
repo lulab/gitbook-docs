@@ -45,7 +45,10 @@ description: 实验室指南
 
 ### **🗂️ Files**
 
-* [清华云盘](https://cloud.tsinghua.edu.cn) (private) : Lu Lab - Logistic; Lu Lab - Shared (R and RW);  Lu Lab - Photos
+* [清华云盘](https://cloud.tsinghua.edu.cn) (private) :&#x20;
+  * Lu Lab - Logistics
+  * Lu Lab - Shared (R and RW)
+  * Lu Lab - Photos
 
 ### 🧪 Lab Training
 
