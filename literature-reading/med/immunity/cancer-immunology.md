@@ -10,6 +10,7 @@ description: System and Environment
 
 ## **1. dsRNA** and immunity
 
+* [**2024 Molecular Cell**](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(23\)00977-2) - The competitive landscape of the dsRNA world
 * [**2024 Nature**](https://www.nature.com/articles/s41586-024-07576-w) - dsRNA formation leads to preferential nuclear export and gene expression
 * ✅ **2023 Nature Reviews Immunology** - Novel insights into double-stranded RNA-mediated immunopathology
 * ✅  **2022 Nature Review - Mol Cell Biol.** - Cellular origins of dsRNA, their recognition and consequences
@@ -27,7 +28,8 @@ description: System and Environment
 
 ## 2. ncRNA, TE-RNA and immunity
 
-* [**2024 Immunity**](https://doi.org/10.1016/j.immuni.2024.06.015) - Single-cell chromatin accessibility and transposable element landscapes reveal shared features of tissue-residing immune cells
+* ✅ [**2024 Immunity**](https://doi.org/10.1016/j.immuni.2024.06.015) - Single-cell chromatin accessibility and transposable element landscapes reveal shared features of tissue-residing immune cells
+* [**2023 Science Immunology**](https://doi.org/10.1126/sciimmunol.abm6360) - Epigenetically controlled tumor antigens derived from splice junctions between exons and transposable elements
 * \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
 * \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
 * \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function

@@ -14,7 +14,7 @@ description: POST-trAnscriptional Regulation
 
 ## 0. POSTAR & Genetics
 
-*
+* **2024 Nature Communications** - Systematic identiﬁcation of posttranscriptional regulatory modules
 
 ## 1. AS: Alternative splicing
 

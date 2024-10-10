@@ -24,7 +24,7 @@
 
 ## III. scMulti-Omics Profiling
 
-* **2023 Immunity** - Multi-omics blood atlas reveals unique features of immune and platelet responses to SARS-CoV-2 Omicron breakthrough infection
+* ✅ **2023 Immunity** - Multi-omics blood atlas reveals unique features of immune and platelet responses to SARS-CoV-2 Omicron breakthrough infection
 * ✅ [**2023 Nature**](https://www.nature.com/articles/s41586-023-06708-y) - Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes
 * **2023 Nature cell biology** - Single-cell analysis reveals transcriptomic and epigenomic impacts on the maternal– fetal interface following SARS-CoV-2 infection
 * [**2022 **_**Cell Reports**_](https://pubmed.ncbi.nlm.nih.gov/36351407/) - Single-cell transcriptome profiling and chromatin accessibility reveal an exhausted regulatory CD4+ T cell subset in systemic lupus erythematosus
