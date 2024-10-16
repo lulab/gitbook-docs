@@ -82,6 +82,7 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 
 ## V. Origin of Tissue
 
+* ✅ [**2024 Cell Genomics -**](https://doi.org/10.1016/j.xgen.2024.100522) Revealing the grammar of small RNA secretion
 * ✅ **Deconvolution**: **2022 **_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
 * **2021 Nature Biotech.** - ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin
 * ✅ **2017 **_**Genome Biology**_ - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
