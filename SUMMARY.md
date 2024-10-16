@@ -9,6 +9,10 @@
 ## Literature Reading
 
 * [Tips for paper reading](literature-reading/reading.md)
+* [Seq. Tech.](literature-reading/seq.-tech./README.md)
+  * [Single-Cell-seq Tech.](literature-reading/seq.-tech./single-cell-seq-tech..md)
+  * [cfRNA-seq Tech.](literature-reading/seq.-tech./exrna-seq-tech.md)
+  * [cfDNA-seq Tech.](literature-reading/seq.-tech./cfdna-seq-tech..md)
 * [Omics Data Analysis](literature-reading/omics/README.md)
   * [RNA Regulation Analysis](literature-reading/omics/postar.md)
   * [cfRNA-seq Analysis](literature-reading/omics/cfrna.md)
@@ -23,10 +27,6 @@
   * [Immunity](literature-reading/med/immunity/README.md)
     * [RNA in Immune System](literature-reading/med/immunity/cancer-immunology.md)
     * [Immune Diseases](literature-reading/med/immunity/immune-diseases.md)
-  * [Seq. Tech.](literature-reading/med/seq.-tech./README.md)
-    * [Single-Cell-seq Tech.](literature-reading/med/seq.-tech./single-cell-seq-tech..md)
-    * [cfRNA-seq Tech.](literature-reading/med/seq.-tech./exrna-seq-tech.md)
-    * [cfDNA-seq Tech.](literature-reading/med/seq.-tech./cfdna-seq-tech..md)
   * [Liquid Biopsy](literature-reading/med/liquid-biopsy/README.md)
     * [Panel and Database](literature-reading/med/liquid-biopsy/panel-and-screen.md)
 * [Artificial Intelligence](literature-reading/ai/README.md)

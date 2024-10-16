@@ -4,7 +4,11 @@ description: Single Cell Sequencing Technologies
 
 # Single-Cell-seq Tech.
 
-## I. Total scRNA
+## 0. Novel RNA-seq
+
+* ✅ [**2024 Nature Biotech.**](https://www.nature.com/articles/s41587-023-01749-0) - RIP-PEN-seq identifies a class of kink-turn RNAs as splicing regulators
+
+## I. sc-Total\_RNA
 
 * [**2024 Nature Communications**](https://doi.org/10.1038/s41467-024-50291-3) - Single-cell total-RNA proﬁling unveils regulatory hubs of transcription factors
 * ✅ [**2022 Nature Biotech.** ](https://www.nature.com/articles/s41587-022-01517-6)**-** High-throughput total RNA sequencing in single cells using VASA-seq
