@@ -7,8 +7,9 @@
 * **2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
 * [**2020 Nature Cell Biol.** ](https://www.nature.com/articles/s41556-020-0512-1)- Differentiation of transplanted haematopoietic stem cells tracked by single-cell transcriptomic analysis
 
-## II. scRNA Editing and Modifications
+## II. scRNA: Post-transcriptional Regulation&#x20;
 
+* **2024 Nature Commn.** - Interrogations of single-cell RNA splicing landscapes with SCASL define new cell identities with physiological relevance
 * [**2024 Nature Commn.** ](https://www.nature.com/articles/s41467-024-49268-z)- Divergent landscapes of A-to-I editing in postmortem and living human brain
 * [**2022 Nature Commn**](https://www.nature.com/articles/s41467-022-30531-0)**.** - Cellular and genetic drivers of RNA editing variation in the human brain
 
