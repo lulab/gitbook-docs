@@ -9,9 +9,9 @@
 
 ## II. scRNA: Post-transcriptional Regulation&#x20;
 
-* **2024 Nature Commn.** - Interrogations of single-cell RNA splicing landscapes with SCASL define new cell identities with physiological relevance
-* [**2024 Nature Commn.** ](https://www.nature.com/articles/s41467-024-49268-z)- Divergent landscapes of A-to-I editing in postmortem and living human brain
-* [**2022 Nature Commn**](https://www.nature.com/articles/s41467-022-30531-0)**.** - Cellular and genetic drivers of RNA editing variation in the human brain
+* **2024 Nature Commn** - Interrogations of single-cell RNA splicing landscapes with SCASL define new cell identities with physiological relevance
+* [**2024 Nature Commn** ](https://www.nature.com/articles/s41467-024-49268-z)- Divergent landscapes of A-to-I editing in postmortem and living human brain
+* [**2022 Nature Commn**](https://www.nature.com/articles/s41467-022-30531-0) - Cellular and genetic drivers of RNA editing variation in the human brain
 
 ## III. scMultiOmics
 
