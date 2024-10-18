@@ -7,7 +7,12 @@
 * **2021 PNAS** - Single-cell quantiﬁcation of a broad RNA spectrum reveals unique noncoding patterns associated with cell types and states
 * [**2020 Nature Cell Biol.** ](https://www.nature.com/articles/s41556-020-0512-1)- Differentiation of transplanted haematopoietic stem cells tracked by single-cell transcriptomic analysis
 
-## II. scMultiOmics
+## II. scRNA Editing and Modifications
+
+* [**2024 Nature Commn.** ](https://www.nature.com/articles/s41467-024-49268-z)- Divergent landscapes of A-to-I editing in postmortem and living human brain
+* [**2022 Nature Commn**](https://www.nature.com/articles/s41467-022-30531-0)**.** - Cellular and genetic drivers of RNA editing variation in the human brain
+
+## III. scMultiOmics
 
 * ✅ [**2024 Nature**](https://www.nature.com/articles/s41586-024-07239-w) **-** Single-cell multiplex chromatin and RNA interactions in ageing human brain
 * ✅ [**2023 Nature**](https://www.nature.com/articles/s41586-023-06708-y) - Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes
@@ -21,7 +26,7 @@
 * ✅ **2021 Genome Biology** - Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways
 * **2018 Science** - Single-cell multiomics sequencing and analyses of human colorectal cancer
 
-## III. scATAC-seq
+## IV. scATAC-seq
 
 * ✅ [**2024 Immunity**](https://doi.org/10.1016/j.immuni.2024.06.015) -  Single-cell chromatin accessibility and transposable element landscapes reveal shared features of tissue-residing immune cells
 * [**2024 Nature Cell Biology** ](https://doi.org/10.1038/s41556-024-01449-0)- Mapping the chromatin accessibility landscape of zebrafish embryogenesis at single-cell resolution by SPATAC-seq
