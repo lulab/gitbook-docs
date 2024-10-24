@@ -7,9 +7,9 @@
 
 ### 1. Basics
 
-> ✅ **Course**: [生物信息学（清华大学）](https://www.ncrnalab.org/courses/#bioinfo);  [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics);
->
-> **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
+> * ✅ **Course**: [生物信息学（清华大学）](https://www.ncrnalab.org/courses/#bioinfo);  [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics)
+>   * ✅ **Teaching Slides and Videos:** [ Models for RNA secondary structure prediction](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2FPart%20IV.%20Machine%20Learning%20and%20AI%2FModels\&mode=list)
+> * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  ([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) | [中文](http://www.amazon.cn/dp/B003ZUIRZ2))
 
 * **Energy Model** - **RNAstructure/Mfold**  and **RNAfold**&#x20;
   * ✅ How do RNA folding algorithms work? (Sean R Eddy) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457)&#x20;
