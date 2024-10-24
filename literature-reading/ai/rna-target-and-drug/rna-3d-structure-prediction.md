@@ -4,8 +4,8 @@
 
 > Learn from Protein structure prediction:
 >
-> * ✅ **2024 Nature** - Conformational ensembles of the human intrinsically disordered&#x20;
-> * ✅ **2024 Nature** proteomeAccurate structure prediction of biomolecular interactions with AlphaFold 3
+> * ✅ **2024 Nature** - Conformational ensembles of the human intrinsically disordered proteome
+> * ✅ **2024 Nature** Accurate structure prediction of biomolecular interactions with AlphaFold 3
 > * &#x20;**2021** **Nature** – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
 > * ✅ **2017** **Science** - Protein structure determination using metagenome sequence data&#x20;
 
