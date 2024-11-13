@@ -21,10 +21,12 @@ description: Single Cell Sequencing Technologies
 * ✅ [_**2024 Nature**_](https://www.nature.com/articles/s41586-024-07239-w) **-** Single-cell multiplex chromatin and RNA interactions in ageing human brain
 * \[**Review**] **2024 EMM** - Advances in single-cell omics and multiomics for high-resolution molecular profiling
 * &#x20;\[**Review**] **2023 **_**Nature Genetics**_ - Methods and applications for single-cell and spatial multi-omics
+* ✅ **2022 Nature Methods** - ISSAAC-seq enables sensitive and flexible multimodal profiling of chromatin accessibility and gene expression in single cells
 * ✅ \[Split-pool RNA+ATAC] **2020 Cell** - Chromatin Potential Identiﬁed by Shared Single-Cell Proﬁling of RNA and Chromatin
 * \[Split-pool RNA+ATAC] **2019 Nature Structure Molecular Biology** -  An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome
 * \[**scATAC - split-pool**] [**2019 **_**Nat. Biotechnol**_**.**](https://doi.org/10.1038/s41587-019-0147-6) - Droplet-based combinatorial indexing for massive-scale single-cell chromatin accessibility.
 * **\[review] **_**2017 Trend in Genetics**_ - Single-Cell Multiomics: Multiple Measurements from Single Cells
+*
 
 
 
