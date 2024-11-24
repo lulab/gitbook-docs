@@ -10,6 +10,7 @@ description: System and Environment
 
 ## **1. dsRNA** and immunity
 
+* \[IRAlus Review] **2024 Experimental & Molecular Medicine** - Inverted Alu repeats: friends or foes in the human transcriptome
 * [**2024 Molecular Cell**](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(23\)00977-2) - The competitive landscape of the dsRNA world
 * [**2024 Nature**](https://www.nature.com/articles/s41586-024-07576-w) - dsRNA formation leads to preferential nuclear export and gene expression
 * ✅ **2023 Nature Reviews Immunology** - Novel insights into double-stranded RNA-mediated immunopathology
@@ -32,7 +33,7 @@ description: System and Environment
 * [**2023 Science Immunology**](https://doi.org/10.1126/sciimmunol.abm6360) - Epigenetically controlled tumor antigens derived from splice junctions between exons and transposable elements
 * \[review] **2022 Journal of Autoimmunity** - Evolving understandings for the roles of non-coding RNAs in autoimmunity and autoimmune disease
 * \[review] **2022 Journal of Autoimmunity** - Non-coding RNAs in immunoregulation and autoimmunity: Technological advances and critical limitations
-* \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
+* \[srpRNA] **2021&#x20;**_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 * \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 * **2012 Nature Reviews Rheumatology** - MicroRNAs—novel regulators of systemic lupus erythematosus pathogenesis
 
@@ -41,7 +42,7 @@ description: System and Environment
 * ✅  [**2022 Nature**](https://www.nature.com/articles/s41586-022-05052-x) - RNA editing underlies genetic risk of common inflammatory diseases
 * [**2022 Cancer Res.**](https://doi.org/10.1158/0008-5472.can-22-1062) - Single-cell analysis in lung adenocarcinoma implicates RNA editing in cancer innate immunity and patient prognosis
 * **2020 Genome Biology** - Human A-to-I RNA editing SNP loci are enriched in GWAS signals for autoimmune diseases and under balancing selection
-* [**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
+* [**2018 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(17\)31518-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417315180%3Fshowall%3Dtr)- Human ADAR1 Prevents Endogenous RNA from Triggering Translational Shutdown
 
 ## 4. RNA modification and immunity
 
