@@ -46,9 +46,8 @@ description: 实验室指南
 ### **🗂️ Files**
 
 * [清华云盘](https://cloud.tsinghua.edu.cn) (private) :&#x20;
-  * Lu Lab - Logistics
-  * Lu Lab - Shared (R and RW)
-  * Lu Lab - Photos
+  * **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, etc)
+  * **Lu Lab - Photos**
 
 ### 🧪 Lab Training
 
@@ -57,7 +56,7 @@ description: 实验室指南
   * Hardware, Software & Instructions
     * @清华云 (private) : Lu Lab Shared/Lab Guide, Experience Sharing, ...  (Public Link: [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) )
 * **Wet-lab Training**
-  * [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab\_safety)
+  * [Wetlab Safety Guide](https://lulab1.gitbook.io/training/wetlab-training/wetlab_safety)
   * [Wetlab FAQ](https://lulab1.gitbook.io/training/wetlab-training/wetlab-faq)
   * Instructions, Protocols & Samples&#x20;
     * @清华云 (private): Lu Lab Shared/Lab Guide, Wetlab, Experience Sharing, ... (Public Link: [Experience Sharing](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/?p=%2F\&mode=list) )
@@ -85,11 +84,7 @@ description: 实验室指南
 
 
 
-<div align="center">
-
-<figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/image (2).png" alt="天行健  君子以自强不息        地势坤 君子以厚德载物" width="157"><figcaption></figcaption></figure></div>
 
 ***
 
