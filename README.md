@@ -46,7 +46,7 @@ description: 实验室指南
 ### **🗂️ Files**
 
 * [清华云盘](https://cloud.tsinghua.edu.cn) (private) :&#x20;
-  * **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, etc)
+  * **Lu Lab - Shared** (R and RW) (including Lab Guide,  **Lab Logistics**,  Lab Introduction, Manuscript, Metadata, Wetlab, Thesis, ...)
   * **Lu Lab - Photos**
 
 ### 🧪 Lab Training
