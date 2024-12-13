@@ -100,12 +100,13 @@ description: POST-trAnscriptional Regulation
 
 ### 7.1. RiboShape
 
-* ✅ **2021 **_**Genome Biology**_ Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
+* ✅ **2023 Nature** - Pervasive downstream RNA hairpins dynamically dictate start-codon selection
+* **2021&#x20;**_**Genome Biology**_ Wheat in vivo RNA structure landscape reveals a prevalent role of RNA structure in modulating translational subgenome expression asymmetry
 * ✅ **2018** _**Cell**_  **(e. coli, proposed a model)**  Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
-* _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 * **2018** _**Mol. Cell**_ **(e. coli)-** A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
 * **2020** _**Genome Biology**_ **(zebrafish)** RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
-* ✅ **2017 **_**Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
+* ✅ **2017&#x20;**_**Nature**_ - Global translational reprogramming is a fundamental layer of immune regulation in plants
+* _**2014 NAR**_ **(proposed a model)** - Deciphering the rules by which dynamics of mRNA secondary structure affect translation efficiency in Saccharomyces cerevisiae
 
 ### 7.2 Motif&#x20;
 
