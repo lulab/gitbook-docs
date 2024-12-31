@@ -8,7 +8,8 @@
 
 > Weekly meeting for all
 
-* [**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/d49bb77284fd403a8154/)&#x20;
+* **Group Meeting** &#x20;
+  * **Schedule**:  \[清华云] Lu Lab - Shared-R/0.Lab Logistics/
   * Formal Presentation (Practice Talk)（\[清华云] Lu Lab Shared/PPT - Project Presentation/)
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/3fc850ee450b4d00b402/)&#x20;
   * [Experience Sharing ](https://cloud.tsinghua.edu.cn/d/4bab0cf9ce98463aa7d4/)
