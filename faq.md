@@ -24,8 +24,9 @@
 1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
 3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
-4. <mark style="color:orange;">带上“纸”和“笔”</mark>
-5. [_**A grad school survival guide**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
+4. <mark style="color:orange;">带上“纸”和“笔”</mark>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
+5. <mark style="color:orange;">高级冥想</mark> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
+6. [_**A grad school survival guide**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
 
 
 
@@ -35,6 +36,8 @@
 
 ![学习金字塔](.gitbook/assets/learning.jpg)
 
+
+
 ### 3) 如何成为一个好的研究生和科研工作者？ <a href="#sci" id="sci"></a>
 
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
@@ -42,7 +45,7 @@
 > **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
 >
 > {% hint style="success" %}
-> Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul\_gawande\_want\_to\_get\_great\_at\_something\_get\_a\_coach) **!**
+> Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) **!**
 > {% endhint %}
 
 * **科研生涯的四戒律**&#x20;
@@ -61,7 +64,7 @@
   * 8\. Start with the task you are least excited about, and do it right away&#x20;
   * 9\. Balance bouts of focused work with short breaks&#x20;
   * 10\. Get organized
-* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v\_show/id\_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)）&#x20;
+* **耶鲁大学的心态理念（对于心态方面的七个建议）** （视频链接： [优酷](https://v.youku.com/v_show/id_XNDMwNjc0ODg2MA==.html) | [腾讯](https://v.qq.com/x/page/o075327nzri.html) | [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)）&#x20;
   * 1\. 要无条件自信，即使在做错的时候；&#x20;
   * 2\. 不要想太多，定时清除消极思想；&#x20;
   * 3\. 学会忘记痛苦，为阳光记忆腾出空间；&#x20;
@@ -106,16 +109,16 @@
 <figure><img src=".gitbook/assets/WechatIMG254.jpg" alt=""><figcaption></figcaption></figure>
 
 \
-**(a) 文献阅读**\
+&#xNAN;**(a) 文献阅读**\
 通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)\
 此外，更多的文献我整理放在了：[Tips for paper reading](literature-reading/reading.md)\
 \
-**(b) Document your work** &#x20;
+&#xNAN;**(b) Document your work** &#x20;
 
 建议学会使用github和markdown语言，可以自己注册一个github账号，通过google等工具自己学习利用markdown语言，甚至可以利用github page构建一个自己的网页。\
 关于github和markdown，我们有一个简单的介绍：[Getting Started - Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/getting-started)\
 \
-**(c) 生物信息学的基本技能的学习**
+&#xNAN;**(c) 生物信息学的基本技能的学习**
 
 具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。
 
@@ -193,7 +196,7 @@
 * 9:50-11:20am(1.5) + 2-5:30pm(3.5) + 7:30-9:30pm(2)= 7X5天+5X1天(SAT)=<mark style="color:orange;">**\~40小时**</mark>
 {% endhint %}
 
-> **注：**以上为每天的平均时间，实际执行时周一到周五多一点、周六少一点，更符合常情也更容易做到。每天和每周的工作时间和方式，要因人而异，适合自己才是最重要的。同时，工作效率要比绝对时间更为重要。
+> **注：**&#x4EE5;上为每天的平均时间，实际执行时周一到周五多一点、周六少一点，更符合常情也更容易做到。每天和每周的工作时间和方式，要因人而异，适合自己才是最重要的。同时，工作效率要比绝对时间更为重要。
 
 ### 2) 假期如何安排？
 
