@@ -45,7 +45,8 @@
 > **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
 >
 > {% hint style="success" %}
-> Want to get great at something? [**Get a coach**](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) **!**
+> Want to get great at something? **Get a coach !**   \
+> [TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
 > {% endhint %}
 
 * **科研生涯的四戒律**&#x20;
