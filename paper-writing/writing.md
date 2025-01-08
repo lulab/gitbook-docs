@@ -164,4 +164,4 @@ Effective Writing by _Nature_
 * 不使用『etc』、『and so on』，这些词说明作者懒。
 * 『observed』很弱很被动，改用：assess, calculate, detect, estimate, evaluate, examine...
 * 不用『obviously』，读者不一定容易理解。
-* 结果部分避免『significantly』，改为报告_P_-value。讨论部分可用。
+* 结果部分避免『significantly』，改为报&#x544A;_&#x50;_-value。讨论部分可用。

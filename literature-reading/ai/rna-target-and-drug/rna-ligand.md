@@ -49,8 +49,8 @@
 
 * ✅ **2023 Nature Machine Intell. -** Large-scale chemical language representations capture molecular structure and properties
 * **2023 Nature Communications** - Sequence-based drug design as a concept in computational drug design
-* ✅  \[**Drug RNA] **_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
-  * **\[Graphical Modeling] 2021 **_**Methods Mol Biol**_ - Modeling and Predicting RNA Three-Dimensional Structures
+* ✅  \[**Drug RNA]&#x20;**_**2020 NAR**_ - Augmented base pairing networks encode RNA-small molecule binding preferences
+  * **\[Graphical Modeling] 2021&#x20;**_**Methods Mol Biol**_ - Modeling and Predicting RNA Three-Dimensional Structures
 * **2015 WIREs Comput Mol Sci** - Modeling of ribonucleic acid ligand interactions
 
 ### IV. RIBOTAC

@@ -15,4 +15,4 @@
 * [**2022 arxiv**](https://arxiv.org/abs/2207.01586) - **E2Efold-3D**: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction
 * [**2022 bioRxiv**](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1) - Accurate prediction of nucleic acid and protein-nucleic acid complexes using **RoseTTAFoldNA**
 * ✅ [**2021 Science**](https://www.science.org/doi/10.1126/science.abe5650) - **ARES:** Geometric deep learning of RNA structure
-* **\[Graphical Modeling] 2021 **_**Methods Mol Biol**_ - Modeling and Predicting RNA Three-Dimensional Structures
+* **\[Graphical Modeling] 2021&#x20;**_**Methods Mol Biol**_ - Modeling and Predicting RNA Three-Dimensional Structures

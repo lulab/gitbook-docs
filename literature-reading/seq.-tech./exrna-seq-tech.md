@@ -30,8 +30,8 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ### 1. Exosome and EV
 
 * [2022 bioRxiv](https://doi.org/10.1101/2022.09.22.509102) - Selective enrichment of plasma cell-free messenger RNA in cancer-associated extracellular vesicles
-* **RNP: **_**2021 Nature Cell Biol.**_ - Supermeres are functional extracellular nanoparticles replete with disease biomarkers and therapeutic targets
-* **2021 **_**Nature Methods**_** -** Exosome detection via the ultrafast-isolation system: EXODUS
+* **RNP:&#x20;**_**2021 Nature Cell Biol.**_ - Supermeres are functional extracellular nanoparticles replete with disease biomarkers and therapeutic targets
+* **2021&#x20;**_**Nature Methods**_**&#x20;-** Exosome detection via the ultrafast-isolation system: EXODUS
 * **✨** 2021 _JEV_ - Comprehensive evaluation of methods for small extracellular vesicles separation from human plasma, urine and cell culture medium
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
 * **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
@@ -42,7 +42,7 @@ description: cfRNA (cell-free RNA) is also called exRNA (extracellular RNA)
 ### 2. EV and RNP Purification Method
 
 * _**2022 JEV**_ - Tetraspanins distinguish separate extracellular vesicle subpopulations in human serum and plasma – Contributions of platelet extracellular vesicles in plasma samples
-* **SEC: 2020 **_**Molecular Therapy**_ - Simple and Fast SEC-Based Protocol to Isolate Human Plasma-Derived Extracellular Vesicles for Transcriptional Research
+* **SEC: 2020&#x20;**_**Molecular Therapy**_ - Simple and Fast SEC-Based Protocol to Isolate Human Plasma-Derived Extracellular Vesicles for Transcriptional Research
 * **MV+sEV+RNP**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
 
 ## III. Commercial Kit

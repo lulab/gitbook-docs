@@ -12,12 +12,12 @@
 
 * **TAPS**
   * **2022 NAR -** Whole-genome long-read TAPS deciphers DNA methylation patterns at base resolution using PacBio SMRT sequencing technology
-  * **✨**\[cfTAPS] **2021 **_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
-  * **✨**\[TAPS] **2019 **_**Nature Biotech.**_ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
+  * **✨**\[cfTAPS] **2021&#x20;**_**Science Advances**_ - Cell-free DNA TAPS provides multimodal information for early cancer detection
+  * **✨**\[TAPS] **2019&#x20;**_**Nature Biotech.**_ - Bisulfite-free direct detection of 5-methylcytosine and 5-hydroxymethylcytosine at base resolution
 * **MeDIP**
   * _**2022 NCOMMN.**_ - The cell-free DNA methylome captures distinctions between localized and metastatic prostate tumors
   * **2020** _**Nat Medicine**_ - Detection and discrimination of intracranial tumors using plasma cell-free DNA methylomes
-  * **✨**\[cfMeDIP] **2019 **_**Nature Protocol**_ - Preparation of cfMeDIP-seq libraries for methylome
+  * **✨**\[cfMeDIP] **2019&#x20;**_**Nature Protocol**_ - Preparation of cfMeDIP-seq libraries for methylome
   * **✨**\[cfMeDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **BS**&#x20;
   * **2022 Nature Cancer** - cfDNA methylome profiling for detection and subtyping of small cell lung cancers
@@ -26,7 +26,7 @@
   * **✨** \[Targeted BS] _**2020 Annals of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * \[chips] _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
   * \[WGBS] _**2017 Nature Genetics**_ -  Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
-  * \[WGBS] **2013 **_**PNAS**_ - Noninvasive detection of cancer-associated genome- wide hypomethylation and copy number aberrations by plasma DNA bisulfite sequencing
+  * \[WGBS] **2013&#x20;**_**PNAS**_ - Noninvasive detection of cancer-associated genome- wide hypomethylation and copy number aberrations by plasma DNA bisulfite sequencing
 * **5Hmc**
   * _**2019 Gut**_ - Genome-wide mapping of 5-hydroxymethylcytosines in circulating cell-free DNA as a non-invasive approach for early detection of hepatocellular carcinoma
   * _**2019 Blood Adv**_ - Prognostic implications of 5-hydroxymethylcytosines from circulating cell-free DNA in diffuse large B-cell lymphoma

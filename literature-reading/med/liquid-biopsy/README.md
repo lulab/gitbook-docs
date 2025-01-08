@@ -12,7 +12,7 @@
 >   * 2022 - New genomic technologies for multi-cancer early detection: Rethinking the scope of cancer screening ([_Cancer Cell_ Commentary](https://www.sciencedirect.com/science/article/pii/S1535610822000149?via%3Dihub))
 >   * 2022 - Omics and AI advance biomarker discovery for liver disease ([_Nature Medicine_ News](https://www.nature.com/articles/s41591-022-01853-9))
 >   * 2019 - 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 ( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) | [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) )
->   * 2019 - 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub link](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I\_mlH\_l4ORrAZS\_rv9bytQ) )
+>   * 2019 - 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Everhub link](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) )
 > * **Patents**&#x20;
 >   * 2019 - Nature Biotech. - Recent patents in cancer detection&#x20;
 > * [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium (ERCC) @ _Cell_
@@ -81,11 +81,11 @@
 
 * **Multianalyte & Multiomics**&#x20;
   * **2024 Cell Reports Medicine** - Multi-modal cell-free DNA genomic and fragmentomic patterns enhance cancer survival and recurrence analysis
-  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
+  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023&#x20;**_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * ✅ **cfDNA+cfDNAmet** - [**2023 Cancer Discovery**](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0456/729598/Early-Cancer-Detection-in-Li-Fraumeni-Syndrome) - Early Cancer Detection in Li-Fraumeni Syndrome with Cell-Free DNA&#x20;
-  * **cf-WGS+cf-WGBS - 2022 **_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
-  * **CancerSEEK+PET-CT: **_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
-  * ✅ **\~60 cfDNA + 8 proteins (CancerSEEK): **_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+  * **cf-WGS+cf-WGBS - 2022&#x20;**_**Cancer Cell**_ - Evaluation of cell-free DNA approaches for multi- cancer early detection
+  * **CancerSEEK+PET-CT:&#x20;**_**2020 Science -**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
+  * ✅ **\~60 cfDNA + 8 proteins (CancerSEEK):&#x20;**_**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA/mbDNA** &#x20;
   * **2024 Science Translational Medicine** - Machine learning to detect the SINEs of cancer
   * **2023 GB** - The landscape of cell-free mitochondrial DNA in liquid biopsy for cancer detection
@@ -94,16 +94,16 @@
   * &#x20;✅ \[**end-motif]** **2023 PNAS** - Fragmentation landscape of cell-free DNA revealed by deconvolutional analysis of end motifs
   * **2022 Cancer Discovery** - Nucleosome patterns in circulating tumor DNA reveal transcriptional regulation of advanced prostate cancer phenotypes
   * **cfDNA SNV+met**: [_**2022 Science Trans. Med.**_ ](https://www.science.org/doi/10.1126/scitranslmed.abp8704)- Simultaneous analysis of mutations and methylations in circulating cell-free DNA for hepatocellular carcinoma detection
-  * **Captured ctDNA SNV+CNV: **_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
-  * **Microbiome: **_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
+  * **Captured ctDNA SNV+CNV:&#x20;**_**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
+  * **Microbiome:&#x20;**_**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach&#x20;
   * **Fragmentome (DELFI):** [_**2022 Cancer Discovery**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Detecting liver cancer using cell-free DNA fragmentomes
   * **Fragmentome (DELFI): 2021 Nature Commn.** - Detection and characterization of lung cancer using cell-free DNA fragmentomes
-  * ✅ **Fragmentome (DELFI): **_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+  * ✅ **Fragmentome (DELFI):&#x20;**_**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**&#x20;
   * ✅ \[Grail, cfDNA vs. cfDNAmet] - [**2022 Cancer Cell** ](https://doi.org/10.1016/j.ccell.2022.10.022)- Evaluation of cell-free DNA approaches for multicancer early detection
   * \[Grail, Targeted BS] _**2022 ESMO congress**_ - PATHFINDER: A Prospective Study of a Multi-Cancer Early Detection Blood Test
   * \[Grail, Targeted BS] [_**2021 Annals of Oncology**_](https://www.science.org/doi/10.1126/scitranslmed.abp8704) **-** Clinical validation of a targeted methylation-based multi-cancer early detection test using an independent validation set
-  * \[Grail, Targeted BS] _**2020 Annals of Oncology**_** -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * \[Grail, Targeted BS] _**2020 Annals of Oncology**_**&#x20;-** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * ✨ \[meDIP] _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfDNAmet and histone modification**
   * [**2023 Nature Medicine** ](https://www.nature.com/articles/s41591-023-02605-z)**-** Liquid biopsy epigenomic profiling for cancer subtyping
@@ -117,7 +117,7 @@
 
 ### **Pregnancy**
 
-*   (**ccfDNA - 2023 **_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
+*   (**ccfDNA - 2023&#x20;**_**Lancet**_ Cell-free fetal DNA for genetic evaluation in Copenhagen
 
     Pregnancy Loss Study (COPL): a prospective cohort study)
 * ✅ **long cfRNA-seq**: _**2022 Nature**_  Early prediction of preeclampsia in pregnancy with cell-free RNA
@@ -129,14 +129,14 @@
 ### Cancer
 
 * **Long**
-  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023 **_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
+  * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023&#x20;**_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
   * **2023 Nature Commn.** - Terminal modiﬁcations independent cell-free RNA sequencing enables sensitive early cancer detection and classiﬁcation
   * _**2022 NPJ precision oncology**_ - Plasma cell-free RNA proﬁling distinguishes cancers from premalignant conditions in solid and hematologic malignancies
   * _**2021 Clinical Chem.**_ - Single Cell and Plasma RNA Sequencing for RNA Liquid Biopsy for Hepatocellular Carcinoma
-  * **long cfRNA-mRNA: **_**2021 Nature Commn.**_** - Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
-  * **long evRNA-mRNA: **_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer&#x20;
-  * **long cfRNA-ncRNA** _-_ **2021 **_**Theranostics**_ _-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
+  * **long cfRNA-mRNA:&#x20;**_**2021 Nature Commn.**_**&#x20;- Grail** - A comprehensive characterization of the cell-free transcriptome reveals tissue- and subtype-specific biomarkers for cancer detection
+  * **long evRNA-mRNA:&#x20;**_**2021 Mol Cancer**_ - Circulating exosomal mRNA profiling identifies novel signatures for the detection of prostate cancer&#x20;
+  * **long cfRNA-ncRNA** _-_ **2021&#x20;**_**Theranostics**_ _-_ Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer
   * **✨ long evRNA-seq**: _**2020 GUT**_ Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
@@ -166,7 +166,7 @@
 
 ### **Neural Diseases**
 
-* **small cfRNA - **_**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
+* **small cfRNA -&#x20;**_**2021 PNAS**_ -  - Small noncoding RNA profiling across cellular and biofluid compartments and their implications for multiple sclerosis immunopathology
 * **long cfRNA-mRNA**: _**2020 Science Advance**_ - Noninvasive characterization of **Alzheimer’s disease** by circulating cell-free messenger RNA next-generation sequencing
 * **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
 
@@ -191,7 +191,7 @@
 
 ### **Proteome**
 
-* ✅ \[Plasma proteome] [**2023 **_**Nature**_ ](https://www.nature.com/articles/s41586-023-06802-1)**-** Organ aging signatures in the plasma proteome track health and disease
+* ✅ \[Plasma proteome] [**2023&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-023-06802-1)**-** Organ aging signatures in the plasma proteome track health and disease
 * \[Plasma proteome] _**2022 Nature Medicine**_ - Noninvasive proteomic biomarkers for alcohol-related liver disease
 * ✅  \[MS-EVP] **Exosomic proteins**: _**2020 Cell**_ - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
 * \[APPA] _**2020 Sci Adv** -_ Proteomic analysis of circulating extracellular vesicles identifies potential markers of breast cancer progression, recurrence, and response

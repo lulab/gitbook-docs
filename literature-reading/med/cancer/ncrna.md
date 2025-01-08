@@ -50,6 +50,6 @@ description: System and Environment
 
 ## V. Other noncoding RNAs
 
-* \[srpRNA] **2021 **_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
+* \[srpRNA] **2021&#x20;**_**Cell**_ - The immunostimulatory RNA RN7SL1 enables CAR-T cells to enhance autonomous and endogenous immune function
 * \[srpRNA] _**2017 Cell**_ - Exosome RNA Unshielding Couples Stromal Activation to Pattern Recognition Receptor Signaling in Cancer
 
