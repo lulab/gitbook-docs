@@ -10,6 +10,7 @@
 
 * [Tips for paper reading](literature-reading/reading.md)
 * [Seq. Tech.](literature-reading/seq.-tech./README.md)
+  * [Interaction-seq](literature-reading/seq.-tech./interaction-seq.md)
   * [Single-Cell-seq Tech.](literature-reading/seq.-tech./single-cell-seq-tech..md)
   * [cfRNA-seq Tech.](literature-reading/seq.-tech./exrna-seq-tech.md)
   * [cfDNA-seq Tech.](literature-reading/seq.-tech./cfdna-seq-tech..md)
