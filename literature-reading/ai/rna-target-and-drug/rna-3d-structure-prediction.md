@@ -1,13 +1,30 @@
 # RNA 3D Structure Prediction
 
-## RNA Tertiary Structure Prediction
+{% hint style="success" %}
+**Autoregressive Approach:**
 
-> Learn from Protein structure prediction:
->
-> * ✅ **2024 Nature** - Conformational ensembles of the human intrinsically disordered proteome
-> * ✅ **2024 Nature** Accurate structure prediction of biomolecular interactions with AlphaFold 3
-> * &#x20;**2021** **Nature** – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
-> * ✅ **2017** **Science** - Protein structure determination using metagenome sequence data&#x20;
+* AlphaFold 2, _Nature_, 2021
+* RoseTTAFold2, _bioRxiv_, 2023
+
+**Diffusion Approach:**&#x20;
+
+* RFDiffusion, _Nature_, 2023
+* RoseTTAFold All-Atom, _Science_, 2024
+* AlphaFold 3 (All-Atom), _Nature_, 2024
+{% endhint %}
+
+## 0. Protein Tertiary Structure Prediction
+
+> Learn from Protein structure prediction
+
+* **All Atom Models**
+  * ✅ [**2024 Nature**](https://www.nature.com/articles/s41586-024-07487-w) - Accurate structure prediction of biomolecular interactions with AlphaFold 3
+  * ✅ [**2024 Science**](https://pubmed.ncbi.nlm.nih.gov/38452047/) - Generalized biomolecular modeling and design with RoseTTAFold All-Atom
+* ✅ **2024 Nature** - Conformational ensembles of the human intrinsically disordered proteome
+* &#x20;**2021** **Nature** – AlphaFold2: Highly accurate protein structure prediction with AlphaFold
+* &#x20;**2017** **Science** - Protein structure determination using metagenome sequence data&#x20;
+
+## 1. RNA Tertiary Structure Prediction
 
 * **2022 PNAS** - Thoughts on how to think (and talk) about RNA structure
 * **2022 bioRxiv** - Accurate de novo prediction of RNA 3D structure with transformer network
