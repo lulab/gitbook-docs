@@ -1,6 +1,18 @@
 # RNA-Ligand
 
-* [**PDFs**](../)
+{% hint style="success" %}
+**Autoregressive Approach:**
+
+* Pocket2Mol, ICML, 2022
+* PocketFlow, Nature Mach. Intell., 2024
+* Lingo3DMol, Nature Mach. Intell., 2024
+
+**Diffusion Approach:**&#x20;
+
+* TargetDiff, ICLR, 2023
+* PMDM, Nature Commn., 2024
+* \[Review] Diffusion Models for Molecules: A Survey of Methods and Tasks, 2025, [arXiv:2502.09511](https://arxiv.org/abs/2502.09511)
+{% endhint %}
 
 ## RNA-ligand (small molecule) Interaction Prediction
 
