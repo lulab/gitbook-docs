@@ -8,13 +8,17 @@ description: System and Environment
 >
 > ✅ **: recommended readings**
 
+## 0. Virome
+
+* ✅ [**2024 Cell** ](https://www.cell.com/cell/fulltext/S0092-8674\(24\)01085-7)- Using artificial intelligence to document the hidden RNA virosphere
+* ✅[ **2023&#x20;**_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
+
 ## I. ncRNA/sRNA in microbiome
 
-* ✅[ ](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub)[**2024 Cell Host and Microbe** ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128\(24\)00352-4)- The RNA landscape of the human commensal Segatella copri reveals a small RNA essential for gut colonization
+* [ ](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub)[**2024 Cell Host and Microbe** ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128\(24\)00352-4)- The RNA landscape of the human commensal Segatella copri reveals a small RNA essential for gut colonization
 * [**2024 Science**](https://www.science.org/doi/10.1126/science.adh4859) - Hydrolytic endonucleolytic ribozyme (HYER) is programmable for sequence-specific DNA cleavage
 * **2023&#x20;**_**Science**_ - Uncovering the functional diversity of rare CRISPR-Cas systems with deep terascale clustering
-* ✅[ **2023&#x20;**_**Cell**_](https://www.sciencedirect.com/science/article/pii/S0092867422015823?via%3Dihub) - Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs
-* ✅ _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
+* _**2021 Genome Biology**_ - Comparative genomics identifies thousands of candidate structured RNAs in human microbiomes
 * [_**2019 Cell**_ ](https://www.sciencedirect.com/science/article/pii/S0092867419307810)- Large-Scale Analyses of Human Microbiomes Reveal Thousands of Small, Novel Genes
 * **2017&#x20;**_**Science**_ - Protein structure determination using metagenome sequence data
 * _**2019 Molecular Systems Biology**_ - Unraveling the hidden universe of small proteins in bacterial genomes
