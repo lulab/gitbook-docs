@@ -21,7 +21,7 @@
 
 实操建议：
 
-1. <mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
+1. 对于重要而不紧急的事情，<mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
 2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
 3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
@@ -141,7 +141,7 @@
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
-**基本原则**： 导师对学生的时间应当尊重，不应当随性就微信索要实验结果或者分析结果；同样的，学生也应当尊重导师和其他同事的时间，有事情要讨论尽量提前预约。因此，除非紧急的事情，email 交流工作会给彼此更多的空间和时间，大家的课题讨论和会议等交流方式也应当结构化。
+**基本原则**： 导师对学生的时间应当尊重，不应当随性就微信索要实验结果或者分析结果；同样的，学生也应当尊重导师和其他同事的时间，有事情要讨论尽量提前预约。因此，除非事出紧急，email 交流重要而不紧急的事情会给彼此更多的空间和时间，大家的课题讨论和会议等交流方式也应当结构化。**事实上，绝大多数的重要的事情都不紧急，需要紧急回复的反而是形式化的琐事。**
 
 * **Group Meeting:** sharing and talk practicing
 * **Subgroup Meeting**: research results' report & discussion
