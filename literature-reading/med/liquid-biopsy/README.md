@@ -129,6 +129,7 @@
 ### Cancer
 
 * **Long**
+  * ✅ **Captured long cfRNA-seq:** [**2025&#x20;**_**Nature**_ ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
   * ✅ **cfDNA+cfDNAmet+cfRNA-S+cfRNA-L** - [**2023&#x20;**_**Cell Reports Medicine**_ ](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(23\)00475-5)- Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood
   * **2023 Nature biomedical engineering** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
   * **2023 Nature Commn.** - Terminal modiﬁcations independent cell-free RNA sequencing enables sensitive early cancer detection and classiﬁcation
