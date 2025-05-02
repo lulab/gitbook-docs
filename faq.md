@@ -2,6 +2,14 @@
 
 ## I. 科研方式
 
+{% hint style="success" %}
+**A grad school survival guide：** [_**PDF**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)_**,  中文版**_
+{% endhint %}
+
+{% embed url="https://www.science.org/doi/10.1126/science.347.6228.1386" %}
+
+
+
 ### 1) 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
@@ -26,7 +34,6 @@
 3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
 5. <mark style="color:orange;">高级冥想</mark> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
-6. [_**A grad school survival guide**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
 
 
 
