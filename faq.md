@@ -3,7 +3,8 @@
 ## I. 科研方式
 
 {% hint style="success" %}
-**A grad school survival guide：** [_**PDF**_](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)_**,  中文版**_
+* [**A grad school survival guide**](https://www.science.org/doi/10.1126/science.347.6228.1386)**,&#x20;**_**Science**_**&#x20;2015（**[**PDF**](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)**）** &#x20;
+* [**研究生生存指南**](faq/guide-to-graduates-yan-jiu-sheng-sheng-cun-zhi-nan.md)
 {% endhint %}
 
 {% embed url="https://www.science.org/doi/10.1126/science.347.6228.1386" %}
@@ -22,16 +23,16 @@
 
 * 自强不息（有上进心不懒散，止于至善）
 * 厚德载物（对他人的尊重和善意）
-* [作息规律且有效率](./#pre-1)
+* [作息规律且有效率](faq.md#pre-1)
 * 勤于阅读、勤于思考 （Stay Hungry & [_Think Different_](https://www.bilibili.com/video/BV1oW4y1i7qf/)）
 * 经常锻炼身体&#x20;
 * … …&#x20;
 
 实操建议：
 
-1. 对于重要而不紧急的事情，<mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](./#email))
-2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](./#vacation))
-3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](./#sci) )
+1. 对于重要而不紧急的事情，<mark style="color:orange;">多用 email 少用微信</mark>   （see [detail](faq.md#email))
+2. <mark style="color:orange;">做事要提前</mark>（比如请假、比如完成任务）   (see [detail](faq.md#vacation))
+3. <mark style="color:orange;">"研究“ 为主  "学习“为辅</mark>   (see [detail](faq.md#sci) )
 4. <mark style="color:orange;">带上“纸”和“笔”</mark>  (_手写笔记有益学习_ –  《环球科学》  2024.5. 认知科学)
 5. <mark style="color:orange;">高级冥想</mark> 可能会激发人们的灵感，并为如何实现生命的意义提供深刻的见解和清晰的思路。–  《环球科学》 2024.9.
 
@@ -41,7 +42,7 @@
 
 听、读、视听、演示都属于**被动的学习**；讨论、实践、教授别人是**主动学习**。 其中教授给他人留存率最高，达到90%。 这一步是费曼学习法的精髓，也就是“以教促学”。所以senior students mentor junior students不仅是一种团队合作和领导力的培养，也是对自己知识的巩固。
 
-![学习金字塔](../.gitbook/assets/learning.jpg)
+![学习金字塔](.gitbook/assets/learning.jpg)
 
 
 
@@ -114,12 +115,12 @@
 
 > **清华大学进阶人工智能课程推荐：**
 
-<figure><img src="../.gitbook/assets/WechatIMG254.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/WechatIMG254.jpg" alt=""><figcaption></figcaption></figure>
 
 \
 &#xNAN;**(a) 文献阅读**\
 通过文献阅读了解我们实验室的研究方向，根据自己的基础和爱好，可以参阅 [Literature Reading - Startup](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup\&mode=list)\
-此外，更多的文献我整理放在了：[Tips for paper reading](../literature-reading/reading.md)\
+此外，更多的文献我整理放在了：[Tips for paper reading](literature-reading/reading.md)\
 \
 &#xNAN;**(b) Document your work** &#x20;
 
@@ -287,7 +288,7 @@
 
 ### **3) How to automatically receive related literature update every week?**
 
-**see** [**Tips for paper reading - Literature Search**](../literature-reading/reading.md#tips-for-literature-search)**.**
+**see** [**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
 
 ## V. 网络和数据
 

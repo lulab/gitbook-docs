@@ -4,7 +4,7 @@
 * [Our Mission](our-mission.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
-* [FAQ](faq/README.md)
+* [FAQ](faq.md)
   * [Guide to Graduates - 研究生生存指南](faq/guide-to-graduates-yan-jiu-sheng-sheng-cun-zhi-nan.md)
 
 ## Literature Reading
