@@ -4,11 +4,13 @@ hidden: true
 
 # Guide to Graduates - 研究生生存指南
 
-## 研究生生存指南
+## 研究生生存指南 - a grad school survival guide
 
-作者：Andrew Gaudet
-
+> 作者：Andrew Gaudet
 >
+> 原文：[A grad school survival guide](guide-to-graduates-yan-jiu-sheng-sheng-cun-zhi-nan.md#a-grad-school-survival-guide), _**Science**_ 2015
+
+***
 
 自从成为博士后以来，我指导了几位即将入学的研究生。在此期间，我反思了自己在脊髓损伤修复研究方面的科研经历。我编写了一个简短的教程，旨在让博士之路更加顺畅，重点介绍研究生生活中的日常事务、需要避免的常见风险以及可以采取的捷径。这些技巧将帮助你建立和保持动力，让你的项目不断推进。不妨把它看作是研究生的实用生存指南。
 
