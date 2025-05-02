@@ -2,13 +2,13 @@
 hidden: true
 ---
 
-# Guide to Graduates - 研究生生存指南
+# Guide
 
 ## 研究生生存指南 - a grad school survival guide
 
 > 作者：Andrew Gaudet
 >
-> 原文：[A grad school survival guide](guide-to-graduates-yan-jiu-sheng-sheng-cun-zhi-nan.md#a-grad-school-survival-guide), _**Science**_ 2015
+> 原文：[A grad school survival guide](guide.md#a-grad-school-survival-guide), _**Science**_ 2015
 
 ***
 

@@ -3,8 +3,8 @@
 ## I. 科研方式
 
 {% hint style="success" %}
-* [**A grad school survival guide**](https://www.science.org/doi/10.1126/science.347.6228.1386)**,&#x20;**_**Science**_**&#x20;2015（**[**PDF**](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)**）** &#x20;
-* [**研究生生存指南**](faq/guide-to-graduates-yan-jiu-sheng-sheng-cun-zhi-nan.md)
+* [**研究生生存指南**](faq/guide.md)
+* [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide)**,&#x20;**_**Science**_**&#x20;2015（**[**PDF**](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)**）** &#x20;
 {% endhint %}
 
 {% embed url="https://www.science.org/doi/10.1126/science.347.6228.1386" %}
