@@ -3,13 +3,8 @@
 ## I. 科研方式
 
 {% hint style="success" %}
-* [**研究生生存指南**](faq/guide.md)
-* [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide)**,&#x20;**_**Science**_**&#x20;2015（**[**PDF**](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)**）** &#x20;
+[**研究生生存指南**](faq/guide.md)  [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide) &#x20;
 {% endhint %}
-
-{% embed url="https://www.science.org/doi/10.1126/science.347.6228.1386" %}
-
-
 
 ### 1) 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
