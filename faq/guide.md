@@ -8,6 +8,8 @@ hidden: true
 
 > 作者：Andrew Gaudet
 >
+> 打印版：[PDF](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/)
+>
 > 音频：[研究生生存指南.mp3](https://cloud.tsinghua.edu.cn/f/da01a0c322d241e5bd13/)
 >
 > 原文：[A grad school survival guide](guide.md#a-grad-school-survival-guide), _**Science**_ 2015
@@ -42,7 +44,7 @@ hidden: true
 
 Andrew Gaudet
 
-_**Science**_ 20 Mar 2015. Vol 347, Issue 6228p. 1386 [DOI: 10.1126/science.347.6228.1386](https://doi.org/10.1126/science.347.6228.1386)  ([**PDF**](https://cloud.tsinghua.edu.cn/f/0a0ece00e9df4ecc8c16/))
+_**Science**_ 20 Mar 2015. Vol 347, Issue 6228p. 1386 [DOI: 10.1126/science.347.6228.1386](https://doi.org/10.1126/science.347.6228.1386)
 
 Since becoming a postdoc, I've mentored several incoming graduate students. In doing so, I've reflected on my own scientific experiences studying spinal cord injury repair. I've compiled a short tutorial aimed at making the road to a Ph.D. less bumpy, with a focus on the day-to-day tasks that fill a graduate student's life, common hazards to avoid, and useful shortcuts you can take. These tips will help you build and maintain momentum and keep your projects moving forward. Think of it as a practical survival guide for graduate students.
 
