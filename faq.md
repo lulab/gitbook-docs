@@ -295,15 +295,15 @@
 
 目前实验室分校园网（外网：166.156.。。。）及内部网（172.22.220….）（每个座位都有标签标明外网、内网），对于校园网上网原则上使用个人帐号。 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
 
-### 3) How to remove cache of a redirect site?
+### 3) How to remove cache of a web page?
 
 有些时候实验室的域名更换了host的服务器，但是自己电脑cache里还是存的老服务器地址，造成一些链接没法访问，可以清除自己浏览器的cache，重新刷新一下。
 
-例如，Mac Chrome 可以如下配置：
+To refresh the cache in Chrome and hard reload a page, you can use the shortcut _**Ctrl+Shift+R**_ on Windows/Linux or _**Cmd+Shift+R**_ on Mac. This forces the browser to load the latest version of the page, ignoring cached data.&#x20;
 
-View --> Developer --> Developer Tools --> Settings (click upright corner)
+Alternatively, you can clear browsing data, including cache and cookies, by going to Chrome's **settings**, selecting "**Deleting browsing data**," and choosing the desired time range and data to remove.&#x20;
 
-check "_disable cache_"
+
 
 
 
