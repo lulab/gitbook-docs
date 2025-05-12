@@ -6,6 +6,11 @@
 [**研究生生存指南**](faq/guide.md)  [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide) &#x20;
 {% endhint %}
 
+{% hint style="success" %}
+Want to get great at something? **Get a coach !**   \
+[TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
+{% endhint %}
+
 ### 1) 科研中建议养成哪些好的习惯？ <a href="#habbit" id="habbit"></a>
 
 > "_What sculpture is to a block of marble, education is to a human soul._"  - Joseph Addison
@@ -46,11 +51,6 @@
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 >
 > **做好从本科生到研究生的角色转变，不能只知道“**<mark style="color:red;">**学习**</mark>**”，要侧重“**<mark style="color:red;">**研究**</mark>**”。**
->
-> {% hint style="success" %}
-> Want to get great at something? **Get a coach !**   \
-> [TED](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach) (16:36)   [Bilibili](https://www.bilibili.com/video/BV1Ts421A7w5/?share_source=copy_web\&vd_source=12856d51aaaa6bca0723a7ec5bd735c6) (2:50)
-> {% endhint %}
 
 * **科研生涯的四戒律**&#x20;
   * 1\. 边干边学，不要彷徨；&#x20;
