@@ -80,7 +80,7 @@ description: MethodcfRNA (cell-free RNA) is also called exRNA (extracellular RNA
 * **MNN**: **2017&#x20;**_**Nature Biotech.**_ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 * ✅ **Review**: **2017&#x20;**_**Nature Methods**_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
 
-## V. Origin of Tissue
+## V. Tissue of Origin
 
 * ✅ [**2024 Cell Genomics -**](https://doi.org/10.1016/j.xgen.2024.100522) Revealing the grammar of small RNA secretion
 * ✅ **Deconvolution**: **2022&#x20;**_**Nature Biotech.**_ - Cell types of origin of the cell-free transcriptome
