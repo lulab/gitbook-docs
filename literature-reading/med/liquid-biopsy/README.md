@@ -41,6 +41,8 @@
 
 ### cfRNA - cancer
 
+* [**2025 Nature** ](https://www.nature.com/articles/s41586-025-08834-1)_-_ An ultrasensitive method for detection of cell-free RNA
+* **2025 Genome Biology** - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
 * **2023 Nature BME** - Nature Profiling of repetitive RNA sequences in the blood plasma of patients with cancer
 * **2022 Cancer Cell** - Detection and localization of early- and late-stage cancers using platelet RNA
 * **2022 eLife** - Cancer type classification using plasma cell-free RNAs derived from human and microbes
@@ -151,7 +153,8 @@
   * _**2022 Genome Medicine**_ - RNA profiling of blood platelets noninvasively differentiates colorectal cancer from healthy donors and noncancerous intestinal diseases: a retrospective cohort study
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
-* **Small**
+* **Small/Frag.**
+  * ✨ **2025&#x20;**_**Genome Biology**_ - Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.&#x20;
   * ✨ **oncRNA: 2024 bioRxiv** - Systematic annotation of orphan RNAs reveals blood-accessible molecular barcodes of cancer identity and cancer-emergent oncogenic drivers
   * **unannotated exRNAs**: _**2021 GUT -**_ Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer
   * **small exosomal RNA:** _**2019 Molecular Cancer**_ - Exosomal tRNA-derived small RNA as a promising biomarker for cancer diagnosis
