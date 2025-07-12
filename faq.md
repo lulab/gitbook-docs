@@ -1,6 +1,6 @@
 # FAQ
 
-## I. 科研方式
+## I. 科研方法
 
 {% hint style="success" %}
 [**研究生生存指南**](faq/guide.md)  [**A grad school survival guide**](faq/guide.md#a-grad-school-survival-guide) &#x20;
@@ -83,7 +83,20 @@ Want to get great at something? **Get a coach !**   \
 
 
 
-### 4) 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
+### 4) 如何才能高效率地完成不喜欢的工作或学习任务？ <a href="#sci" id="sci"></a>
+
+"绝招只有一个：不要过度准备，**先随便开个头**。\
+人的大脑很奇怪，工作的压力越大，大脑越会找借口去拖延。有时候大脑告诉你，这么难的工作，还是上网查一下资料吧，还是找找相似案例吧，你会误以为自己在做必要准备，其实是大脑在帮你逃避压力。你信了它的，就会把时间浪费到刷网页上，随着期限越来越近，你就越来越紧张，反而会更加拖延。\
+很多人给自己打气的方式是告诉自己这项工作非常重要，一定要认真对待。这么做，一定会起反作用的！你要相信，人从来都不是理性驱动的生物，与其依赖自己的意志力，不如顺应自己的天性。人的天性是什么？追求安逸和轻松啊。多数人都有拖延症，但我没见过一个玩游戏，吃好吃的拖延的！我们要顺应天性，就不要把工作想得那么沉重。做不到像对待游戏机那样喜爱工作，也一定要控制自己，不要把思维聚焦到压力上，而是要轻视它。\
+你就这么想，我先随便开个头再说吧。其实一起头你就会发现，根本不像你想的那么痛苦，**很多时候你开了个头就刹不住了**，不知不觉就做完了。"
+
+作者：@苍泠\
+更多方法： [https://www.zhihu.com/question/50353727](https://www.zhihu.com/question/50353727)\
+
+
+## II. 科研实践
+
+### 0) 正式参与生物信息科研课题之前该做哪些准备？ <a href="#pre" id="pre"></a>
 
 \
 我们准备了一些可以参考和自学的材料，希望对大家有所帮助，为之后做科研实习甚至读博打好基础。
@@ -98,7 +111,7 @@ Want to get great at something? **Get a coach !**   \
 * 基本计算机课程：如《Linux》、《R》、《Python》等
 * 基本生物课程： 如《普通生物学》《遗传学》或《分子生物学》
 * 机器学习课程：如《机器学习》或《深度学习》
-* 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期），《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（研究生课-秋季学期）
+* 生物信息课程： 如《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期）
 
 > **清华大学Python 课程推荐 （三选一）：**
 >
@@ -124,9 +137,7 @@ Want to get great at something? **Get a coach !**   \
 \
 &#xNAN;**(c) 生物信息学的基本技能的学习**
 
-具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。
-
-该教材主要用于我给大家开的《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期）和《[生物信息学实践](https://www.ncrnalab.org/courses/#bioinfo2)》（研究生课-秋季学期），这两门课内容很相似，选修一门即可。
+具体可以参考我们的生物信息学教材：（ [https://bioinfo.gitbook.io/](https://bioinfo.gitbook.io/)）。该教材主要用于我给大家开的《[生物信息学](https://www.ncrnalab.org/courses/#bioinfo)》（本科生课-春季学期）。
 
 * 注意熟悉三个计算机技能：Linux, R, Python &#x20;
 * 有余力的话，还可以提前学习上述教材的PART I, II和III（不着急的话可以等入学后选修这门课）
@@ -134,13 +145,15 @@ Want to get great at something? **Get a coach !**   \
 
 
 
-### 5) 如何尽快融入到实验室的科研氛围中？
+
+
+### 1) 如何尽快融入到实验室的科研氛围中？
 
 > "_Study while others are sleeping; work while others are loafing; prepare while others are playing; dream while others are wishing._"  - William A. Ward
 
 要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
 
-### 6) 导师、同学、同事之间如何交流科研课题的进展？ <a href="#email" id="email"></a>
+### 2) 导师、同学、同事之间如何交流科研课题的进展？ <a href="#email" id="email"></a>
 
 > “_I cannot teach anybody anything; I can only make them think._" - Socrates
 
@@ -159,7 +172,7 @@ Want to get great at something? **Get a coach !**   \
 >
 > 李小粥@知乎
 
-### 7) 组会和课题讨论小组会之间的差别是什么？
+### 3) 组会和课题讨论小组会之间的差别是什么？
 
 * 课题讨论小组会的形式随意，主要以讨论结果和细节为目的。 不论本科生还是研究生，做研究主要包括三块，汇报也是这三块：
   * （1）文献调研结论（对一个科学问题或者技术的调研和理解）
@@ -173,7 +186,7 @@ Want to get great at something? **Get a coach !**   \
 
 
 
-## II. 实验室规范
+## III. 实验室规范
 
 ### 1) 如何作息规律且有效率？ <a href="#pre" id="pre"></a>
 
@@ -208,7 +221,7 @@ Want to get great at something? **Get a coach !**   \
 
 * 【基本要求】 遵守国家、学校和学院的作息和放假规定，不随意不来实验室。
 * 【较高要求】 建议如下：
-  * 暑假1周左右，寒假2周左右（建议不连续长时间脱产，否则假期后要很长时间才能恢复工作状态）；
+  * 暑假1-2周左右，寒假1-2周左右（建议不连续长时间脱产，否则假期后要很长时间才能恢复工作状态）；
   * 五一、十一休息一半左右的天数；
   * 有特殊需求的，上述天数可以改为年假平常修。
 * 注意同一课题不同人员错峰（最好保证实验室同一课题最多只有除夕到初三的四天没有人）。
@@ -229,7 +242,7 @@ Want to get great at something? **Get a coach !**   \
 * 如果只是短暂离开几个小时，可以不用请假;
 * 如遇到疫情封控、天灾等不可抗力，上述规定根据具体情况具体调整。 &#x20;
 
-## III. 生活和财务
+## IV. 生活和财务
 
 ### 1) 校园内有哪些餐厅可以用支付宝和微信支付？ <a href="#eat" id="eat"></a>
 
@@ -266,7 +279,7 @@ Want to get great at something? **Get a coach !**   \
 > * 纳税人识别号：12100000400000624D
 > * 其他（地址、电话、开户行及账号等）：**不要填，一定空着**
 
-## IV. 办公硬件和软件
+## V. 办公硬件和软件
 
 ### 1) 科研办公中的个人硬件如何购买？
 
@@ -285,7 +298,7 @@ Want to get great at something? **Get a coach !**   \
 
 **see** [**Tips for paper reading - Literature Search**](literature-reading/reading.md#tips-for-literature-search)**.**
 
-## V. 网络和数据
+## VI. 网络和数据
 
 ### 1) 我们要经常备份数据吗？
 
@@ -307,7 +320,7 @@ Alternatively, you can clear browsing data, including cache and cookies, by goin
 
 
 
-## VI. 远程工作
+## VII. 远程工作
 
 ### 1) 需要下载论文或者登录校园网，如何连接清华VPN?
 
