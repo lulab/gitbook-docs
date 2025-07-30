@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home - Lab Guide](README.md)
+* [Old Docs of Lu Lab @ Gitbook (Archived)](README.md)
 * [Our Mission](our-mission.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
