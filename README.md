@@ -16,7 +16,7 @@ description: 实验室指南
 
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/04a0915c832a40c38f74/)
 * [Lab Meetings](meeting.md)  &  [Lab Calendar](cal.md)
-* [FAQ](faq.md)&#x20;
+* [FAQ](faq/)&#x20;
   * [清华校园实用信息](https://www.tsinghua.edu.cn/zjqh/syxx.htm) （ [校历](https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm)，[地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm) ，... )
 
 ### 📖 Learning <a href="#learning" id="learning"></a>
@@ -25,7 +25,7 @@ description: 实验室指南
 >
 > "_Tell me and I forget. Teach me and I remember. Involve me and I learn._"  - Benjamin Franklin
 
-* [正式参与生物信息科研课题之前该做哪些准备？](faq.md#pre)（包括预修课推荐等）
+* [正式参与生物信息科研课题之前该做哪些准备？](faq/#pre)（包括预修课推荐等）
 * [Courses](https://www.ncrnalab.org/courses) @Tsinghua - [Bioinformatics Tutorial _by Lu Lab_](https://book.ncrnalab.org/teaching)
 * [Tips for Literature Reading](literature-reading/reading.md)
   * [More Tips for Research](https://www.yinxiang.com/everhub/personal/336255) @_everhub_ &#x20;

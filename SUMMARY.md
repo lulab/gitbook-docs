@@ -4,7 +4,7 @@
 * [Our Mission](our-mission.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
-* [FAQ](faq.md)
+* [FAQ](faq/README.md)
   * [Guide](faq/guide.md)
 
 ## Literature Reading

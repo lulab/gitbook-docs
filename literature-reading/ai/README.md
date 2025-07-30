@@ -24,5 +24,5 @@ description: Literature, Course and Book Recommendations
 
 **4 steps of Machine Learning**
 
-![4 steps in Machine Learning](../../.gitbook/assets/machine-learning-steps.png)
+![4 steps in Machine Learning](<../../.gitbook/assets/machine learning steps.png>)
 
