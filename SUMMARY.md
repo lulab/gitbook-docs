@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Old Docs of Lu Lab @ Gitbook (Archived)](README.md)
+* [Old Docs of Lu Lab @ Gitbook (Archived on July 30th, 2025)](README.md)
 * [Our Mission](our-mission.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
