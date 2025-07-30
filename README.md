@@ -1,8 +1,8 @@
 ---
-description: 实验室指南
+description: 实验室指南 - (Archived on July 30th, 2025)
 ---
 
-# Home - Lab Guide
+# Archived Docs of Lu Lab @ Gitbook
 
 ## <mark style="color:blue;">I. Start in Lu Lab</mark>
 
