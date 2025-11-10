@@ -6,11 +6,11 @@ description: 实验室指南 - (Archived on July 30th, 2025)
 
 ***
 
-## <mark style="color:blue;">Please visit the new site of Lu Lab Docs at</mark>
+## <mark style="color:red;">Please visit the new site of Lu Lab Docs at</mark>
 
 {% embed url="http://docs.ncrnalab.org" %}
 
-## The following are deprecated:
+## <mark style="color:red;">The following are deprecated:</mark>
 
 ## <mark style="color:blue;">I. Start in Lu Lab</mark>
 
