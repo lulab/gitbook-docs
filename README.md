@@ -8,7 +8,7 @@ description: 实验室指南 - (Archived on July 30th, 2025)
 
 ## <mark style="color:red;">Please visit the new site of Lu Lab Docs at</mark>
 
-{% embed url="http://docs.ncrnalab.org" %}
+{% embed url="http://lulab.life.tsinghua.edu.cn/docs" %}
 
 ## <mark style="color:red;">The following are deprecated:</mark>
 
