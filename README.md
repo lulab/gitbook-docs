@@ -4,6 +4,14 @@ description: 实验室指南 - (Archived on July 30th, 2025)
 
 # Archived Docs of Lu Lab @ Gitbook
 
+***
+
+## <mark style="color:blue;">Please visit the new site of Lu Lab Docs at</mark>
+
+{% embed url="http://docs.ncrnalab.org" %}
+
+## The following are deprecated:
+
 ## <mark style="color:blue;">I. Start in Lu Lab</mark>
 
 ### ❤️ [Our Mission](our-mission.md)
@@ -101,3 +109,4 @@ description: 实验室指南 - (Archived on July 30th, 2025)
 > * Courses:  [courses.ncRNAlab.org](http://www.ncrnalab.org/courses)
 > * Books: [book.ncRNAlab.org](https://book.ncrnalab.org) ( [bioinfo.gitbook.io](https://bioinfo.gitbook.io) )&#x20;
 > * Docs: [docs.ncRNAlab.org](https://docs.ncrnalab.org)  ( [lulab.gitbook.io](http://lulab.gitbook.io)  |  [lulab.github.io](http://lulab.github.io) )
+
