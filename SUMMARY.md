@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Archived Docs of Lu Lab @ Gitbook](README.md)
+* [Startup](startup.md)
 * [Our Mission](our-mission.md)
 * [Lab Meetings](meeting.md)
 * [Lab Calendar](cal.md)
