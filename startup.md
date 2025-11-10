@@ -6,7 +6,9 @@
 
 ## <mark style="color:red;">This site and all the following context are deprecated !!!</mark>
 
-
+{% hint style="danger" %}
+## <mark style="color:red;">This site and all the context inside are deprecated !!!</mark>
+{% endhint %}
 
 ## <mark style="color:blue;">I. Start in Lu Lab</mark>
 
