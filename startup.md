@@ -4,7 +4,7 @@
 
 {% embed url="http://lulab.life.tsinghua.edu.cn/docs" %}
 
-## <mark style="color:red;">The following are deprecated:</mark>
+## <mark style="color:red;">This site and all the following context are deprecated !!!</mark>
 
 
 
